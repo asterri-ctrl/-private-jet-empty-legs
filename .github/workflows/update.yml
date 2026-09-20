@@ -4,6 +4,13 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
+  push:
+    branches: [main]
+    paths:
+      - "generate.py"
+      - "config.yaml"
+      - "requirements.txt"
+      - ".github/workflows/update.yml"
 
 permissions:
   contents: write
