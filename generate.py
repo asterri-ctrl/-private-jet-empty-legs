@@ -162,47 +162,59 @@ def source_jetfly(cfg: dict) -> list[Leg]:
     raw = get(cfg["url"]).text
     soup = BeautifulSoup(raw, "html.parser")
     app = soup.find(id="app")
-    embedded = []
-    if app and app.get("data-page"):
-        try:
-            page = json.loads(app.get("data-page"))
-            embedded = page.get("props", {}).get("emptyLegs", []) or []
-            if embedded:
-                print("jetfly first item:", json.dumps(embedded[0], ensure_ascii=False))
-        except Exception as e:
-            print(f"Jetfly embedded JSON parse failed: {e}", file=sys.stderr)
-    text = soup.get_text(" ", strip=True)
-    date_pat = re.compile(r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b")
-    matches = list(date_pat.finditer(text))
+    if not app or not app.get("data-page"):
+        raise ValueError("Jetfly page did not contain embedded empty-leg data")
+
+    page = json.loads(app.get("data-page"))
+    items = page.get("props", {}).get("emptyLegs", []) or []
     out: list[Leg] = []
-    block_pat = re.compile(
-        r"\b(PC-12|PC-24)\b\s+(\d{1,2}:\d{2})\s+(.+?)\s+(\d{1,2}:\d{2})\s+(.+?)(?=(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\b|\bPC-(?:12|24)\b|$)",
-        re.I
-    )
-    for i, dm in enumerate(matches):
-        day, month, year = int(dm.group(1)), MONTHS[dm.group(2).lower()], int(dm.group(3))
-        d = dt.date(year, month, day)
-        segment = text[dm.end() : matches[i+1].start() if i+1 < len(matches) else len(text)]
-        for m in block_pat.finditer(segment):
-            aircraft, dep_s, origin, arr_s, dest = m.groups()
-            origin = re.sub(r"\s+", " ", origin).strip(" -–,")
-            dest = re.sub(r"\s+", " ", dest).strip(" -–,")
-            dest = re.split(r"\s+(?:Sunday|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday)\b", dest)[0].strip()
-            tzname = JETFLY_TZ.get(origin.lower(), "Europe/Zurich")
-            tz = ZoneInfo(tzname)
-            dep = dt.datetime.combine(d, dt.time.fromisoformat(dep_s), tzinfo=tz)
-            arr_local = dt.datetime.combine(d, dt.time.fromisoformat(arr_s), tzinfo=ZoneInfo(JETFLY_TZ.get(dest.lower(), tzname)))
-            if arr_local.astimezone(dt.timezone.utc) <= dep.astimezone(dt.timezone.utc):
-                arr_local += dt.timedelta(days=1)
+
+    for item in items:
+        try:
+            dep_airport = item.get("departureAirport") or {}
+            arr_airport = item.get("arrivalAirport") or {}
+            aircraft = item.get("aircraft") or {}
+            aircraft_type = aircraft.get("aircraftType") or {}
+
+            dep = dateparser.isoparse(item["departureDateLocal"])
+            arr = dateparser.isoparse(item["arrivalDateLocal"])
+            ac_code = (aircraft_type.get("icaoCode") or "").upper()
+            ac_name = {"PC12": "PC-12", "PC24": "PC-24"}.get(ac_code, ac_code or "Jetfly aircraft")
+
+            origin = dep_airport.get("icaoCode") or dep_airport.get("servedCityOrName") or dep_airport.get("name") or "Unknown"
+            destination = arr_airport.get("icaoCode") or arr_airport.get("servedCityOrName") or arr_airport.get("name") or "Unknown"
+            origin_name = dep_airport.get("servedCityOrName") or dep_airport.get("servedCity") or dep_airport.get("name") or origin
+            destination_name = arr_airport.get("servedCityOrName") or arr_airport.get("servedCity") or arr_airport.get("name") or destination
+            country_from = ((dep_airport.get("country") or {}).get("isoCode") or "").upper()
+            country_to = ((arr_airport.get("country") or {}).get("isoCode") or "").upper()
+            registration = aircraft.get("registrationNumber") or ""
+
+            desc = "Jetfly/Fly7 published empty leg."
+            if registration:
+                desc += f" Aircraft registration: {registration}."
+            desc += " Confirm live availability directly with Jetfly."
+
             out.append(Leg(
-                source="Jetfly", origin=origin, destination=dest, origin_name=origin, destination_name=dest,
-                start=dep.astimezone(dt.timezone.utc), end=arr_local.astimezone(dt.timezone.utc), aircraft=aircraft.upper(),
-                booking_url=cfg["url"], description="Jetfly empty leg. Confirm availability directly with Jetfly.", exact_time=True
+                source="Jetfly",
+                origin=origin,
+                destination=destination,
+                origin_name=origin_name,
+                destination_name=destination_name,
+                country_from=country_from,
+                country_to=country_to,
+                start=dep,
+                end=arr,
+                aircraft=ac_name,
+                booking_url=cfg["url"],
+                description=desc,
+                source_uid=f"jetfly-{item.get('id', hashlib.sha1(str(item).encode()).hexdigest())}@emptylegs.local",
+                exact_time=True,
             ))
-    if not out:
-        print("jetfly debug text:", text[:1200].replace("\\n", " "))
-        print("jetfly debug html:", raw[:3500].replace("\\n", " "))
+        except Exception as e:
+            print(f"Jetfly item skipped: {e}", file=sys.stderr)
+
     return out
+
 
 
 def infer_year(month: int, day: int) -> int:
@@ -301,10 +313,7 @@ def source_albajet(cfg: dict) -> list[Leg]:
             ))
             found += 1
 
-        print(f"albajet page {p}: {found} rows")
         if found == 0:
-            pos = text.find("Available From")
-            print("albajet debug:", text[max(0, pos-500):pos+1200] if pos >= 0 else text[:1700])
             break
     return out
 
