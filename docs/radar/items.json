@@ -1,125 +1,170 @@
 {
-  "updated_at": "2026-09-20T10:37:29.105297+00:00",
+  "updated_at": "2026-09-20T10:42:55.819636+00:00",
   "items": [
     {
       "category": "EU tech sovereignty",
+      "section": "Regulation",
       "title": "Commission welcomes the design of first Important Project of Common European Interest in AI - EU Digital Strategy",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5",
       "published": "2026-09-16T14:52:09+00:00",
       "source": "EU Digital Strategy",
-      "summary": "Commission welcomes the design of first Important Project of Common European Interest in AI EU Digital Strategy"
+      "summary": "Commission welcomes the design of first Important Project of Common European Interest in AI EU Digital Strategy",
+      "score": 8,
+      "why": "Policy / sovereignty"
     },
     {
       "category": "Fibre and connectivity",
+      "section": "Telecom",
       "title": "EXA Announces new Transatlantic Subsea Cable—Meridian - Submarine Networks",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXp0NGxVNzJTbXJSb05yanZEZTNZcXhnN3VBdUNqSkdKaUlCa1lsVVJyWnNiV2FFQXhtem1YUU1VVU9LN09CUUtGMjd2bGhTMDJ3N01mcjJLOEZrS0F0Q0o3emxhMk9aNTJfbVFYc3NZdUhHZThkLTIzaTB5Z3ZLbVVka0Z5YU5id0hXelRRQVJHWUVCODM4bWJqeXlKSHZIQmRzT05MdDZkeUVRZDhkUWU4cGE2V2lzeDVtQUZaUQ?oc=5",
       "published": "2026-09-16T14:41:17+00:00",
       "source": "Submarine Networks",
-      "summary": "EXA Announces new Transatlantic Subsea Cable—Meridian Submarine Networks"
+      "summary": "EXA Announces new Transatlantic Subsea Cable—Meridian Submarine Networks",
+      "score": 14,
+      "why": "Connectivity demand / network"
     },
     {
       "category": "Operators",
+      "section": "Telecom",
       "title": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5",
       "published": "2026-09-14T15:09:30+00:00",
       "source": "WebWire",
-      "summary": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces WebWire"
+      "summary": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces WebWire",
+      "score": 14,
+      "why": "Direct Telenor relevance"
     },
     {
       "category": "Operators",
-      "title": "Telenor adds Denmark to its growing list of defence customers - Telecoms",
+      "section": "Telecom",
+      "title": "Telenor adds Denmark to its growing list of defence customers - telecoms.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5",
       "published": "2026-09-10T12:54:29+00:00",
-      "source": "Telecoms",
-      "summary": "Telenor adds Denmark to its growing list of defence customers Telecoms"
+      "source": "telecoms.com",
+      "summary": "Telenor adds Denmark to its growing list of defence customers telecoms.com",
+      "score": 12,
+      "why": "Direct Telenor relevance"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "Google to Invest €13 Billion in Finland AI Infrastructure - thelec.net",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NcTluNk9Ianc2WmU1a2FuYlgzaXZ5aERXaU9YNEpPNHM2MW03alBkQUVnVllOUXlKWTdfRGRkckh1dENUWUlTY1ItUm5pTXhnTkwtQVJOSHlSYWFxUllha1dWS1BLaWc?oc=5",
       "published": "2026-09-10T07:49:21+00:00",
       "source": "thelec.net",
-      "summary": "Google to Invest €13 Billion in Finland AI Infrastructure thelec.net"
+      "summary": "Google to Invest €13 Billion in Finland AI Infrastructure thelec.net",
+      "score": 20,
+      "why": "AI / datacentre demand"
     },
     {
       "category": "Operators",
+      "section": "Telecom",
       "title": "GlobalConnect upgrades digital infrastructure in Southwest Finland - Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTh4bDJjUDk2c2hYdEpkcFZkbDRIMGZ0cERNQ2VURGVwSTZSU0syZXk5NXlQMHZxRlB0X3Q3dkNBSVlxei1Jb3cwQnBWdWsxZWNwb1c5ZlA5RTZHdm9uTGhhbkIwamd4Y1FUUXhSalE5NTMwM0JRY2s1QW1VU0gwVVhtb3diQ292UFpaX3VuMUdTbGU0SnR4ZHdWcTJUWlB2M2NKczh0dll1LWlkc2c?oc=5",
       "published": "2026-09-09T10:05:30+00:00",
       "source": "Telecompaper",
-      "summary": "GlobalConnect upgrades digital infrastructure in Southwest Finland Telecompaper"
+      "summary": "GlobalConnect upgrades digital infrastructure in Southwest Finland Telecompaper",
+      "score": 6,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
       "published": "2026-09-09T07:00:00+00:00",
       "source": "Reuters",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland Reuters"
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland Reuters",
+      "score": 24,
+      "why": "AI / datacentre demand"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "Twelve countries including France, UK to sanction trade with Israeli settlements - Taipei Times",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zd0tVUjJ5cFExdXV1Tkhsa1lvclFVYmdaQ2FYU2t5ZE9kRlBiTTl3bXRoVzdlRTgyZmlpMDkzSWFicHp5X2VlSTJBTU5DVXlxWUFhN2lGLWJydF9VY1dQQ1p3enMtZVBGRkxiZXl6SkR1dVlObjBCZg?oc=5",
       "published": "2026-09-09T07:00:00+00:00",
       "source": "Taipei Times",
-      "summary": "Twelve countries including France, UK to sanction trade with Israeli settlements Taipei Times"
+      "summary": "Twelve countries including France, UK to sanction trade with Israeli settlements Taipei Times",
+      "score": 0,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Nordic AI infrastructure",
-      "title": "Denmark’s Queen Margrethe II hospitalized due to blood clot - icenews.is",
+      "section": "AI / DC",
+      "title": "Denmark’s Queen Margrethe II hospitalized due to blood clot - IceNews - Daily News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2tHTU5IaXlSQ3FGellaZ0hFaTNVU2pmX0E3X1NmM2U4cmVxMjlHOFNnejRSdlZTMnNxMUdzSGN2YjNwQXE5M1ROQVNKclQ4YmNBUDNjbDhDRzlMWjJidEk1WWRiMU10LVVGaFp3WDlMRF9aZGxFajhpazgxcnFnQ05NX2RodzJzNXdKN05vRENaZW8?oc=5",
       "published": "2026-09-08T07:00:00+00:00",
-      "source": "icenews.is",
-      "summary": "Denmark’s Queen Margrethe II hospitalized due to blood clot icenews.is"
+      "source": "IceNews - Daily News",
+      "summary": "Denmark’s Queen Margrethe II hospitalized due to blood clot IceNews - Daily News",
+      "score": 0,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Operators",
+      "section": "Telecom",
       "title": "Telia Company stock holds steady as investors look to Swedish telecom fundamentals - AD HOC NEWS",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHVqRzFtb25jb2tJd184Mm16X3ZnUkFmdUFNRzZYT01UU2c1dGpOQktvWThiYUJUWGJqQjdIMXkxb0xrYXRUTTAzMnl0eEgtTjFEYXhmSkJOR0FPX21sWE9SYkFZMHV5SnJuLWljWjR2VFlrbzJKTGYtc0xCT0U3ZTBUVlFRdzJxWlVFeDZDbVRFRXZZQWwwTFMyTVVuTWFkSVdmT0RULWlncEdDZG5CRDQtUWtMRFlIZ1p1NEluYnc5MEh6RTh2cTNETHY?oc=5",
       "published": "2026-09-04T16:10:20+00:00",
       "source": "AD HOC NEWS",
-      "summary": "Telia Company stock holds steady as investors look to Swedish telecom fundamentals AD HOC NEWS"
+      "summary": "Telia Company stock holds steady as investors look to Swedish telecom fundamentals AD HOC NEWS",
+      "score": 6,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "Equinix & CPP close acquisition of atNorth - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FUblZ0Wl9ERGlUd0J6elZXRjdZR1Y2OUROc2FmVkhiN25ZZzU0NTRTcklCd2tDLURTT210Z2ozSXJFMWN1MkxSZDY0MW1aWExGT2VJMHl5Y2NUOW5BSHJSVlE4aUZBSTJpbnU5b2k3ekdEb0dHNy1aWkxsdWt2S2FkbFJQMTNnUVJTZw?oc=5",
       "published": "2026-09-04T07:00:00+00:00",
       "source": "Data Center Dynamics",
-      "summary": "Equinix & CPP close acquisition of atNorth Data Center Dynamics"
+      "summary": "Equinix & CPP close acquisition of atNorth Data Center Dynamics",
+      "score": 28,
+      "why": "Market structure / M&A"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "Bull selected to deliver AMD-powered Lumi-AI supercomputer - Data Center Dynamics",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1dhdFNRQVc5ZlgwVWRzQk5yc2xncGRQd0M3cE4xcE9NaXdadERSRldsZnNtZHVsdzVINUpFWWxuZEdHa3ZfampMRFFtVjhEbTVGMEN4Y0RLZU9kdHdsTTJVaUNabG91ckJTUEtzaWZkOUtlaURCYzFEVWxmRnhqcU9wYTBfRGp0NWpKdlE0enVtbElvZEo4aUl5YWFxdjR4MVNSYQ?oc=5",
       "published": "2026-09-03T07:00:00+00:00",
       "source": "Data Center Dynamics",
-      "summary": "Bull selected to deliver AMD-powered Lumi-AI supercomputer Data Center Dynamics"
+      "summary": "Bull selected to deliver AMD-powered Lumi-AI supercomputer Data Center Dynamics",
+      "score": 6,
+      "why": "AI / datacentre demand"
     },
     {
       "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
       "title": "CPP Investments, Equinix Close $4B atNorth Deal as Partners Group Keeps 10% - Unite.AI",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzBYanhsTmotckNDalVuc2ZLaHpibzRqSzRpeEVYOGxQRG5mTjd5QTNvMGlkYW1jVTJoZ1Z6Q0x3X3pHUUtBN2pwX0JvSXYwejZCQWQ0NEx3ZTZyaWRQWXRhRk8wM0ktQzVXWEJLQ2VWUlQteWFYOTRpWVdIenFsTTlrekhoQk90c1ZlYlRWRWVEWGx6a29Gd3h3?oc=5",
       "published": "2026-09-02T07:00:00+00:00",
       "source": "Unite.AI",
-      "summary": "CPP Investments, Equinix Close $4B atNorth Deal as Partners Group Keeps 10% Unite.AI"
+      "summary": "CPP Investments, Equinix Close $4B atNorth Deal as Partners Group Keeps 10% Unite.AI",
+      "score": 19,
+      "why": "Capacity / investment signal"
     },
     {
       "category": "Fibre and connectivity",
-      "title": "LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region - prnewswire.com",
+      "section": "Telecom",
+      "title": "LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region - PR Newswire",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ04xR003bnFVcFZYNHROMUxTQUhBRmhJczBqZXhCWWFXUVlvcDByUWlnY3pHS09pS3B0am53ZTBaZDVNcElteXBsWFpkNk9hWnNtWUVtOWs1d1NIQUFueG9BUVdMUDZZZ3drcXNFNlNhUk9EQjlIdlF0bDU3b1NCWm95T05mRkJqb1BGbkJEY1R6bTVPN3o2ejc4eER3Z1o3dkl2eFdBTmNHcjFYWXRTVGFTOFNLeUpXNWRZSTJhMWRlcjVnNW1aSGpuWnFUa1FrcVI5Y0xsVzhOYThXSmRtakNaTTR4SDRYTDk2ZDh2bzFjSW1hQXh3?oc=5",
       "published": "2026-09-01T07:00:00+00:00",
-      "source": "prnewswire.com",
-      "summary": "LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region prnewswire.com"
+      "source": "PR Newswire",
+      "summary": "LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region PR Newswire",
+      "score": 8,
+      "why": "Connectivity demand / network"
     },
     {
       "category": "EU tech sovereignty",
+      "section": "Regulation",
       "title": "Executive Vice-President Virkkunen in the US for G20 Ministerial meetings - EU Digital Strategy",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVNxTVlWQ2hvTkVUV3N4c0hRc3NndFFaeUJCVURTT2ZaWl9Icm1pdkktVWlMVFR6bkhNZzlqNVNFaThHUzctcHU5ZkNhbUxydFJ1RHpoM1pGOGJ2ZkM4WUNrbUR3d3JPaGpiQWVLRWJCWUNJOVFDWi1fN1dKQ2xXS0ZWRlZMUWgxSEtBZEV4SHVNNHZsUDduZkUzUlVqNHU4TXZKYTVpeDQxYkRX?oc=5",
       "published": "2026-08-31T07:00:00+00:00",
       "source": "EU Digital Strategy",
-      "summary": "Executive Vice-President Virkkunen in the US for G20 Ministerial meetings EU Digital Strategy"
+      "summary": "Executive Vice-President Virkkunen in the US for G20 Ministerial meetings EU Digital Strategy",
+      "score": 4,
+      "why": "Policy / sovereignty"
     }
   ]
 }
