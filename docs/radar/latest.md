@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-20 10:27 UTC · public web sources only_
+_Updated 2026-09-20 10:29 UTC · public web sources only_
 
 ## EU tech sovereignty
 
