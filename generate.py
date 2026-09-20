@@ -158,7 +158,8 @@ def source_globeair(cfg: dict) -> list[Leg]:
 
 
 def source_jetfly(cfg: dict) -> list[Leg]:
-    text = BeautifulSoup(get(cfg["url"]).text, "html.parser").get_text(" ", strip=True)
+    raw = get(cfg["url"]).text
+    text = BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
     date_pat = re.compile(r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b")
     matches = list(date_pat.finditer(text))
     out: list[Leg] = []
@@ -187,7 +188,8 @@ def source_jetfly(cfg: dict) -> list[Leg]:
                 booking_url=cfg["url"], description="Jetfly empty leg. Confirm availability directly with Jetfly.", exact_time=True
             ))
     if not out:
-        print("jetfly debug:", text[:1200].replace("\\n", " "))
+        print("jetfly debug text:", text[:1200].replace("\\n", " "))
+        print("jetfly debug html:", raw[:3500].replace("\\n", " "))
     return out
 
 
@@ -289,7 +291,8 @@ def source_albajet(cfg: dict) -> list[Leg]:
 
         print(f"albajet page {p}: {found} rows")
         if found == 0:
-            print("albajet debug:", text[:1200])
+            pos = text.find("Available From")
+            print("albajet debug:", text[max(0, pos-500):pos+1200] if pos >= 0 else text[:1700])
             break
     return out
 
