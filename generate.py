@@ -424,20 +424,56 @@ def event_lines(leg: Leg, now: dt.datetime) -> list[str]:
     return [x for x in lines if x]
 
 
-def write_calendar(legs: list[Leg], cfg: dict) -> None:
+def write_calendar(legs: list[Leg], cfg: dict, output: Path = OUTPUT, name: str | None = None) -> None:
     now = dt.datetime.now(dt.timezone.utc)
-    name = cfg["calendar"].get("name", "Private Jet Empty Legs")
+    cal_name = name or cfg["calendar"].get("name", "Private Jet Empty Legs")
     lines = [
         "BEGIN:VCALENDAR", "VERSION:2.0", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
-        "PRODID:-//EmptyLegCalendar//EN", f"X-WR-CALNAME:{esc(name)}",
+        "PRODID:-//EmptyLegCalendar//EN", f"X-WR-CALNAME:{esc(cal_name)}",
         f"X-PUBLISHED-TTL:PT{int(cfg['calendar'].get('refresh_minutes',30))}M",
         f"REFRESH-INTERVAL;VALUE=DURATION:PT{int(cfg['calendar'].get('refresh_minutes',30))}M",
     ]
     for leg in sorted(legs, key=lambda x: (x.date, x.origin, x.destination)):
         lines.extend(event_lines(leg, now))
     lines.append("END:VCALENDAR")
-    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
-    OUTPUT.write_text("\r\n".join(fold(x) for x in lines) + "\r\n", encoding="utf-8")
+    output.parent.mkdir(parents=True, exist_ok=True)
+    output.write_text("\r\n".join(fold(x) for x in lines) + "\r\n", encoding="utf-8")
+
+
+def _touches_prefix(leg: Leg, prefixes: tuple[str, ...]) -> bool:
+    a, b = leg.origin.upper(), leg.destination.upper()
+    return any(a.startswith(p) or b.startswith(p) for p in prefixes)
+
+
+def build_special_feeds(legs: list[Leg], cfg: dict) -> dict[str, int]:
+    feeds: dict[str, tuple[str, list[Leg]]] = {}
+
+    norway = [x for x in legs if _touches_prefix(x, ("EN",))]
+    feeds["norway.ics"] = ("Empty Legs · Norway", norway)
+
+    nordics = [x for x in legs if _touches_prefix(x, ("EN", "ES", "EK", "EF", "BI"))]
+    feeds["nordics.ics"] = ("Empty Legs · Nordics", nordics)
+
+    bargains = [
+        x for x in legs
+        if x.currency == "EUR" and x.price is not None and x.price <= 3000
+    ]
+    feeds["bargains-under-3000.ics"] = ("Empty Legs · Europe ≤ €3k", bargains)
+
+    riviera_airports = {"LFMN", "LFMD", "LFTH", "LFTZ"}
+    south = [
+        x for x in legs
+        if _touches_prefix(x, ("LI", "LS", "LO"))
+        or x.origin.upper() in riviera_airports
+        or x.destination.upper() in riviera_airports
+    ]
+    feeds["riviera-italy-alps.ics"] = ("Empty Legs · Riviera / Italy / Alps", south)
+
+    counts: dict[str, int] = {}
+    for filename, (name, subset) in feeds.items():
+        write_calendar(subset, cfg, ROOT / "docs" / filename, name)
+        counts[filename] = len(subset)
+    return counts
 
 
 def main() -> int:
@@ -454,14 +490,19 @@ def main() -> int:
             all_legs.extend(legs)
         except Exception as e:
             print(f"{name}: FAILED: {e}", file=sys.stderr)
+
     all_legs = filter_legs(all_legs, cfg)
     all_legs = dedupe(all_legs)
     all_legs = sorted(all_legs, key=lambda x: (x.date, 0 if x.exact_time else 1, x.price if x.price is not None else 10**9))
     max_events = int(cfg["calendar"].get("max_events", 300))
     all_legs = all_legs[:max_events]
+
     write_calendar(all_legs, cfg)
     print(f"Wrote {len(all_legs)} events to {OUTPUT}")
+    for filename, count in build_special_feeds(all_legs, cfg).items():
+        print(f"Wrote {count} events to docs/{filename}")
     return 0
+
 
 if __name__ == "__main__":
     raise SystemExit(main())
