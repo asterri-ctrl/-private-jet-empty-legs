@@ -202,7 +202,8 @@ def write(items: list[dict]) -> None:
                 "<h2>" + html.escape(sec) + "</h2>" + "".join(card(x) for x in rows) + "</section>"
             )
 
-    page = """<!doctype html>
+    page = (
+        """<!doctype html>
 <html lang='en'>
 <head>
 <meta charset='utf-8'>
@@ -234,15 +235,20 @@ input{width:100%;border:1px solid var(--line);background:var(--panel);color:var(
 </head>
 <body><div class='wrap'>
 <header><div class='eyebrow'>Strategy intelligence</div><h1>Nordic Infrastructure Radar</h1>
-<div class='sub'>AI infrastructure · datacentres · connectivity · telecom · M&A · regulation<br>Updated """ + NOW.strftime("%d %b %Y · %H:%M UTC") + """</div>
+<div class='sub'>AI infrastructure · datacentres · connectivity · telecom · M&A · regulation<br>Updated """
+        + NOW.strftime("%d %b %Y · %H:%M UTC")
+        + """</div>
 <div class='links'><a href='./weekly.md'>7-day brief</a><a href='./latest.md'>Text view</a></div></header>
 <div class='controls'><input id='search' type='search' placeholder='Search Telenor, Google, atNorth, fibre…'>
 <div class='chips'><button class='chip active' data-filter='all'>All</button><button class='chip' data-filter='telenor'>Telenor relevance</button><button class='chip' data-filter='AI / DC'>AI / DC</button><button class='chip' data-filter='Telecom'>Telecom</button><button class='chip' data-filter='M&A'>M&A</button><button class='chip' data-filter='Regulation'>Regulation</button></div></div>
-<section class='filterable' data-group='all'><h2>Top signals</h2><div class='section-note'>Highest-signal developments across the radar right now.</div><div class='hero'>""" +
-"".join(card(x) for x in top_signals) + """</div></section>
-<section class='filterable' data-group='telenor'><h2>Telenor relevance</h2><div class='section-note'>Developments most likely to matter for Nordic connectivity, wholesale, AI/DC demand or competitive positioning.</div>""" +
-"".join(card(x, True) for x in telenor_items) + """</section>""" +
-"".join(section_html) + """
+<section class='filterable' data-group='all'><h2>Top signals</h2><div class='section-note'>Highest-signal developments across the radar right now.</div><div class='hero'>"""
+        + "".join(card(x) for x in top_signals)
+        + """</div></section>
+<section class='filterable' data-group='telenor'><h2>Telenor relevance</h2><div class='section-note'>Developments most likely to matter for Nordic connectivity, wholesale, AI/DC demand or competitive positioning.</div>"""
+        + "".join(card(x, True) for x in telenor_items)
+        + """</section>"""
+        + "".join(section_html)
+        + """
 </div>
 <script>
 const cards=[...document.querySelectorAll('.card')], sections=[...document.querySelectorAll('section')], chips=[...document.querySelectorAll('.chip')], search=document.getElementById('search');
@@ -255,6 +261,7 @@ function apply(){
 chips.forEach(b=>b.onclick=()=>{chips.forEach(x=>x.classList.remove('active'));b.classList.add('active');filter=b.dataset.filter;apply()});
 search.addEventListener('input',apply);
 </script></body></html>"""
+    )
 
     OUT_HTML.write_text(page, encoding="utf-8")
     OUT_HOME.write_text(
