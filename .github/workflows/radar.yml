@@ -11,6 +11,10 @@ on:
       - "requirements.txt"
       - ".github/workflows/radar.yml"
 
+concurrency:
+  group: repo-writer
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -34,5 +38,6 @@ jobs:
             echo "No changes"
           else
             git commit -m "Refresh Nordic infrastructure radar"
+            git pull --rebase origin main
             git push
           fi
