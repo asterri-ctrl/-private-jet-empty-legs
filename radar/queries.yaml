@@ -1,15 +1,27 @@
 queries:
   - name: Nordic AI infrastructure
-    query: '"AI infrastructure" OR "AI data center" OR "AI data centre" Norway Sweden Finland Denmark'
+    query: '"AI infrastructure" Norway Sweden Finland Denmark'
+  - name: Nordic AI infrastructure
+    query: '"AI data center" OR "AI data centre" Norway Sweden Finland Denmark'
   - name: Datacentres
-    query: 'data center OR data centre Norway Sweden Finland Denmark hyperscaler'
+    query: 'hyperscaler "data center" Norway Sweden Finland Denmark'
+  - name: Datacentres
+    query: 'hyperscaler "data centre" Norway Sweden Finland Denmark'
   - name: Fibre and connectivity
-    query: '"dark fiber" OR "dark fibre" OR "fiber corridor" OR "fibre corridor" Nordics'
+    query: '"dark fiber" Nordics OR Norway OR Sweden OR Finland OR Denmark'
+  - name: Fibre and connectivity
+    query: '"dark fibre" Nordics OR Norway OR Sweden OR Finland OR Denmark'
   - name: Operators
-    query: 'Telenor OR Telia OR Elisa OR "TDC NET" OR GlobalConnect infrastructure'
+    query: 'Telenor infrastructure network Norway Sweden Denmark Finland'
+  - name: Operators
+    query: 'Telia OR Elisa OR "TDC NET" OR GlobalConnect telecom infrastructure Nordics'
   - name: Telecom M&A
-    query: 'telecom M&A acquisition merger Nordics Telenor Telia Elisa GlobalConnect'
+    query: 'telecom acquisition merger Nordics Telenor Telia Elisa GlobalConnect'
   - name: GPU cloud and neocloud
-    query: 'GPU cloud OR neocloud Norway Sweden Finland Denmark'
+    query: '"GPU cloud" OR neocloud Norway Sweden Finland Denmark'
   - name: EU tech sovereignty
-    query: 'site:digital-strategy.ec.europa.eu "Tech Sovereignty" OR "Cloud and AI Development Act" OR "AI Gigafactories"'
+    query: 'site:digital-strategy.ec.europa.eu "European Tech Sovereignty"'
+  - name: EU tech sovereignty
+    query: 'site:digital-strategy.ec.europa.eu "Cloud and AI Development Act"'
+  - name: EU tech sovereignty
+    query: 'site:digital-strategy.ec.europa.eu "AI Gigafactories"'
