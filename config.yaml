@@ -17,7 +17,7 @@ sources:
     url: "https://www.privjet.net/en/empty-legs"
   albajet:
     enabled: true
-    url: "https://www.albajet.com/empty-leg-flights"
+    url: "https://static.albajet.com/empty-leg-flights"
     max_pages: 20
 
 filters:
