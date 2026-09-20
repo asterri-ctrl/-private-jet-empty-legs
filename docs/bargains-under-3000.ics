@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:49779ec44e8cb665390e437cfc7b869b030df1b6@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Dusseldorf → Bydgoszcz
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:41fbafc09569bfaa43e93b7305f221b93f27bb68@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Siegen → Leeds Bradford
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e4bc588da88ffc4fdc3957b9eb0b0bb4b8d5a16@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Nice → Linz
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b20d7afdcdf1454fd55264221dbb1fa051ad81@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Milan → Geneva
@@ -80,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e32a24f30bf3eecb60d5608edc615140b51079d@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260920T150000Z
 DTEND:20260920T155800Z
 SUMMARY:Milan → Geneva
@@ -103,7 +103,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0f9818abc09e8906371a1fb619328670249b1705@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Zurich → Rimini
@@ -121,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1e55f359713d36ec439e7293fa7132bb06d038@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260920T160500Z
 DTEND:20260920T174300Z
 SUMMARY:Nice → Linz
@@ -144,7 +144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cbdaa5f379ff8a6b00892adf8f1acab848f4a36@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260920T155000Z
 DTEND:20260920T180000Z
 SUMMARY:Siegen → Leeds Bradford
@@ -167,7 +167,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97f82b4b002067517629485307c09d4211d42cd6@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260921T093500Z
 DTEND:20260921T110000Z
 SUMMARY:Geneva → Paris
@@ -189,31 +189,54 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b7903085123796f8f9ab3d0287892880539b95ed@globeair.com
-DTSTAMP:20260920T113557Z
-DTSTART:20260921T105500Z
-DTEND:20260921T132600Z
-SUMMARY:Milan → St Brieuc
+UID:888dc6f39e71bafef055417439da6dd467624139@globeair.com
+DTSTAMP:20260920T120757Z
+DTSTART:20260921T070500Z
+DTEND:20260921T085900Z
+SUMMARY:Milan → Paris
 LOCATION:Milan
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LIN → SBK\nSource: GlobeAir\nOriginal price: €10
- \,850\nCurrent price: €1\,390 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC305W\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/b7903
- 085\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 151 minutes\nDistance: 529 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/b7903085\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/b7903085
+ 4 passengers\nAirports: LIN → LBG\nSource: GlobeAir\nOriginal price: €7\
+ ,800\nCurrent price: €1\,390 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC029W\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/888dc6
+ f3\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 114 minutes\nDistance: 349 miles\n\nContact us 24/7\nWhatsApp: 
+ https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
+ obeair.com\nBooking / source: https://fly.globeair.com/el/888dc6f3\nEmpt
+ y-leg schedules can change or disappear at short notice. Confirm with th
+ e operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/888dc6f3
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a735bb3a4dfc40cc09a99d304770a303c9b95219@globeair.com
+DTSTAMP:20260920T120757Z
+DTSTART:20260921T104400Z
+DTEND:20260921T133000Z
+SUMMARY:Linz → St Brieuc
+LOCATION:Linz
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LNZ → SBK\nSource: GlobeAir\nOriginal price: €13
+ \,100\nCurrent price: €1\,290 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC305W\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com
+ /el/a735bb3a\n\nPlease note: All empty leg flights are subject to schedu
+ le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
+ Total flight time: 166 minutes\nDistance: 678 miles\n\nContact us 24/7\n
+ WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
+ mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/a735
+ bb3a\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/a735bb3a
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e83d0f1b700260e4d99482dd524ac897b9d85e7@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Zurich → Dortmund
@@ -231,7 +254,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5311cac92e9b86876f5fb085a5d58b3eb5eda5b@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260921T104000Z
 DTEND:20260921T120100Z
 SUMMARY:Verona → Olbia
@@ -254,7 +277,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0ebe759c4bb368a2685e108debc54aff56d0ff1c@globeair.com
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART:20260921T054000Z
 DTEND:20260921T070600Z
 SUMMARY:Zurich → Dortmund
@@ -277,7 +300,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260920T113557Z
+DTSTAMP:20260920T120757Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
