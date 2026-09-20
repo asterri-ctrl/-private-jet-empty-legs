@@ -11,13 +11,13 @@ sources:
     url: "https://www.globeair.com/emptylegs/calendar"
   jetfly:
     enabled: true
-    url: "https://empty-legs.jetfly.com/"
+    url: "https://empty-legs.jetfly.com/watched"
   privjet:
     enabled: true
     url: "https://www.privjet.net/en/empty-legs"
   albajet:
     enabled: true
-    url: "https://static.albajet.com/empty-leg-flights"
+    url: "https://www.albajet.com/empty-leg-flights"
     max_pages: 20
 
 filters:
