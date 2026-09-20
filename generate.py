@@ -10,6 +10,7 @@ import dataclasses
 import datetime as dt
 import hashlib
 import html
+import json
 import os
 import re
 import sys
@@ -159,7 +160,18 @@ def source_globeair(cfg: dict) -> list[Leg]:
 
 def source_jetfly(cfg: dict) -> list[Leg]:
     raw = get(cfg["url"]).text
-    text = BeautifulSoup(raw, "html.parser").get_text(" ", strip=True)
+    soup = BeautifulSoup(raw, "html.parser")
+    app = soup.find(id="app")
+    embedded = []
+    if app and app.get("data-page"):
+        try:
+            page = json.loads(app.get("data-page"))
+            embedded = page.get("props", {}).get("emptyLegs", []) or []
+            if embedded:
+                print("jetfly first item:", json.dumps(embedded[0], ensure_ascii=False))
+        except Exception as e:
+            print(f"Jetfly embedded JSON parse failed: {e}", file=sys.stderr)
+    text = soup.get_text(" ", strip=True)
     date_pat = re.compile(r"\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b")
     matches = list(date_pat.finditer(text))
     out: list[Leg] = []
@@ -238,7 +250,7 @@ def source_albajet(cfg: dict) -> list[Leg]:
     base = cfg["url"]
     out: list[Leg] = []
     max_pages = int(cfg.get("max_pages", 20))
-    month_names = "January|February|March|April|May|June|July|August|September|October|November|December"
+    month_names = "Jan(?:uary)?|Feb(?:ruary)?|Mar(?:ch)?|Apr(?:il)?|May|Jun(?:e)?|Jul(?:y)?|Aug(?:ust)?|Sep(?:t(?:ember)?)?|Oct(?:ober)?|Nov(?:ember)?|Dec(?:ember)?"
     row_pat = re.compile(
         r"\b([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})\s+"
         r"([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})\s+"
@@ -266,8 +278,8 @@ def source_albajet(cfg: dict) -> list[Leg]:
                 d2_day, d2_month, d2_year,
                 aircraft, pax,
             ) = m.groups()
-            d1 = dt.date(int(d1_year), MONTHS[d1_month.lower()], int(d1_day))
-            d2 = dt.date(int(d2_year), MONTHS[d2_month.lower()], int(d2_day))
+            d1 = dateparser.parse(f"{d1_day} {d1_month} {d1_year}", dayfirst=True).date()
+            d2 = dateparser.parse(f"{d2_day} {d2_month} {d2_year}", dayfirst=True).date()
             out.append(Leg(
                 source="AlbaJet",
                 origin=origin.upper(),
