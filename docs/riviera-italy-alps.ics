@@ -1,0 +1,577 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//EmptyLegCalendar//EN
+X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
+X-PUBLISHED-TTL:PT30M
+REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:2e4bc588da88ffc4fdc3957b9eb0b0bb4b8d5a16@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Nice → Linz
+LOCATION:Nice
+DESCRIPTION:Price: €1\,692\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFMN → LOWL\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b20d7afdcdf1454fd55264221dbb1fa051ad81@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Milan → Geneva
+LOCATION:Milan
+DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIML → LSGG\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e32a24f30bf3eecb60d5608edc615140b51079d@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260920T150000Z
+DTEND:20260920T155800Z
+SUMMARY:Milan → Geneva
+LOCATION:Milan
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIN → GVA\nSource: GlobeAir\nOriginal price: €6\
+ ,400\nCurrent price: €1\,090 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC311A\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/6e32a2
+ 4f\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 58 minutes\nDistance: 140 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/6e32a24f\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/6e32a24f
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16141@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260920T140000Z
+DTEND:20260920T150000Z
+SUMMARY:Geneva → Hyeres
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-24\nAirports: LSGG → LFTH\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15982@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260920T165000Z
+DTEND:20260920T172500Z
+SUMMARY:Sion → Lausanne
+LOCATION:Sion
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGS → LSGL\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-SSS. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f9818abc09e8906371a1fb619328670249b1705@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:Zurich → Rimini
+LOCATION:Zurich
+DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LSZH → LIPR\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16144@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T073000Z
+DTEND:20260921T083000Z
+SUMMARY:Milano → Geneva
+LOCATION:Milano
+DESCRIPTION:Aircraft: PC-24\nAirports: LIML → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b7903085123796f8f9ab3d0287892880539b95ed@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T105500Z
+DTEND:20260921T132600Z
+SUMMARY:Milan → St Brieuc
+LOCATION:Milan
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIN → SBK\nSource: GlobeAir\nOriginal price: €10
+ \,850\nCurrent price: €1\,390 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC305W\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/b7903
+ 085\n\nPlease note: All empty leg flights are subject to schedule change
+ !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
+ ght time: 151 minutes\nDistance: 529 miles\n\nContact us 24/7\nWhatsApp:
+  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
+ lobeair.com\nBooking / source: https://fly.globeair.com/el/b7903085\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/b7903085
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d7785aa0eb0a58c149f28d4522bd88e34af3c0ab@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T144000Z
+DTEND:20260921T155500Z
+SUMMARY:Milan → Toulon
+LOCATION:Milan
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  LIN → TLN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 53%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15951@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T140000Z
+DTEND:20260921T150500Z
+SUMMARY:Salerno → Grosseto
+LOCATION:Salerno
+DESCRIPTION:Aircraft: PC-24\nAirports: LIRI → LIRS\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16109@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T130000Z
+DTEND:20260921T134500Z
+SUMMARY:Geneva → Bern
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-24\nAirports: LSGG → LSZB\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-DCC. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15952@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T121500Z
+DTEND:20260921T125000Z
+SUMMARY:Saanen → Lausanne
+LOCATION:Saanen
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGK → LSGL\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-MAN. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16081@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260921T060000Z
+DTEND:20260921T082000Z
+SUMMARY:Lausanne → Cagliari
+LOCATION:Lausanne
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGL → LIEE\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-PBL. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0e83d0f1b700260e4d99482dd524ac897b9d85e7@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Zurich → Dortmund
+LOCATION:Zurich
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LSZH → EDLW\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15980@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260922T123000Z
+DTEND:20260922T132000Z
+SUMMARY:Zurich → Geneva
+LOCATION:Zurich
+DESCRIPTION:Aircraft: PC-24\nAirports: LSZH → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16057@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260923T071000Z
+DTEND:20260923T081000Z
+SUMMARY:Paris → Geneva
+LOCATION:Paris
+DESCRIPTION:Aircraft: PC-24\nAirports: LFPB → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16104@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260923T043500Z
+DTEND:20260923T060000Z
+SUMMARY:Geneva → Bolzano
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LIPB\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-DBM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6624846b71b663b6681606f5ff5bb8a81a3c97f8@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T062400Z
+DTEND:20260924T073000Z
+SUMMARY:Badenbaden → Milan
+LOCATION:Badenbaden
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  FKB → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 20%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16052@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T115500Z
+DTEND:20260924T141500Z
+SUMMARY:Sofia → Bern
+LOCATION:Sofia
+DESCRIPTION:Aircraft: PC-24\nAirports: LBSF → LSZB\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-DCC. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6e3b9b4a915044b8a3dbadb784406d5f02daac53@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T131300Z
+DTEND:20260924T140500Z
+SUMMARY:Liege → Lille
+LOCATION:Liege
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  LGG → LIL\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 23%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16099@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T070000Z
+DTEND:20260924T084500Z
+SUMMARY:Roma → Hyeres
+LOCATION:Roma
+DESCRIPTION:Aircraft: PC-12\nAirports: LIRU → LFTH\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-JFM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16053@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T051500Z
+DTEND:20260924T081500Z
+SUMMARY:Geneva → Athens
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-24\nAirports: LSGG → LGAV\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16054@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T122500Z
+DTEND:20260924T130000Z
+SUMMARY:Sion → Geneva
+LOCATION:Sion
+DESCRIPTION:Aircraft: PC-24\nAirports: LSGS → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16051@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260924T063000Z
+DTEND:20260924T071000Z
+SUMMARY:Bern → Lugano
+LOCATION:Bern
+DESCRIPTION:Aircraft: PC-24\nAirports: LSZB → LSZA\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-DCC. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16092@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260925T113000Z
+DTEND:20260925T131500Z
+SUMMARY:Oostende → Lausanne
+LOCATION:Oostende
+DESCRIPTION:Aircraft: PC-12\nAirports: EBOS → LSGL\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-MAN. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16100@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260925T093000Z
+DTEND:20260925T110500Z
+SUMMARY:Hyeres → Roma
+LOCATION:Hyeres
+DESCRIPTION:Aircraft: PC-12\nAirports: LFTH → LIRU\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-JFM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16106@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260925T140000Z
+DTEND:20260925T152500Z
+SUMMARY:Bolzano → Geneva
+LOCATION:Bolzano
+DESCRIPTION:Aircraft: PC-12\nAirports: LIPB → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-DBM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16091@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260925T070000Z
+DTEND:20260925T073500Z
+SUMMARY:Lausanne → Geneva
+LOCATION:Lausanne
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGL → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-MAN. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:d91626c4bc1515b3d41988114df80f5e60ddc2c9@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260925T112800Z
+DTEND:20260925T124800Z
+SUMMARY:Luxembourg → Milan
+LOCATION:Luxembourg
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  LUX → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 6%.\nBooking / source: https://
+ www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or d
+ isappear at short notice. Confirm with the operator/broker before making
+  connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d213e0a84b20bb0af2c968e860bafd2735311c8@globeair.com
+DTSTAMP:20260920T102632Z
+DTSTART:20260926T044700Z
+DTEND:20260926T060000Z
+SUMMARY:Perugia → Milan
+LOCATION:Perugia
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  PEG → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16181@emptylegs.local
+DTSTAMP:20260920T102632Z
+DTSTART:20260927T105000Z
+DTEND:20260927T124500Z
+SUMMARY:Geneva → Oostende
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → EBOS\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-DBM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
