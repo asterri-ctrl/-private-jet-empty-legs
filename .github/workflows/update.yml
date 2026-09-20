@@ -30,7 +30,7 @@ jobs:
         run: |
           git config user.name "empty-leg-calendar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/empty-legs.ics
+          git add docs/*.ics
           if git diff --cached --quiet; then
             echo "No changes"
           else
