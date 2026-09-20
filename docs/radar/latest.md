@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-20 12:26 UTC · public web sources only_
+_Updated 2026-09-20 16:22 UTC · public web sources only_
 
 ## AI / DC
 
@@ -18,8 +18,6 @@ _Updated 2026-09-20 12:26 UTC · public web sources only_
 - [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
 - [GlobalConnect upgrades digital infrastructure in Southwest Finland - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTh4bDJjUDk2c2hYdEpkcFZkbDRIMGZ0cERNQ2VURGVwSTZSU0syZXk5NXlQMHZxRlB0X3Q3dkNBSVlxei1Jb3cwQnBWdWsxZWNwb1c5ZlA5RTZHdm9uTGhhbkIwamd4Y1FUUXhSalE5NTMwM0JRY2s1QW1VU0gwVVhtb3diQ292UFpaX3VuMUdTbGU0SnR4ZHdWcTJUWlB2M2NKczh0dll1LWlkc2c?oc=5) · 2026-09-09 — Telecompaper
-- [Eltel becomes Telenor Norway sole service contractor with potential for billion-euro revenue over 11 years - Telecompaper](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTE02dDVreG1TaVVDR3lmQ3lJbXRUZEV5T0RWZW5vNGtDeWdLQkF2Z0duNGs5OUVDR0tzVVk5dGZSMldPa0k3bUNiTzh4bnhvMUZnRjAyaDFvbWN2RVc1d2pqUWhoVEJaM1V0S0xOUHhIdnY2TTUxVEZmS1FoLWh2RExURmgzdTBEellIRlZ6WEtoandnSlFrUVR3ZzFNUmNGVEhpZGcwZC1SWmhBeHJkekcxWVp0MGRLTFB6SEo1Wm5SMEUzX05Pc1F3ODdoLUlicTg2S2hCalFHZzZucE5rQnNrbw?oc=5) · 2026-09-08 — Telecompaper
-- [Telia Company stock holds steady as investors look to Swedish telecom fundamentals - ad-hoc-news.de](https://news.google.com/rss/articles/CBMizAFBVV95cUxQOHVqRzFtb25jb2tJd184Mm16X3ZnUkFmdUFNRzZYT01UU2c1dGpOQktvWThiYUJUWGJqQjdIMXkxb0xrYXRUTTAzMnl0eEgtTjFEYXhmSkJOR0FPX21sWE9SYkFZMHV5SnJuLWljWjR2VFlrbzJKTGYtc0xCT0U3ZTBUVlFRdzJxWlVFeDZDbVRFRXZZQWwwTFMyTVVuTWFkSVdmT0RULWlncEdDZG5CRDQtUWtMRFlIZ1p1NEluYnc5MEh6RTh2cTNETHY?oc=5) · 2026-09-04 — ad-hoc-news.de
 - [LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region - PR Newswire](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ04xR003bnFVcFZYNHROMUxTQUhBRmhJczBqZXhCWWFXUVlvcDByUWlnY3pHS09pS3B0am53ZTBaZDVNcElteXBsWFpkNk9hWnNtWUVtOWs1d1NIQUFueG9BUVdMUDZZZ3drcXNFNlNhUk9EQjlIdlF0bDU3b1NCWm95T05mRkJqb1BGbkJEY1R6bTVPN3o2ejc4eER3Z1o3dkl2eFdBTmNHcjFYWXRTVGFTOFNLeUpXNWRZSTJhMWRlcjVnNW1aSGpuWnFUa1FrcVI5Y0xsVzhOYThXSmRtakNaTTR4SDRYTDk2ZDh2bzFjSW1hQXh3?oc=5) · 2026-09-01 — PR Newswire
 
 ## Regulation
