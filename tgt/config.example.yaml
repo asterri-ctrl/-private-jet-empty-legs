@@ -1,0 +1,35 @@
+trip:
+  name: "TGT"
+  subtitle: "Road trip control centre"
+  start_date: "2027-09-01"
+  end_date: "2027-09-10"
+  travellers: 5
+  base_currency: "EUR"
+
+stops:
+  - city: "Example City"
+    country: "Example"
+    arrive: "2027-09-01T15:00:00+02:00"
+    depart: "2027-09-04T10:00:00+02:00"
+    accommodation: "Example Hotel"
+    notes: "Replace with real data only in a private repository."
+
+bookings:
+  - title: "Example activity"
+    category: "Activity"
+    start: "2027-09-02T13:30:00+02:00"
+    end: "2027-09-02T15:00:00+02:00"
+    location: "Example City"
+    total_cost: 500
+    currency: "EUR"
+    refundable_until: "2027-08-25T23:59:00+02:00"
+    url: ""
+    notes: "Example only."
+
+transport:
+  - title: "Example car rental"
+    start: "2027-09-01T10:00:00+02:00"
+    end: "2027-09-10T18:00:00+02:00"
+    total_cost: 1200
+    currency: "EUR"
+    notes: "Example only."
