@@ -1,0 +1,25 @@
+calendar:
+  name: "Private Jet Empty Legs"
+  horizon_days: 30
+  max_events: 300
+  refresh_minutes: 30
+  europe_only: true
+
+sources:
+  globeair:
+    enabled: true
+    url: "https://www.globeair.com/emptylegs/calendar"
+  jetfly:
+    enabled: true
+    url: "https://empty-legs.jetfly.com/"
+  privjet:
+    enabled: true
+    url: "https://www.privjet.net/en/empty-legs"
+  albajet:
+    enabled: true
+    url: "https://www.albajet.com/empty-leg-flights"
+    max_pages: 20
+
+filters:
+  must_touch_airports: []
+  max_price_eur: null
