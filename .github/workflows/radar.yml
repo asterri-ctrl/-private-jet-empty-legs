@@ -38,7 +38,7 @@ jobs:
         run: |
           git config user.name "nordic-radar-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/radar/
+          git add docs/radar/ docs/index.html
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0
