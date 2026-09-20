@@ -234,6 +234,15 @@ def source_albajet(cfg: dict) -> list[Leg]:
     base = cfg["url"]
     out: list[Leg] = []
     max_pages = int(cfg.get("max_pages", 20))
+    month_names = "January|February|March|April|May|June|July|August|September|October|November|December"
+    row_pat = re.compile(
+        r"\b([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})\s+"
+        r"([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})\s+"
+        r"Available From\s+(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+(\d{1,2})\s+(" + month_names + r")\s+(20\d{2})\s+"
+        r"Available To\s+(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+(\d{1,2})\s+(" + month_names + r")\s+(20\d{2})\s+"
+        r"Aircraft\s+(.+?)\s+(\d+)\s+seats\b",
+        re.I,
+    )
     for p in range(1, max_pages + 1):
         url = base if p == 1 else f"{base}?p={p}"
         try:
@@ -241,31 +250,42 @@ def source_albajet(cfg: dict) -> list[Leg]:
         except Exception as e:
             print(f"AlbaJet page {p} failed: {e}", file=sys.stderr)
             break
-        rows = soup.find_all("tr")
+
+        text = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
+        matches = list(row_pat.finditer(text))
         found = 0
-        for row in rows:
-            cells = [c.get_text(" ", strip=True) for c in row.find_all("td")]
-            if len(cells) < 5:
-                continue
-            fm = re.match(r"^([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})$", cells[0])
-            tm = re.match(r"^([A-Z0-9]{3,4})\s+(.+?),\s*([A-Z]{2})$", cells[1])
-            if not (fm and tm):
-                continue
-            d1, d2 = parse_albajet_date(cells[2]), parse_albajet_date(cells[3])
-            if not d1 or not d2:
-                continue
-            acm = re.match(r"^(?:Aircraft\s+)?(.+?)(?:\s+(\d+)\s+seats)?$", cells[4], re.I)
-            aircraft = acm.group(1).strip() if acm else cells[4]
-            pax = int(acm.group(2)) if acm and acm.group(2) else None
-            details_link = row.find("a", href=True)
+        for m in matches:
+            (
+                origin, origin_name, country_from,
+                dest, dest_name, country_to,
+                d1_day, d1_month, d1_year,
+                d2_day, d2_month, d2_year,
+                aircraft, pax,
+            ) = m.groups()
+            d1 = dt.date(int(d1_year), MONTHS[d1_month.lower()], int(d1_day))
+            d2 = dt.date(int(d2_year), MONTHS[d2_month.lower()], int(d2_day))
             out.append(Leg(
-                source="AlbaJet", origin=fm.group(1), destination=tm.group(1),
-                origin_name=fm.group(2), destination_name=tm.group(2), country_from=fm.group(3), country_to=tm.group(3),
-                start=d1, end=d2 + dt.timedelta(days=1), aircraft=aircraft, pax=pax,
-                booking_url=urljoin(base, details_link["href"]) if details_link else base,
-                description=f"Availability window published by AlbaJet: {d1.isoformat()} through {d2.isoformat()}. Confirm exact timing and price before booking."
+                source="AlbaJet",
+                origin=origin.upper(),
+                destination=dest.upper(),
+                origin_name=origin_name.strip(),
+                destination_name=dest_name.strip(),
+                country_from=country_from.upper(),
+                country_to=country_to.upper(),
+                start=d1,
+                end=d2 + dt.timedelta(days=1),
+                aircraft=aircraft.strip(),
+                pax=int(pax),
+                booking_url=url,
+                description=(
+                    f"Availability window published by AlbaJet: "
+                    f"{d1.isoformat()} through {d2.isoformat()}. "
+                    "Confirm exact timing and price before booking."
+                ),
             ))
             found += 1
+
+        print(f"albajet page {p}: {found} rows")
         if found == 0:
             break
     return out
