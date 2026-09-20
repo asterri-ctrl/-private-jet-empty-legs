@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:7078f0b2ed82cc29c9d79412e45dc948f8c25fb0@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T131000Z
 DTEND:20260920T135000Z
 SUMMARY:✈ €1\,410 · DNR → VNE · Cessna Citation Mustang
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:49779ec44e8cb665390e437cfc7b869b030df1b6@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:✈ €1\,188 · EDDL → EPBY · Cessna Citation Mustang
@@ -50,8 +50,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-15917@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260920T154500Z
+DTEND:20260920T163500Z
+SUMMARY:✈ EDDS → ELLX · PC-12
+LOCATION:Stuttgart
+DESCRIPTION:Source: Jetfly\nRoute: Stuttgart → Luxembourg\nJetfly/Fly7 pu
+ blished empty leg. Aircraft registration: OH-FDI. Confirm live availabil
+ ity directly with Jetfly.\nSource / booking: https://empty-legs.jetfly.c
+ om/watched\nEmpty-leg schedules can change or disappear at short notice.
+  Confirm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:41fbafc09569bfaa43e93b7305f221b93f27bb68@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:✈ €1\,188 · EDGS → EGNM · Cessna Citation Mustang
@@ -70,7 +87,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2e4bc588da88ffc4fdc3957b9eb0b0bb4b8d5a16@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:✈ €1\,692 · LFMN → LOWL · Cessna Citation Mustang
@@ -89,7 +106,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1b20d7afdcdf1454fd55264221dbb1fa051ad81@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:✈ €1\,308 · LIML → LSGG · Cessna Citation Mustang
@@ -108,7 +125,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e32a24f30bf3eecb60d5608edc615140b51079d@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T150000Z
 DTEND:20260920T155800Z
 SUMMARY:✈ €1\,090 · LIN → GVA · Cessna Citation Mustang
@@ -131,8 +148,42 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16141@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260920T140000Z
+DTEND:20260920T150000Z
+SUMMARY:✈ LSGG → LFTH · PC-24
+LOCATION:Geneva
+DESCRIPTION:Source: Jetfly\nRoute: Geneva → Hyeres\nJetfly/Fly7 published
+  empty leg. Aircraft registration: LX-ZAP. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15982@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260920T165000Z
+DTEND:20260920T172500Z
+SUMMARY:✈ LSGS → LSGL · PC-12
+LOCATION:Sion
+DESCRIPTION:Source: Jetfly\nRoute: Sion → Lausanne\nJetfly/Fly7 published
+  empty leg. Aircraft registration: OH-SSS. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0f9818abc09e8906371a1fb619328670249b1705@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:✈ €1\,308 · LSZH → LIPR · Cessna Citation Mustang
@@ -151,7 +202,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf1e55f359713d36ec439e7293fa7132bb06d038@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T160500Z
 DTEND:20260920T174300Z
 SUMMARY:✈ €1\,410 · NCE → LNZ · Cessna Citation Mustang
@@ -175,7 +226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbfcade413b98cbc8d5d1251f09419eead8dcb9d@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T131000Z
 DTEND:20260920T135000Z
 SUMMARY:✈ €1\,410 · NCE → TLN · Cessna Citation Mustang
@@ -199,7 +250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b1bdb4662333d0b2c78389c6b735db906d5cd8cc@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260922
 SUMMARY:✈ PFO → BHX · Legacy 500
@@ -217,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cbdaa5f379ff8a6b00892adf8f1acab848f4a36@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T155000Z
 DTEND:20260920T180000Z
 SUMMARY:✈ €990 · SGE → LBA · Cessna Citation Mustang
@@ -241,7 +292,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:79df9569ab089e560fe21e75caf804b1cfd77b08@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260920T123000Z
 DTEND:20260920T135200Z
 SUMMARY:✈ €1\,090 · ZRH → RMI · Cessna Citation Mustang
@@ -265,7 +316,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d6c87d193c5b309847bcf4646384477de6c57892@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:✈ $2\,400 · EDRY → EDSB · Cessna Citation Bravo
@@ -284,7 +335,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97f82b4b002067517629485307c09d4211d42cd6@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T093500Z
 DTEND:20260921T110000Z
 SUMMARY:✈ €1\,290 · GVA → LBG · Cessna Citation Mustang
@@ -308,7 +359,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b21553bb18efacac28b1c73557fba3a27dde7059@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T143000Z
 DTEND:20260921T154800Z
 SUMMARY:✈ LEJ → VIE · Citation Mustang
@@ -325,8 +376,42 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-15953@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T063000Z
+DTEND:20260921T075500Z
+SUMMARY:✈ LFOV → LFEV · PC-12
+LOCATION:Laval
+DESCRIPTION:Source: Jetfly\nRoute: Laval → Gray\nJetfly/Fly7 published em
+ pty leg. Aircraft registration: OH-TUA. Confirm live availability direct
+ ly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watched
+ \nEmpty-leg schedules can change or disappear at short notice. Confirm w
+ ith the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16144@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T073000Z
+DTEND:20260921T083000Z
+SUMMARY:✈ LIML → LSGG · PC-24
+LOCATION:Milano
+DESCRIPTION:Source: Jetfly\nRoute: Milano → Geneva\nJetfly/Fly7 published
+  empty leg. Aircraft registration: LX-ZAP. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b7903085123796f8f9ab3d0287892880539b95ed@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T105500Z
 DTEND:20260921T132600Z
 SUMMARY:✈ €1\,390 · LIN → SBK · Cessna Citation Mustang
@@ -350,7 +435,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7785aa0eb0a58c149f28d4522bd88e34af3c0ab@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T144000Z
 DTEND:20260921T155500Z
 SUMMARY:✈ LIN → TLN · Citation Mustang
@@ -366,8 +451,76 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-15951@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T140000Z
+DTEND:20260921T150500Z
+SUMMARY:✈ LIRI → LIRS · PC-24
+LOCATION:Salerno
+DESCRIPTION:Source: Jetfly\nRoute: Salerno → Grosseto\nJetfly/Fly7 publis
+ hed empty leg. Aircraft registration: LX-ZAP. Confirm live availability 
+ directly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/w
+ atched\nEmpty-leg schedules can change or disappear at short notice. Con
+ firm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16109@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T130000Z
+DTEND:20260921T134500Z
+SUMMARY:✈ LSGG → LSZB · PC-24
+LOCATION:Geneva
+DESCRIPTION:Source: Jetfly\nRoute: Geneva → Bern\nJetfly/Fly7 published e
+ mpty leg. Aircraft registration: LX-DCC. Confirm live availability direc
+ tly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watche
+ d\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-15952@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T121500Z
+DTEND:20260921T125000Z
+SUMMARY:✈ LSGK → LSGL · PC-12
+LOCATION:Saanen
+DESCRIPTION:Source: Jetfly\nRoute: Saanen → Lausanne\nJetfly/Fly7 publish
+ ed empty leg. Aircraft registration: OH-MAN. Confirm live availability d
+ irectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/wa
+ tched\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16081@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260921T060000Z
+DTEND:20260921T082000Z
+SUMMARY:✈ LSGL → LIEE · PC-12
+LOCATION:Lausanne
+DESCRIPTION:Source: Jetfly\nRoute: Lausanne → Cagliari\nJetfly/Fly7 publi
+ shed empty leg. Aircraft registration: OH-PBL. Confirm live availability
+  directly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/
+ watched\nEmpty-leg schedules can change or disappear at short notice. Co
+ nfirm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0e83d0f1b700260e4d99482dd524ac897b9d85e7@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:✈ €1\,548 · LSZH → EDLW · Cessna Citation Mustang
@@ -386,7 +539,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5311cac92e9b86876f5fb085a5d58b3eb5eda5b@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T112000Z
 DTEND:20260921T124100Z
 SUMMARY:✈ VRN → OLB · Citation Mustang
@@ -403,7 +556,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0ebe759c4bb368a2685e108debc54aff56d0ff1c@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260921T054000Z
 DTEND:20260921T070600Z
 SUMMARY:✈ €1\,290 · ZRH → DTM · Cessna Citation Mustang
@@ -427,7 +580,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d5845c950ee6a84097e2c28f3b38317f6cac69c9@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T133000Z
 DTEND:20260922T144700Z
 SUMMARY:✈ HAM → AMS · Citation Mustang
@@ -445,7 +598,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb5fbc138b550f660cc72a840cde71057d7fa5f1@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T164500Z
 DTEND:20260922T180000Z
 SUMMARY:✈ LBA → AMS · Citation Mustang
@@ -463,7 +616,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d94943328a20df108d7e0bd2e729a3491bb8ae59@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T051500Z
 DTEND:20260922T063000Z
 SUMMARY:✈ LBG → BOH · Citation Mustang
@@ -481,7 +634,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5de9d65cf362818f31a50acab68a3857b98f784@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T070900Z
 DTEND:20260922T080000Z
 SUMMARY:✈ LNZ → ZAG · Citation Mustang
@@ -497,8 +650,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-15980@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260922T123000Z
+DTEND:20260922T132000Z
+SUMMARY:✈ LSZH → LSGG · PC-24
+LOCATION:Zurich
+DESCRIPTION:Source: Jetfly\nRoute: Zurich → Geneva\nJetfly/Fly7 published
+  empty leg. Aircraft registration: LX-ZAP. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:51b550c93166e254543f651a8676d972b5b97880@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T104100Z
 DTEND:20260922T115000Z
 SUMMARY:✈ LUG → LNZ · Citation Mustang
@@ -515,7 +685,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0f8ddf0ebfd348d0779165a61755cfa67012465@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T061500Z
 DTEND:20260922T080100Z
 SUMMARY:✈ LUX → DCM · Citation Mustang
@@ -533,7 +703,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3ce8f0c8e8550bc2bdb88696706253956a59edd@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T120700Z
 DTEND:20260922T133000Z
 SUMMARY:✈ NAP → OLB · Citation Mustang
@@ -550,7 +720,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9840f98b3a4364f82da255c08d4bf342d351d77@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T093000Z
 DTEND:20260922T112100Z
 SUMMARY:✈ NCE → IBZ · Citation Mustang
@@ -567,7 +737,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd88f79adf56666a74d6075cc5e544b22d60937f@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T140200Z
 DTEND:20260922T154000Z
 SUMMARY:✈ SBK → AVN · Citation Mustang
@@ -585,7 +755,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b3e037ac759a08a2456d926b5225458f80661df@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260922T112800Z
 DTEND:20260922T130000Z
 SUMMARY:✈ ZRH → BRU · Citation Mustang
@@ -603,7 +773,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91757fb2eaf07894650dbf7f79948f0bee0b7db6@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T084300Z
 DTEND:20260923T100000Z
 SUMMARY:✈ AGB → BER · Citation Mustang
@@ -621,7 +791,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12ef95f5613ea3a93dacc7b3fa235e24ad2ca043@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T032300Z
 DTEND:20260923T043000Z
 SUMMARY:✈ BER → BRE · Citation Mustang
@@ -639,7 +809,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9706fae753027bb4e2314a488296116676c794d8@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T110300Z
 DTEND:20260923T123500Z
 SUMMARY:✈ CEQ → BCN · Citation Mustang
@@ -656,8 +826,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16105@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260923T103000Z
+DTEND:20260923T112000Z
+SUMMARY:✈ ESOK → ENGM · PC-12
+LOCATION:Karlstad
+DESCRIPTION:Source: Jetfly\nRoute: Karlstad → Oslo\nJetfly/Fly7 published
+  empty leg. Aircraft registration: OH-DBM. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6f73b88139dfcc1dad94fe4278776ad038439dbc@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T095500Z
 DTEND:20260923T103400Z
 SUMMARY:✈ INN → MUC · Citation Mustang
@@ -674,8 +861,42 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16011@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260923T143000Z
+DTEND:20260923T160000Z
+SUMMARY:✈ LFEV → LFOV · PC-12
+LOCATION:Gray
+DESCRIPTION:Source: Jetfly\nRoute: Gray → Laval\nJetfly/Fly7 published em
+ pty leg. Aircraft registration: OH-TUA. Confirm live availability direct
+ ly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watched
+ \nEmpty-leg schedules can change or disappear at short notice. Confirm w
+ ith the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16057@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260923T071000Z
+DTEND:20260923T081000Z
+SUMMARY:✈ LFPB → LSGG · PC-24
+LOCATION:Paris
+DESCRIPTION:Source: Jetfly\nRoute: Paris → Geneva\nJetfly/Fly7 published 
+ empty leg. Aircraft registration: LX-ZAP. Confirm live availability dire
+ ctly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watch
+ ed\nEmpty-leg schedules can change or disappear at short notice. Confirm
+  with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:957850d765f01657b69569da52664bf9324ba79c@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T140300Z
 DTEND:20260923T150000Z
 SUMMARY:✈ LGW → RTM · Citation Mustang
@@ -692,8 +913,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16104@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260923T043500Z
+DTEND:20260923T060000Z
+SUMMARY:✈ LSGG → LIPB · PC-12
+LOCATION:Geneva
+DESCRIPTION:Source: Jetfly\nRoute: Geneva → Bolzano\nJetfly/Fly7 publishe
+ d empty leg. Aircraft registration: OH-DBM. Confirm live availability di
+ rectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/wat
+ ched\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:90fbbead6bd001874eb286dc22c78363a196b7b7@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T050400Z
 DTEND:20260923T053000Z
 SUMMARY:✈ NCE → CEQ · Citation Mustang
@@ -710,7 +948,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:75e0c2c08235893e5905f5547a79ae83f5d65724@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T110600Z
 DTEND:20260923T123000Z
 SUMMARY:✈ VIE → BZO · Citation Mustang
@@ -728,7 +966,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b660fc76537babedfcbfd7ddecec41d310d24801@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T160100Z
 DTEND:20260923T165400Z
 SUMMARY:✈ VIE → LNZ · Citation Mustang
@@ -745,7 +983,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:07f7f21098d1bccba479c9d5b1057f28ca4fd6c4@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260923T114400Z
 DTEND:20260923T130000Z
 SUMMARY:✈ ZRH → SGE · Citation Mustang
@@ -763,7 +1001,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6da0ba19539b559e2e4d93d65fcfddee16ae47ce@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T084600Z
 DTEND:20260924T110000Z
 SUMMARY:✈ BZG → ZRH · Citation Mustang
@@ -781,7 +1019,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20d009bc49944f38bbf5e1eacb401624c8d4f7b6@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T112900Z
 DTEND:20260924T132400Z
 SUMMARY:✈ EAS → OLB · Citation Mustang
@@ -799,7 +1037,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6624846b71b663b6681606f5ff5bb8a81a3c97f8@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T062400Z
 DTEND:20260924T073000Z
 SUMMARY:✈ FKB → LIN · Citation Mustang
@@ -817,7 +1055,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:659636763e8d97e0bea748594add71fbf787fac5@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T064400Z
 DTEND:20260924T090000Z
 SUMMARY:✈ FRA → LPL · Citation Mustang
@@ -834,8 +1072,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16052@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260924T115500Z
+DTEND:20260924T141500Z
+SUMMARY:✈ LBSF → LSZB · PC-24
+LOCATION:Sofia
+DESCRIPTION:Source: Jetfly\nRoute: Sofia → Bern\nJetfly/Fly7 published em
+ pty leg. Aircraft registration: LX-DCC. Confirm live availability direct
+ ly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watched
+ \nEmpty-leg schedules can change or disappear at short notice. Confirm w
+ ith the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6d39139cdcaf16846e23085294759a4d099fd94e@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T121400Z
 DTEND:20260924T133000Z
 SUMMARY:✈ LEY → LHA · Citation Mustang
@@ -853,7 +1108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e3b9b4a915044b8a3dbadb784406d5f02daac53@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T131300Z
 DTEND:20260924T140500Z
 SUMMARY:✈ LGG → LIL · Citation Mustang
@@ -869,8 +1124,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16099@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260924T070000Z
+DTEND:20260924T084500Z
+SUMMARY:✈ LIRU → LFTH · PC-12
+LOCATION:Roma
+DESCRIPTION:Source: Jetfly\nRoute: Roma → Hyeres\nJetfly/Fly7 published e
+ mpty leg. Aircraft registration: OH-JFM. Confirm live availability direc
+ tly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watche
+ d\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b93562b60a73e9f60409baf6a0b08b0e56ced537@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T081700Z
 DTEND:20260924T100000Z
 SUMMARY:✈ LRH → NWI · Citation Mustang
@@ -887,8 +1159,59 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16053@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260924T051500Z
+DTEND:20260924T081500Z
+SUMMARY:✈ LSGG → LGAV · PC-24
+LOCATION:Geneva
+DESCRIPTION:Source: Jetfly\nRoute: Geneva → Athens\nJetfly/Fly7 published
+  empty leg. Aircraft registration: LX-ZAP. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16054@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260924T122500Z
+DTEND:20260924T130000Z
+SUMMARY:✈ LSGS → LSGG · PC-24
+LOCATION:Sion
+DESCRIPTION:Source: Jetfly\nRoute: Sion → Geneva\nJetfly/Fly7 published e
+ mpty leg. Aircraft registration: LX-ZAP. Confirm live availability direc
+ tly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watche
+ d\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16051@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260924T063000Z
+DTEND:20260924T071000Z
+SUMMARY:✈ LSZB → LSZA · PC-24
+LOCATION:Bern
+DESCRIPTION:Source: Jetfly\nRoute: Bern → Lugano\nJetfly/Fly7 published e
+ mpty leg. Aircraft registration: LX-DCC. Confirm live availability direc
+ tly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watche
+ d\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a5b66075f4ac312be6e84ff43d59b88048d193b7@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T122300Z
 DTEND:20260924T133500Z
 SUMMARY:✈ VRN → CEQ · Citation Mustang
@@ -906,7 +1229,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aff82d000fd9b18e78db5b1631462a3670b46997@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260924T140700Z
 DTEND:20260924T160000Z
 SUMMARY:✈ ZAG → NCE · Citation Mustang
@@ -923,7 +1246,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:528e5cf4a6e6104188656005ec9509237c87d65d@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T030100Z
 DTEND:20260925T060000Z
 SUMMARY:✈ BEG → LEY · Citation Mustang
@@ -941,7 +1264,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:de1c84ab106f688b333047962236b5aef4df9c87@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T072300Z
 DTEND:20260925T082000Z
 SUMMARY:✈ BLQ → LUG · Citation Mustang
@@ -959,7 +1282,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8bdbc312c49cd6c873592ad7d4b75fba7623147a@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T092300Z
 DTEND:20260925T110000Z
 SUMMARY:✈ BSL → BER · Citation Mustang
@@ -976,7 +1299,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e2d2c0e6ed789ec5788aecf409c90f4be06c0b5@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T125600Z
 DTEND:20260925T143000Z
 SUMMARY:✈ DIJ → LCY · Citation Mustang
@@ -992,8 +1315,93 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16092@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T113000Z
+DTEND:20260925T131500Z
+SUMMARY:✈ EBOS → LSGL · PC-12
+LOCATION:Oostende
+DESCRIPTION:Source: Jetfly\nRoute: Oostende → Lausanne\nJetfly/Fly7 publi
+ shed empty leg. Aircraft registration: OH-MAN. Confirm live availability
+  directly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/
+ watched\nEmpty-leg schedules can change or disappear at short notice. Co
+ nfirm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16095@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T062500Z
+DTEND:20260925T072000Z
+SUMMARY:✈ LFOV → LFRH · PC-12
+LOCATION:Laval
+DESCRIPTION:Source: Jetfly\nRoute: Laval → Lorient\nJetfly/Fly7 published
+  empty leg. Aircraft registration: OH-TUA. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16096@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T151500Z
+DTEND:20260925T161000Z
+SUMMARY:✈ LFRH → LFOV · PC-12
+LOCATION:Lorient
+DESCRIPTION:Source: Jetfly\nRoute: Lorient → Laval\nJetfly/Fly7 published
+  empty leg. Aircraft registration: OH-TUA. Confirm live availability dir
+ ectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watc
+ hed\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16100@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T093000Z
+DTEND:20260925T110500Z
+SUMMARY:✈ LFTH → LIRU · PC-12
+LOCATION:Hyeres
+DESCRIPTION:Source: Jetfly\nRoute: Hyeres → Roma\nJetfly/Fly7 published e
+ mpty leg. Aircraft registration: OH-JFM. Confirm live availability direc
+ tly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/watche
+ d\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16106@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T140000Z
+DTEND:20260925T152500Z
+SUMMARY:✈ LIPB → LSGG · PC-12
+LOCATION:Bolzano
+DESCRIPTION:Source: Jetfly\nRoute: Bolzano → Geneva\nJetfly/Fly7 publishe
+ d empty leg. Aircraft registration: OH-DBM. Confirm live availability di
+ rectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/wat
+ ched\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a8860e2337581b40237fde88736a13c34d8993aa@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T072000Z
 DTEND:20260925T084500Z
 SUMMARY:✈ LNZ → HAJ · Citation Mustang
@@ -1010,7 +1418,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ddc2042345b3774bfeee6e0c50c48b637df9056a@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T052900Z
 DTEND:20260925T060000Z
 SUMMARY:✈ LNZ → SZG · Citation Mustang
@@ -1027,8 +1435,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16091@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260925T070000Z
+DTEND:20260925T073500Z
+SUMMARY:✈ LSGL → LSGG · PC-12
+LOCATION:Lausanne
+DESCRIPTION:Source: Jetfly\nRoute: Lausanne → Geneva\nJetfly/Fly7 publish
+ ed empty leg. Aircraft registration: OH-MAN. Confirm live availability d
+ irectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/wa
+ tched\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:d91626c4bc1515b3d41988114df80f5e60ddc2c9@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T112800Z
 DTEND:20260925T124800Z
 SUMMARY:✈ LUX → LIN · Citation Mustang
@@ -1046,7 +1471,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb4ea4bac3da48cc6f048b9c7cfcaa6d9592a3b9@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T062600Z
 DTEND:20260925T080000Z
 SUMMARY:✈ MUC → BRE · Citation Mustang
@@ -1063,7 +1488,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:302243f73ad636d6ce500a3f39df0d29931a471e@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260925T111500Z
 DTEND:20260925T122500Z
 SUMMARY:✈ TLN → VRN · Citation Mustang
@@ -1080,7 +1505,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:906219ea99436097091c9183af23c196d0b70410@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260926T122700Z
 DTEND:20260926T140000Z
 SUMMARY:✈ AVN → EAS · Citation Mustang
@@ -1098,7 +1523,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d213e0a84b20bb0af2c968e860bafd2735311c8@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260926T044700Z
 DTEND:20260926T060000Z
 SUMMARY:✈ PEG → LIN · Citation Mustang
@@ -1116,7 +1541,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bcb3cae1d1226ac5a9fbf453306ac936dc922e12@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260926T085400Z
 DTEND:20260926T100000Z
 SUMMARY:✈ PMI → VLC · Citation Mustang
@@ -1134,7 +1559,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0e652f67418d3423e96232cdc831a837fd3789e9@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:✈ $2\,760 · EDDM → EDJA · Cessna Citation Bravo
@@ -1153,7 +1578,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a61d62e2994e2a3c904962bb05f1d5bde36ffc92@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260927T031000Z
 DTEND:20260927T043000Z
 SUMMARY:✈ GRO → EAS · Citation Mustang
@@ -1171,7 +1596,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52d361f02ae5d7b9a274bfc2ba146362e807a7bd@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260927T085400Z
 DTEND:20260927T100000Z
 SUMMARY:✈ GVA → MRS · Citation Mustang
@@ -1189,7 +1614,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d15b056cdd1d3f8a0788784bccfefc1fac7bc5b2@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260927T060200Z
 DTEND:20260927T081400Z
 SUMMARY:✈ LBG → OLB · Citation Mustang
@@ -1206,7 +1631,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57492083c4df67ce2e80070bfd14894ee32f92db@globeair.com
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART:20260927T081200Z
 DTEND:20260927T090000Z
 SUMMARY:✈ LNZ → MUC · Citation Mustang
@@ -1222,8 +1647,25 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-16181@emptylegs.local
+DTSTAMP:20260920T101918Z
+DTSTART:20260927T105000Z
+DTEND:20260927T124500Z
+SUMMARY:✈ LSGG → EBOS · PC-12
+LOCATION:Geneva
+DESCRIPTION:Source: Jetfly\nRoute: Geneva → Oostende\nJetfly/Fly7 publish
+ ed empty leg. Aircraft registration: OH-DBM. Confirm live availability d
+ irectly with Jetfly.\nSource / booking: https://empty-legs.jetfly.com/wa
+ tched\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260920T101825Z
+DTSTAMP:20260920T101918Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:✈ €2\,280 · EHBK → EDDS · Cessna Citation Mustang
