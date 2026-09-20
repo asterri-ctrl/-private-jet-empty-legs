@@ -386,25 +386,26 @@ def fmt_date(v: dt.date) -> str:
 
 
 def event_lines(leg: Leg, now: dt.datetime) -> list[str]:
-    route = f"{leg.origin} → {leg.destination}"
-    price = ""
+    from_name = leg.origin_name or leg.origin
+    to_name = leg.destination_name or leg.destination
+    summary = f"{from_name} → {to_name}"
+
+    desc_parts = []
     if leg.price is not None:
         sym = {"EUR":"€", "USD":"$", "GBP":"£"}.get(leg.currency, leg.currency + " ")
-        price = f"{sym}{leg.price:,.0f} · "
-    ac = f" · {leg.aircraft}" if leg.aircraft else ""
-    summary = f"✈ {price}{route}{ac}"
-    desc_parts = [f"Source: {leg.source}"]
-    if leg.origin_name or leg.destination_name:
-        desc_parts.append(f"Route: {leg.origin_name or leg.origin} → {leg.destination_name or leg.destination}")
+        desc_parts.append(f"Price: {sym}{leg.price:,.0f}")
+    if leg.aircraft:
+        desc_parts.append(f"Aircraft: {leg.aircraft}")
     if leg.pax:
         desc_parts.append(f"Capacity: {leg.pax} passengers")
-    if leg.price is not None:
-        desc_parts.append(f"Published price: {leg.currency} {leg.price:,.0f} (whole aircraft unless the source states otherwise)")
+    desc_parts.append(f"Airports: {leg.origin} → {leg.destination}")
+    desc_parts.append(f"Source: {leg.source}")
     if leg.description:
         desc_parts.append(leg.description)
     if leg.booking_url:
-        desc_parts.append(f"Source / booking: {leg.booking_url}")
+        desc_parts.append(f"Booking / source: {leg.booking_url}")
     desc_parts.append("Empty-leg schedules can change or disappear at short notice. Confirm with the operator/broker before making connecting travel plans.")
+
     lines = ["BEGIN:VEVENT", f"UID:{esc(leg.uid())}", f"DTSTAMP:{fmt_dt(now)}"]
     if isinstance(leg.start, dt.datetime):
         lines += [f"DTSTART:{fmt_dt(leg.start)}", f"DTEND:{fmt_dt(leg.end)}"]
@@ -412,7 +413,7 @@ def event_lines(leg: Leg, now: dt.datetime) -> list[str]:
         lines += [f"DTSTART;VALUE=DATE:{fmt_date(leg.start)}", f"DTEND;VALUE=DATE:{fmt_date(leg.end)}"]
     lines += [
         f"SUMMARY:{esc(summary)}",
-        f"LOCATION:{esc(leg.origin_name or leg.origin)}",
+        f"LOCATION:{esc(from_name)}",
         f"DESCRIPTION:{esc(chr(10).join(desc_parts))}",
         f"URL:{esc(leg.booking_url)}" if leg.booking_url else "",
         "TRANSP:TRANSPARENT",
