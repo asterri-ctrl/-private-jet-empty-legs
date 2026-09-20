@@ -186,6 +186,8 @@ def source_jetfly(cfg: dict) -> list[Leg]:
                 start=dep.astimezone(dt.timezone.utc), end=arr_local.astimezone(dt.timezone.utc), aircraft=aircraft.upper(),
                 booking_url=cfg["url"], description="Jetfly empty leg. Confirm availability directly with Jetfly.", exact_time=True
             ))
+    if not out:
+        print("jetfly debug:", text[:1200].replace("\\n", " "))
     return out
 
 
@@ -287,6 +289,7 @@ def source_albajet(cfg: dict) -> list[Leg]:
 
         print(f"albajet page {p}: {found} rows")
         if found == 0:
+            print("albajet debug:", text[:1200])
             break
     return out
 
