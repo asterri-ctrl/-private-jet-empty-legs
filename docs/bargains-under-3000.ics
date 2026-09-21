@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:a1ab3df2802b36ed30e9ea76880b8e5bd7b6297c@emptylegs.local
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Leipzig → Vienna
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a8fb652556427684939f1d0f02398338f747ed0f@globeair.com
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART:20260921T143500Z
 DTEND:20260921T155200Z
 SUMMARY:Leipzig → Vienna
@@ -50,7 +50,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d7785aa0eb0a58c149f28d4522bd88e34af3c0ab@globeair.com
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART:20260921T144000Z
 DTEND:20260921T155500Z
 SUMMARY:Milan → Toulon
@@ -72,31 +72,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d29b3abdabb4117bf1f86911708f2f002bd6bf3a@globeair.com
-DTSTAMP:20260921T100641Z
-DTSTART:20260921T121000Z
-DTEND:20260921T125400Z
-SUMMARY:Linz → Munich
-LOCATION:Linz
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LNZ → MUC\nSource: GlobeAir\nOriginal price: €6\,30
- 0\nCurrent price: €990 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC6
- 92L\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com/el/d29
- b3abd\n\nPlease note: All empty leg flights are subject to schedule chan
- ge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal f
- light time: 44 minutes\nDistance: 96 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/d29b3abd\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/d29b3abd
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a8f412dc88ffcb60058967905cc049df54b8b470@emptylegs.local
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Linz → Munich
@@ -114,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:479294d9714e403616eadac7fd7f176f66a4a4ad@emptylegs.local
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Geneva → Paris
@@ -131,10 +108,34 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:b9840f98b3a4364f82da255c08d4bf342d351d77@globeair.com
+DTSTAMP:20260921T103751Z
+DTSTART:20260921T174500Z
+DTEND:20260921T193600Z
+SUMMARY:Nice → Ibiza
+LOCATION:Nice
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: NCE → IBZ\nSource: GlobeAir\nOriginal price: €9\
+ ,700\nCurrent price: €1\,410 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC025A\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
+ air.com/el/b9840f98\n\nPlease note: All empty leg flights are subject to
+  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
+ beAir\nTotal flight time: 111 minutes\nDistance: 390 miles\n\nContact us
+  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
+ : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
+ el/b9840f98\nEmpty-leg schedules can change or disappear at short notice
+ . Confirm with the operator/broker before making connecting travel plans
+ .
+URL:https://fly.globeair.com/el/b9840f98
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b863f4703199348b0dcdc2f000b1af01d05bbfdf@globeair.com
-DTSTAMP:20260921T100641Z
-DTSTART:20260922T051500Z
-DTEND:20260922T063000Z
+DTSTAMP:20260921T103751Z
+DTSTART:20260922T052000Z
+DTEND:20260922T063500Z
 SUMMARY:Paris → Bournemouth
 LOCATION:Paris
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -156,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5de9d65cf362818f31a50acab68a3857b98f784@globeair.com
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART:20260922T071000Z
 DTEND:20260922T080100Z
 SUMMARY:Linz → Zagreb
@@ -179,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0f8ddf0ebfd348d0779165a61755cfa67012465@globeair.com
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART:20260922T061500Z
 DTEND:20260922T080100Z
 SUMMARY:Luxembourg → Castres
@@ -201,32 +202,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b9840f98b3a4364f82da255c08d4bf342d351d77@globeair.com
-DTSTAMP:20260921T100641Z
-DTSTART:20260922T093000Z
-DTEND:20260922T112100Z
-SUMMARY:Nice → Ibiza
-LOCATION:Nice
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NCE → IBZ\nSource: GlobeAir\nOriginal price: €9\
- ,700\nCurrent price: €1\,710 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC025A\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
- air.com/el/b9840f98\n\nPlease note: All empty leg flights are subject to
-  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 111 minutes\nDistance: 390 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/b9840f98\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/b9840f98
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2c7b5a8a8ecda84521e0b55e7a0eb560e9c544bf@emptylegs.local
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Geneva Cointrin International Airport → Nice-Cote d'Azur Airport
@@ -244,7 +221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260921T100641Z
+DTSTAMP:20260921T103751Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
