@@ -1,11 +1,11 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-21 04:24 UTC · public web sources only_
+_Updated 2026-09-21 08:25 UTC · public web sources only_
 
 ## AI / DC
 
+- [Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - reuters.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5) · 2026-09-10 — reuters.com
 - [Google to Invest €13 Billion in Finland AI Infrastructure - thelec.net](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9NcTluNk9Ianc2WmU1a2FuYlgzaXZ5aERXaU9YNEpPNHM2MW03alBkQUVnVllOUXlKWTdfRGRkckh1dENUWUlTY1ItUm5pTXhnTkwtQVJOSHlSYWFxUllha1dWS1BLaWc?oc=5) · 2026-09-10 — thelec.net
-- [Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5) · 2026-09-09 — Reuters
 - [Twelve countries including France, UK to sanction trade with Israeli settlements - Taipei Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zd0tVUjJ5cFExdXV1Tkhsa1lvclFVYmdaQ2FYU2t5ZE9kRlBiTTl3bXRoVzdlRTgyZmlpMDkzSWFicHp5X2VlSTJBTU5DVXlxWUFhN2lGLWJydF9VY1dQQ1p3enMtZVBGRkxiZXl6SkR1dVlObjBCZg?oc=5) · 2026-09-09 — Taipei Times
 - [Denmark’s Queen Margrethe II hospitalized due to blood clot - IceNews - Daily News](https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2tHTU5IaXlSQ3FGellaZ0hFaTNVU2pmX0E3X1NmM2U4cmVxMjlHOFNnejRSdlZTMnNxMUdzSGN2YjNwQXE5M1ROQVNKclQ4YmNBUDNjbDhDRzlMWjJidEk1WWRiMU10LVVGaFp3WDlMRF9aZGxFajhpazgxcnFnQ05NX2RodzJzNXdKN05vRENaZW8?oc=5) · 2026-09-08 — IceNews - Daily News
 - [Equinix & CPP close acquisition of atNorth - Data Center Dynamics](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FUblZ0Wl9ERGlUd0J6elZXRjdZR1Y2OUROc2FmVkhiN25ZZzU0NTRTcklCd2tDLURTT210Z2ozSXJFMWN1MkxSZDY0MW1aWExGT2VJMHl5Y2NUOW5BSHJSVlE4aUZBSTJpbnU5b2k3ekdEb0dHNy1aWkxsdWt2S2FkbFJQMTNnUVJTZw?oc=5) · 2026-09-04 — Data Center Dynamics
@@ -23,4 +23,3 @@ _Updated 2026-09-21 04:24 UTC · public web sources only_
 ## Regulation
 
 - [Commission welcomes the design of first Important Project of Common European Interest in AI - EU Digital Strategy](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5) · 2026-09-16 — EU Digital Strategy
-- [Executive Vice-President Virkkunen in the US for G20 Ministerial meetings - EU Digital Strategy](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVNxTVlWQ2hvTkVUV3N4c0hRc3NndFFaeUJCVURTT2ZaWl9Icm1pdkktVWlMVFR6bkhNZzlqNVNFaThHUzctcHU5ZkNhbUxydFJ1RHpoM1pGOGJ2ZkM4WUNrbUR3d3JPaGpiQWVLRWJCWUNJOVFDWi1fN1dKQ2xXS0ZWRlZMUWgxSEtBZEV4SHVNNHZsUDduZkUzUlVqNHU4TXZKYTVpeDQxYkRX?oc=5) · 2026-08-31 — EU Digital Strategy
