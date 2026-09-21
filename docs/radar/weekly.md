@@ -1,11 +1,11 @@
 # Weekly Nordic Infrastructure Brief
 
-_Seven days through 2026-09-20 · public sources only_
+_Seven days through 2026-09-21 · public sources only_
 
 ## What matters
 
 - **EXA Announces new Transatlantic Subsea Cable—Meridian - Submarine Networks** — Connectivity demand / network. [Submarine Networks](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXp0NGxVNzJTbXJSb05yanZEZTNZcXhnN3VBdUNqSkdKaUlCa1lsVVJyWnNiV2FFQXhtem1YUU1VVU9LN09CUUtGMjd2bGhTMDJ3N01mcjJLOEZrS0F0Q0o3emxhMk9aNTJfbVFYc3NZdUhHZThkLTIzaTB5Z3ZLbVVka0Z5YU5id0hXelRRQVJHWUVCODM4bWJqeXlKSHZIQmRzT05MdDZkeUVRZDhkUWU4cGE2V2lzeDVtQUZaUQ?oc=5)
-- **Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire** — Direct Telenor relevance. [WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5)
+- **Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - telecomtv.com** — Direct Telenor relevance. [telecomtv.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFBxUzJkZ2Q0VFZlR3VRY1lILVFlb2FRTHNqTWxHZ05RMlBXR3U1UTFfUGE3NmNjSlJiaEJualgtdWg5b0ZJUXRkSVRJdmtQLXJfTDNzR09kaFUwd1ZNOEFDQkdtaFd3ZkhKYjRWbnMtXzAxeGs4Y1V3QWZkZklETGVVaVdpZC1nb0gxQm1OWDlDRkE1cFBybGJYZkU2TWV2ODF1X0lYUzFOS3E2QTh4dmQ5Ql9fdDhNZFpEdHlVeHZmYUlXOUF1TXZCc9IB0AFBVV95cUxNc3MxMEYxRm5iZG9MOHlfTzAxMFpudHdDMWptdFZJU3VsU0MxWDdrTUk3WEwya3JkZW5neU5mOTdJOUNvTDFuaTEzcmdFbEt6SUNsekRxX0ktRlZ4eVlVbGVMeFJQUUxBcDcwVkQyNndObE5nMG5IWEx0RDFiS1o4VmZFTUVXRUJUY3lSdXh3NDEzbjEzUTVIdG1uQ3NDa3BFTU1yeGxvVDJTaUNBLUd3TFEwNjN2UmJuNmxWblNSMXQwUTZrZ0loUEJiRGJ4OGNf?oc=5)
 - **Commission welcomes the design of first Important Project of Common European Interest in AI - EU Digital Strategy** — Policy / sovereignty. [EU Digital Strategy](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5)
 
 ## By theme
@@ -13,7 +13,7 @@ _Seven days through 2026-09-20 · public sources only_
 ### Telecom
 
 - [EXA Announces new Transatlantic Subsea Cable—Meridian - Submarine Networks](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXp0NGxVNzJTbXJSb05yanZEZTNZcXhnN3VBdUNqSkdKaUlCa1lsVVJyWnNiV2FFQXhtem1YUU1VVU9LN09CUUtGMjd2bGhTMDJ3N01mcjJLOEZrS0F0Q0o3emxhMk9aNTJfbVFYc3NZdUhHZThkLTIzaTB5Z3ZLbVVka0Z5YU5id0hXelRRQVJHWUVCODM4bWJqeXlKSHZIQmRzT05MdDZkeUVRZDhkUWU4cGE2V2lzeDVtQUZaUQ?oc=5) — Connectivity demand / network
-- [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) — Direct Telenor relevance
+- [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - telecomtv.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFBxUzJkZ2Q0VFZlR3VRY1lILVFlb2FRTHNqTWxHZ05RMlBXR3U1UTFfUGE3NmNjSlJiaEJualgtdWg5b0ZJUXRkSVRJdmtQLXJfTDNzR09kaFUwd1ZNOEFDQkdtaFd3ZkhKYjRWbnMtXzAxeGs4Y1V3QWZkZklETGVVaVdpZC1nb0gxQm1OWDlDRkE1cFBybGJYZkU2TWV2ODF1X0lYUzFOS3E2QTh4dmQ5Ql9fdDhNZFpEdHlVeHZmYUlXOUF1TXZCc9IB0AFBVV95cUxNc3MxMEYxRm5iZG9MOHlfTzAxMFpudHdDMWptdFZJU3VsU0MxWDdrTUk3WEwya3JkZW5neU5mOTdJOUNvTDFuaTEzcmdFbEt6SUNsekRxX0ktRlZ4eVlVbGVMeFJQUUxBcDcwVkQyNndObE5nMG5IWEx0RDFiS1o4VmZFTUVXRUJUY3lSdXh3NDEzbjEzUTVIdG1uQ3NDa3BFTU1yeGxvVDJTaUNBLUd3TFEwNjN2UmJuNmxWblNSMXQwUTZrZ0loUEJiRGJ4OGNf?oc=5) — Direct Telenor relevance
 
 ### Regulation
 
