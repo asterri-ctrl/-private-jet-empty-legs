@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-21 00:30 UTC · public web sources only_
+_Updated 2026-09-21 04:24 UTC · public web sources only_
 
 ## AI / DC
 
@@ -15,7 +15,7 @@ _Updated 2026-09-21 00:30 UTC · public web sources only_
 ## Telecom
 
 - [EXA Announces new Transatlantic Subsea Cable—Meridian - Submarine Networks](https://news.google.com/rss/articles/CBMivwFBVV95cUxNNXp0NGxVNzJTbXJSb05yanZEZTNZcXhnN3VBdUNqSkdKaUlCa1lsVVJyWnNiV2FFQXhtem1YUU1VVU9LN09CUUtGMjd2bGhTMDJ3N01mcjJLOEZrS0F0Q0o3emxhMk9aNTJfbVFYc3NZdUhHZThkLTIzaTB5Z3ZLbVVka0Z5YU5id0hXelRRQVJHWUVCODM4bWJqeXlKSHZIQmRzT05MdDZkeUVRZDhkUWU4cGE2V2lzeDVtQUZaUQ?oc=5) · 2026-09-16 — Submarine Networks
-- [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - telecomtv.com](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUFBxUzJkZ2Q0VFZlR3VRY1lILVFlb2FRTHNqTWxHZ05RMlBXR3U1UTFfUGE3NmNjSlJiaEJualgtdWg5b0ZJUXRkSVRJdmtQLXJfTDNzR09kaFUwd1ZNOEFDQkdtaFd3ZkhKYjRWbnMtXzAxeGs4Y1V3QWZkZklETGVVaVdpZC1nb0gxQm1OWDlDRkE1cFBybGJYZkU2TWV2ODF1X0lYUzFOS3E2QTh4dmQ5Ql9fdDhNZFpEdHlVeHZmYUlXOUF1TXZCc9IB0AFBVV95cUxNc3MxMEYxRm5iZG9MOHlfTzAxMFpudHdDMWptdFZJU3VsU0MxWDdrTUk3WEwya3JkZW5neU5mOTdJOUNvTDFuaTEzcmdFbEt6SUNsekRxX0ktRlZ4eVlVbGVMeFJQUUxBcDcwVkQyNndObE5nMG5IWEx0RDFiS1o4VmZFTUVXRUJUY3lSdXh3NDEzbjEzUTVIdG1uQ3NDa3BFTU1yeGxvVDJTaUNBLUd3TFEwNjN2UmJuNmxWblNSMXQwUTZrZ0loUEJiRGJ4OGNf?oc=5) · 2026-09-14 — telecomtv.com
+- [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
 - [GlobalConnect upgrades digital infrastructure in Southwest Finland - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTh4bDJjUDk2c2hYdEpkcFZkbDRIMGZ0cERNQ2VURGVwSTZSU0syZXk5NXlQMHZxRlB0X3Q3dkNBSVlxei1Jb3cwQnBWdWsxZWNwb1c5ZlA5RTZHdm9uTGhhbkIwamd4Y1FUUXhSalE5NTMwM0JRY2s1QW1VU0gwVVhtb3diQ292UFpaX3VuMUdTbGU0SnR4ZHdWcTJUWlB2M2NKczh0dll1LWlkc2c?oc=5) · 2026-09-09 — Telecompaper
 - [LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region - PR Newswire](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ04xR003bnFVcFZYNHROMUxTQUhBRmhJczBqZXhCWWFXUVlvcDByUWlnY3pHS09pS3B0am53ZTBaZDVNcElteXBsWFpkNk9hWnNtWUVtOWs1d1NIQUFueG9BUVdMUDZZZ3drcXNFNlNhUk9EQjlIdlF0bDU3b1NCWm95T05mRkJqb1BGbkJEY1R6bTVPN3o2ejc4eER3Z1o3dkl2eFdBTmNHcjFYWXRTVGFTOFNLeUpXNWRZSTJhMWRlcjVnNW1aSGpuWnFUa1FrcVI5Y0xsVzhOYThXSmRtakNaTTR4SDRYTDk2ZDh2bzFjSW1hQXh3?oc=5) · 2026-09-01 — PR Newswire
