@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-22 00:29 UTC · public web sources only_
+_Updated 2026-09-22 04:23 UTC · public web sources only_
 
 ## AI / DC
 
@@ -16,7 +16,6 @@ _Updated 2026-09-22 00:29 UTC · public web sources only_
 - [Fitel and Lightera prepare fibre splicing demonstration for ECOC 2026 - Telecompaper](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0JDOW50ZmYyS1doSDBqcERyb2E3QnEyVF9peXZoX09SNnhrdXZPWGFnT1RWZy1KZ2lVTERWRnZMc2VjNzNUR1ZyY3Q5VlY1X3lxNW9kVi1rSWswcmZFemFnSnhQS2x2cnJpZnJtN2NSNWRzZGtocWU2S04yNjUzTlRiMXhNNFd1Y0JBMTZOa0VTbG10bE5Ua2ZFSTRsUzkxcHNFN1NNOTZ5RGxiMTdWemNR?oc=5) · 2026-09-21 — Telecompaper
 - [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
-- [GlobalConnect upgrades digital infrastructure in Southwest Finland - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTTh4bDJjUDk2c2hYdEpkcFZkbDRIMGZ0cERNQ2VURGVwSTZSU0syZXk5NXlQMHZxRlB0X3Q3dkNBSVlxei1Jb3cwQnBWdWsxZWNwb1c5ZlA5RTZHdm9uTGhhbkIwamd4Y1FUUXhSalE5NTMwM0JRY2s1QW1VU0gwVVhtb3diQ292UFpaX3VuMUdTbGU0SnR4ZHdWcTJUWlB2M2NKczh0dll1LWlkc2c?oc=5) · 2026-09-09 — Telecompaper
 - [LSC Lands Second Hyperscale Tenant for Tulsa-St. Louis Dark Fiber Route, Signaling Surging AI Demand in Region - PR Newswire](https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ04xR003bnFVcFZYNHROMUxTQUhBRmhJczBqZXhCWWFXUVlvcDByUWlnY3pHS09pS3B0am53ZTBaZDVNcElteXBsWFpkNk9hWnNtWUVtOWs1d1NIQUFueG9BUVdMUDZZZ3drcXNFNlNhUk9EQjlIdlF0bDU3b1NCWm95T05mRkJqb1BGbkJEY1R6bTVPN3o2ejc4eER3Z1o3dkl2eFdBTmNHcjFYWXRTVGFTOFNLeUpXNWRZSTJhMWRlcjVnNW1aSGpuWnFUa1FrcVI5Y0xsVzhOYThXSmRtakNaTTR4SDRYTDk2ZDh2bzFjSW1hQXh3?oc=5) · 2026-09-01 — PR Newswire
 
 ## Regulation
