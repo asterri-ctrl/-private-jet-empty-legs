@@ -7,8 +7,32 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:48593a948f66072e8b3fdb45b8ef9feb5d36fdfd@globeair.com
+DTSTAMP:20260922T190554Z
+DTSTART:20260923T110000Z
+DTEND:20260923T121900Z
+SUMMARY:Augsburg → Geneva
+LOCATION:Augsburg
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: AGB → GVA\nSource: GlobeAir\nOriginal price: €10
+ \,500\nCurrent price: €1\,290 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC838M\nFBO: Augsburger Flughafen GmbH\n\nBook now:\nhttps://fly.glo
+ beair.com/el/48593a94\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 79 minutes\nDistance: 236 miles\n\nContact u
+ s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
+ l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
+ /el/48593a94\nEmpty-leg schedules can change or disappear at short notic
+ e. Confirm with the operator/broker before making connecting travel plan
+ s.
+URL:https://fly.globeair.com/el/48593a94
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:12ef95f5613ea3a93dacc7b3fa235e24ad2ca043@globeair.com
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART:20260923T034500Z
 DTEND:20260923T044400Z
 SUMMARY:Berlin → Bremen
@@ -30,8 +54,54 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e03566d89e289615ae9fd328ed7f4b5fa0092fac@globeair.com
+DTSTAMP:20260922T190554Z
+DTSTART:20260923T124000Z
+DTEND:20260923T140000Z
+SUMMARY:London → Cologne
+LOCATION:London
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BQH → CGN\nSource: GlobeAir\nOriginal price: €8\
+ ,100\nCurrent price: €1\,290 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC690N\nFBO: Jetex (former Signature)\n\nBook now:\nhttps://fly.globe
+ air.com/el/e03566d8\n\nPlease note: All empty leg flights are subject to
+  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
+ beAir\nTotal flight time: 80 minutes\nDistance: 269 miles\n\nContact us 
+ 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
+  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
+ l/e03566d8\nEmpty-leg schedules can change or disappear at short notice.
+  Confirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e03566d8
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fefe53fba6d59b371bb21b845fb52b60952fe519@globeair.com
+DTSTAMP:20260922T190554Z
+DTSTART:20260923T101000Z
+DTEND:20260923T112500Z
+SUMMARY:Cannes → Rome
+LOCATION:Cannes
+DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: CEQ → FCO\nSource: GlobeAir\nOriginal price: €9\
+ ,200\nCurrent price: €1\,810 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC663L\nFBO: Sky Valet\n\nBook now:\nhttps://fly.globeair.com/el/fefe
+ 53fb\n\nPlease note: All empty leg flights are subject to schedule chang
+ e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
+ ight time: 75 minutes\nDistance: 255 miles\n\nContact us 24/7\nWhatsApp:
+  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
+ lobeair.com\nBooking / source: https://fly.globeair.com/el/fefe53fb\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/fefe53fb
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:093ffc064261618b88e0a318ff7dcc86a4a3114d@emptylegs.local
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Berlin → Bremen
@@ -49,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c4bd6888714f2761f7532d64f932918a600798eb@emptylegs.local
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Augsburg Airport → Berlin Brandenburg Airport
@@ -67,7 +137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e00d231c72526568254a1f90c8aa412ac384ad22@globeair.com
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART:20260923T120000Z
 DTEND:20260923T123000Z
 SUMMARY:Innsbruck → Bolzano
@@ -90,7 +160,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a877f5a819cdf4edb432688dac3e2f47c4acbf3e@emptylegs.local
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
@@ -109,7 +179,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:957850d765f01657b69569da52664bf9324ba79c@globeair.com
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART:20260923T140000Z
 DTEND:20260923T150000Z
 SUMMARY:London → Rotterdam
@@ -132,7 +202,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db0ad07c418073754a28756ae2a28bbd69d8dee2@emptylegs.local
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Innsbruck → Bolzano
@@ -150,7 +220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:da9d4243700eb261388881c3568e2e27432593dd@globeair.com
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART:20260923T114000Z
 DTEND:20260923T131600Z
 SUMMARY:Palma → Bilbao
@@ -173,7 +243,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:768dc187625297954addcfd142114cba813de2bd@globeair.com
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART:20260923T055500Z
 DTEND:20260923T070300Z
 SUMMARY:Pisa → Olbia
@@ -196,7 +266,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260922T184003Z
+DTSTAMP:20260922T190554Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
