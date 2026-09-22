@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:jetfly-16105@emptylegs.local
-DTSTAMP:20260922T103836Z
+DTSTAMP:20260922T110640Z
 DTSTART:20260923T103000Z
 DTEND:20260923T112000Z
 SUMMARY:Karlstad → Oslo
@@ -26,18 +26,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:da9d4243700eb261388881c3568e2e27432593dd@globeair.com
-DTSTAMP:20260922T103836Z
+DTSTAMP:20260922T110640Z
 DTSTART:20260923T114000Z
 DTEND:20260923T132500Z
 SUMMARY:Palma → Bilbao
 LOCATION:Palma
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  PMI → BIO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 36%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: PMI → BIO\nSource: GlobeAir\nOriginal price: €10
+ \,500\nCurrent price: €1\,290 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC672X\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/da
+ 9d4243\n\nPlease note: All empty leg flights are subject to schedule cha
+ nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
+ flight time: 105 minutes\nDistance: 339 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/da9d4243\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/da9d4243
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
