@@ -8,12 +8,12 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:ae52e2e575d9bcde85208c9268781b6172515a71@emptylegs.local
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Hamburg → Amsterdam
 LOCATION:Hamburg
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDH → EHAM\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa1e2a00f671b2417a495dc8136733fe53c1b69a@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260922T174000Z
 DTEND:20260922T184400Z
 SUMMARY:Hamburg → Amsterdam
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e922192a8e68172a5b2c11b5d63098c0a1a47993@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260922T131500Z
 DTEND:20260922T143000Z
 SUMMARY:Leeds Bradford → Amsterdam
@@ -71,31 +71,13 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:180a54cbcc8fb81bb3e465288014a3f3615869cd@emptylegs.local
-DTSTAMP:20260922T053747Z
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-SUMMARY:Linz → Zagreb
-LOCATION:Linz
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LOWL → LDZA\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:510380513594e8a8e523db4de7573351ca342874@emptylegs.local
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Lugano → Pisa
 LOCATION:Lugano
-DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LSZA → LIRP\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -108,12 +90,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f0ba3361ab2ffdc27e59637c168c6acb4a0a19d1@emptylegs.local
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Zurich → Brussels
 LOCATION:Zurich
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LSZH → EBBR\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -126,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6b60879e945a39539e866e30f982c0264eb3b6@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260922T114500Z
 DTEND:20260922T124300Z
 SUMMARY:Lugano → Pisa
@@ -149,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3ce8f0c8e8550bc2bdb88696706253956a59edd@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260922T121000Z
 DTEND:20260922T132400Z
 SUMMARY:Naples → Olbia
@@ -172,7 +154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b3e037ac759a08a2456d926b5225458f80661df@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260922T113500Z
 DTEND:20260922T130400Z
 SUMMARY:Zurich → Brussels
@@ -195,7 +177,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12ef95f5613ea3a93dacc7b3fa235e24ad2ca043@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260923T033000Z
 DTEND:20260923T043700Z
 SUMMARY:Berlin → Bremen
@@ -217,8 +199,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:093ffc064261618b88e0a318ff7dcc86a4a3114d@emptylegs.local
+DTSTAMP:20260922T060840Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Berlin → Bremen
+LOCATION:Berlin
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDDB → EDDW\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:a877f5a819cdf4edb432688dac3e2f47c4acbf3e@emptylegs.local
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
@@ -237,7 +237,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:84e1989b0fc482a3400d072fd00c0fa13bd85b74@globeair.com
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART:20260923T053500Z
 DTEND:20260923T065900Z
 SUMMARY:Pisa → Avignon
@@ -260,7 +260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260922T053747Z
+DTSTAMP:20260922T060840Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
