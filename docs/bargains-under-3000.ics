@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:3707e1a548b89cadeaa6b065478897806d4338a0@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T133000Z
 DTEND:20260922T143800Z
 SUMMARY:Bordeaux → Avignon
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae52e2e575d9bcde85208c9268781b6172515a71@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Hamburg → Amsterdam
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa1e2a00f671b2417a495dc8136733fe53c1b69a@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T174000Z
 DTEND:20260922T184400Z
 SUMMARY:Hamburg → Amsterdam
@@ -71,31 +71,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e922192a8e68172a5b2c11b5d63098c0a1a47993@globeair.com
-DTSTAMP:20260922T083938Z
-DTSTART:20260922T131500Z
-DTEND:20260922T143000Z
-SUMMARY:Leeds Bradford → Amsterdam
-LOCATION:Leeds Bradford
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LBA → AMS\nSource: GlobeAir\nOriginal price: €10\,4
- 50\nCurrent price: €990 (–91%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 759Y\nFBO: Multiflight\n\nBook now:\nhttps://fly.globeair.com/el/e922192
- a\n\nPlease note: All empty leg flights are subject to schedule change!\
- n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 75 minutes\nDistance: 249 miles\n\nContact us 24/7\nWhatsApp: ht
- tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
- eair.com\nBooking / source: https://fly.globeair.com/el/e922192a\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/e922192a
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:510380513594e8a8e523db4de7573351ca342874@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Lugano → Pisa
@@ -113,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f0ba3361ab2ffdc27e59637c168c6acb4a0a19d1@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20260922
 DTEND;VALUE=DATE:20260923
 SUMMARY:Zurich → Brussels
@@ -131,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6b60879e945a39539e866e30f982c0264eb3b6@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T124000Z
 DTEND:20260922T133800Z
 SUMMARY:Lugano → Pisa
@@ -154,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b3ce8f0c8e8550bc2bdb88696706253956a59edd@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T121000Z
 DTEND:20260922T132400Z
 SUMMARY:Naples → Olbia
@@ -177,9 +154,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:872c26b965e06b6ed1998889f6e254efe50b0f3d@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T140000Z
-DTEND:20260922T151000Z
+DTEND:20260922T150600Z
 SUMMARY:St Brieuc → Bordeaux
 LOCATION:St Brieuc
 DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -188,7 +165,7 @@ DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC415N\nFBO: Arpt St Brieuc-Armor\n\nBook now:\nhttps://fly.globeair.
  com/el/872c26b9\n\nPlease note: All empty leg flights are subject to sch
  edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
- r\nTotal flight time: 70 minutes\nDistance: 239 miles\n\nContact us 24/7
+ r\nTotal flight time: 66 minutes\nDistance: 239 miles\n\nContact us 24/7
  \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
  tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/87
  2c26b9\nEmpty-leg schedules can change or disappear at short notice. Con
@@ -200,7 +177,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2b3e037ac759a08a2456d926b5225458f80661df@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260922T113500Z
 DTEND:20260922T130400Z
 SUMMARY:Zurich → Brussels
@@ -223,7 +200,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:91757fb2eaf07894650dbf7f79948f0bee0b7db6@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260923T075500Z
 DTEND:20260923T091200Z
 SUMMARY:Augsburg → Berlin
@@ -247,7 +224,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12ef95f5613ea3a93dacc7b3fa235e24ad2ca043@globeair.com
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART:20260923T034500Z
 DTEND:20260923T045200Z
 SUMMARY:Berlin → Bremen
@@ -270,7 +247,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:093ffc064261618b88e0a318ff7dcc86a4a3114d@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Berlin → Bremen
@@ -288,7 +265,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a877f5a819cdf4edb432688dac3e2f47c4acbf3e@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
@@ -306,8 +283,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0470db1051e461f8f8051bc1a4fd6b98d78dfab6@globeair.com
+DTSTAMP:20260922T090618Z
+DTSTART:20260923T090000Z
+DTEND:20260923T103000Z
+SUMMARY:Pisa → Munich
+LOCATION:Pisa
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: PSA → MUC\nSource: GlobeAir\nOriginal price: €8\
+ ,300\nCurrent price: €1\,390 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC511D\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/0470db
+ 10\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 90 minutes\nDistance: 285 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/0470db10\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/0470db10
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260922T083938Z
+DTSTAMP:20260922T090618Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
