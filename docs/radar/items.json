@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T08:25:11.562713+00:00",
+  "updated_at": "2026-09-22T12:28:21.927793+00:00",
   "items": [
     {
       "category": "Fibre and connectivity",
@@ -20,7 +20,7 @@
       "published": "2026-09-21T08:28:07+00:00",
       "source": "Telecompaper",
       "summary": "Fitel and Lightera prepare fibre splicing demonstration for ECOC 2026 Telecompaper",
-      "score": 7,
+      "score": 6,
       "why": "Nordic infrastructure signal"
     },
     {
@@ -37,35 +37,13 @@
     {
       "category": "Operators",
       "section": "Telecom",
-      "title": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - webwire.com",
+      "title": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5",
       "published": "2026-09-14T15:09:30+00:00",
-      "source": "webwire.com",
-      "summary": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces webwire.com",
+      "source": "WebWire",
+      "summary": "Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces WebWire",
       "score": 12,
       "why": "Direct Telenor relevance"
-    },
-    {
-      "category": "Operators",
-      "section": "Telecom",
-      "title": "Telenor adds Denmark to its growing list of defence customers - Telecoms",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5",
-      "published": "2026-09-10T12:54:29+00:00",
-      "source": "Telecoms",
-      "summary": "Telenor adds Denmark to its growing list of defence customers Telecoms",
-      "score": 12,
-      "why": "Direct Telenor relevance"
-    },
-    {
-      "category": "Nordic AI infrastructure",
-      "section": "AI / DC",
-      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
-      "published": "2026-09-10T07:00:00+00:00",
-      "source": "Reuters",
-      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland Reuters",
-      "score": 24,
-      "why": "AI / datacentre demand"
     },
     {
       "category": "Nordic AI infrastructure",
@@ -76,6 +54,28 @@
       "source": "thelec.net",
       "summary": "Google to Invest €13 Billion in Finland AI Infrastructure thelec.net",
       "score": 20,
+      "why": "AI / datacentre demand"
+    },
+    {
+      "category": "Operators",
+      "section": "Telecom",
+      "title": "Telenor adds Denmark to its growing list of defence customers - Telecoms",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5",
+      "published": "2026-09-10T07:00:00+00:00",
+      "source": "Telecoms",
+      "summary": "Telenor adds Denmark to its growing list of defence customers Telecoms",
+      "score": 12,
+      "why": "Direct Telenor relevance"
+    },
+    {
+      "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
+      "title": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5",
+      "published": "2026-09-09T07:00:00+00:00",
+      "source": "Reuters",
+      "summary": "Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland Reuters",
+      "score": 24,
       "why": "AI / datacentre demand"
     },
     {
