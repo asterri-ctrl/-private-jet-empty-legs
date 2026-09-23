@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:9273bf271cdd27958b2ed2a34cd07dc5340cf943@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T045000Z
 DTEND:20260924T065300Z
 SUMMARY:Malaga → Barcelona
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ab52fead4eb823441415670903d82d4e7ad94d21@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T095000Z
-DTEND:20260924T110200Z
+DTEND:20260924T105500Z
 SUMMARY:San Sebastian → Madrid
 LOCATION:San Sebastian
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -42,7 +42,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC853N\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/ab52f
  ead\n\nPlease note: All empty leg flights are subject to schedule change
  !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 72 minutes\nDistance: 190 miles\n\nContact us 24/7\nWhatsApp: 
+ ght time: 65 minutes\nDistance: 190 miles\n\nContact us 24/7\nWhatsApp: 
  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
  obeair.com\nBooking / source: https://fly.globeair.com/el/ab52fead\nEmpt
  y-leg schedules can change or disappear at short notice. Confirm with th
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55749bb249ded601a516ea6402819084e2acb905@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T083000Z
 DTEND:20260924T094700Z
 SUMMARY:Genoa → Pescara
@@ -77,7 +77,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0650f1727fc60574023af2eb771edc705b5509a0@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T130000Z
 DTEND:20260924T135200Z
 SUMMARY:Liege → Lille
@@ -100,7 +100,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f17229165b529be8dca99c81114e8861587b9cc1@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T120000Z
 DTEND:20260924T131600Z
 SUMMARY:Linz → Lahr
@@ -123,7 +123,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c510fa031856b0c61d83add0761bf07ac85fb1fb@globeair.com
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART:20260924T130000Z
 DTEND:20260924T150000Z
 SUMMARY:Verona → Bremen
@@ -146,9 +146,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:41de60e95c76ea1cb46c44fc07393fc453697063@globeair.com
-DTSTAMP:20260923T170624Z
-DTSTART:20260924T122000Z
-DTEND:20260924T133200Z
+DTSTAMP:20260923T173705Z
+DTSTART:20260924T135000Z
+DTEND:20260924T145800Z
 SUMMARY:Verona → Cannes
 LOCATION:Verona
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -157,7 +157,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC011S\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/41de60
  e9\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 72 minutes\nDistance: 201 miles\n\nContact us 24/7\nWhatsApp: h
+ ht time: 68 minutes\nDistance: 201 miles\n\nContact us 24/7\nWhatsApp: h
  ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
  beair.com\nBooking / source: https://fly.globeair.com/el/41de60e9\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
@@ -169,7 +169,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260923T170624Z
+DTSTAMP:20260923T173705Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
