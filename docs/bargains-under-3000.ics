@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:c4bd6888714f2761f7532d64f932918a600798eb@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Augsburg Airport → Berlin Brandenburg Airport
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95bdc4e4cccac0d4be4f3ba65291d0b96024ee65@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Augsburg → Geneva
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0153c36d11665b62613e7478936f57caa0bd820@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:London → Cologne
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d90b8d338ec84addd080aedca01bc85b476a1463@globeair.com
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART:20260923T145000Z
 DTEND:20260923T155900Z
 SUMMARY:Genoa → Geneva
@@ -84,31 +84,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e00d231c72526568254a1f90c8aa412ac384ad22@globeair.com
-DTSTAMP:20260923T093849Z
-DTSTART:20260923T120000Z
-DTEND:20260923T123000Z
-SUMMARY:Innsbruck → Bolzano
-LOCATION:Innsbruck
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: INN → BZO\nSource: GlobeAir\nOriginal price: €6\
- ,700\nCurrent price: €1\,090 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC314X\nFBO: Tiroler Flughafen\n\nBook now:\nhttps://fly.globeair.com
- /el/e00d231c\n\nPlease note: All empty leg flights are subject to schedu
- le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
- Total flight time: 30 minutes\nDistance: 48 miles\n\nContact us 24/7\nWh
- atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
- rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/e00d23
- 1c\nEmpty-leg schedules can change or disappear at short notice. Confirm
-  with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/e00d231c
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:957850d765f01657b69569da52664bf9324ba79c@globeair.com
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART:20260923T140000Z
 DTEND:20260923T150000Z
 SUMMARY:London → Rotterdam
@@ -131,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db0ad07c418073754a28756ae2a28bbd69d8dee2@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Innsbruck → Bolzano
@@ -148,31 +125,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:da9d4243700eb261388881c3568e2e27432593dd@globeair.com
-DTSTAMP:20260923T093849Z
-DTSTART:20260923T114000Z
-DTEND:20260923T131600Z
-SUMMARY:Palma → Bilbao
-LOCATION:Palma
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: PMI → BIO\nSource: GlobeAir\nOriginal price: €10\,5
- 00\nCurrent price: €990 (–91%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 672X\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/da9d4243
- \n\nPlease note: All empty leg flights are subject to schedule change!\n
- \nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight
-  time: 96 minutes\nDistance: 339 miles\n\nContact us 24/7\nWhatsApp: htt
- ps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globe
- air.com\nBooking / source: https://fly.globeair.com/el/da9d4243\nEmpty-l
- eg schedules can change or disappear at short notice. Confirm with the o
- perator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/da9d4243
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:9273bf271cdd27958b2ed2a34cd07dc5340cf943@globeair.com
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART:20260924T052000Z
 DTEND:20260924T070100Z
 SUMMARY:Malaga → Barcelona
@@ -194,8 +148,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9d51b889f8bf1bc17c5f02124284e0070a58af87@globeair.com
+DTSTAMP:20260923T100617Z
+DTSTART:20260924T104400Z
+DTEND:20260924T121500Z
+SUMMARY:San Sebastian → Cannes
+LOCATION:San Sebastian
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EAS → CEQ\nSource: GlobeAir\nOriginal price: €11
+ \,600\nCurrent price: €1\,290 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC259D\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/9d51
+ b889\n\nPlease note: All empty leg flights are subject to schedule chang
+ e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
+ ight time: 91 minutes\nDistance: 381 miles\n\nContact us 24/7\nWhatsApp:
+  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
+ lobeair.com\nBooking / source: https://fly.globeair.com/el/9d51b889\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/9d51b889
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b37cd569fa8a385fa143dcc4f37e099b700fefb4@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Frankfurt → Liverpool
@@ -213,7 +190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:659636763e8d97e0bea748594add71fbf787fac5@globeair.com
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART:20260924T064500Z
 DTEND:20260924T090100Z
 SUMMARY:Frankfurt → Liverpool
@@ -237,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b93562b60a73e9f60409baf6a0b08b0e56ced537@globeair.com
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART:20260924T083000Z
 DTEND:20260924T101500Z
 SUMMARY:La Rochelle → Norwich
@@ -259,8 +236,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:ef922f142fcb035871b3516139ca74e6a1efe779@globeair.com
+DTSTAMP:20260923T100617Z
+DTSTART:20260924T080100Z
+DTEND:20260924T094500Z
+SUMMARY:Zurich → Pescara
+LOCATION:Zurich
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: ZRH → PSR\nSource: GlobeAir\nOriginal price: €9\
+ ,100\nCurrent price: €1\,390 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC155F\nFBO: Jet Aviation (South)\n\nBook now:\nhttps://fly.globeair.
+ com/el/ef922f14\n\nPlease note: All empty leg flights are subject to sch
+ edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
+ r\nTotal flight time: 104 minutes\nDistance: 384 miles\n\nContact us 24/
+ 7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cu
+ stomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/e
+ f922f14\nEmpty-leg schedules can change or disappear at short notice. Co
+ nfirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/ef922f14
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260923T093849Z
+DTSTAMP:20260923T100617Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
