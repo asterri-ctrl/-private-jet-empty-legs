@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-22 20:22 UTC · public web sources only_
+_Updated 2026-09-23 00:28 UTC · public web sources only_
 
 ## AI / DC
 
@@ -15,7 +15,7 @@ _Updated 2026-09-22 20:22 UTC · public web sources only_
 ## Telecom
 
 - [Summit Issuer dark fiber notes affirmed at A-sf by Fitch - Traders Union](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlJzS3FidTY1WUZUSXBPN0k3RTRNM19kZS00a1R4UTFPSWk0NC1reUJxQW01YTZUWEY5QUJXOG5xOGVDVjBVUUtWdTZ3bGtTcF9mLVBHaHItdkhsSzR2QXd0ZFNmSlZMR25NMXllazg5X1VLc1Fua1VqbHlFYm9fbDRCY3pIa28xUi03MDZSYjFoS045M19hR3B4OA?oc=5) · 2026-09-22 — Traders Union
-- [Fitel and Lightera prepare fibre splicing demonstration for ECOC 2026 - telecompaper.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0JDOW50ZmYyS1doSDBqcERyb2E3QnEyVF9peXZoX09SNnhrdXZPWGFnT1RWZy1KZ2lVTERWRnZMc2VjNzNUR1ZyY3Q5VlY1X3lxNW9kVi1rSWswcmZFemFnSnhQS2x2cnJpZnJtN2NSNWRzZGtocWU2S04yNjUzTlRiMXhNNFd1Y0JBMTZOa0VTbG10bE5Ua2ZFSTRsUzkxcHNFN1NNOTZ5RGxiMTdWemNR?oc=5) · 2026-09-21 — telecompaper.com
+- [Fitel and Lightera prepare fibre splicing demonstration for ECOC 2026 - Telecompaper](https://news.google.com/rss/articles/CBMisgFBVV95cUxQT0JDOW50ZmYyS1doSDBqcERyb2E3QnEyVF9peXZoX09SNnhrdXZPWGFnT1RWZy1KZ2lVTERWRnZMc2VjNzNUR1ZyY3Q5VlY1X3lxNW9kVi1rSWswcmZFemFnSnhQS2x2cnJpZnJtN2NSNWRzZGtocWU2S04yNjUzTlRiMXhNNFd1Y0JBMTZOa0VTbG10bE5Ua2ZFSTRsUzkxcHNFN1NNOTZ5RGxiMTdWemNR?oc=5) · 2026-09-21 — Telecompaper
 - [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
 
