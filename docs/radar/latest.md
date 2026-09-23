@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-23 00:28 UTC · public web sources only_
+_Updated 2026-09-23 04:24 UTC · public web sources only_
 
 ## AI / DC
 
@@ -10,7 +10,7 @@ _Updated 2026-09-23 00:28 UTC · public web sources only_
 - [Twelve countries including France, UK to sanction trade with Israeli settlements - Taipei Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zd0tVUjJ5cFExdXV1Tkhsa1lvclFVYmdaQ2FYU2t5ZE9kRlBiTTl3bXRoVzdlRTgyZmlpMDkzSWFicHp5X2VlSTJBTU5DVXlxWUFhN2lGLWJydF9VY1dQQ1p3enMtZVBGRkxiZXl6SkR1dVlObjBCZg?oc=5) · 2026-09-09 — Taipei Times
 - [Equinix & CPP close acquisition of atNorth - Data Center Dynamics](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FUblZ0Wl9ERGlUd0J6elZXRjdZR1Y2OUROc2FmVkhiN25ZZzU0NTRTcklCd2tDLURTT210Z2ozSXJFMWN1MkxSZDY0MW1aWExGT2VJMHl5Y2NUOW5BSHJSVlE4aUZBSTJpbnU5b2k3ekdEb0dHNy1aWkxsdWt2S2FkbFJQMTNnUVJTZw?oc=5) · 2026-09-04 — Data Center Dynamics
 - [Bull selected to deliver AMD-powered Lumi-AI supercomputer - Data Center Dynamics](https://news.google.com/rss/articles/CBMipAFBVV95cUxNS1dhdFNRQVc5ZlgwVWRzQk5yc2xncGRQd0M3cE4xcE9NaXdadERSRldsZnNtZHVsdzVINUpFWWxuZEdHa3ZfampMRFFtVjhEbTVGMEN4Y0RLZU9kdHdsTTJVaUNabG91ckJTUEtzaWZkOUtlaURCYzFEVWxmRnhqcU9wYTBfRGp0NWpKdlE0enVtbElvZEo4aUl5YWFxdjR4MVNSYQ?oc=5) · 2026-09-03 — Data Center Dynamics
-- [CPP Investments, Equinix Close $4B atNorth Deal as Partners Group Keeps 10% - Unite.AI](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzBYanhsTmotckNDalVuc2ZLaHpibzRqSzRpeEVYOGxQRG5mTjd5QTNvMGlkYW1jVTJoZ1Z6Q0x3X3pHUUtBN2pwX0JvSXYwejZCQWQ0NEx3ZTZyaWRQWXRhRk8wM0ktQzVXWEJLQ2VWUlQteWFYOTRpWVdIenFsTTlrekhoQk90c1ZlYlRWRWVEWGx6a29Gd3h3?oc=5) · 2026-09-02 — Unite.AI
+- [CPP Investments, Equinix Close $4B atNorth Deal as Partners Group Keeps 10% - unite.ai](https://news.google.com/rss/articles/CBMimgFBVV95cUxPRzBYanhsTmotckNDalVuc2ZLaHpibzRqSzRpeEVYOGxQRG5mTjd5QTNvMGlkYW1jVTJoZ1Z6Q0x3X3pHUUtBN2pwX0JvSXYwejZCQWQ0NEx3ZTZyaWRQWXRhRk8wM0ktQzVXWEJLQ2VWUlQteWFYOTRpWVdIenFsTTlrekhoQk90c1ZlYlRWRWVEWGx6a29Gd3h3?oc=5) · 2026-09-02 — unite.ai
 
 ## Telecom
 
@@ -21,4 +21,4 @@ _Updated 2026-09-23 00:28 UTC · public web sources only_
 
 ## Regulation
 
-- [Commission welcomes the design of first Important Project of Common European Interest in AI - EU Digital Strategy](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5) · 2026-09-16 — EU Digital Strategy
+- [Commission welcomes the design of first Important Project of Common European Interest in AI - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5) · 2026-09-16 — Shaping Europe’s digital future
