@@ -7,26 +7,8 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:jetfly-16105@emptylegs.local
-DTSTAMP:20260923T070725Z
-DTSTART:20260923T103000Z
-DTEND:20260923T112000Z
-SUMMARY:Karlstad → Oslo
-LOCATION:Karlstad
-DESCRIPTION:Aircraft: PC-12\nAirports: ESOK → ENGM\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-DBM. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:da9d4243700eb261388881c3568e2e27432593dd@globeair.com
-DTSTAMP:20260923T070725Z
+DTSTAMP:20260923T073847Z
 DTSTART:20260923T114000Z
 DTEND:20260923T131600Z
 SUMMARY:Palma → Bilbao
