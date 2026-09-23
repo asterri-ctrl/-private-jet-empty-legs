@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:c4bd6888714f2761f7532d64f932918a600798eb@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Augsburg Airport → Berlin Brandenburg Airport
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:95bdc4e4cccac0d4be4f3ba65291d0b96024ee65@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Augsburg → Geneva
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0153c36d11665b62613e7478936f57caa0bd820@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:London → Cologne
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:db0ad07c418073754a28756ae2a28bbd69d8dee2@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Innsbruck → Bolzano
@@ -80,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9273bf271cdd27958b2ed2a34cd07dc5340cf943@globeair.com
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART:20260924T043000Z
 DTEND:20260924T061000Z
 SUMMARY:Malaga → Barcelona
@@ -103,7 +103,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9d51b889f8bf1bc17c5f02124284e0070a58af87@globeair.com
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART:20260924T102500Z
 DTEND:20260924T115600Z
 SUMMARY:San Sebastian → Cannes
@@ -126,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b37cd569fa8a385fa143dcc4f37e099b700fefb4@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Frankfurt → Liverpool
@@ -144,7 +144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55749bb249ded601a516ea6402819084e2acb905@globeair.com
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART:20260924T083000Z
 DTEND:20260924T094500Z
 SUMMARY:Genoa → Pescara
@@ -166,8 +166,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f17229165b529be8dca99c81114e8861587b9cc1@globeair.com
+DTSTAMP:20260923T120829Z
+DTSTART:20260924T120000Z
+DTEND:20260924T132200Z
+SUMMARY:Linz → Lahr
+LOCATION:Linz
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LNZ → LHA\nSource: GlobeAir\nOriginal price: €8\
+ ,200\nCurrent price: €1\,290 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC026Z\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com/
+ el/f1722916\n\nPlease note: All empty leg flights are subject to schedul
+ e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
+ otal flight time: 82 minutes\nDistance: 254 miles\n\nContact us 24/7\nWh
+ atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
+ rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/f17229
+ 16\nEmpty-leg schedules can change or disappear at short notice. Confirm
+  with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/f1722916
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b93562b60a73e9f60409baf6a0b08b0e56ced537@globeair.com
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART:20260924T083000Z
 DTEND:20260924T101500Z
 SUMMARY:La Rochelle → Norwich
@@ -189,8 +212,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:41de60e95c76ea1cb46c44fc07393fc453697063@globeair.com
+DTSTAMP:20260923T120829Z
+DTSTART:20260924T122000Z
+DTEND:20260924T133200Z
+SUMMARY:Verona → Cannes
+LOCATION:Verona
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VRN → CEQ\nSource: GlobeAir\nOriginal price: €8\
+ ,650\nCurrent price: €1\,390 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC011S\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/41de60
+ e9\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 72 minutes\nDistance: 201 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/41de60e9\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/41de60e9
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260923T113823Z
+DTSTAMP:20260923T120829Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
