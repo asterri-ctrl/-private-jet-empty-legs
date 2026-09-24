@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:0650f1727fc60574023af2eb771edc705b5509a0@globeair.com
-DTSTAMP:20260924T103852Z
-DTSTART:20260924T130000Z
-DTEND:20260924T134900Z
-SUMMARY:Liege → Lille
-LOCATION:Liege
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LGG → LIL\nSource: GlobeAir\nOriginal price: €6\,65
- 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC3
- 09X\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/0650f172\n\
- nPlease note: All empty leg flights are subject to schedule change!\n\nA
- ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
- me: 49 minutes\nDistance: 89 miles\n\nContact us 24/7\nWhatsApp: https:/
- /wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.
- com\nBooking / source: https://fly.globeair.com/el/0650f172\nEmpty-leg s
- chedules can change or disappear at short notice. Confirm with the opera
- tor/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/0650f172
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:092890cfdfc797a2b155c0457939ac9c3b2dd367@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Verona → Bremen
@@ -49,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f07138f77b63443e93f8e1e1aafe5566befed78@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260924T131500Z
 DTEND:20260924T143100Z
 SUMMARY:Linz → Siegen
@@ -72,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20b94c2e82bde84b8c9790de58ec41632bbb52c8@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Linz → Lahr
@@ -90,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:41de60e95c76ea1cb46c44fc07393fc453697063@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260924T133500Z
 DTEND:20260924T145600Z
 SUMMARY:Verona → Cannes
@@ -113,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:de1c84ab106f688b333047962236b5aef4df9c87@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T072000Z
 DTEND:20260925T082000Z
 SUMMARY:Bologna → Lugano
@@ -136,7 +113,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8bdbc312c49cd6c873592ad7d4b75fba7623147a@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T091500Z
 DTEND:20260925T105200Z
 SUMMARY:Basel → Berlin
@@ -158,8 +135,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:cdf56d186b974b7c0cdeb624232109ce1753dbe6@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T113000Z
+DTEND:20260925T130600Z
+SUMMARY:Dijon → Jersey
+LOCATION:Dijon
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: DIJ → JER\nSource: GlobeAir\nOriginal price: €10
+ \,000\nCurrent price: €1\,710 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC604T\nFBO: EDEIS Aéroport Dijon\n\nBook now:\nhttps://fly.globeair
+ .com/el/cdf56d18\n\nPlease note: All empty leg flights are subject to sc
+ hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
+ ir\nTotal flight time: 96 minutes\nDistance: 313 miles\n\nContact us 24/
+ 7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cu
+ stomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/c
+ df56d18\nEmpty-leg schedules can change or disappear at short notice. Co
+ nfirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/cdf56d18
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:76dc8424733a4fc99a35bbbe84ba2ab50d1858aa@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T062000Z
 DTEND:20260925T080000Z
 SUMMARY:Ibiza → Cannes
@@ -182,7 +182,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:621482f7567df74eb18ef7da4b540203596c3b35@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T062000Z
 DTEND:20260925T075900Z
 SUMMARY:Innsbruck → Bremen
@@ -204,8 +204,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e846ff59fcfe101d8a55e6a4f5e0ca9ccb89f97e@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T114500Z
+DTEND:20260925T124300Z
+SUMMARY:Luxembourg → Zurich
+LOCATION:Luxembourg
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LUX → ZRH\nSource: GlobeAir\nOriginal price: €7\
+ ,250\nCurrent price: €1\,290 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC092N\nFBO: LUXAIR\n\nBook now:\nhttps://fly.globeair.com/el/e846ff5
+ 9\n\nPlease note: All empty leg flights are subject to schedule change!\
+ n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
+ t time: 58 minutes\nDistance: 159 miles\n\nContact us 24/7\nWhatsApp: ht
+ tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
+ eair.com\nBooking / source: https://fly.globeair.com/el/e846ff59\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e846ff59
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6f66e221fd9ea400d4a0e008c4ab84f5dddbc9c1@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T072500Z
 DTEND:20260925T084800Z
 SUMMARY:Munich → Hannover
@@ -227,32 +250,55 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:89f06fa412f0a191b674795793a665d5a08c9c95@globeair.com
-DTSTAMP:20260924T103852Z
-DTSTART:20260925T095000Z
-DTEND:20260925T105300Z
+UID:b24b134e474cf7ba96247e269adc3996d04407c1@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T103500Z
+DTEND:20260925T123000Z
+SUMMARY:Palma → Milan
+LOCATION:Palma
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: PMI → LIN\nSource: GlobeAir\nOriginal price: €10
+ \,100\nCurrent price: €1\,390 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC124W\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/b2
+ 4b134e\n\nPlease note: All empty leg flights are subject to schedule cha
+ nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
+ flight time: 115 minutes\nDistance: 457 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/b24b134e\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/b24b134e
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:983ace3e44c755715ac0d0e436a3eece295b7473@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T111500Z
+DTEND:20260925T121800Z
 SUMMARY:Toulon → Milan
 LOCATION:Toulon
 DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: TLN → LIN\nSource: GlobeAir\nOriginal price: €8\
  ,800\nCurrent price: €1\,810 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC124W\nFBO: Vinci Airports Executive Handling\n\nBook now:\nhttps://
- fly.globeair.com/el/89f06fa4\n\nPlease note: All empty leg flights are s
+ : GAC293P\nFBO: Vinci Airports Executive Handling\n\nBook now:\nhttps://
+ fly.globeair.com/el/983ace3e\n\nPlease note: All empty leg flights are s
  ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
  ed by GlobeAir\nTotal flight time: 63 minutes\nDistance: 195 miles\n\nCo
  ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
  0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
- air.com/el/89f06fa4\nEmpty-leg schedules can change or disappear at shor
+ air.com/el/983ace3e\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
  el plans.
-URL:https://fly.globeair.com/el/89f06fa4
+URL:https://fly.globeair.com/el/983ace3e
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport

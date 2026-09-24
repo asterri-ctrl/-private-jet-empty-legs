@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:0650f1727fc60574023af2eb771edc705b5509a0@globeair.com
-DTSTAMP:20260924T103852Z
-DTSTART:20260924T130000Z
-DTEND:20260924T134900Z
-SUMMARY:Liege → Lille
-LOCATION:Liege
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LGG → LIL\nSource: GlobeAir\nOriginal price: €6\,65
- 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC3
- 09X\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/0650f172\n\
- nPlease note: All empty leg flights are subject to schedule change!\n\nA
- ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
- me: 49 minutes\nDistance: 89 miles\n\nContact us 24/7\nWhatsApp: https:/
- /wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.
- com\nBooking / source: https://fly.globeair.com/el/0650f172\nEmpty-leg s
- chedules can change or disappear at short notice. Confirm with the opera
- tor/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/0650f172
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:092890cfdfc797a2b155c0457939ac9c3b2dd367@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Verona → Bremen
@@ -49,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20b94c2e82bde84b8c9790de58ec41632bbb52c8@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Linz → Lahr
@@ -67,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16092@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T110000Z
 DTEND:20260925T124500Z
 SUMMARY:Oostende → Lausanne
@@ -85,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16339@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T063000Z
 DTEND:20260925T073000Z
 SUMMARY:Annecy → Milano
@@ -103,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16100@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T093000Z
 DTEND:20260925T110500Z
 SUMMARY:Hyeres → Roma
@@ -121,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16340@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T110000Z
 DTEND:20260925T113500Z
 SUMMARY: Saint-Tropez → Nice
@@ -139,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16106@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T140000Z
 DTEND:20260925T152500Z
 SUMMARY:Bolzano → Geneva
@@ -157,7 +134,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16091@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T070000Z
 DTEND:20260925T073500Z
 SUMMARY:Lausanne → Geneva
@@ -175,7 +152,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c16e9ccc1fd4bc3eca94ffcb320e589c1ad26f@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:Bern Belp Airport → Mengen-Hohentengen Airport
@@ -193,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eff5640134da8628cde238e3595962dda4a782ef@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
 SUMMARY:St Gallen Altenrhein Airport → Braunschweig Wolfsburg Airport
@@ -211,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00a446c1de0519a3912eb28c11483076ee587ac8@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260925T154000Z
 DTEND:20260925T165300Z
 SUMMARY:Perugia → Milan
@@ -228,50 +205,55 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:432044b08f1354a4cbb6e763b4a50ed96158e9ac@globeair.com
-DTSTAMP:20260924T103852Z
-DTSTART:20260925T113500Z
-DTEND:20260925T133000Z
+UID:b24b134e474cf7ba96247e269adc3996d04407c1@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T103500Z
+DTEND:20260925T123000Z
 SUMMARY:Palma → Milan
 LOCATION:Palma
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  PMI → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 30%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: PMI → LIN\nSource: GlobeAir\nOriginal price: €10
+ \,100\nCurrent price: €1\,390 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC124W\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/b2
+ 4b134e\n\nPlease note: All empty leg flights are subject to schedule cha
+ nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
+ flight time: 115 minutes\nDistance: 457 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/b24b134e\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/b24b134e
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:89f06fa412f0a191b674795793a665d5a08c9c95@globeair.com
-DTSTAMP:20260924T103852Z
-DTSTART:20260925T095000Z
-DTEND:20260925T105300Z
+UID:983ace3e44c755715ac0d0e436a3eece295b7473@globeair.com
+DTSTAMP:20260924T110629Z
+DTSTART:20260925T111500Z
+DTEND:20260925T121800Z
 SUMMARY:Toulon → Milan
 LOCATION:Toulon
 DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: TLN → LIN\nSource: GlobeAir\nOriginal price: €8\
  ,800\nCurrent price: €1\,810 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC124W\nFBO: Vinci Airports Executive Handling\n\nBook now:\nhttps://
- fly.globeair.com/el/89f06fa4\n\nPlease note: All empty leg flights are s
+ : GAC293P\nFBO: Vinci Airports Executive Handling\n\nBook now:\nhttps://
+ fly.globeair.com/el/983ace3e\n\nPlease note: All empty leg flights are s
  ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
  ed by GlobeAir\nTotal flight time: 63 minutes\nDistance: 195 miles\n\nCo
  ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
  0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
- air.com/el/89f06fa4\nEmpty-leg schedules can change or disappear at shor
+ air.com/el/983ace3e\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
  el plans.
-URL:https://fly.globeair.com/el/89f06fa4
+URL:https://fly.globeair.com/el/983ace3e
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:aa651dfbda8cf5acf657f8d88efb7694d8876d32@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Wiener Neustadt East Airport → Sarmellek International Airport
@@ -289,7 +271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16214@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260928T134500Z
 DTEND:20260928T160000Z
 SUMMARY: Saint-Tropez → Laval
@@ -307,7 +289,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34462193600c5b53d10d0abe86902857d208a6a3@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Geneva Cointrin International Airport → Mengen-Hohentengen Airpor
@@ -326,7 +308,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cabbab958822a4ad9dce61290d0f1ab72bd343c9@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Zurich Airport → Torino / Caselle International Airport
@@ -344,7 +326,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16251@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260929T111000Z
 DTEND:20260929T132000Z
 SUMMARY:Albacete →  Saint-Tropez
@@ -362,7 +344,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16253@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260929T102500Z
 DTEND:20260929T120500Z
 SUMMARY:Palma → Nice
@@ -380,7 +362,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16252@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260929T074500Z
 DTEND:20260929T091500Z
 SUMMARY:Lausanne → Pontoise
@@ -398,7 +380,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0b6797ab5e54cf5c34b9a11e2d9eb1d3467dad58@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Paris-Le Bourget Airport → Zurich Airport
@@ -416,7 +398,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16293@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260930T080000Z
 DTEND:20260930T092500Z
 SUMMARY:Pontoise → Lausanne
@@ -434,7 +416,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16292@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260930T095000Z
 DTEND:20260930T103500Z
 SUMMARY:Milano → Geneva
@@ -452,7 +434,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16291@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20260930T045000Z
 DTEND:20260930T063500Z
 SUMMARY:Geneva → Naples
@@ -470,7 +452,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:17f467ad019ca7b498def0fa89331ea7a6cfc28d@globeair.com
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART:20261001T101000Z
 DTEND:20261001T110000Z
 SUMMARY:Bolzano → Milan
@@ -488,7 +470,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:01504a9470eccad07fbf2d1ccefdc49ade23f603@emptylegs.local
-DTSTAMP:20260924T103852Z
+DTSTAMP:20260924T110629Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Zurich Airport → Oberpfaffenhofen Airport
