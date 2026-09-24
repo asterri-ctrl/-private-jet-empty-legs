@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:8d7a04531b572c13f20f9776ab34a0a2cfd574d4@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260924T095000Z
 DTEND:20260924T105500Z
 SUMMARY:San Sebastian → Madrid
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0650f1727fc60574023af2eb771edc705b5509a0@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260924T130000Z
 DTEND:20260924T134900Z
 SUMMARY:Liege → Lille
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:092890cfdfc797a2b155c0457939ac9c3b2dd367@emptylegs.local
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Verona → Bremen
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f17229165b529be8dca99c81114e8861587b9cc1@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260924T120000Z
 DTEND:20260924T131600Z
 SUMMARY:Linz → Lahr
@@ -95,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20b94c2e82bde84b8c9790de58ec41632bbb52c8@emptylegs.local
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Linz → Lahr
@@ -113,7 +113,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c510fa031856b0c61d83add0761bf07ac85fb1fb@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260924T140000Z
 DTEND:20260924T162900Z
 SUMMARY:Verona → Bremen
@@ -136,7 +136,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:41de60e95c76ea1cb46c44fc07393fc453697063@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260924T133500Z
 DTEND:20260924T145600Z
 SUMMARY:Verona → Cannes
@@ -158,8 +158,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:de1c84ab106f688b333047962236b5aef4df9c87@globeair.com
+DTSTAMP:20260924T070731Z
+DTSTART:20260925T072000Z
+DTEND:20260925T082000Z
+SUMMARY:Bologna → Lugano
+LOCATION:Bologna
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BLQ → LUG\nSource: GlobeAir\nOriginal price: €7\
+ ,050\nCurrent price: €1\,390 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC211J\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/de1c84
+ ab\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 60 minutes\nDistance: 134 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/de1c84ab\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/de1c84ab
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:76dc8424733a4fc99a35bbbe84ba2ab50d1858aa@globeair.com
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART:20260925T062000Z
 DTEND:20260925T080000Z
 SUMMARY:Ibiza → Cannes
@@ -181,8 +204,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:6f66e221fd9ea400d4a0e008c4ab84f5dddbc9c1@globeair.com
+DTSTAMP:20260924T070731Z
+DTSTART:20260925T072500Z
+DTEND:20260925T084800Z
+SUMMARY:Munich → Hannover
+LOCATION:Munich
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: MUC → HAJ\nSource: GlobeAir\nOriginal price: €8\
+ ,850\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC401D\nFBO: ExecuJet Europe GmbH\n\nBook now:\nhttps://fly.globeair.
+ com/el/6f66e221\n\nPlease note: All empty leg flights are subject to sch
+ edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
+ r\nTotal flight time: 83 minutes\nDistance: 259 miles\n\nContact us 24/7
+ \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
+ tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/6f
+ 66e221\nEmpty-leg schedules can change or disappear at short notice. Con
+ firm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/6f66e221
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260924T064226Z
+DTSTAMP:20260924T070731Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
