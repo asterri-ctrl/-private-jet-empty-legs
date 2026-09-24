@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:8d7a04531b572c13f20f9776ab34a0a2cfd574d4@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T095000Z
 DTEND:20260924T105500Z
 SUMMARY:San Sebastian → Madrid
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:55749bb249ded601a516ea6402819084e2acb905@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T083000Z
 DTEND:20260924T094700Z
 SUMMARY:Genoa → Pescara
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0650f1727fc60574023af2eb771edc705b5509a0@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T130000Z
 DTEND:20260924T134900Z
 SUMMARY:Liege → Lille
@@ -77,12 +77,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:092890cfdfc797a2b155c0457939ac9c3b2dd367@emptylegs.local
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Verona → Bremen
 LOCATION:Verona
-DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LIPX → EDDW\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -95,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f17229165b529be8dca99c81114e8861587b9cc1@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T120000Z
 DTEND:20260924T131600Z
 SUMMARY:Linz → Lahr
@@ -118,12 +118,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:20b94c2e82bde84b8c9790de58ec41632bbb52c8@emptylegs.local
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
 SUMMARY:Linz → Lahr
 LOCATION:Linz
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LOWL → EDTL\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -136,7 +136,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c510fa031856b0c61d83add0761bf07ac85fb1fb@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T140000Z
 DTEND:20260924T162900Z
 SUMMARY:Verona → Bremen
@@ -159,7 +159,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:41de60e95c76ea1cb46c44fc07393fc453697063@globeair.com
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART:20260924T133500Z
 DTEND:20260924T145600Z
 SUMMARY:Verona → Cannes
@@ -181,8 +181,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:76dc8424733a4fc99a35bbbe84ba2ab50d1858aa@globeair.com
+DTSTAMP:20260924T060835Z
+DTSTART:20260925T062000Z
+DTEND:20260925T080000Z
+SUMMARY:Ibiza → Cannes
+LOCATION:Ibiza
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: IBZ → CEQ\nSource: GlobeAir\nOriginal price: €10
+ \,000\nCurrent price: €1\,290 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC259D\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/76dc
+ 8424\n\nPlease note: All empty leg flights are subject to schedule chang
+ e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
+ ight time: 100 minutes\nDistance: 377 miles\n\nContact us 24/7\nWhatsApp
+ : https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@
+ globeair.com\nBooking / source: https://fly.globeair.com/el/76dc8424\nEm
+ pty-leg schedules can change or disappear at short notice. Confirm with 
+ the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/76dc8424
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260924T053743Z
+DTSTAMP:20260924T060835Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
