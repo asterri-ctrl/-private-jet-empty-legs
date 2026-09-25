@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:e1e005385feb8306811f58e8144ec0e1a1bb0056@globeair.com
-DTSTAMP:20260925T124235Z
+DTSTAMP:20260925T130844Z
 DTSTART:20260926T082000Z
 DTEND:20260926T100300Z
 SUMMARY:Avignon → Valencia
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c9ba22c611880d316856759204573c103472555a@globeair.com
-DTSTAMP:20260925T124235Z
+DTSTAMP:20260925T130844Z
 DTSTART:20260926T124000Z
-DTEND:20260926T140000Z
+DTEND:20260926T135500Z
 SUMMARY:Girona → San Sebastian
 LOCATION:Girona
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -42,7 +42,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC893A\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/c9ba2
  2c6\n\nPlease note: All empty leg flights are subject to schedule change
  !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 80 minutes\nDistance: 219 miles\n\nContact us 24/7\nWhatsApp: 
+ ght time: 75 minutes\nDistance: 219 miles\n\nContact us 24/7\nWhatsApp: 
  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
  obeair.com\nBooking / source: https://fly.globeair.com/el/c9ba22c6\nEmpt
  y-leg schedules can change or disappear at short notice. Confirm with th
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00a446c1de0519a3912eb28c11483076ee587ac8@globeair.com
-DTSTAMP:20260925T124235Z
+DTSTAMP:20260925T130844Z
 DTSTART:20260926T062500Z
 DTEND:20260926T072900Z
 SUMMARY:Perugia → Milan
@@ -77,7 +77,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260925T124235Z
+DTSTAMP:20260925T130844Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
