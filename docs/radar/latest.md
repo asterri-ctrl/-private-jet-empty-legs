@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-25 04:24 UTC · public web sources only_
+_Updated 2026-09-25 08:25 UTC · public web sources only_
 
 ## AI / DC
 
@@ -9,10 +9,10 @@ _Updated 2026-09-25 04:24 UTC · public web sources only_
 - [Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud - EU-Startups](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamo5WWhjMEpjdmRVQmJ4NHp5TGo0alc1MWFzODF0NnlYVXRBZThqT1ZqZXNZQ0RDaWNFdGtqNFZSRngwQk1sb01pOUlNNWxEOFNvRjBoZmhzckc2aUtyQVB5dExvZEt4dUpJeDhXc0pObW5vLTVrN3J5SUkxRTlnY3ZuX2NIdWg3WTdRWHNyUzRiQXhWcTRpXzJzc3hCVWdmcEVMV3V2U0JscktSd1BfY2l3SVNwMEdPOEdzYklTNk9aWTh5aU55a3ZhWFZ4VTRTcXRPQTlad19NNEtlZXc?oc=5) · 2026-09-22 — EU-Startups
 - [Google to invest $15 billion in AI infrastructure and buy nuclear power in Finland - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxNcGlWeGFlRDRYZVowU2Y0Y0FJTlRmQW5ubjJwNGcxb3NsQnRBUVo5eWtMdnhoSlAzM0FKdlJHWkpJR2lxZUZHcWg5cFBqb1NxNm9Ma0MwR3AweEZpUEFTZ1JRZ3pjSDN6V2VOdE1nUjhBQU1PdlJ5Z29xSDloZHZOOExRbHotYVlRUDd0X2tpa2JVR3U1NTBHc3VhZkYzMDN4ZE9KWl9lZnFBZzkwZEE?oc=5) · 2026-09-09 — Reuters
 - [Twelve countries including France, UK to sanction trade with Israeli settlements - Taipei Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE1Zd0tVUjJ5cFExdXV1Tkhsa1lvclFVYmdaQ2FYU2t5ZE9kRlBiTTl3bXRoVzdlRTgyZmlpMDkzSWFicHp5X2VlSTJBTU5DVXlxWUFhN2lGLWJydF9VY1dQQ1p3enMtZVBGRkxiZXl6SkR1dVlObjBCZg?oc=5) · 2026-09-09 — Taipei Times
-- [Equinix & CPP close acquisition of atNorth - Data Center Dynamics](https://news.google.com/rss/articles/CBMijAFBVV95cUxPS0FUblZ0Wl9ERGlUd0J6elZXRjdZR1Y2OUROc2FmVkhiN25ZZzU0NTRTcklCd2tDLURTT210Z2ozSXJFMWN1MkxSZDY0MW1aWExGT2VJMHl5Y2NUOW5BSHJSVlE4aUZBSTJpbnU5b2k3ekdEb0dHNy1aWkxsdWt2S2FkbFJQMTNnUVJTZw?oc=5) · 2026-09-04 — Data Center Dynamics
 
 ## Telecom
 
+- [FLAG, Xenith IG Expand Singapore Dark Fibre Partnership - The Fast Mode](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1pKYThEXzhydUF4NThESXZwX3VuTTIxY1NVZTRVZVpsWVpiSDZ0eVNLTUM2dkxtcHIzeGZLcUVrbUJqRzROWXFneDVIQTVWWUlkSDY4N2t3SEVFdldjel90MVVnU1dfSGZVRUNXM050YlZlZG9udy1ibmpaT1BHcU5jZTVnMERmNWFsdTF2cmJ4RFZhRjZTazAzc2JvWXN2aVFZM05kOVFrXy1zM3c?oc=5) · 2026-09-24 — The Fast Mode
 - [Summit Issuer dark fiber notes affirmed at A-sf by Fitch - Traders Union](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlJzS3FidTY1WUZUSXBPN0k3RTRNM19kZS00a1R4UTFPSWk0NC1reUJxQW01YTZUWEY5QUJXOG5xOGVDVjBVUUtWdTZ3bGtTcF9mLVBHaHItdkhsSzR2QXd0ZFNmSlZMR25NMXllazg5X1VLc1Fua1VqbHlFYm9fbDRCY3pIa28xUi03MDZSYjFoS045M19hR3B4OA?oc=5) · 2026-09-22 — Traders Union
 - [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
