@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-09-25 16:25 UTC · public web sources only_
+_Updated 2026-09-25 20:22 UTC · public web sources only_
 
 ## AI / DC
 
@@ -12,8 +12,8 @@ _Updated 2026-09-25 16:25 UTC · public web sources only_
 
 ## Telecom
 
+- [XS2911004658 Bond Profile: Coupon and Redemption - TradingView](https://news.google.com/rss/articles/CBMicEFVX3lxTE1IZmtYcTZvOG9ZV2ZwQXBxbGpndUlBMzZwenlnYnc5RV9DMmczSmxTdS1MRG5lanBZdXpQRHJ0V1Y3MUNUOExRODlLdnFjTmFFdXNwSGxySGFUR0lRQjlQSWF0RnlpeV9BcGwzQ2ozdkM?oc=5) · 2026-09-25 — TradingView
 - [FLAG, Xenith IG Expand Singapore Dark Fibre Partnership - The Fast Mode](https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1pKYThEXzhydUF4NThESXZwX3VuTTIxY1NVZTRVZVpsWVpiSDZ0eVNLTUM2dkxtcHIzeGZLcUVrbUJqRzROWXFneDVIQTVWWUlkSDY4N2t3SEVFdldjel90MVVnU1dfSGZVRUNXM050YlZlZG9udy1ibmpaT1BHcU5jZTVnMERmNWFsdTF2cmJ4RFZhRjZTazAzc2JvWXN2aVFZM05kOVFrXy1zM3c?oc=5) · 2026-09-24 — The Fast Mode
-- [XS2911013303 Bond Profile: Coupon and Redemption - TradingView](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ibHNPbTZVLWdoVnMyQWZ6QjVfS0VCZnUwalpVYkw1MGFHb21kR05oTDZiaTB6SkVwbVhIQkduNmNTNVlwN2dYcEhDekkwSko2TEFiejNmS1lpMGRfX2F1enlyeFR6MVFkVHR5TVNSWHA?oc=5) · 2026-09-24 — TradingView
 - [Summit Issuer dark fiber notes affirmed at A-sf by Fitch - Traders Union](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlJzS3FidTY1WUZUSXBPN0k3RTRNM19kZS00a1R4UTFPSWk0NC1reUJxQW01YTZUWEY5QUJXOG5xOGVDVjBVUUtWdTZ3bGtTcF9mLVBHaHItdkhsSzR2QXd0ZFNmSlZMR25NMXllazg5X1VLc1Fua1VqbHlFYm9fbDRCY3pIa28xUi03MDZSYjFoS045M19hR3B4OA?oc=5) · 2026-09-22 — Traders Union
 - [Telenor’s subsidiary KNL secures framework agreement with the Danish Armed Forces - WebWire](https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pQUxTU1FsOWpaUVJJcHBMdVA1aVVKU0hPTURmYXJnWUd6LV8zOWF0UFlqYW1xVkdLZjZQdGtpU3k1YlVoWFNIUVFRVmtkOWJDbERGRDRJNXl1UVFhSXdYQQ?oc=5) · 2026-09-14 — WebWire
 - [Telenor adds Denmark to its growing list of defence customers - Telecoms](https://news.google.com/rss/articles/CBMirwFBVV95cUxObDVTS1pyT0dxMXpQRkRsZzBGT3dyN0dhb2V4S1VZZ1BwbDAwc19LLXpiNDh5eng2RjVLNVd6Tkk5WlhEbWRURzRIdjU5YXFzNTRCb0Nwd2ZLbU5Ncm9ZcndjSFNPNXh0YTJBaFBXOXl2NW04OXFQOWJ1TWJ2S3h5bW1BR0UyVGxhaGpVc19MU0VyZGZaSGJpQWNZU2VTa1dkVmZPMUFMN05keDBkZS1n?oc=5) · 2026-09-10 — Telecoms
