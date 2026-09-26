@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:e1e005385feb8306811f58e8144ec0e1a1bb0056@globeair.com
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART:20260926T082000Z
 DTEND:20260926T100300Z
 SUMMARY:Avignon → Valencia
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5a9b9a57f2bd0802c464fd7d67ff1a33ae2010f8@globeair.com
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART:20260926T103500Z
 DTEND:20260926T120200Z
 SUMMARY:Dortmund → Berlin
@@ -55,12 +55,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7824afb4c73de854fdcc37186d31a4a8b0c3a12e@emptylegs.local
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Dortmund → Berlin
 LOCATION:Dortmund
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDLW → EDDB\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -72,26 +72,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:3206704a46606cc4000ecc667b4b4eaaf33001f8@emptylegs.local
-DTSTAMP:20260926T053700Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:Augsburg → Berlin
-LOCATION:Augsburg
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EDMA → EDDB\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:c9ba22c611880d316856759204573c103472555a@globeair.com
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART:20260926T124000Z
 DTEND:20260926T135500Z
 SUMMARY:Girona → San Sebastian
@@ -114,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a32e484a811146c7ab49642cceb61e82368aec9c@globeair.com
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART:20260926T160000Z
 DTEND:20260926T173600Z
 SUMMARY:Milan → Olbia
@@ -136,8 +118,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a922cc77f28afbfed3188c7e789aa1627151e582@globeair.com
+DTSTAMP:20260926T060829Z
+DTSTART:20260927T060300Z
+DTEND:20260927T075500Z
+SUMMARY:Paris → Florence
+LOCATION:Paris
+DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LBG → FLR\nSource: GlobeAir\nOriginal price: €11
+ \,000\nCurrent price: €1\,810 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC737S\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glo
+ beair.com/el/a922cc77\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 112 minutes\nDistance: 476 miles\n\nContact 
+ us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEma
+ il: customercare@globeair.com\nBooking / source: https://fly.globeair.co
+ m/el/a922cc77\nEmpty-leg schedules can change or disappear at short noti
+ ce. Confirm with the operator/broker before making connecting travel pla
+ ns.
+URL:https://fly.globeair.com/el/a922cc77
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260926T053700Z
+DTSTAMP:20260926T060829Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
