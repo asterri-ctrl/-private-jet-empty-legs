@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:7824afb4c73de854fdcc37186d31a4a8b0c3a12e@emptylegs.local
-DTSTAMP:20260926T093713Z
+DTSTAMP:20260926T100633Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Dortmund → Berlin
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c9ba22c611880d316856759204573c103472555a@globeair.com
-DTSTAMP:20260926T093713Z
+DTSTAMP:20260926T100633Z
 DTSTART:20260926T124000Z
 DTEND:20260926T135500Z
 SUMMARY:Girona → San Sebastian
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a32e484a811146c7ab49642cceb61e82368aec9c@globeair.com
-DTSTAMP:20260926T093713Z
+DTSTAMP:20260926T100633Z
 DTSTART:20260926T160000Z
 DTEND:20260926T173600Z
 SUMMARY:Milan → Olbia
@@ -71,8 +71,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0b1d378d808b3919ebea7aec018eaa956139f900@globeair.com
+DTSTAMP:20260926T100633Z
+DTSTART:20260927T074000Z
+DTEND:20260927T090000Z
+SUMMARY:Vienna → Munich
+LOCATION:Vienna
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VIE → MUC\nSource: GlobeAir\nOriginal price: €6\
+ ,400\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC962L\nFBO: Jet Aviation Vienna\n\nBook now:\nhttps://fly.globeair.c
+ om/el/0b1d378d\n\nPlease note: All empty leg flights are subject to sche
+ dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
+ \nTotal flight time: 80 minutes\nDistance: 191 miles\n\nContact us 24/7\
+ nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
+ omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/0b1
+ d378d\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/0b1d378d
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:23ec5d091d063b413e7124732e7a4c7ed7f1ce53@globeair.com
-DTSTAMP:20260926T093713Z
+DTSTAMP:20260926T100633Z
 DTSTART:20260927T061300Z
 DTEND:20260927T073000Z
 SUMMARY:Zagreb → Florence
@@ -96,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260926T093713Z
+DTSTAMP:20260926T100633Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
