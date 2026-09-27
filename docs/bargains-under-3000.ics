@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:bfd4a7a63a9845d29ef6ef208689c5b3d86def32@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Linz → Perugia
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f2240c79bb1fec121929a1077ebe2ced75b2791f@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Geneva → Milan
@@ -43,32 +43,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:515a96d0181f3689e58dac7320e9b23bb515a86e@globeair.com
-DTSTAMP:20260927T113736Z
-DTSTART:20260927T135000Z
-DTEND:20260927T150800Z
-SUMMARY:Split → Budapest
-LOCATION:Split
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: SPU → BUD\nSource: GlobeAir\nOriginal price: €7\,90
- 0\nCurrent price: €990 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC9
- 66K\nFBO: SkyStyles VIP Aviation Services\n\nBook now:\nhttps://fly.glob
- eair.com/el/515a96d0\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 78 minutes\nDistance: 265 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/515a96d0\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/515a96d0
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:0d3d8ce00dbff0145ac7584904048f5e041b0da0@globeair.com
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART:20260928T075500Z
 DTEND:20260928T090300Z
 SUMMARY:Barcelona → Marseille
@@ -91,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0766d2e11223c0d50635ce918eea2a91f81c4e32@globeair.com
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART:20260928T090000Z
 DTEND:20260928T100000Z
 SUMMARY:Bremen → Berlin
@@ -114,8 +90,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:5225a3a52069e5367d4cb6d598c05e6c87346786@globeair.com
+DTSTAMP:20260927T120812Z
+DTSTART:20260928T123000Z
+DTEND:20260928T133000Z
+SUMMARY:Cannes → Pisa
+LOCATION:Cannes
+DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: CEQ → PSA\nSource: GlobeAir\nOriginal price: €8\
+ ,200\nCurrent price: €1\,810 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC513D\nFBO: Sky Valet\n\nBook now:\nhttps://fly.globeair.com/el/5225
+ a3a5\n\nPlease note: All empty leg flights are subject to schedule chang
+ e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
+ ight time: 60 minutes\nDistance: 149 miles\n\nContact us 24/7\nWhatsApp:
+  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
+ lobeair.com\nBooking / source: https://fly.globeair.com/el/5225a3a5\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/5225a3a5
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:694cbe962f5081f7b633a6a83c284255b29e4247@globeair.com
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART:20260928T092000Z
 DTEND:20260928T111100Z
 SUMMARY:Geneva → Bremen
@@ -138,7 +137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1645aa8362fbb01e3729f71706df9aab90171118@globeair.com
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART:20260928T050500Z
 DTEND:20260928T070000Z
 SUMMARY:Maastricht → Lorient
@@ -161,7 +160,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -179,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -197,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -215,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260927T113736Z
+DTSTAMP:20260927T120812Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
