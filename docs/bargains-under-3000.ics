@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:dbd923ec811bdda52bde5d75cbb0195e5d77be46@globeair.com
-DTSTAMP:20260928T120805Z
-DTSTART:20260928T154500Z
-DTEND:20260928T170100Z
-SUMMARY:London → Moenchengladbach
-LOCATION:London
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BQH → MGL\nSource: GlobeAir\nOriginal price: €7\,95
- 0\nCurrent price: €990 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC9
- 94N\nFBO: Jetex (former Signature)\n\nBook now:\nhttps://fly.globeair.co
- m/el/dbd923ec\n\nPlease note: All empty leg flights are subject to sched
- ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
- nTotal flight time: 76 minutes\nDistance: 243 miles\n\nContact us 24/7\n
- WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
- mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/dbd9
- 23ec\nEmpty-leg schedules can change or disappear at short notice. Confi
- rm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/dbd923ec
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:7c851af52e1b8df586b26752fd7bf4d673d635a6@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:London → Moenchengladbach
@@ -49,8 +26,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c177dc037ac19617ec99cb58717fdcaf47f23489@globeair.com
-DTSTAMP:20260928T120805Z
-DTSTART:20260929T111700Z
+DTSTAMP:20260928T124534Z
+DTSTART:20260929T111000Z
 DTEND:20260929T130000Z
 SUMMARY:Bari → Olbia
 LOCATION:Bari
@@ -60,7 +37,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC859K\nFBO: Sky Services\n\nBook now:\nhttps://fly.globeair.com/el/
  c177dc03\n\nPlease note: All empty leg flights are subject to schedule c
  hange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTota
- l flight time: 103 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhat
+ l flight time: 110 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhat
  sApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customerc
  are@globeair.com\nBooking / source: https://fly.globeair.com/el/c177dc03
  \nEmpty-leg schedules can change or disappear at short notice. Confirm w
@@ -72,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8801d8199c8bad46dd3d83c7a37ebabd6063eb59@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Leipzig → London
@@ -90,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6f4f15e6760204e494d32ca391464dcddc5ef94f@globeair.com
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART:20260929T080000Z
 DTEND:20260929T100500Z
 SUMMARY:Leipzig → London
@@ -114,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7baeee81407203ff71d947421c7500dee54d8e0a@globeair.com
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART:20260929T124500Z
 DTEND:20260929T133000Z
 SUMMARY:Nice → Aix-Les-Milles
@@ -137,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be38a472ee3ba0c637ba114897f71520f42e5298@globeair.com
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART:20260929T070000Z
 DTEND:20260929T080000Z
 SUMMARY:Nice → Verona
@@ -160,7 +137,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f815e0c93ff1710fc264e8ddc2eba6ba6fb271b7@globeair.com
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART:20260929T062000Z
 DTEND:20260929T070000Z
 SUMMARY:Perugia → Rome
@@ -183,7 +160,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -201,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -219,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -237,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260928T120805Z
+DTSTAMP:20260928T124534Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
