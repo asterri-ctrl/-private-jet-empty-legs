@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:33694ae15ddc7cd11d930b4a365dcc021fdd52f7@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Hannover → Augsburg
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9926a61b69fef8f0c6f2ab8104cbe9b011be78@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Vienna → Innsbruck
@@ -44,9 +44,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5219edbcef63d1441cab6f125e3d24d3a627bfc9@globeair.com
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART:20260929T124500Z
-DTEND:20260929T141300Z
+DTEND:20260929T141400Z
 SUMMARY:Nice → Augsburg
 LOCATION:Nice
 DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -55,7 +55,7 @@ DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC807J\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.glob
  eair.com/el/5219edbc\n\nPlease note: All empty leg flights are subject t
  o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 88 minutes\nDistance: 324 miles\n\nContact us
+ obeAir\nTotal flight time: 89 minutes\nDistance: 324 miles\n\nContact us
   24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
  : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
  el/5219edbc\nEmpty-leg schedules can change or disappear at short notice
@@ -68,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76166b49734b485f57c26eb193c1df2c85b19e30@globeair.com
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART:20260929T124000Z
 DTEND:20260929T134000Z
 SUMMARY:Vienna → Innsbruck
@@ -90,8 +90,78 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:5aa0f56983891811ca6630b2130a73ad1fbe69d5@globeair.com
+DTSTAMP:20260929T100731Z
+DTSTART:20260930T100000Z
+DTEND:20260930T112500Z
+SUMMARY:Budapest → Prague
+LOCATION:Budapest
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BUD → PRG\nSource: GlobeAir\nOriginal price: €7\
+ ,800\nCurrent price: €1\,290 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC160L\nFBO: Celebi Gh Terminal\n\nBook now:\nhttps://fly.globeair.co
+ m/el/5aa0f569\n\nPlease note: All empty leg flights are subject to sched
+ ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
+ nTotal flight time: 85 minutes\nDistance: 254 miles\n\nContact us 24/7\n
+ WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
+ mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/5aa0
+ f569\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/5aa0f569
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:5276ba6ef341698427e8602a16335184c3278d65@globeair.com
+DTSTAMP:20260929T100731Z
+DTSTART:20260930T105600Z
+DTEND:20260930T120000Z
+SUMMARY:Hannover → Copenhagen
+LOCATION:Hannover
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: HAJ → RKE\nSource: GlobeAir\nOriginal price: €9\
+ ,850\nCurrent price: €1\,290 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC263M\nFBO: General Aviation Terminal (GAC)\n\nBook now:\nhttps://fl
+ y.globeair.com/el/5276ba6e\n\nPlease note: All empty leg flights are sub
+ ject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated
+  by GlobeAir\nTotal flight time: 64 minutes\nDistance: 206 miles\n\nCont
+ act us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\
+ nEmail: customercare@globeair.com\nBooking / source: https://fly.globeai
+ r.com/el/5276ba6e\nEmpty-leg schedules can change or disappear at short 
+ notice. Confirm with the operator/broker before making connecting travel
+  plans.
+URL:https://fly.globeair.com/el/5276ba6e
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8b65618c177dbd4a536e392f78faaa5a6cbfc2d3@globeair.com
+DTSTAMP:20260929T100731Z
+DTSTART:20260930T101500Z
+DTEND:20260930T130000Z
+SUMMARY:Valencia → London
+LOCATION:Valencia
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VLC → BQH\nSource: GlobeAir\nOriginal price: €13
+ \,050\nCurrent price: €1\,290 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC274Z\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/8b656
+ 18c\n\nPlease note: All empty leg flights are subject to schedule change
+ !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
+ ght time: 165 minutes\nDistance: 711 miles\n\nContact us 24/7\nWhatsApp:
+  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
+ lobeair.com\nBooking / source: https://fly.globeair.com/el/8b65618c\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/8b65618c
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -109,7 +179,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -127,7 +197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -145,7 +215,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260929T094124Z
+DTSTAMP:20260929T100731Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
