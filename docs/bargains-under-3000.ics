@@ -7,8 +7,31 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
+DTSTAMP:20260929T131002Z
+DTSTART:20260930T135000Z
+DTEND:20260930T154800Z
+SUMMARY:Biarritz → London
+LOCATION:Biarritz
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BIQ → BQH\nSource: GlobeAir\nOriginal price: €11
+ \,600\nCurrent price: €1\,710 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC870M\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/b17732f
+ 9\n\nPlease note: All empty leg flights are subject to schedule change!\
+ n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
+ t time: 118 minutes\nDistance: 476 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/b17732f9\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/b17732f9
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
@@ -26,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5276ba6ef341698427e8602a16335184c3278d65@globeair.com
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART:20260930T105000Z
 DTEND:20260930T120000Z
 SUMMARY:Hannover → Copenhagen
@@ -50,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94c20507c3ca19750f3a1e7687ef38ca3f13314d@globeair.com
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART:20260930T115000Z
 DTEND:20260930T131100Z
 SUMMARY:Luxembourg → Prague
@@ -73,9 +96,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13ce201cbeacd0bc51e98b7fd5bb163f4a29ac8e@globeair.com
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART:20260930T064500Z
-DTEND:20260930T080000Z
+DTEND:20260930T075400Z
 SUMMARY:Nice → Perpignan
 LOCATION:Nice
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -84,7 +107,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC863C\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
  air.com/el/13ce201c\n\nPlease note: All empty leg flights are subject to
   schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 75 minutes\nDistance: 198 miles\n\nContact us 
+ beAir\nTotal flight time: 69 minutes\nDistance: 198 miles\n\nContact us 
  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
   customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
  l/13ce201c\nEmpty-leg schedules can change or disappear at short notice.
@@ -96,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:86550a15b9b660e7a481b8937eaf8daa3d9f2bb5@globeair.com
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART:20260930T114500Z
 DTEND:20260930T130000Z
 SUMMARY:Pisa → Naples
@@ -119,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b65618c177dbd4a536e392f78faaa5a6cbfc2d3@globeair.com
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART:20260930T101500Z
 DTEND:20260930T130500Z
 SUMMARY:Valencia → London
@@ -142,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -160,7 +183,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -178,7 +201,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -196,7 +219,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260929T124547Z
+DTSTAMP:20260929T131002Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
