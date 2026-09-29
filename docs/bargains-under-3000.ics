@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T135000Z
 DTEND:20260930T155400Z
 SUMMARY:Biarritz → London
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1bd724bb5ea1ec076afee8ef13923cdc8b00e825@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T142000Z
 DTEND:20260930T152700Z
 SUMMARY:Bern → Linz
@@ -53,31 +53,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f72de0a993c517912dfc59621aa237a105ebbc27@globeair.com
-DTSTAMP:20260929T164148Z
-DTSTART:20260930T080000Z
-DTEND:20260930T100000Z
-SUMMARY:Budapest → Rome
+UID:8ab968fdeb6ad375f1008e6caad582ccf8d099fa@globeair.com
+DTSTAMP:20260929T170716Z
+DTSTART:20260930T110300Z
+DTEND:20260930T130000Z
+SUMMARY:Budapest → Naples
 LOCATION:Budapest
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BUD → FCO\nSource: GlobeAir\nOriginal price: €11
- \,050\nCurrent price: €1\,390 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC824M\nFBO: Celebi Gh Terminal\n\nBook now:\nhttps://fly.globeair.c
- om/el/f72de0a9\n\nPlease note: All empty leg flights are subject to sche
+ 4 passengers\nAirports: BUD → NAP\nSource: GlobeAir\nOriginal price: €11
+ \,300\nCurrent price: €1\,390 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC291W\nFBO: Celebi Gh Terminal\n\nBook now:\nhttps://fly.globeair.c
+ om/el/8ab968fd\n\nPlease note: All empty leg flights are subject to sche
  dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
- \nTotal flight time: 120 minutes\nDistance: 452 miles\n\nContact us 24/7
+ \nTotal flight time: 117 minutes\nDistance: 447 miles\n\nContact us 24/7
  \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
- tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/f7
- 2de0a9\nEmpty-leg schedules can change or disappear at short notice. Con
+ tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/8a
+ b968fd\nEmpty-leg schedules can change or disappear at short notice. Con
  firm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/f72de0a9
+URL:https://fly.globeair.com/el/8ab968fd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
@@ -95,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5276ba6ef341698427e8602a16335184c3278d65@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T105000Z
 DTEND:20260930T115800Z
 SUMMARY:Hannover → Copenhagen
@@ -119,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94c20507c3ca19750f3a1e7687ef38ca3f13314d@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T115000Z
 DTEND:20260930T132300Z
 SUMMARY:Luxembourg → Prague
@@ -142,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05875f17a26b1ee330745cc50381df8f0422a61c@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T131000Z
 DTEND:20260930T141900Z
 SUMMARY:Nice → Rome
@@ -165,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13ce201cbeacd0bc51e98b7fd5bb163f4a29ac8e@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T064500Z
 DTEND:20260930T075400Z
 SUMMARY:Nice → Perpignan
@@ -188,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a4087f73e47ecae6361f0b651b6f7501668b1111@globeair.com
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART:20260930T085500Z
 DTEND:20260930T100000Z
 SUMMARY:Pisa → Olbia
@@ -211,9 +211,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d8d4ed683b6b3a256cf15e8627ed8801f6661c0@globeair.com
-DTSTAMP:20260929T164148Z
-DTSTART:20260930T115000Z
-DTEND:20260930T124700Z
+DTSTAMP:20260929T170716Z
+DTSTART:20260930T120000Z
+DTEND:20260930T125700Z
 SUMMARY:Rotterdam → London
 LOCATION:Rotterdam
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -233,31 +233,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:265dc37d7e39ae31d164bcedb5cc80758a39ddef@globeair.com
-DTSTAMP:20260929T164148Z
-DTSTART:20260930T103600Z
-DTEND:20260930T130000Z
-SUMMARY:Valencia → Naples
+UID:7f3bfb07b1a608a89d67bd078539f20833474b59@globeair.com
+DTSTAMP:20260929T170716Z
+DTSTART:20260930T110000Z
+DTEND:20260930T115500Z
+SUMMARY:Valencia → Palma
 LOCATION:Valencia
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: VLC → NAP\nSource: GlobeAir\nOriginal price: €12
- \,200\nCurrent price: €1\,390 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC291W\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/265dc
- 37d\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 144 minutes\nDistance: 682 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/265dc37d\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/265dc37d
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VLC → PMI\nSource: GlobeAir\nOriginal price: €7\
+ ,450\nCurrent price: €1\,290 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC196N\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/7f3bfb
+ 07\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 55 minutes\nDistance: 149 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/7f3bfb07\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/7f3bfb07
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -275,7 +275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -293,7 +293,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -311,7 +311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260929T164148Z
+DTSTAMP:20260929T170716Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
