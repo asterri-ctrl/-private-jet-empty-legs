@@ -8,9 +8,9 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
-DTSTAMP:20260929T154135Z
+DTSTAMP:20260929T160859Z
 DTSTART:20260930T135000Z
-DTEND:20260930T154800Z
+DTEND:20260930T155400Z
 SUMMARY:Biarritz → London
 LOCATION:Biarritz
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -19,7 +19,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC870M\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/b17732f
  9\n\nPlease note: All empty leg flights are subject to schedule change!\
  n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 118 minutes\nDistance: 476 miles\n\nContact us 24/7\nWhatsApp: h
+ t time: 124 minutes\nDistance: 476 miles\n\nContact us 24/7\nWhatsApp: h
  ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
  beair.com\nBooking / source: https://fly.globeair.com/el/b17732f9\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260929T154135Z
+DTSTAMP:20260929T160859Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
