@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:c177dc037ac19617ec99cb58717fdcaf47f23489@globeair.com
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART:20260929T111000Z
 DTEND:20260929T124000Z
 SUMMARY:Bari → Olbia
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:33694ae15ddc7cd11d930b4a365dcc021fdd52f7@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Hannover → Augsburg
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:061fe625c26e7da1e764cead24c26a9ba26613da@globeair.com
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART:20260929T161500Z
 DTEND:20260929T172900Z
 SUMMARY:Hannover → Augsburg
@@ -73,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f9926a61b69fef8f0c6f2ab8104cbe9b011be78@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20260929
 DTEND;VALUE=DATE:20260930
 SUMMARY:Vienna → Innsbruck
@@ -90,31 +90,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7baeee81407203ff71d947421c7500dee54d8e0a@globeair.com
-DTSTAMP:20260929T084131Z
-DTSTART:20260929T124500Z
-DTEND:20260929T132700Z
-SUMMARY:Nice → Aix-Les-Milles
-LOCATION:Nice
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NCE → QXB\nSource: GlobeAir\nOriginal price: €7\
- ,450\nCurrent price: €1\,410 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC039K\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
- air.com/el/7baeee81\n\nPlease note: All empty leg flights are subject to
-  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 42 minutes\nDistance: 80 miles\n\nContact us 2
- 4/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: 
- customercare@globeair.com\nBooking / source: https://fly.globeair.com/el
- /7baeee81\nEmpty-leg schedules can change or disappear at short notice. 
- Confirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/7baeee81
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:76166b49734b485f57c26eb193c1df2c85b19e30@globeair.com
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART:20260929T124000Z
 DTEND:20260929T134000Z
 SUMMARY:Vienna → Innsbruck
@@ -136,8 +113,54 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:4d7a439cfe336e0cf0dc30315017eb264bed52f0@globeair.com
+DTSTAMP:20260929T090814Z
+DTSTART:20260929T115500Z
+DTEND:20260929T133000Z
+SUMMARY:Valencia → Aix-Les-Milles
+LOCATION:Valencia
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: VLC → QXB\nSource: GlobeAir\nOriginal price: €8\,40
+ 0\nCurrent price: €990 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC0
+ 39K\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/4d7a439c\n\n
+ Please note: All empty leg flights are subject to schedule change!\n\nAi
+ rcraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight tim
+ e: 95 minutes\nDistance: 356 miles\n\nContact us 24/7\nWhatsApp: https:/
+ /wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.
+ com\nBooking / source: https://fly.globeair.com/el/4d7a439c\nEmpty-leg s
+ chedules can change or disappear at short notice. Confirm with the opera
+ tor/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/4d7a439c
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2e85edc6fd2a4795a4fe1c4c4e954c77a318ceb6@globeair.com
+DTSTAMP:20260929T090814Z
+DTSTART:20260930T093400Z
+DTEND:20260930T120000Z
+SUMMARY:Dinard → Copenhagen
+LOCATION:Dinard
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: DNR → RKE\nSource: GlobeAir\nOriginal price: €15
+ \,250\nCurrent price: €1\,710 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC263M\nFBO: CCI ST MALO\n\nBook now:\nhttps://fly.globeair.com/el/2
+ e85edc6\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 146 minutes\nDistance: 669 miles\n\nContact us 24/7\nWhats
+ App: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customerca
+ re@globeair.com\nBooking / source: https://fly.globeair.com/el/2e85edc6\
+ nEmpty-leg schedules can change or disappear at short notice. Confirm wi
+ th the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/2e85edc6
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
@@ -155,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -173,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -191,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260929T084131Z
+DTSTAMP:20260929T090814Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
