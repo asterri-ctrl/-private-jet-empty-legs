@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
-DTSTAMP:20260930T074056Z
+DTSTAMP:20260930T080913Z
 DTSTART:20260930T131000Z
 DTEND:20260930T151400Z
 SUMMARY:Biarritz → London
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260930T074056Z
+DTSTAMP:20260930T080913Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
@@ -48,15 +48,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:36803577c13d5ab71869f44d114a3b3e6fc5ddcf@globeair.com
-DTSTAMP:20260930T074056Z
-DTSTART:20261004T134700Z
-DTEND:20261004T150000Z
-SUMMARY:Biarritz → Avignon
+UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
+DTSTAMP:20260930T080913Z
+DTSTART:20261003T072600Z
+DTEND:20261003T090000Z
+SUMMARY:Biarritz → Nice
 LOCATION:Biarritz
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BIQ → AVN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 19%.\nBooking / source: https:/
+  BIQ → NCE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 24%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
