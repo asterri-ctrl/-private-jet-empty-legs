@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
-DTSTAMP:20260930T100819Z
-DTSTART:20260930T131000Z
-DTEND:20260930T151400Z
-SUMMARY:Biarritz → London
-LOCATION:Biarritz
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BIQ → BQH\nSource: GlobeAir\nOriginal price: €11
- \,600\nCurrent price: €1\,410 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC870M\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/b17732f
- 9\n\nPlease note: All empty leg flights are subject to schedule change!\
- n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 124 minutes\nDistance: 476 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/b17732f9\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/b17732f9
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260930T100819Z
+DTSTAMP:20260930T104048Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
@@ -49,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20260930T100819Z
+DTSTAMP:20260930T104048Z
 DTSTART:20261003T072600Z
 DTEND:20261003T090000Z
 SUMMARY:Biarritz → Nice
