@@ -7,26 +7,31 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:9801d3eb7be72c2780dddd8bafc4ca2b804caf38@globeair.com
-DTSTAMP:20260930T170742Z
-DTSTART:20261002T100200Z
-DTEND:20261002T120000Z
-SUMMARY:Biarritz → Newquay
+UID:5fa3a416888dfdb1d565bbe2c41f8437bf46432b@globeair.com
+DTSTAMP:20260930T173943Z
+DTSTART:20261001T044200Z
+DTEND:20261001T063000Z
+SUMMARY:Biarritz → Milan
 LOCATION:Biarritz
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BIQ → NQY\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 22%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BIQ → MXP\nSource: GlobeAir\nOriginal price: €11
+ \,700\nCurrent price: €1\,810 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC014M\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/5fa3a41
+ 6\n\nPlease note: All empty leg flights are subject to schedule change!\
+ n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
+ t time: 108 minutes\nDistance: 457 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/5fa3a416\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/5fa3a416
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20260930T170742Z
+DTSTAMP:20260930T173943Z
 DTSTART:20261003T072600Z
 DTEND:20261003T090000Z
 SUMMARY:Biarritz → Nice
