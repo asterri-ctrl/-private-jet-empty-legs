@@ -7,51 +7,15 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:b9af3cbaa6f3e66e4a781b0ec5881bec064d689e@emptylegs.local
-DTSTAMP:20260929T233655Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261001
-SUMMARY:Zürich → Bilbao
-LOCATION:Zürich
-DESCRIPTION:Aircraft: Citation M2\nCapacity: 5 passengers\nAirports: ZRH 
- → BIO\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-0
- 9-29 through 2026-09-30. Confirm exact timing and price before booking.\
- nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:809603cebb5bc39e2e4d626d4ceb1c720835405d@emptylegs.local
-DTSTAMP:20260929T233655Z
-DTSTART;VALUE=DATE:20260929
-DTEND;VALUE=DATE:20261001
-SUMMARY:Zürich → Kefalonia
-LOCATION:Zürich
-DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 6 passengers\nAirports: ZR
- H → EFL\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -09-29 through 2026-09-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=16\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=16
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:b17732f9167d3671cf680164b9087dcc2234e6bc@globeair.com
-DTSTAMP:20260929T233655Z
+DTSTAMP:20260930T000941Z
 DTSTART:20260930T135000Z
 DTEND:20260930T155400Z
 SUMMARY:Biarritz → London
 LOCATION:Biarritz
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BIQ → BQH\nSource: GlobeAir\nOriginal price: €11
- \,600\nCurrent price: €1\,710 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight
+ \,600\nCurrent price: €1\,410 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
  #: GAC870M\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/b17732f
  9\n\nPlease note: All empty leg flights are subject to schedule change!\
  n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
@@ -67,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260929T233655Z
+DTSTAMP:20260930T000941Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Hannover → Copenhagen
@@ -85,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a84bb17069c8388aa4518c437635394ca23a8a6@globeair.com
-DTSTAMP:20260929T233655Z
+DTSTAMP:20260930T000941Z
 DTSTART:20261003T084800Z
 DTEND:20261003T104500Z
 SUMMARY:Biarritz → Luxembourg
