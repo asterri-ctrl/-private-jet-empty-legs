@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:899a0ee0a06b2220b5c8544a54a3696dce60d827@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20260930T170500Z
 DTEND:20260930T183100Z
 SUMMARY:Avignon → Milan
@@ -30,49 +30,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1bd724bb5ea1ec076afee8ef13923cdc8b00e825@globeair.com
-DTSTAMP:20260930T120939Z
-DTSTART:20260930T142000Z
-DTEND:20260930T152700Z
-SUMMARY:Bern → Linz
-LOCATION:Bern
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BRN → LNZ\nSource: GlobeAir\nOriginal price: €7\,50
- 0\nCurrent price: €990 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC7
- 84E\nFBO: Flughafen Bern AG\n\nBook now:\nhttps://fly.globeair.com/el/1b
- d724bb\n\nPlease note: All empty leg flights are subject to schedule cha
- nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
- flight time: 67 minutes\nDistance: 282 miles\n\nContact us 24/7\nWhatsAp
- p: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare
- @globeair.com\nBooking / source: https://fly.globeair.com/el/1bd724bb\nE
- mpty-leg schedules can change or disappear at short notice. Confirm with
-  the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/1bd724bb
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:fa54b17c8f1adac9022e541c53afa107a9c343b1@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261001
-SUMMARY:Hannover → Copenhagen
-LOCATION:Hannover
-DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EDDV → EKRK\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d755b292754a82d199f8994dcb3b66bf62f9c46d@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Bern → Linz
@@ -90,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3a17df9f289c68fbbf4633541727ad63fa660bab@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261001T095000Z
 DTEND:20261001T105900Z
 SUMMARY:Bordeaux → Avignon
@@ -113,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9dd3f7679901d3cd96105ed2d32e6655499625f5@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261001T092000Z
 DTEND:20261001T100300Z
 SUMMARY:Bolzano → Klagenfurt
@@ -136,7 +95,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6349f5db8f76fa16c0aac26da69384b9a1f50c2@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261001T100000Z
 DTEND:20261001T103800Z
 SUMMARY:Castres → Montpellier
@@ -159,7 +118,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16488@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261001T074500Z
 DTEND:20261001T101500Z
 SUMMARY:Laval → Madrid
@@ -176,8 +135,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9be22b7d0ea6d67aa60b2f7aaa1e66c4696ab18a@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Bolzano → Klagenfurt
+LOCATION:Bolzano
+DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIPB → LOWK\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-16491@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261001T123000Z
 DTEND:20261001T131000Z
 SUMMARY:Geneva → Lugano
@@ -195,7 +172,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d2895f9f127ac9841e278ed3da2743002103c854@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T103300Z
 DTEND:20261002T120000Z
 SUMMARY:Avignon → Venice
@@ -213,7 +190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9801d3eb7be72c2780dddd8bafc4ca2b804caf38@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T100200Z
 DTEND:20261002T120000Z
 SUMMARY:Biarritz → Newquay
@@ -231,7 +208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea85bee8124e3bba14885b2c825675d5e0b50420@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T053700Z
 DTEND:20261002T070000Z
 SUMMARY:Budapest → Salzburg
@@ -249,7 +226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76482e30285e0c42413dee5c17066ea9ddb38c64@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T053900Z
 DTEND:20261002T070000Z
 SUMMARY:Linz → Zurich
@@ -266,26 +243,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9a629a56b5b0dac2c755f1d1b675f1a879660f05@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:Zurich Airport → Linate Airport
-LOCATION:Zurich Airport
-DESCRIPTION:Price: €3\,167\nAircraft: Cessna Citation XLS\nCapacity: 8 pa
- ssengers\nAirports: LSZH → LIML\nSource: PrivJet\nPrice shown by PrivJet
-  includes its stated service fee. Confirm live availability before booki
- ng.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg 
- schedules can change or disappear at short notice. Confirm with the oper
- ator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:05a23753a8ca0162a6ce07de03585aea69641108@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T065400Z
 DTEND:20261002T075500Z
 SUMMARY:Madrid → Valencia
@@ -303,7 +262,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:03b0e801fb00c2224efb5331ea388d0a3b062d82@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T081300Z
 DTEND:20261002T084500Z
 SUMMARY:Moenchengladbach → Maastricht
@@ -321,7 +280,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8acb09847febe9a62afe930728764e6b94714841@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261002T103900Z
 DTEND:20261002T120000Z
 SUMMARY:Munich → Berlin
@@ -339,7 +298,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261003T072600Z
 DTEND:20261003T090000Z
 SUMMARY:Biarritz → Nice
@@ -356,26 +315,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f65fc3825a5bbe79783276840d88e3215de989d8@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:Monchengladbach Airport → Frankfurt am Main International Airport
-LOCATION:Monchengladbach Airport
-DESCRIPTION:Price: €3\,167\nAircraft: Cessna Citation XLS\nCapacity: 8 pa
- ssengers\nAirports: EDLN → EDDF\nSource: PrivJet\nPrice shown by PrivJet
-  includes its stated service fee. Confirm live availability before booki
- ng.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg 
- schedules can change or disappear at short notice. Confirm with the oper
- ator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:311cdc729f98558e70cbba08dae29b33f17e1f30@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261003T131700Z
 DTEND:20261003T142000Z
 SUMMARY:Geneva → Toulon
@@ -392,15 +333,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:557fe33481ace26598328bd932faed2a03264cf8@globeair.com
-DTSTAMP:20260930T120939Z
-DTSTART:20261003T152700Z
-DTEND:20261003T170000Z
-SUMMARY:Salzburg → Munster
+UID:e8bd13bd48acb569a77c193f06842ec6b07acb6f@globeair.com
+DTSTAMP:20260930T124804Z
+DTSTART:20261003T124600Z
+DTEND:20261003T133000Z
+SUMMARY:Salzburg → Bolzano
 LOCATION:Salzburg
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  SZG → FMO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 24%.\nBooking / source: https:/
+  SZG → BZO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 40%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -410,15 +351,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:368813328fa02e6f58996734a789cf423a189680@globeair.com
-DTSTAMP:20260930T120939Z
-DTSTART:20261003T120700Z
-DTEND:20261003T133000Z
-SUMMARY:Vienna → Bolzano
+UID:635d07ddf1b4332f4b38b96c347155e145b81614@globeair.com
+DTSTAMP:20260930T124804Z
+DTSTART:20261003T145800Z
+DTEND:20261003T170000Z
+SUMMARY:Vienna → Munster
 LOCATION:Vienna
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  VIE → BZO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 27%.\nBooking / source: https:/
+  VIE → FMO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 15%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -429,7 +370,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:185e7ff0cfbe3e1c264ef4b2e26860b92cc36612@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T123700Z
 DTEND:20261004T140000Z
 SUMMARY:Berlin → Munich
@@ -447,7 +388,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0eb37b56d472698a7dbdf55cd033293cf678cce8@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T133300Z
 DTEND:20261004T150000Z
 SUMMARY:Paris → Avignon
@@ -465,7 +406,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e367e659ee158ebc47edb97ac03960ac65b86e@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T071100Z
 DTEND:20261004T083000Z
 SUMMARY:Paris → Munster
@@ -483,7 +424,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6eb9b93c5c62cf2149c513ca67c02b0bc9b46524@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T123500Z
 DTEND:20261004T143000Z
 SUMMARY:Lille → Dundee
@@ -501,7 +442,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:49a7b358979e1505ff489ae9cb125ef9750dc741@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T110900Z
 DTEND:20261004T125000Z
 SUMMARY:Ljubljana → Nice
@@ -519,7 +460,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16456@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T085000Z
 DTEND:20261004T100000Z
 SUMMARY:Lausanne → Nice
@@ -537,7 +478,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6ffde64fb3d6d63147c77fd85a278bff01de0bb@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261004T085600Z
 DTEND:20261004T100000Z
 SUMMARY:Prague → Munich
@@ -555,7 +496,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a19f86a4bd51fcff1bf35d2e0c423062c6371ee5@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261005T071000Z
 DTEND:20261005T083000Z
 SUMMARY:Paris → London
@@ -573,7 +514,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e492abc3cda5d7fb73d18398a813b25b613ed232@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261005T054400Z
 DTEND:20261005T070500Z
 SUMMARY:Paris → Zurich
@@ -591,7 +532,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6227d8d810f5d1d1d2a5231e9df8a4955ab48157@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261005T135900Z
 DTEND:20261005T150000Z
 SUMMARY:Zurich → Munich
@@ -609,7 +550,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:721740d8a1ad74b9484274b609f309c6d0463912@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261006T113500Z
 DTEND:20261006T123000Z
 SUMMARY:Florence → Milan
@@ -627,7 +568,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08eab7d3bd41312f810135feb90254f0dd5c98e8@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261006T115100Z
 DTEND:20261006T140000Z
 SUMMARY:Paris → Glasgow
@@ -645,7 +586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:885d4b6dcc1153ff35022606f7392ada811f0554@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261006T072900Z
 DTEND:20261006T090000Z
 SUMMARY:Olbia → Bolzano
@@ -662,26 +603,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5aeb88bb457dc3cb9cbccfdd35a00b60593d7768@globeair.com
-DTSTAMP:20260930T120939Z
-DTSTART:20261007T050000Z
-DTEND:20261007T070900Z
-SUMMARY:London → Linz
-LOCATION:London
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BQH → LNZ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:7bf871c6dfbd25bda2073da5caff02d39fb95ce6@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T084400Z
 DTEND:20261007T100000Z
 SUMMARY:Paris → London
@@ -699,7 +622,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8943ec702f3479d1318606b89b76c3e18780d03c@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T063700Z
 DTEND:20261007T080000Z
 SUMMARY:Paris → Lugano
@@ -717,7 +640,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16543@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T060000Z
 DTEND:20261007T065500Z
 SUMMARY:Laval → Lorient
@@ -735,7 +658,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16544@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T151500Z
 DTEND:20261007T161000Z
 SUMMARY:Lorient → Laval
@@ -753,7 +676,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16542@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T081500Z
 DTEND:20261007T101500Z
 SUMMARY:Lausanne → Dinard
@@ -771,7 +694,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d28950392a5cb11ce804a09edd6f3cacf0ac2a6@globeair.com
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART:20261007T055200Z
 DTEND:20261007T072000Z
 SUMMARY:Luxembourg → Angers
@@ -788,32 +711,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8a03d51ed9071242432796d8c4c2f3073f4dbdb2@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:Maastricht Aachen Airport → Stuttgart Airport
-LOCATION:Maastricht Aachen Airport
-DESCRIPTION:Price: €2\,280\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EHBK → EDDS\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c3e4a542f48422b083a9edf89b84ae94ae72da28@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
-LOCATION:Mengen-Hohentengen Airport
-DESCRIPTION:Price: $2\,597\nAircraft: Phenom 300\nCapacity: 8 passengers\
- nAirports: EDTM → LOWS\nSource: PrivJet\nPrice shown by PrivJet includes
+UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
+ ort
+LOCATION:Frankfurt am Main International Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet includes
   its stated service fee. Confirm live availability before booking.\nBook
  ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
   can change or disappear at short notice. Confirm with the operator/brok
@@ -825,7 +731,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -843,7 +749,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c845615d9696f833d6b722e43b13f4f4de27e18@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -861,7 +767,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -879,7 +785,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:88f85f908b7507c2c549b24af08979416930b85a@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -896,8 +802,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
+LOCATION:Mengen-Hohentengen Airport
+DESCRIPTION:Price: €2\,100\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: EDTM → LSZA\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20260930T120939Z
+DTSTAMP:20260930T124804Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -914,18 +838,56 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0ac051a33866484b71ebd9970d1da8d2e12f983c@emptylegs.local
-DTSTAMP:20260930T120939Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:Saarbrucken Airport → Salzburg Airport
-LOCATION:Saarbrucken Airport
-DESCRIPTION:Price: $2\,880\nAircraft: Beechcraft King Air C90GT\nCapacity
- : 6 passengers\nAirports: EDDR → LOWS\nSource: PrivJet\nPrice shown by P
- rivJet includes its stated service fee. Confirm live availability before
-  booking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
+UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
+ ort
+LOCATION:Frankfurt am Main International Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
+LOCATION:Lugano Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: LSZA → EDTM\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
+DTSTAMP:20260930T124804Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
+ ort
+LOCATION:Frankfurt am Main International Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300E\nCapacity: 7 passengers
+ \nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
 URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
