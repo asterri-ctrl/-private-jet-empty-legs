@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:8b751f38d042ffac31125849703d566a348b995c@globeair.com
-DTSTAMP:20261001T104050Z
-DTSTART:20261002T100000Z
-DTEND:20261002T115800Z
-SUMMARY:Biarritz → Newquay
-LOCATION:Biarritz
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BIQ → NQY\nSource: GlobeAir\nOriginal price: €11
- \,250\nCurrent price: €1\,710 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC913A\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/8b751f3
- 8\n\nPlease note: All empty leg flights are subject to schedule change!\
- n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 118 minutes\nDistance: 442 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/8b751f38\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/8b751f38
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20261001T104050Z
+DTSTAMP:20261001T110817Z
 DTSTART:20261003T072600Z
 DTEND:20261003T090000Z
 SUMMARY:Biarritz → Nice
