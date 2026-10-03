@@ -6,27 +6,4 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
-BEGIN:VEVENT
-UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20261003T074150Z
-DTSTART:20261003T100000Z
-DTEND:20261003T113600Z
-SUMMARY:Biarritz → Nice
-LOCATION:Biarritz
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BIQ → NCE\nSource: GlobeAir\nOriginal price: €10
- \,000\nCurrent price: €1\,410 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC461Y\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/f3129fd
- 9\n\nPlease note: All empty leg flights are subject to schedule change!\
- n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 96 minutes\nDistance: 380 miles\n\nContact us 24/7\nWhatsApp: ht
- tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
- eair.com\nBooking / source: https://fly.globeair.com/el/f3129fd9\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/f3129fd9
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
