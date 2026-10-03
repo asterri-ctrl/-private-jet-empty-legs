@@ -8,14 +8,14 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T100000Z
 DTEND:20261003T113600Z
 SUMMARY:Biarritz → Nice
 LOCATION:Biarritz
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BIQ → NCE\nSource: GlobeAir\nOriginal price: €10
- \,000\nCurrent price: €1\,710 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight
+ \,000\nCurrent price: €1\,410 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
  #: GAC461Y\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/f3129fd
  9\n\nPlease note: All empty leg flights are subject to schedule change!\
  n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
@@ -31,14 +31,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4b116f98f298d752308df37887bdd6b4c8612027@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T154000Z
 DTEND:20261003T165900Z
 SUMMARY:Paris → Munster
 LOCATION:Paris
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LBG → FMO\nSource: GlobeAir\nOriginal price: €7\
- ,400\nCurrent price: €1\,710 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,400\nCurrent price: €1\,410 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC120K\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
  eair.com/el/4b116f98\n\nPlease note: All empty leg flights are subject t
  o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5cc38024de577fa23952e9357ba42fa54c27daec@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Salzburg → Lugano
@@ -73,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bf956de9ab3be37a07e12fa97719aaca07104519@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Vienna → Bolzano
@@ -91,14 +91,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b0d90a63c287c8a1f548c4eccd0abc6c1033d07@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T103000Z
 DTEND:20261003T122700Z
 SUMMARY:St Brieuc → Toulon
 LOCATION:St Brieuc
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: SBK → TLN\nSource: GlobeAir\nOriginal price: €10
- \,050\nCurrent price: €1\,710 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight
+ \,050\nCurrent price: €1\,410 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
  #: GAC410W\nFBO: Arpt St Brieuc-Armor\n\nBook now:\nhttps://fly.globeair
  .com/el/8b0d90a6\n\nPlease note: All empty leg flights are subject to sc
  hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
@@ -114,23 +114,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f213feb76580c02a8f5970ce737cc5f7a4c6613@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T075500Z
 DTEND:20261003T090000Z
 SUMMARY:Salzburg → Lugano
 LOCATION:Salzburg
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: SZG → LUG\nSource: GlobeAir\nOriginal price: €5\
- ,650\nCurrent price: €1\,290 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC441M\nFBO: General Aviation Handling Service\n\nBook now:\nhttps://
- fly.globeair.com/el/5f213feb\n\nPlease note: All empty leg flights are s
- ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
- ed by GlobeAir\nTotal flight time: 65 minutes\nDistance: 199 miles\n\nCo
- ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
- 0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
- air.com/el/5f213feb\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: SZG → LUG\nSource: GlobeAir\nOriginal price: €5\,65
+ 0\nCurrent price: €990 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC4
+ 41M\nFBO: General Aviation Handling Service\n\nBook now:\nhttps://fly.gl
+ obeair.com/el/5f213feb\n\nPlease note: All empty leg flights are subject
+  to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by 
+ GlobeAir\nTotal flight time: 65 minutes\nDistance: 199 miles\n\nContact 
+ us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEma
+ il: customercare@globeair.com\nBooking / source: https://fly.globeair.co
+ m/el/5f213feb\nEmpty-leg schedules can change or disappear at short noti
+ ce. Confirm with the operator/broker before making connecting travel pla
+ ns.
 URL:https://fly.globeair.com/el/5f213feb
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -138,14 +138,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f421f7e6ba8d7d1137b2fa4500d694ca611c7e1@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T120500Z
 DTEND:20261003T131600Z
 SUMMARY:Vienna → Bolzano
 LOCATION:Vienna
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: VIE → BZO\nSource: GlobeAir\nOriginal price: €6\
- ,200\nCurrent price: €1\,390 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,200\nCurrent price: €1\,090 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC271K\nFBO: Jet Aviation Vienna\n\nBook now:\nhttps://fly.globeair.c
  om/el/8f421f7e\n\nPlease note: All empty leg flights are subject to sche
  dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
@@ -161,7 +161,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -180,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -198,7 +198,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -216,7 +216,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -234,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -253,7 +253,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -271,7 +271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -290,7 +290,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp

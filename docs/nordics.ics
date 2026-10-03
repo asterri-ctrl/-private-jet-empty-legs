@@ -7,33 +7,15 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:0e7c976c6159317a19d002deaa76b57c4a2087db@emptylegs.local
-DTSTAMP:20261002T233745Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261004
-SUMMARY:Madrid → Bilbao
-LOCATION:Madrid
-DESCRIPTION:Aircraft: Global 6000\nCapacity: 14 passengers\nAirports: MAD
-  → BIO\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-02 through 2026-10-03. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=15\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=15
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f3129fd9100931d21e89be4613cdda9225698ec4@globeair.com
-DTSTAMP:20261002T233745Z
+DTSTAMP:20261003T000909Z
 DTSTART:20261003T100000Z
 DTEND:20261003T113600Z
 SUMMARY:Biarritz → Nice
 LOCATION:Biarritz
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BIQ → NCE\nSource: GlobeAir\nOriginal price: €10
- \,000\nCurrent price: €1\,710 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight
+ \,000\nCurrent price: €1\,410 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight
  #: GAC461Y\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/f3129fd
  9\n\nPlease note: All empty leg flights are subject to schedule change!\
  n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
