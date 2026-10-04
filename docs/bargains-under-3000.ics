@@ -7,31 +7,26 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:2461963cb6a5a62cc9cae24fa3f63563898aede8@globeair.com
-DTSTAMP:20261004T175108Z
-DTSTART:20261005T125000Z
-DTEND:20261005T134900Z
-SUMMARY:Florence → Bolzano
-LOCATION:Florence
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: FLR → BZO\nSource: GlobeAir\nOriginal price: €7\
- ,500\nCurrent price: €1\,390 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC034R\nFBO: Corp Air Svcs/Delta\n\nBook now:\nhttps://fly.globeair.c
- om/el/2461963c\n\nPlease note: All empty leg flights are subject to sche
- dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
- \nTotal flight time: 59 minutes\nDistance: 159 miles\n\nContact us 24/7\
- nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
- omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/246
- 1963c\nEmpty-leg schedules can change or disappear at short notice. Conf
- irm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/2461963c
+UID:c89d4929e77086a12eba7b005fd9d56e7467fcb9@emptylegs.local
+DTSTAMP:20261004T210754Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Siegen → Avignon
+LOCATION:Siegen
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDGS → LFMV\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fe29dbb5e70e92ce9911c2bab59da0b9545b91d3@globeair.com
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART:20261005T135000Z
 DTEND:20261005T150600Z
 SUMMARY:Florence → Milan
@@ -53,68 +48,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8a7a0fa7c559272749194d0d6c5eeb7d35d3cfe5@globeair.com
-DTSTAMP:20261004T175108Z
-DTSTART:20261005T075000Z
-DTEND:20261005T085200Z
-SUMMARY:Paris → London
-LOCATION:Paris
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LBG → LCY\nSource: GlobeAir\nOriginal price: €6\
- ,200\nCurrent price: €1\,710 (–72%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC015S\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
- eair.com/el/8a7a0fa7\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 62 minutes\nDistance: 177 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/8a7a0fa7\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/8a7a0fa7
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:eaf688d4b480b91d48925747979fb9c6c6643fd5@emptylegs.local
-DTSTAMP:20261004T175108Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Geneva → Munich
-LOCATION:Geneva
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LSGG → EDMO\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:79916b69e351b2e9c2e70141eaac22e6cbb3cb92@emptylegs.local
-DTSTAMP:20261004T175108Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Zurich Airport → Munich International Airport
-LOCATION:Zurich Airport
-DESCRIPTION:Price: €1\,836\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LSZH → EDDM\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2a0ae2d80033fd891545bdad782cbe9f26266d49@globeair.com
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART:20261005T143500Z
 DTEND:20261005T154500Z
 SUMMARY:Olbia → Nice
@@ -136,8 +71,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:2461963cb6a5a62cc9cae24fa3f63563898aede8@globeair.com
+DTSTAMP:20261004T210754Z
+DTSTART:20261005T145000Z
+DTEND:20261005T153900Z
+SUMMARY:Pisa → Bolzano
+LOCATION:Pisa
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: PSA → BZO\nSource: GlobeAir\nOriginal price: €7\
+ ,500\nCurrent price: €1\,390 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC034R\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/246196
+ 3c\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 49 minutes\nDistance: 170 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/2461963c\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/2461963c
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:8d173d2ec19fee79cdf5a80d76722980887025b3@globeair.com
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART:20261005T091000Z
 DTEND:20261005T104700Z
 SUMMARY:Siegen → Avignon
@@ -160,9 +118,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52393346cb512812fc818b924dae6b190d94aeab@globeair.com
-DTSTAMP:20261004T175108Z
-DTSTART:20261005T072000Z
-DTEND:20261005T085900Z
+DTSTAMP:20261004T210754Z
+DTSTART:20261005T083000Z
+DTEND:20261005T100900Z
 SUMMARY:Tours → Barcelona
 LOCATION:Tours
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -184,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:703819fd804d2d673180f1cef47e083c359ae480@globeair.com
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART:20261005T134000Z
 DTEND:20261005T144000Z
 SUMMARY:Venice → Genoa
@@ -207,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -226,7 +184,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -244,7 +202,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -262,7 +220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -280,7 +238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -299,7 +257,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05a23abe324e642f3e4875021037f239536a8c0e@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -317,7 +275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -334,8 +292,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
+DTSTAMP:20261004T210754Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
+LOCATION:Mengen-Hohentengen Airport
+DESCRIPTION:Price: €2\,280\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: EDTM → LOWS\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -354,7 +330,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261004T175108Z
+DTSTAMP:20261004T210754Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
