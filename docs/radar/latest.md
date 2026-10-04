@@ -1,10 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-04 06:02 UTC · public web sources only_
+_Updated 2026-10-04 15:29 UTC · public web sources only_
 
 ## AI / DC
 
-- [Singapore moves up 2 spots to top world ranking on government effectiveness - edb.gov.sg](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGgxa0U3NlJiMUhwSWQtWmppUjA1eExkaE85ci04SEFuLXhwdFpnbzI4X2xVd0tlS3duclpfT0ZXQ2pwdEtwZDdldDRFZ1NaZlNUZ1VHZGRRam5zdURiNEJrbHZSY0taV1hnbW0weW1jVlpRYXJFRS1CdDdhdlg4NHZNMHhKT3dnSHdYUjVLcjdkT0NpREZ5WWoyWDFNbWNwanV4cEFBX0R1YzFfTHBOZndzNU1heXdmRVBn?oc=5) · 2026-10-01 — edb.gov.sg
+- [Singapore moves up 2 spots to top world ranking on government effectiveness - Singapore Economic Development Board (EDB)](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGgxa0U3NlJiMUhwSWQtWmppUjA1eExkaE85ci04SEFuLXhwdFpnbzI4X2xVd0tlS3duclpfT0ZXQ2pwdEtwZDdldDRFZ1NaZlNUZ1VHZGRRam5zdURiNEJrbHZSY0taV1hnbW0weW1jVlpRYXJFRS1CdDdhdlg4NHZNMHhKT3dnSHdYUjVLcjdkT0NpREZ5WWoyWDFNbWNwanV4cEFBX0R1YzFfTHBOZndzNU1heXdmRVBn?oc=5) · 2026-10-01 — Singapore Economic Development Board (EDB)
 - [Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud - EU-Startups](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamo5WWhjMEpjdmRVQmJ4NHp5TGo0alc1MWFzODF0NnlYVXRBZThqT1ZqZXNZQ0RDaWNFdGtqNFZSRngwQk1sb01pOUlNNWxEOFNvRjBoZmhzckc2aUtyQVB5dExvZEt4dUpJeDhXc0pObW5vLTVrN3J5SUkxRTlnY3ZuX2NIdWg3WTdRWHNyUzRiQXhWcTRpXzJzc3hCVWdmcEVMV3V2U0JscktSd1BfY2l3SVNwMEdPOEdzYklTNk9aWTh5aU55a3ZhWFZ4VTRTcXRPQTlad19NNEtlZXc?oc=5) · 2026-09-22 — EU-Startups
 
 ## Telecom
