@@ -6,4 +6,22 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:c4f2f0721fe4b7a4050744692647c3610ace613f@emptylegs.local
+DTSTAMP:20261004T220710Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261006
+SUMMARY:Sofia → Kefalonia
+LOCATION:Sofia
+DESCRIPTION:Aircraft: Citation CJ2+\nCapacity: 7 passengers\nAirports: SO
+ F → EFL\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-04 through 2026-10-05. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=19
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
