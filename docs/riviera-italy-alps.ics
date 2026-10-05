@@ -7,8 +7,26 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:27f84a361be5fc097bf2bd63f6b37ad00367de4a@emptylegs.local
+DTSTAMP:20261005T230608Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261007
+SUMMARY:Milan → Bologna
+LOCATION:Milan
+DESCRIPTION:Aircraft: Challenger 350\nCapacity: 8 passengers\nAirports: L
+ IN → BLQ\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
+ 6-10-05 through 2026-10-06. Confirm exact timing and price before bookin
+ g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEm
+ pty-leg schedules can change or disappear at short notice. Confirm with 
+ the operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=19
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:67d6e47a9f8c287728beab3f4bd4de80e4c6f0c7@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261007
 SUMMARY:Milan → Nice
@@ -16,9 +34,45 @@ LOCATION:Milan
 DESCRIPTION:Aircraft: Challenger 350\nCapacity: 8 passengers\nAirports: L
  IN → NCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
  6-10-05 through 2026-10-06. Confirm exact timing and price before bookin
- g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=20\nEm
+ g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEm
  pty-leg schedules can change or disappear at short notice. Confirm with 
  the operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=19
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2b38b56d9cdc039d74d27b6318e4c54313598fb6@emptylegs.local
+DTSTAMP:20261005T230608Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261007
+SUMMARY:Milan → Venice
+LOCATION:Milan
+DESCRIPTION:Aircraft: Citation CJ2+\nCapacity: 7 passengers\nAirports: LI
+ N → VCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-05 through 2026-10-06. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=20\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=20
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:da8087ff5a139854f731bb1123b845b1508e9ada@emptylegs.local
+DTSTAMP:20261005T230608Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261007
+SUMMARY:Zürich → Milan
+LOCATION:Zürich
+DESCRIPTION:Aircraft: Challenger 850\nCapacity: 14 passengers\nAirports: 
+ ZRH → LIN\nSource: AlbaJet\nAvailability window published by AlbaJet: 20
+ 26-10-05 through 2026-10-06. Confirm exact timing and price before booki
+ ng.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=20\nE
+ mpty-leg schedules can change or disappear at short notice. Confirm with
+  the operator/broker before making connecting travel plans.
 URL:https://www.albajet.com/empty-leg-flights?p=20
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -26,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e5d640c5ce47f56e4e0cfb678aab3e551bf42da9@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Nice → Munich
@@ -44,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:15ec23fdeeec07fc6ee58757a341981e5b6a1d19@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261007
 SUMMARY:Geneva → Bolzano
@@ -62,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fbc700c9d6b1d486c09e4d0127d246650cac3e8@globeair.com
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261007T090000Z
 DTEND:20261007T100000Z
 SUMMARY:Lille → London
@@ -80,7 +134,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16629@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261007T130000Z
 DTEND:20261007T134000Z
 SUMMARY:Saanen → Annemasse
@@ -98,14 +152,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d7dd430fa51c888f72dd9ad6b4ac86bb9efe7b4@globeair.com
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261007T104700Z
 DTEND:20261007T120500Z
 SUMMARY:Payerne → Linz
 LOCATION:Payerne
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   LSMP → LNZ\nSource: GlobeAir\nPlease note: This empty leg flight is not
-  confirmed yet.\n\nCurrent probability is 40%.\nBooking / source: https:
+  confirmed yet.\n\nCurrent probability is 52%.\nBooking / source: https:
  //www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or
   disappear at short notice. Confirm with the operator/broker before maki
  ng connecting travel plans.
@@ -116,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:de2fbcf0d5ecd9058cfd83cbfbd2019621ab4993@globeair.com
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261009T115600Z
 DTEND:20261009T130000Z
 SUMMARY:Chateauroux → Payerne
@@ -134,14 +188,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f66e5ec2944ceb43d043991cc24305fecebd196f@globeair.com
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261009T102300Z
 DTEND:20261009T120000Z
 SUMMARY:Milan → Karlovy Vary
 LOCATION:Milan
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   LIN → KLV\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 14%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 23%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -152,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16661@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART:20261011T100000Z
 DTEND:20261011T115500Z
 SUMMARY:Sion → Le Touquet
@@ -170,7 +224,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -188,7 +242,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c845615d9696f833d6b722e43b13f4f4de27e18@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -206,7 +260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -224,7 +278,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261005T223842Z
+DTSTAMP:20261005T230608Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
