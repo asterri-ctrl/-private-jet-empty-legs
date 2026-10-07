@@ -1,9 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-07 08:30 UTC · public web sources only_
+_Updated 2026-10-07 12:34 UTC · public web sources only_
 
 ## AI / DC
 
+- [Will Power Grid Contract Change NCC Stock Narrative - Simply Wall Street](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMnBldWFPanBmaUtvSWVDZU1tZ0xtZUhVQVJ1YmwxcTVvMzJFMURFMWhQYkwwVDZ4VVBrVG5PZlJsZHh0YjhOUjZKWkoxM3lub3hia1l3c1FWVlVrQWpNMFp6cks2eEUzcloxUG5WZWFuRU40YUpLT0MwZ1UxVmttdkpNQ1FPeFVqNVh6U1ZUN2pMWVhkbWxhM1JucmJYOGpabG01V0tkT2FwUlFmMDlGakxZc3BKWE9zUURBbUxuRGjSAcYBQVVfeXFMUDZ5RlBjUE5QWW92bEQ3cTJhVjNtT3RWS1h0ZGJrWjFYaDdEUEQzX1RYUVR0U3lzREhUXzJ0S3JtMkVLOF9nRC1GaHBUY2hNVzFlN0swWDBCUWFzZmxHckZmQW5zd1VNLTRFd3Q3anNnc0RtbkUtd0pWa1NiaFY1NDhzTVpVWEQ3UWdxeGhJdFdRSzRPUjRGejZiTHBFbWgtLVVzZ2JFaTZvLUgtX3FGdkJHeTNSa1pLeFhzY0hMbElKVXhwSFVn?oc=5) · 2026-10-07 — Simply Wall Street
 - [atNorth plans €2bn Finland data centre with pathway to 230MW - Techerati](https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1lBdHFxM0MtQW4zVHpjVUdjTzRjTzF1c2dUX2JYZGdJZG5FVW4xTjcxWW9INGlrc3g2dnlNaHlwb1lPdjRsQkxjOTB4SVhiZzY5eUFyQVRsNDVuUWdhZ1pSTDA1UVVpblFVYzZjclZjZTVSRFZhelI4dWZGWjZkUzhtSkc3YW5UQWRua2c4S3NkNGZQdkZTVXpFejg?oc=5) · 2026-10-06 — Techerati
 - [Growing the branches of Yggdrasil: how Midgard Infra is tackling Europe's AI capacity crunch - Capacity Media](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm9haElGSXZrRjhwVVBHWS13U2NUaVFnUXFYb196WkJLRnVwTFRKVGZMSHptdHFzVTlKeTB6VGRuaEU2dVV6bnpNdDNQeElTanhrb2pQT1BGTjY5ekhnLTZlSC1wNmJIbU1CYkphOHE4al8teml4ejRmWDJnd0xmOENyOGNkdXptMzV6bEpVTzZ0VDlnVWg4WURPSVFWMGJheVh0Ynk4Yy1jZEV0WEQxbEZsNlZfeHk0eXB0bU9NLS0?oc=5) · 2026-10-06 — Capacity Media
 - [VivoPower: The Norway Data Center Could Be Catalyst For Its AI Infrastructure Pivot (VIVO) - Seeking Alpha](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWJScUFIRU93Wi1KZjNveGY4YTBzZ1oxRFdJd0Nkd2IwbUdFcHk5RzFXdzZ3LS1uLVROcjJma3F4NnEyV3NmdmNwanlWM2xEaHBmbVdSaUJlQkI3Q29Td1ZaRE5fWXJYVzJsZXhUaENIVlZsbkxlR0NqR0F0MlVOU0phTV9adUZQRG5GR0VsWmtNNmRRRlFBWmdlVEhuS0JFekJvSnN5N1c2c1d3SHE2bG9zMGk1b2JzLWxJSGQtekJEM2NLY1E?oc=5) · 2026-10-05 — Seeking Alpha
