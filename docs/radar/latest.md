@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-07 04:27 UTC · public web sources only_
+_Updated 2026-10-07 08:30 UTC · public web sources only_
 
 ## AI / DC
 
@@ -15,7 +15,3 @@ _Updated 2026-10-07 04:27 UTC · public web sources only_
 
 - [XS205639985 Bond Profile: Coupon and Redemption - TradingView](https://news.google.com/rss/articles/CBMibEFVX3lxTE9oRGFXRkxXQTU1YTVWZG10eExtdV9WSzJWUmU3S2R4b2tJV2hIcmdpcHZhdHVOaDJwa0FnTDJDZnZSQkstSV82SFVuUGNTbVNna3FIWjV4dHFLVXdlcjlZYW05VXBFS0VFTEJ3eg?oc=5) · 2026-10-03 — TradingView
 - [Eurofiber and Delft Networks deploy dark-fiber between Rotterdam and Delft for quantum - Data Center Dynamics](https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0tKUDdZVTFsOUxGb2t0dzRTQWdnRnVFVDBJSFhzeVVoRjhvRHprSHV1Q3VUbjUyaEp4Zm5rZklmN0tVYVNtMURRQVpSVlFabFAzSU1WSjFMUDdmemlidmgzUmYzNEpIQkNXcmNaSkJMYVI5X1FVd1Q2ck1OZkx1OTNPLXBrN1ZqUDFfMTF4ZlZQSHY5NHhBcmVoeWppYmhSR1prSHEtNzQ3UHlISG12aDlCV09yTHJZc0haWlJ4MFY5eTRPSVljU2xR?oc=5) · 2026-09-30 — Data Center Dynamics
-
-## Regulation
-
-- [Commission welcomes the design of first Important Project of Common European Interest in AI - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZjU5SFdzUnlBVGNER21KYWd6bjRJMDFQM3l4TXhSMnlhdUVuUVF6VTJYY05LN01tY3dGbFVSZmxoVjBwVkVueEdkcm5naUR6R25JNWR4dU1oVk5FamF0NjNGbUJFTDFMTkpqRmtCa2dwRHdjYXhlR1YyQUJVU1daazQ0aGVWNTBMUlZwQnk5eXlLNldRaVlQNUxPemVYYVllZFZXWWtfaUI1U3VZOXZ0QzcxV2U2ZEtoUFdfV3VHVXVFdw?oc=5) · 2026-09-16 — Shaping Europe’s digital future
