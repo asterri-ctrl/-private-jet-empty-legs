@@ -7,26 +7,8 @@ X-WR-CALNAME:Private Jet Empty Legs
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:jetfly-16790@emptylegs.local
-DTSTAMP:20261008T094251Z
-DTSTART:20261008T130000Z
-DTEND:20261008T140500Z
-SUMMARY:Kortrijk → Zweibrucken
-LOCATION:Kortrijk
-DESCRIPTION:Aircraft: PC-12\nAirports: EBKT → EDRZ\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-ZRH. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:b7b8fe8fc3f2c171f009fffb8eacebf817719024@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:London → Saarbrucken
@@ -43,26 +25,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-16771@emptylegs.local
-DTSTAMP:20261008T094251Z
-DTSTART:20261008T125500Z
-DTEND:20261008T145500Z
-SUMMARY:Woking → Geneva
-LOCATION:Woking
-DESCRIPTION:Aircraft: PC-12\nAirports: EGTF → LSGG\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-GEM. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a8269b5aa09461e4c4471db1205951577cdcd0f0@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:London → Badenbaden
@@ -80,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16769@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261008T135500Z
 DTEND:20261008T160500Z
 SUMMARY:Szczecin → Zweibrucken
@@ -97,32 +61,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:72adb91c2b062a6c4537555e43f504325c570f07@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261008T120000Z
-DTEND:20261008T135500Z
-SUMMARY:Paris → Linz
-LOCATION:Paris
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LBG → LNZ\nSource: GlobeAir\nOriginal price: €5\
- ,450\nCurrent price: €1\,410 (–74%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC148E\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
- eair.com/el/72adb91c\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 115 minutes\nDistance: 467 miles\n\nContact u
- s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
- l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
- /el/72adb91c\nEmpty-leg schedules can change or disappear at short notic
- e. Confirm with the operator/broker before making connecting travel plan
- s.
-URL:https://fly.globeair.com/el/72adb91c
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:50dd6cf88c6f3e7e0e2535b545a4168e62789f87@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Nice → Linz
@@ -140,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:762a37e23c12b2959cedff7be59d8d11eafa62b8@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Paris → Linz
@@ -158,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bb0a1454937b81ec0816119d721f3d6bedad9838@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Pisa → Geneva
@@ -176,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16775@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261008T140000Z
 DTEND:20261008T150500Z
 SUMMARY:Lausanne → Le Castellet
@@ -193,31 +133,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:eff51faa8312a1e27547d6bff0097b05615bb293@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261008T120000Z
-DTEND:20261008T132000Z
-SUMMARY:Nice → Badenbaden
-LOCATION:Nice
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NCE → FKB\nSource: GlobeAir\nOriginal price: €8\
- ,300\nCurrent price: €1\,410 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC824K\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
- air.com/el/eff51faa\n\nPlease note: All empty leg flights are subject to
-  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 80 minutes\nDistance: 308 miles\n\nContact us 
- 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
-  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
- l/eff51faa\nEmpty-leg schedules can change or disappear at short notice.
-  Confirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/eff51faa
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:e22655a1e8ad690ee407ec54c48de7a07488067f@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T083000Z
 DTEND:20261009T100000Z
 SUMMARY:London → Bremen
@@ -240,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:063cfd5561e656a9d580310cb27b5bd36462c2b3@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T071200Z
 DTEND:20261009T093000Z
 SUMMARY:Bolzano → Nantes
@@ -263,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16608@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T090500Z
 DTEND:20261009T094000Z
 SUMMARY:Frankfurt → Mannheim
@@ -281,7 +198,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16766@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T120000Z
 DTEND:20261009T140000Z
 SUMMARY:Bournemouth → Payerne
@@ -299,12 +216,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16781@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T100000Z
-DTEND:20261009T120000Z
-SUMMARY:Farnborough → Geneva
+DTEND:20261009T120500Z
+SUMMARY:Farnborough → Saanen
 LOCATION:Farnborough
-DESCRIPTION:Aircraft: PC-12\nAirports: EGLF → LSGG\nSource: Jetfly\nJetfl
+DESCRIPTION:Aircraft: PC-12\nAirports: EGLF → LSGK\nSource: Jetfly\nJetfl
  y/Fly7 published empty leg. Aircraft registration: OH-TWD. Confirm live 
  availability directly with Jetfly.\nBooking / source: https://empty-legs
  .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
@@ -317,25 +234,30 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:829162cd6cfa74bb0852d464123192a87c45772e@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261009T102200Z
-DTEND:20261009T120000Z
+DTSTAMP:20261008T100942Z
+DTSTART:20261009T102000Z
+DTEND:20261009T115800Z
 SUMMARY:Geneva → Karlovy Vary
 LOCATION:Geneva
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  GVA → KLV\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 40%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: GVA → KLV\nSource: GlobeAir\nOriginal price: €6\
+ ,950\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC437L\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/8
+ 29162cd\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 98 minutes\nDistance: 361 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/829162cd\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/829162cd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16784@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T043500Z
 DTEND:20261009T051500Z
 SUMMARY:Clermont Ferrand → Lyon
@@ -353,7 +275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16777@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T043000Z
 DTEND:20261009T054500Z
 SUMMARY:Salzburg → Zurich
@@ -371,7 +293,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:312fa8717fea818709d609a99184c7b2fa99dd05@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T115000Z
 DTEND:20261009T130200Z
 SUMMARY:Marseille → Payerne
@@ -389,7 +311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:37c79673af8b62fa35e5dfa90cfe25956a0321a8@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261009T135000Z
 DTEND:20261009T151500Z
 SUMMARY:London → Groningen
@@ -406,26 +328,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:07eb2fe8e231d839cdd43078f4a8868de4825489@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261010T174900Z
-DTEND:20261010T193000Z
-SUMMARY:Angers → Barcelona
-LOCATION:Angers
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  ANE → BCN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 30%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:0a4d78ebd372ca17f0d80accbb24049aa57df059@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261010T120700Z
 DTEND:20261010T130000Z
 SUMMARY:Angers → Paris
@@ -442,8 +346,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e53f664e6dc55655591f863e3709bbcc9497021b@globeair.com
+DTSTAMP:20261008T100942Z
+DTSTART:20261010T162500Z
+DTEND:20261010T173400Z
+SUMMARY:Avignon → Barcelona
+LOCATION:Avignon
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  AVN → BCN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 44%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ccb0bb4101619fbabba00a83cfaf5e2971b2f412@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261010T091700Z
 DTEND:20261010T100000Z
 SUMMARY:Dinard → Deauville
@@ -461,7 +383,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16826@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261010T070000Z
 DTEND:20261010T073500Z
 SUMMARY:Annemasse → Lausanne
@@ -478,15 +400,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7847a9e73e4c95872f702e8e8d10a362426feda8@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261011T130800Z
+UID:20298b8cb2b0868a8ccceb9360bf809362c965ba@globeair.com
+DTSTAMP:20261008T100942Z
+DTSTART:20261011T125100Z
 DTEND:20261011T150000Z
-SUMMARY:Avignon → Dinard
-LOCATION:Avignon
+SUMMARY:Bremen → Dinard
+LOCATION:Bremen
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  AVN → DNR\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 18%.\nBooking / source: https:/
+  BRE → DNR\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 15%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -497,7 +419,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16778@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T163000Z
 DTEND:20261011T171000Z
 SUMMARY:Munich → Salzburg
@@ -515,7 +437,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f3aa9cbf748ab65ebc80d7e7cedd45ad8f0c6f6a@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T104600Z
 DTEND:20261011T120000Z
 SUMMARY:Geneva → Orleans
@@ -533,7 +455,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16785@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T165500Z
 DTEND:20261011T174000Z
 SUMMARY:Lyon → Clermont Ferrand
@@ -551,7 +473,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16661@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T105000Z
 DTEND:20261011T114500Z
 SUMMARY:Paris → Le Touquet
@@ -569,7 +491,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16761@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T160000Z
 DTEND:20261011T171000Z
 SUMMARY:Paris → Saint Etienne
@@ -587,7 +509,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16702@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T160000Z
 DTEND:20261011T170500Z
 SUMMARY:Paris → Laval
@@ -605,7 +527,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16772@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T140000Z
 DTEND:20261011T153500Z
 SUMMARY: Saint-Tropez → Venezia
@@ -623,9 +545,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd1ef6f74ba7e2b282597cb8a2bb89956ff03b9a@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261011T120800Z
-DTEND:20261011T130000Z
+DTSTAMP:20261008T100942Z
+DTSTART:20261011T121000Z
+DTEND:20261011T130200Z
 SUMMARY:Linz → Innsbruck
 LOCATION:Linz
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
@@ -641,7 +563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4164c4277b834aad3886bd44dfe9ce472ca83734@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261011T070700Z
 DTEND:20261011T080000Z
 SUMMARY:Lugano → Pisa
@@ -658,8 +580,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:300c9aad6f31423b49c485e7b0a839c9b7d67091@globeair.com
+DTSTAMP:20261008T100942Z
+DTSTART:20261011T161000Z
+DTEND:20261011T174600Z
+SUMMARY:Vienna → Berlin
+LOCATION:Vienna
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  VIE → BER\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 23%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-16782@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261012T105500Z
 DTEND:20261012T124500Z
 SUMMARY:Rotterdam → Saanen
@@ -676,33 +616,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b01f58bf4fd70ef936f2b41a1aa80e026878593b@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261012T123300Z
-DTEND:20261012T135000Z
-SUMMARY:Figari → Bergamo
-LOCATION:Figari
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  FSC → BGY\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 18%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8ed4c04d7750679de8f43abe0664d84bf2765a88@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261012T110100Z
+UID:2e17df0d85be8cf7bd81aaf4615778641e9730e7@globeair.com
+DTSTAMP:20261008T100942Z
+DTSTART:20261012T102100Z
 DTEND:20261012T120000Z
-SUMMARY:Geneva → Cannes
-LOCATION:Geneva
+SUMMARY:Ibiza → Cannes
+LOCATION:Ibiza
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  GVA → CEQ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 21%.\nBooking / source: https:/
+  IBZ → CEQ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 13%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -713,7 +635,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16786@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261012T140000Z
 DTEND:20261012T151000Z
 SUMMARY:Clermont Ferrand → Paris
@@ -731,7 +653,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16773@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261012T060000Z
 DTEND:20261012T081000Z
 SUMMARY:Nice → Biarritz
@@ -749,7 +671,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -767,7 +689,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3c845615d9696f833d6b722e43b13f4f4de27e18@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -784,8 +706,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:10f83f41dd59560a34f590c596d48e057e0f4b24@globeair.com
-DTSTAMP:20261008T094251Z
+UID:0847aab1d11403bf1ba65174e6ba17cec2c31d53@globeair.com
+DTSTAMP:20261008T100942Z
 DTSTART:20261012T092600Z
 DTEND:20261012T110000Z
 SUMMARY:Manchester → Paris
@@ -803,7 +725,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44b776752ab0d0b70ae1f6969114c86e20334ec5@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261012T154500Z
 DTEND:20261012T162500Z
 SUMMARY:Poitiers → Angers
@@ -820,26 +742,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:300c9aad6f31423b49c485e7b0a839c9b7d67091@globeair.com
-DTSTAMP:20261008T094251Z
-DTSTART:20261012T042400Z
-DTEND:20261012T060000Z
-SUMMARY:Vienna → Berlin
-LOCATION:Vienna
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  VIE → BER\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 14%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-16783@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T102000Z
 DTEND:20261013T122500Z
 SUMMARY:Reading → Saanen
@@ -856,8 +760,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:436ef4db0d6cdcf788be955c1b5a794064e637dc@globeair.com
+DTSTAMP:20261008T100942Z
+DTSTART:20261013T043300Z
+DTEND:20261013T053000Z
+SUMMARY:Geneva → Bergamo
+LOCATION:Geneva
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  GVA → BGY\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 8%.\nBooking / source: https://
+ www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or d
+ isappear at short notice. Confirm with the operator/broker before making
+  connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:868c702f6e6dcfef6798864ccd11ec15cdab27fe@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T110000Z
 DTEND:20261013T120600Z
 SUMMARY:Geneva → Stuttgart
@@ -875,7 +797,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16787@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T164500Z
 DTEND:20261013T193000Z
 SUMMARY:Granada → Clermont Ferrand
@@ -893,7 +815,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16788@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T074000Z
 DTEND:20261013T085500Z
 SUMMARY:Modena → Cannes
@@ -911,7 +833,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16735@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
 SUMMARY:Grosseto → Lugano
@@ -929,7 +851,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16734@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T081500Z
 DTEND:20261013T090500Z
 SUMMARY:Geneva → Zurich
@@ -947,7 +869,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16774@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T134000Z
 DTEND:20261013T155500Z
 SUMMARY:Lausanne → Woking
@@ -965,7 +887,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73db0cd9ff51f4129ecb751a52b85ea75a8af866@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261013T054100Z
 DTEND:20261013T062000Z
 SUMMARY:Salzburg → Munich
@@ -983,7 +905,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16765@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261014T090000Z
 DTEND:20261014T101000Z
 SUMMARY:Saint Etienne → Paris
@@ -1001,7 +923,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16764@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261014T103500Z
 DTEND:20261014T115000Z
 SUMMARY:Paris → Lugano
@@ -1019,7 +941,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16780@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261014T050000Z
 DTEND:20261014T071500Z
 SUMMARY:Geneva → Lorient
@@ -1037,7 +959,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:52548ebb99017cdc1960e4e3d6a3216c502f5ed7@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261015T062100Z
 DTEND:20261015T071500Z
 SUMMARY:Ajaccio → Nice
@@ -1055,7 +977,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb1e1a2ccf3b0518e9df7dfb1051273c7262a5b@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -1073,7 +995,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a229be5c6d748cf965c7d5b2b2125121fc50be71@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -1091,7 +1013,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16823@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261015T173000Z
 DTEND:20261015T183000Z
 SUMMARY:Paris → Geneva
@@ -1109,7 +1031,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16824@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261015T070000Z
 DTEND:20261015T085500Z
 SUMMARY:Lorient → Geneva
@@ -1127,7 +1049,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76547fe7d67961054ed272772064ba448a58c3a6@globeair.com
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART:20261015T064700Z
 DTEND:20261015T080000Z
 SUMMARY:Orleans → Luzern
@@ -1145,7 +1067,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -1163,7 +1085,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -1182,7 +1104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261008T094251Z
+DTSTAMP:20261008T100942Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
