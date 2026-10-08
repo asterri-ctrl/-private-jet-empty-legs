@@ -6,4 +6,22 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:jetfly-16827@emptylegs.local
+DTSTAMP:20261008T110828Z
+DTSTART:20261008T195000Z
+DTEND:20261008T231000Z
+SUMMARY:Örebro → Zweibrucken
+LOCATION:Örebro
+DESCRIPTION:Aircraft: PC-12\nAirports: ESOE → EDRZ\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-ZRH. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
