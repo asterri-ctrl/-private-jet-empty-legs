@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-09 00:39 UTC · public web sources only_
+_Updated 2026-10-09 04:28 UTC · public web sources only_
 
 ## AI / DC
 
@@ -12,6 +12,10 @@ _Updated 2026-10-09 00:39 UTC · public web sources only_
 - [3 European Growth Stocks With Up To 35% Insider Ownership - Simply Wall Street](https://news.google.com/rss/articles/CBMijwJBVV95cUxPNGhOSnNBV19ZS0d6VnZBTWczTjdoVENWWXRocjNKWExkdmh3OHFTMkZaWG45MGFVaVRVaHlHMXlpZXNmOHZjTUhfLUdFWmVmTjlyZ3RXbE9jS2Y5QVI2VjlZZWxod0g0VmZod0pJNWJKRU5ybDlRSjFYUnUxRXBORUY2cnEwdnFFTWV4dGhhUUFDZHpuZG5Jc1JRVm9rb3dBR1hmckZkeV9MRnZKWkR0NVRvS1lja3BuQ2hZb19VcGR3Q2hxQVV0eFg5Ty1TT1o4N2lNVE40WEtOdTBZRGl6elpsUjZPTDJoenA2M2c1YkkxdkVmdTdpSkhFRGwwQ3o3RjR4Mkk0NjJ1am9IelA40gGUAkFVX3lxTE4weThHamYzdEU0UXFpYy1DWWEzcmhjdXdJSEFyYWxzZkUyVW5ONzlhV2txUzZBWEFkM19MNDU2aDFhNk5uOEs5M1FvdFhGdG44OTBZVHlibzhvWFZLdU9jdk5PS2tad19MMGt4emtpTE9yc3drYUh5SF8wN3dvSGtfSWt0Tkt2dGQ4bmJQc1NBa2tWNHE2YVZRRmJobGkwMDZNUDFyaVhmdkZOOS1XS2dSdmttT0VvdVJidGFJQzBLQTRDLWdDbWxEN3VjMEtFTzh3dnNrUkl6VXVjT2FlN0ZXUzFEbzZPb21zcjZnZ2loNlpnTnBhUXV2Mjc1UnRDaTh1X3doSWdxOXVKVkpKSVFvUUxJaQ?oc=5) · 2026-10-05 — Simply Wall Street
 - [atNorth Plans FIN05 Data Center in Salo, Finland with Path to 230 MW - Unite.AI](https://news.google.com/rss/articles/CBMikwFBVV95cUxNMTdHdzdpa0RuVkhySmlfaTRKUzVyU3lOY01rRlZnWTB6QjU4aWZEVHBzWnF2Y1VyY2hxQlZadUJLM0VsRHhUc0FJQUR3WS1Rak1VS3BaZV9mck1iZHRPc0tvcHI4ek5WTWVYS1ZFOTNMbTB4bUtxTzd6ekNTY2hGcWhBaHNMSktmZWdRR01nbWdxWnM?oc=5) · 2026-10-05 — Unite.AI
 - [Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud - EU-Startups](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamo5WWhjMEpjdmRVQmJ4NHp5TGo0alc1MWFzODF0NnlYVXRBZThqT1ZqZXNZQ0RDaWNFdGtqNFZSRngwQk1sb01pOUlNNWxEOFNvRjBoZmhzckc2aUtyQVB5dExvZEt4dUpJeDhXc0pObW5vLTVrN3J5SUkxRTlnY3ZuX2NIdWg3WTdRWHNyUzRiQXhWcTRpXzJzc3hCVWdmcEVMV3V2U0JscktSd1BfY2l3SVNwMEdPOEdzYklTNk9aWTh5aU55a3ZhWFZ4VTRTcXRPQTlad19NNEtlZXc?oc=5) · 2026-09-22 — EU-Startups
+
+## Telecom
+
+- [Summit Issuer dark fiber notes affirmed at A-sf by Fitch - Traders Union](https://news.google.com/rss/articles/CBMimwFBVV95cUxPZlJzS3FidTY1WUZUSXBPN0k3RTRNM19kZS00a1R4UTFPSWk0NC1reUJxQW01YTZUWEY5QUJXOG5xOGVDVjBVUUtWdTZ3bGtTcF9mLVBHaHItdkhsSzR2QXd0ZFNmSlZMR25NMXllazg5X1VLc1Fua1VqbHlFYm9fbDRCY3pIa28xUi03MDZSYjFoS045M19hR3B4OA?oc=5) · 2026-09-22 — Traders Union
 
 ## Regulation
 
