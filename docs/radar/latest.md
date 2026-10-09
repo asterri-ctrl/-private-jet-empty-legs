@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-09 08:29 UTC · public web sources only_
+_Updated 2026-10-09 12:31 UTC · public web sources only_
 
 ## AI / DC
 
@@ -14,7 +14,7 @@ _Updated 2026-10-09 08:29 UTC · public web sources only_
 
 ## Telecom
 
-- [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTFpV2N0VEdvb1VZczF0UU9LODNwNGlxZnFadlhxX1JDanJqTFhJU05lOG02YWNuTFNPLW5FaXB4dzZjYWpBc2RhMG1NS3doY3Rjdzl5bjQ3elhNOEVXZGtBNG1udGpIQWlZWl9mM0tYM3lqY0hXMUhyYWFBTnlzNXBMcUFVdkZxRGNNRm02LWZ6TDZvTTdCckY0SC1PZGh0b2JvbGtIQXPSAagBQVVfeXFMTk0xaVdjdFRHb29VWXMxdFFPSzgzcDRpcWZxWnZYcV9SQ2pyakxYSVNOZThtNmFjbkxTTy1uRWlweHc2Y2FqQXNkYTBtTUt3aGN0Y3c5eW40N3pYTThFV2RrQTRtbnRqSEFpWVpfZjNLWDN5amNIVzFIcmFhQU55czVwTHFBVXZGcURjTUZtNi1mekw2b003QnJGNEgtT2RodG9ib2xrSEFz?oc=5) · 2026-10-09 — TelecomLead
+- [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) · 2026-10-09 — TelecomLead
 
 ## Regulation
 
