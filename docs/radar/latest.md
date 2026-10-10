@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-09 20:25 UTC · public web sources only_
+_Updated 2026-10-10 00:37 UTC · public web sources only_
 
 ## AI / DC
 
@@ -16,6 +16,7 @@ _Updated 2026-10-09 20:25 UTC · public web sources only_
 ## Telecom
 
 - [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) · 2026-10-09 — TelecomLead
+- [OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVjU1RoTFJDbGJyTjhNYWl5NTlmZzh2T2xMWnFiZEFDVHdPdW4xYTFDWmFyQ05DTDVYbGxxRDEzSDBNbzN6Y1BYRS1mc05SZy1MSEdrMmlVMHNuaUVHWVRkU013ejVNMklEbnFhUDRZbUJUUnJHa2p2cFYwMW5TeXZjZjdENFdvZTdQY2F3bGRzVk91dEoxOFR6SVg2TWRZSGpWUWItOW1JU19VVEhMSnRQMW1tc1ZqZU1PczhWWQ?oc=5) · 2026-10-07 — IndexBox
 
 ## Regulation
 
