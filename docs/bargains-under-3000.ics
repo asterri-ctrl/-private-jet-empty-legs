@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:b3d7746544d950808484a7fcc31948ccaf3462c1@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Berlin → Innsbruck
@@ -25,54 +25,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f3aa9cbf748ab65ebc80d7e7cedd45ad8f0c6f6a@globeair.com
-DTSTAMP:20261010T230554Z
-DTSTART:20261011T104500Z
-DTEND:20261011T115300Z
-SUMMARY:Geneva → Orleans
-LOCATION:Geneva
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: GVA → ORE\nSource: GlobeAir\nOriginal price: €6\
- ,050\nCurrent price: €1\,290 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC487J\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/f
- 3aa9cbf\n\nPlease note: All empty leg flights are subject to schedule ch
- ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
-  flight time: 68 minutes\nDistance: 189 miles\n\nContact us 24/7\nWhatsA
- pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
- e@globeair.com\nBooking / source: https://fly.globeair.com/el/f3aa9cbf\n
- Empty-leg schedules can change or disappear at short notice. Confirm wit
- h the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/f3aa9cbf
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cc5229465cca71c858947aec4c7d97c5abbfe66d@globeair.com
-DTSTAMP:20261010T230554Z
-DTSTART:20261011T073000Z
-DTEND:20261011T081700Z
-SUMMARY:Ibiza → Valencia
-LOCATION:Ibiza
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: IBZ → VLC\nSource: GlobeAir\nOriginal price: €6\
- ,800\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC716U\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/cc522
- 946\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 47 minutes\nDistance: 93 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/cc522946\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/cc522946
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d2cea74640f5aa48e5193ffd18df28492a006a14@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Vienna → Linz
@@ -90,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c173deadbddceae0859ed896320642a4026f250c@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Geneva → Orleans
@@ -108,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6da361cb26ea77e50cad51711ee45ac9082d01fe@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 SUMMARY:Geneva International → Orleans-St Denis de L'Hotel
@@ -125,31 +79,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:06e45b0ed20ba0ab5524f078553273a80329017c@globeair.com
-DTSTAMP:20261010T230554Z
-DTSTART:20261011T133500Z
-DTEND:20261011T145300Z
-SUMMARY:Norwich → Dinard
-LOCATION:Norwich
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NWI → DNR\nSource: GlobeAir\nOriginal price: €5\
- ,850\nCurrent price: €1\,290 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC309M\nFBO: Saxonair Flt Spprt\n\nBook now:\nhttps://fly.globeair.co
- m/el/06e45b0e\n\nPlease note: All empty leg flights are subject to sched
- ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
- nTotal flight time: 78 minutes\nDistance: 276 miles\n\nContact us 24/7\n
- WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
- mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/06e4
- 5b0e\nEmpty-leg schedules can change or disappear at short notice. Confi
- rm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/06e45b0e
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -168,7 +99,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -186,7 +117,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -204,7 +135,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -222,7 +153,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -240,7 +171,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261010T230554Z
+DTSTAMP:20261010T233902Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
