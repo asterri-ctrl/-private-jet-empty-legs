@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:256842d9834c3374d799e2610332259231aaccb6@globeair.com
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART:20261010T120000Z
 DTEND:20261010T125800Z
 SUMMARY:Angers → Paris
@@ -32,7 +32,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b9e105fa246aa88d0781f6291fb10c130b48edb2@globeair.com
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART:20261010T163500Z
 DTEND:20261010T174300Z
 SUMMARY:Avignon → Barcelona
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ccb0bb4101619fbabba00a83cfaf5e2971b2f412@globeair.com
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART:20261010T092000Z
 DTEND:20261010T095300Z
 SUMMARY:Dinard → Deauville
@@ -78,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3226481ff45c3a57d1b8f500059a54cf1023a0b2@globeair.com
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART:20261010T100000Z
 DTEND:20261010T120500Z
 SUMMARY:Linz → Nice
@@ -101,12 +101,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0ee621339966d7435f772bb29b850be5de6aca3a@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Linz → Nice
 LOCATION:Linz
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LOWL → LFMN\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -118,8 +118,50 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a75c55667de03c2a1ffeee0368c443f4938bc40d@globeair.com
+DTSTAMP:20261010T060837Z
+DTSTART:20261011T060800Z
+DTEND:20261011T080000Z
+SUMMARY:Bremen → Oslo
+LOCATION:Bremen
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BRE → OSL\nSource: GlobeAir\nOriginal price: €11
+ \,600\nCurrent price: €1\,290 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC924S\nFBO: AHS Bremen Aviation Handling Services GmbH\n\nBook now:
+ \nhttps://fly.globeair.com/el/a75c5566\n\nPlease note: All empty leg fli
+ ghts are subject to schedule change!\n\nAircraft: Cessna Citation Mustan
+ g\, operated by GlobeAir\nTotal flight time: 112 minutes\nDistance: 436 
+ miles\n\nContact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +
+ 437221727400\nEmail: customercare@globeair.com\nBooking / source: https:
+ //fly.globeair.com/el/a75c5566\nEmpty-leg schedules can change or disapp
+ ear at short notice. Confirm with the operator/broker before making conn
+ ecting travel plans.
+URL:https://fly.globeair.com/el/a75c5566
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7621d66b9f100eecb679ea007f8efd2f0ee91f83@emptylegs.local
+DTSTAMP:20261010T060837Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Bremen → Oslo
+LOCATION:Bremen
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDDW → ENGM\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -138,7 +180,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -156,7 +198,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -174,12 +216,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
 LOCATION:Saarbrucken Airport
-DESCRIPTION:Price: €2\,005\nAircraft: King Air 90\nCapacity: 6 passengers
+DESCRIPTION:Price: €1\,799\nAircraft: King Air 90\nCapacity: 5 passengers
  \nAirports: EDDR → LOWS\nSource: PrivJet\nPrice shown by PrivJet include
  s its stated service fee. Confirm live availability before booking.\nBoo
  king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
@@ -192,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -211,7 +253,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -229,7 +271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -248,7 +290,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261010T054050Z
+DTSTAMP:20261010T060837Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
