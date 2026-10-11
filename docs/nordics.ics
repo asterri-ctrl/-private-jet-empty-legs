@@ -6,4 +6,22 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:4d75fcec745da9bd211ddc056b4b32213d3c443c@emptylegs.local
+DTSTAMP:20261011T230622Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261013
+SUMMARY:Bilbao → Malaga
+LOCATION:Bilbao
+DESCRIPTION:Aircraft: Citation XLS\nCapacity: 7 passengers\nAirports: BIO
+  → AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
+ 10-11 through 2026-10-12. Confirm exact timing and price before booking.
+ \nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmpt
+ y-leg schedules can change or disappear at short notice. Confirm with th
+ e operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=18
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
