@@ -7,62 +7,8 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:28f80d758004d60dc582704061144c23494b307e@emptylegs.local
-DTSTAMP:20261011T234027Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261013
-SUMMARY:Avignon → Milan
-LOCATION:Avignon
-DESCRIPTION:Aircraft: Legacy 650\nCapacity: 13 passengers\nAirports: AVN 
- → LIN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-1
- 0-11 through 2026-10-12. Confirm exact timing and price before booking.\
- nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9334e1b739e689b2fd3c3d78eee58a7321cfd7f7@emptylegs.local
-DTSTAMP:20261011T234027Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261013
-SUMMARY:Florence → Milan
-LOCATION:Florence
-DESCRIPTION:Aircraft: Citation XLS+\nCapacity: 7 passengers\nAirports: FL
- R → LIN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-11 through 2026-10-12. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:30e50c94665574c9663c6d6e872f9c13b6d19043@emptylegs.local
-DTSTAMP:20261011T234027Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261013
-SUMMARY:Milan → Genoa
-LOCATION:Milan
-DESCRIPTION:Aircraft: Challenger 350\nCapacity: 8 passengers\nAirports: L
- IN → GOA\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
- 6-10-11 through 2026-10-12. Confirm exact timing and price before bookin
- g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-16782@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261012T113000Z
 DTEND:20261012T132000Z
 SUMMARY:Rotterdam → Saanen
@@ -80,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16773@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261012T060000Z
 DTEND:20261012T081000Z
 SUMMARY:Nice → Biarritz
@@ -98,14 +44,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e6877edf245b4cb74a6b08b9c86b9c8cb2a351c6@globeair.com
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261012T180000Z
 DTEND:20261012T183100Z
 SUMMARY:Milan → Bergamo
 LOCATION:Milan
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LIN → BGY\nSource: GlobeAir\nOriginal price: €5\
- ,350\nCurrent price: €1\,390 (–74%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,350\nCurrent price: €1\,090 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC018V\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/e6877e
  df\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
@@ -121,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d55500c377eeed74164dd781edeaa7f098804146@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Salzburg Airport → Monchengladbach Airport
@@ -139,12 +85,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c89c5172893fd888410e8286e39ae900b333c9cc@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Geneva → Paris
 LOCATION:Geneva
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LSGG → LFPB\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -157,7 +103,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16926@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261012T140000Z
 DTEND:20261012T150500Z
 SUMMARY:Geneva →  Saint-Tropez
@@ -175,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -192,26 +138,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:88f85f908b7507c2c549b24af08979416930b85a@emptylegs.local
-DTSTAMP:20261011T234027Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-SUMMARY:Monchengladbach Airport → Salzburg Airport
-LOCATION:Monchengladbach Airport
-DESCRIPTION:Price: $2\,040\nAircraft: Beechcraft King Air C90GT\nCapacity
- : 6 passengers\nAirports: EDLN → LOWS\nSource: PrivJet\nPrice shown by P
- rivJet includes its stated service fee. Confirm live availability before
-  booking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-16904@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261013T154000Z
 DTEND:20261013T173500Z
 SUMMARY:London → Geneva
@@ -229,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16788@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261013T074000Z
 DTEND:20261013T085500Z
 SUMMARY:Modena → Cannes
@@ -247,7 +175,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16735@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
 SUMMARY:Grosseto → Lugano
@@ -265,7 +193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16734@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261013T081500Z
 DTEND:20261013T090500Z
 SUMMARY:Geneva → Zurich
@@ -283,7 +211,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16831@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261014T150000Z
 DTEND:20261014T160500Z
 SUMMARY: Saint-Tropez → Geneva
@@ -301,7 +229,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16780@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261014T050000Z
 DTEND:20261014T071500Z
 SUMMARY:Geneva → Lorient
@@ -319,7 +247,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -337,7 +265,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16823@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261015T173000Z
 DTEND:20261015T183000Z
 SUMMARY:Paris → Geneva
@@ -355,7 +283,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16824@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261015T070000Z
 DTEND:20261015T090500Z
 SUMMARY:Lorient → Saanen
@@ -373,7 +301,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16858@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261016T174000Z
 DTEND:20261016T191500Z
 SUMMARY:Brussels → Geneva
@@ -391,7 +319,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16925@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261016T125500Z
 DTEND:20261016T145000Z
 SUMMARY:London → Lausanne
@@ -409,7 +337,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16865@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261016T174500Z
 DTEND:20261016T185000Z
 SUMMARY:Nice → Geneva
@@ -427,7 +355,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16856@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261016T085000Z
 DTEND:20261016T101000Z
 SUMMARY: Saint-Tropez → Lausanne
@@ -445,7 +373,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16857@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261016T134500Z
 DTEND:20261016T152500Z
 SUMMARY:Venezia → Geneva
@@ -463,7 +391,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -481,7 +409,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16877@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261017T120000Z
 DTEND:20261017T130000Z
 SUMMARY:Bolzano → Milano
@@ -499,7 +427,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16903@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART:20261018T124000Z
 DTEND:20261018T150000Z
 SUMMARY:Saanen → Woking
@@ -517,7 +445,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -535,7 +463,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
-DTSTAMP:20261011T234027Z
+DTSTAMP:20261012T001106Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
@@ -547,6 +475,60 @@ DESCRIPTION:Price: €2\,158\nAircraft: Phenom 100\nCapacity: 7 passengers\
   can change or disappear at short notice. Confirm with the operator/brok
  er before making connecting travel plans.
 URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16928@emptylegs.local
+DTSTAMP:20261012T001106Z
+DTSTART:20261019T125500Z
+DTEND:20261019T140000Z
+SUMMARY:Geneva →  Saint-Tropez
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LFTZ\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-DBM. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16929@emptylegs.local
+DTSTAMP:20261012T001106Z
+DTSTART:20261019T130000Z
+DTEND:20261019T143000Z
+SUMMARY:Lausanne → Pontoise
+LOCATION:Lausanne
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGL → LFPT\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-PBL. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-16927@emptylegs.local
+DTSTAMP:20261012T001106Z
+DTSTART:20261019T060000Z
+DTEND:20261019T064500Z
+SUMMARY:Lugano → Nice
+LOCATION:Lugano
+DESCRIPTION:Aircraft: PC-24\nAirports: LSZA → LFMN\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
