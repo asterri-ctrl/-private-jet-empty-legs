@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:4762f827d394c418606945eed41a785cff5ce64f@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Barcelona → Porto
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e916ef2983a43e7b9a302bf72cd78d03fbc7215d@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Barcelona → Palma De Mallorca
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7a23f66e18a2204f30afde4c107be660bf9c0694@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Belgrade → Chisinau
@@ -62,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7365428ce534dd2fc06315ad491eddbcc8783b2@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Belfast → Edinburgh
@@ -80,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e824cce52b6c416d3cadae97a0a1c3f9d300ccfd@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Brussels → Rotterdam
@@ -98,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2fcd8fbc7deb9a906947d96007b9205efa60cd3a@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Rome → Nice
@@ -116,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:589596bdc1ed60cc4b84b44f31dce1ba201cf3e3@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Rome → Tirana
@@ -133,27 +133,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:6a2b66c0214c376110ca07be7f819c83c80e7861@emptylegs.local
-DTSTAMP:20261012T220728Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
- ort
-LOCATION:Frankfurt am Main International Airport
-DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300\nCapacity: 7 passengers\
- nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet includes
-  its stated service fee. Confirm live availability before booking.\nBook
- ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
-  can change or disappear at short notice. Confirm with the operator/brok
- er before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:78790dbdbbc802e0243dd1deb5d5abb0f05e8f46@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Farnborough → Avignon
@@ -171,7 +152,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3f509f0384a96c5d56d64e2c5a5bf70052730ccf@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Frankfurt → Malaga
@@ -189,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13cc4a22e24712dd1faa7c75a5db1626ef134e88@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Girona → Munich
@@ -207,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7cd8d3f71f856878819fa0fa7cd491fc8209df1a@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Granada → Clermont-Ferrand/Auvergn
@@ -225,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:360aa4d35ab82deca4a880a3f0561a483d947ee7@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Mikonos → Chisinau
@@ -243,7 +224,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:becdd004338310a63e19f1cb33b2ec2be19c46dd@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
@@ -253,7 +234,7 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
  y\, range and cabin globe Destinations Airports and routes we offer mega
  phone Empty legs Discounted one-way flights mail Contact Get in touch wi
  th our team EN chevron-small-down Deutsch DE Italiano IT Español ES Empt
- y Leg Flights › Private Jet Empty Leg Flights 509 empty legs from 69 cou
+ y Leg Flights › Private Jet Empty Leg Flights 503 empty legs from 68 cou
  ntries\, updated throughout the day Save up to 80% on charter flights Em
  pty legs\, also known as private jet repositioning flights\, are generat
  ed when an aircraft has to fly to another airport without passengers. Wa
@@ -262,17 +243,17 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
   Angola Argentina Australia Austria Azerbaijan Bahamas Bahrain Belgium B
  ermuda Brazil Bulgaria Canada Cayman Islands China Colombia Cyprus Czech
  ia Denmark Dominican Republic Egypt Finland France Gabon Georgia Germany
-  Ghana Greece Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isr
- ael Italy Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia M
- aldives Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norwa
- y Oman Philippines Poland Portugal Puerto Rico Qatar Republic of the Con
- go Romania Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia 
- Seychelles Singapore Slovakia Slovenia South Africa South Korea Spain Sw
- eden Switzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States Uruguay Vietnam Zimbab
- we Airport Search Currently showing 161 - 170 of 509 empty legs Previous
-  page Page 17 of 51 Next page Route Available From Available To Aircraft
-  Details LBG Paris → Dortmund
+  Ghana Greece Hong Kong Iceland India Indonesia Iraq Ireland Israel Ital
+ y Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia Maldives 
+ Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norway Oman P
+ hilippines Poland Portugal Puerto Rico Qatar Republic of the Congo Roman
+ ia Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia Seychell
+ es Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Swi
+ tzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands United A
+ rab Emirates United Kingdom United States Uruguay Vietnam Zimbabwe Airpo
+ rt Search Currently showing 161 - 170 of 503 empty legs Previous page Pa
+ ge 17 of 51 Next page Route Available From Available To Aircraft Details
+  LBG Paris → Dortmund
 LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  cript in order to use this website. (click here for more information) Sk
  ip to content [email protected] +44 20 8089 6288 magnifying-glass Flight
@@ -280,7 +261,7 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  ry\, range and cabin globe Destinations Airports and routes we offer meg
  aphone Empty legs Discounted one-way flights mail Contact Get in touch w
  ith our team EN chevron-small-down Deutsch DE Italiano IT Español ES Emp
- ty Leg Flights › Private Jet Empty Leg Flights 509 empty legs from 69 co
+ ty Leg Flights › Private Jet Empty Leg Flights 503 empty legs from 68 co
  untries\, updated throughout the day Save up to 80% on charter flights E
  mpty legs\, also known as private jet repositioning flights\, are genera
  ted when an aircraft has to fly to another airport without passengers. W
@@ -289,17 +270,17 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  a Angola Argentina Australia Austria Azerbaijan Bahamas Bahrain Belgium 
  Bermuda Brazil Bulgaria Canada Cayman Islands China Colombia Cyprus Czec
  hia Denmark Dominican Republic Egypt Finland France Gabon Georgia German
- y Ghana Greece Hong Kong Hungary Iceland India Indonesia Iraq Ireland Is
- rael Italy Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia 
- Maldives Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norw
- ay Oman Philippines Poland Portugal Puerto Rico Qatar Republic of the Co
- ngo Romania Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia
-  Seychelles Singapore Slovakia Slovenia South Africa South Korea Spain S
- weden Switzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands
-  United Arab Emirates United Kingdom United States Uruguay Vietnam Zimba
- bwe Airport Search Currently showing 161 - 170 of 509 empty legs Previou
- s page Page 17 of 51 Next page Route Available From Available To Aircraf
- t Details LBG Paris
+ y Ghana Greece Hong Kong Iceland India Indonesia Iraq Ireland Israel Ita
+ ly Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia Maldives
+  Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norway Oman 
+ Philippines Poland Portugal Puerto Rico Qatar Republic of the Congo Roma
+ nia Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia Seychel
+ les Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Sw
+ itzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands United 
+ Arab Emirates United Kingdom United States Uruguay Vietnam Zimbabwe Airp
+ ort Search Currently showing 161 - 170 of 503 empty legs Previous page P
+ age 17 of 51 Next page Route Available From Available To Aircraft Detail
+ s LBG Paris
 DESCRIPTION:Aircraft: Citation CJ2+\nCapacity: 7 passengers\nAirports: LE
  G → DTM\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
  -10-12 through 2026-10-13. Confirm exact timing and price before booking
@@ -313,7 +294,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:479f0448c4fae2d5d26b445f28e66b2b8ac5a9fe@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
@@ -323,7 +304,7 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
  y\, range and cabin globe Destinations Airports and routes we offer mega
  phone Empty legs Discounted one-way flights mail Contact Get in touch wi
  th our team EN chevron-small-down Deutsch DE Italiano IT Español ES Empt
- y Leg Flights › Private Jet Empty Leg Flights 509 empty legs from 69 cou
+ y Leg Flights › Private Jet Empty Leg Flights 503 empty legs from 68 cou
  ntries\, updated throughout the day Save up to 80% on charter flights Em
  pty legs\, also known as private jet repositioning flights\, are generat
  ed when an aircraft has to fly to another airport without passengers. Wa
@@ -332,17 +313,17 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
   Angola Argentina Australia Austria Azerbaijan Bahamas Bahrain Belgium B
  ermuda Brazil Bulgaria Canada Cayman Islands China Colombia Cyprus Czech
  ia Denmark Dominican Republic Egypt Finland France Gabon Georgia Germany
-  Ghana Greece Hong Kong Hungary Iceland India Indonesia Iraq Ireland Isr
- ael Italy Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia M
- aldives Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norwa
- y Oman Philippines Poland Portugal Puerto Rico Qatar Republic of the Con
- go Romania Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia 
- Seychelles Singapore Slovakia Slovenia South Africa South Korea Spain Sw
- eden Switzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States Uruguay Vietnam Zimbab
- we Airport Search Currently showing 151 - 160 of 509 empty legs Previous
-  page Page 16 of 51 Next page Route Available From Available To Aircraft
-  Details LGG Liege → Paris
+  Ghana Greece Hong Kong Iceland India Indonesia Iraq Ireland Israel Ital
+ y Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia Maldives 
+ Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norway Oman P
+ hilippines Poland Portugal Puerto Rico Qatar Republic of the Congo Roman
+ ia Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia Seychell
+ es Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Swi
+ tzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands United A
+ rab Emirates United Kingdom United States Uruguay Vietnam Zimbabwe Airpo
+ rt Search Currently showing 151 - 160 of 503 empty legs Previous page Pa
+ ge 16 of 51 Next page Route Available From Available To Aircraft Details
+  LGG Liege → Paris
 LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  cript in order to use this website. (click here for more information) Sk
  ip to content [email protected] +44 20 8089 6288 magnifying-glass Flight
@@ -350,7 +331,7 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  ry\, range and cabin globe Destinations Airports and routes we offer meg
  aphone Empty legs Discounted one-way flights mail Contact Get in touch w
  ith our team EN chevron-small-down Deutsch DE Italiano IT Español ES Emp
- ty Leg Flights › Private Jet Empty Leg Flights 509 empty legs from 69 co
+ ty Leg Flights › Private Jet Empty Leg Flights 503 empty legs from 68 co
  untries\, updated throughout the day Save up to 80% on charter flights E
  mpty legs\, also known as private jet repositioning flights\, are genera
  ted when an aircraft has to fly to another airport without passengers. W
@@ -359,17 +340,17 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  a Angola Argentina Australia Austria Azerbaijan Bahamas Bahrain Belgium 
  Bermuda Brazil Bulgaria Canada Cayman Islands China Colombia Cyprus Czec
  hia Denmark Dominican Republic Egypt Finland France Gabon Georgia German
- y Ghana Greece Hong Kong Hungary Iceland India Indonesia Iraq Ireland Is
- rael Italy Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia 
- Maldives Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norw
- ay Oman Philippines Poland Portugal Puerto Rico Qatar Republic of the Co
- ngo Romania Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia
-  Seychelles Singapore Slovakia Slovenia South Africa South Korea Spain S
- weden Switzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands
-  United Arab Emirates United Kingdom United States Uruguay Vietnam Zimba
- bwe Airport Search Currently showing 151 - 160 of 509 empty legs Previou
- s page Page 16 of 51 Next page Route Available From Available To Aircraf
- t Details LGG Liege
+ y Ghana Greece Hong Kong Iceland India Indonesia Iraq Ireland Israel Ita
+ ly Japan Jordan Kazakhstan Kenya Kuwait Latvia Lebanon Malaysia Maldives
+  Malta Moldova Montenegro Morocco Nepal Netherlands Nigeria Norway Oman 
+ Philippines Poland Portugal Puerto Rico Qatar Republic of the Congo Roma
+ nia Saint Vincent and the Grenadines Saudi Arabia Senegal Serbia Seychel
+ les Singapore Slovakia Slovenia South Africa South Korea Spain Sweden Sw
+ itzerland Syria Thailand Tunisia Turkey Turks and Caicos Islands United 
+ Arab Emirates United Kingdom United States Uruguay Vietnam Zimbabwe Airp
+ ort Search Currently showing 151 - 160 of 503 empty legs Previous page P
+ age 16 of 51 Next page Route Available From Available To Aircraft Detail
+ s LGG Liege
 DESCRIPTION:Aircraft: Embraer ERJ 135\nCapacity: 37 passengers\nAirports:
   LEG → LBG\nSource: AlbaJet\nAvailability window published by AlbaJet: 2
  026-10-12 through 2026-10-13. Confirm exact timing and price before book
@@ -383,7 +364,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:389bf3a917aa1bfd13bdc0136fad0c1a87e9b81f@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Ljubljana → London
@@ -401,7 +382,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2803312e4d4f98a7cb3073e837228d78442a30ef@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Linköping → Helsinki
@@ -419,7 +400,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f55f1dac3d13593d28ce26078b361e443828a48@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:London → Malaga
@@ -437,7 +418,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:116104d53e2eb00ff737d3623e1c51ca00635249@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:London → Bologna
@@ -455,7 +436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:154bebadf7d49d195ac03500c07777a31510864f@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Nice → Paris
@@ -473,7 +454,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:50108bcb6e6e41ba9a280106530146c86a5f72ff@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Newcastle → Cardiff
@@ -491,7 +472,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ab9d90d1ca775e42bf46f0a194df45b63fa301d@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Annecy → Prague
@@ -509,7 +490,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dbad48006401ca6b0ecf0453a639d95f8b8b1c91@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261014
 SUMMARY:Samedan → London
@@ -527,7 +508,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6e11d79a5fa506457ce40cce5675ab7c3e186253@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T084000Z
 DTEND:20261013T100700Z
 SUMMARY:Ajaccio → Trieste
@@ -550,7 +531,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d153f7578e29c12b4831cc84ad5bfa5ebdbf4502@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Monchengladbach Airport → Salzburg Airport
@@ -568,7 +549,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16904@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T154000Z
 DTEND:20261013T173500Z
 SUMMARY:London → Geneva
@@ -586,7 +567,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:010bfe3c147f7e7124854dae9f09efee5300b672@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T102500Z
 DTEND:20261013T112400Z
 SUMMARY:Geneva → Badenbaden
@@ -609,7 +590,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16787@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T164500Z
 DTEND:20261013T193000Z
 SUMMARY:Granada → Clermont Ferrand
@@ -627,7 +608,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16765@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T173000Z
 DTEND:20261013T184000Z
 SUMMARY:Saint Etienne → Paris
@@ -645,7 +626,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16788@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T074000Z
 DTEND:20261013T085500Z
 SUMMARY:Modena → Cannes
@@ -663,7 +644,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16735@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T143000Z
 DTEND:20261013T153000Z
 SUMMARY:Grosseto → Lugano
@@ -681,7 +662,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:450c79dd285c25accc1c35211ff93386e124ff72@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Innsbruck Airport → Munich International Airport
@@ -699,7 +680,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1a47827e9dea40d967908b31c04379bbfc9d05d9@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Geneva → Badenbaden
@@ -717,7 +698,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16734@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T091000Z
 DTEND:20261013T100000Z
 SUMMARY:Geneva → Zurich
@@ -735,7 +716,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16780@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261013T110000Z
 DTEND:20261013T132000Z
 SUMMARY:Lausanne → Lorient
@@ -753,7 +734,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:37031b09237625675620c58d49323ba7fcf93568@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T131300Z
 DTEND:20261014T140000Z
 SUMMARY:Biarritz → Toulouse
@@ -771,7 +752,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40e08d840bb4b7fd1024a21f319bc36f10b792d4@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T120400Z
 DTEND:20261014T130000Z
 SUMMARY:Bologna → Lugano
@@ -789,7 +770,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d0493ca67b9b72a5a859fbfc0224d0fa8be12ef4@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T114500Z
 DTEND:20261014T125500Z
 SUMMARY:London Biggin Hill → Amsterdam
@@ -807,7 +788,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:934935e82552853ea71b874afb5c819f93f3ea07@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T120000Z
 DTEND:20261014T132500Z
 SUMMARY:Bratislava → Venice
@@ -825,7 +806,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3d3d380e57a8e1210ec67ea74b4b1eac9467174d@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T120000Z
 DTEND:20261014T131400Z
 SUMMARY:Paris Le Bourget → Nantes
@@ -843,7 +824,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16831@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T150000Z
 DTEND:20261014T160500Z
 SUMMARY: Saint-Tropez → Geneva
@@ -861,7 +842,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7e43c06033519a7cd1d0e794020d4eab98203902@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T081500Z
 DTEND:20261014T095300Z
 SUMMARY:Nice → Linz
@@ -879,7 +860,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13b5c99eb2f349ffec7daeb813a71da497cea802@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T160500Z
 DTEND:20261014T171500Z
 SUMMARY:Olbia → Nice
@@ -897,7 +878,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4dee75ff147cb6c9785fda46f29cca3baba14a99@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T150500Z
 DTEND:20261014T160000Z
 SUMMARY:Saarbrucken → Zurich
@@ -915,7 +896,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ba2437fbd46f56925418a40957f8cdb5142b5312@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261014T055500Z
 DTEND:20261014T070000Z
 SUMMARY:Salzburg → Stuttgart
@@ -933,7 +914,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -951,7 +932,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16932@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T133500Z
 DTEND:20261015T144500Z
 SUMMARY:Cannes → Siena
@@ -969,7 +950,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16824@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T070000Z
 DTEND:20261015T090500Z
 SUMMARY:Lorient → Saanen
@@ -987,7 +968,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d2184d810129cdb290bd7276f5800db842450441@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T064000Z
 DTEND:20261015T080000Z
 SUMMARY:Linz → Buochs - Lucerne
@@ -1005,7 +986,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:854880aff4c0f8ff79215197e4ff11929e89078a@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T092800Z
 DTEND:20261015T110000Z
 SUMMARY:London Luton → Bremen
@@ -1023,7 +1004,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:53f446f3bf1e026c59014ec8bf921e04bc4fb03d@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T140100Z
 DTEND:20261015T160000Z
 SUMMARY:Marseille → Lille
@@ -1041,7 +1022,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e22405c77064593f92cc226ca04be064bfa0fece@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T113100Z
 DTEND:20261015T123000Z
 SUMMARY:Sion → Bologna
@@ -1059,7 +1040,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce86b15203c205bd9a7ffd2b199d601d1b4bb8d4@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261015T135000Z
 DTEND:20261015T153000Z
 SUMMARY:Zurich → Figari
@@ -1077,7 +1058,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:60723cbfcb921d867276a691c1db8d47b47e6431@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T055500Z
 DTEND:20261016T072500Z
 SUMMARY:Bordeaux → Nice
@@ -1095,7 +1076,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44821bf9e4addc1ef5c4ab11c9665dd47ea2903b@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T130200Z
 DTEND:20261016T135000Z
 SUMMARY:Bolzano → Munich
@@ -1113,7 +1094,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16858@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T174000Z
 DTEND:20261016T191500Z
 SUMMARY:Brussels → Geneva
@@ -1131,7 +1112,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16925@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T125500Z
 DTEND:20261016T145000Z
 SUMMARY:London → Lausanne
@@ -1149,7 +1130,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16865@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T174500Z
 DTEND:20261016T185000Z
 SUMMARY:Nice → Geneva
@@ -1167,7 +1148,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:707f4c597e1b3b96cb7d7aa6eefbeaac4a9f9abd@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T064200Z
 DTEND:20261016T080000Z
 SUMMARY:Melun → Amsterdam
@@ -1185,7 +1166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16856@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T085000Z
 DTEND:20261016T100500Z
 SUMMARY: Saint-Tropez → Lausanne
@@ -1203,7 +1184,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16857@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T134500Z
 DTEND:20261016T152500Z
 SUMMARY:Venezia → Geneva
@@ -1221,7 +1202,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:711c037b93f8a57498b69c252dfd61ff88f8d559@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T091800Z
 DTEND:20261016T103000Z
 SUMMARY:Nantes → Bournemouth
@@ -1239,7 +1220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:802d03432f91b3c6f668e6ee3552e39dcf012ce5@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T084600Z
 DTEND:20261016T094500Z
 SUMMARY:Palma → Girona
@@ -1257,7 +1238,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2035d950691e770a36bc662f98a68bf76f5a9519@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T043900Z
 DTEND:20261016T070000Z
 SUMMARY:Venice → Amsterdam
@@ -1275,7 +1256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:13c8a31b54a1a27cd576b4cf695d7eaa4f35915e@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261016T121500Z
 DTEND:20261016T131700Z
 SUMMARY:Venice → Linz
@@ -1293,7 +1274,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ba372dc96bdeeb05ffeddec3db8cfe7f14e20d7e@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T094200Z
 DTEND:20261017T120000Z
 SUMMARY:Bergamo → Ibiza
@@ -1311,7 +1292,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -1329,7 +1310,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16877@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T120000Z
 DTEND:20261017T130000Z
 SUMMARY:Bolzano → Milano
@@ -1347,7 +1328,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9e128592ec2dddd87187a053cb8235659cf891fe@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T065300Z
 DTEND:20261017T080000Z
 SUMMARY:Linz → Leipzig
@@ -1365,7 +1346,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16949@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T104500Z
 DTEND:20261017T125500Z
 SUMMARY:Lausanne → Biarritz
@@ -1383,7 +1364,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76164f5353b780594af88c5b6b4aac2e5079617c@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T085400Z
 DTEND:20261017T110000Z
 SUMMARY:Lugano → Biarritz
@@ -1401,7 +1382,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:204a17f22ecc376209c378b3d9aad81886d16853@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261017T111700Z
 DTEND:20261017T130000Z
 SUMMARY:Venice → Marseille
@@ -1419,7 +1400,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:962bf7c879a1cdd29ac0c9b167547be2fef74d30@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T124700Z
 DTEND:20261018T140000Z
 SUMMARY:Avignon → Olbia
@@ -1437,7 +1418,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d658fa0a387d7b397bb775dd061786c6bd6f9ac7@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T072700Z
 DTEND:20261018T080000Z
 SUMMARY:Bremen → Hamburg
@@ -1455,7 +1436,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -1474,7 +1455,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2603b620acf992f3bcf43ba96db964654504c6b8@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T074300Z
 DTEND:20261018T090000Z
 SUMMARY:Linz → Berlin Brandenburg
@@ -1492,7 +1473,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16903@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T124000Z
 DTEND:20261018T150000Z
 SUMMARY:Saanen → Woking
@@ -1510,7 +1491,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:04d66589f9be8d21f40068e74fc4e65f025e74c2@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Friedrichshafen Airport
@@ -1528,7 +1509,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -1545,8 +1526,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
+DTSTAMP:20261012T224217Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
+LOCATION:Zurich
+DESCRIPTION:Price: €2\,158\nAircraft: Phenom 100\nCapacity: 7 passengers\
+ nAirports: LSZH → LFSB\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0302ab134210b570e091f498c4079163c32b7aca@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T121900Z
 DTEND:20261018T130000Z
 SUMMARY:Munich → Innsbruck
@@ -1564,7 +1563,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ef5b6b91984e0399b0950bdb3b100b4c766ee4ad@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261018T070600Z
 DTEND:20261018T080000Z
 SUMMARY:Nice → Lugano
@@ -1582,7 +1581,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1725a19592382285b97b360eca88e44fbf414d3b@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T074300Z
 DTEND:20261019T090000Z
 SUMMARY:Amsterdam → London Biggin Hill
@@ -1600,7 +1599,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73ee80f74d52e342bf9dfe88ba416f26c13b46ee@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T075700Z
 DTEND:20261019T091000Z
 SUMMARY:Avignon → Olbia
@@ -1618,7 +1617,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c968afeb3e87637665decb901e5809333d46d64@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T075300Z
 DTEND:20261019T090000Z
 SUMMARY:Deauville → Norwich
@@ -1636,7 +1635,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80450f33582fcd7108083951e80fba1fd5ff90c0@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T105800Z
 DTEND:20261019T113000Z
 SUMMARY:Paris Le Bourget → Melun
@@ -1654,7 +1653,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16928@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T125500Z
 DTEND:20261019T140000Z
 SUMMARY:Geneva →  Saint-Tropez
@@ -1672,7 +1671,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16929@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T130000Z
 DTEND:20261019T143000Z
 SUMMARY:Lausanne → Pontoise
@@ -1690,7 +1689,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-16927@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T060000Z
 DTEND:20261019T064500Z
 SUMMARY:Lugano → Nice
@@ -1708,7 +1707,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d017337f68b1dea8bf13cf048152d3905a543d0@globeair.com
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART:20261019T063100Z
 DTEND:20261019T070000Z
 SUMMARY:Venice → Treviso
@@ -1726,7 +1725,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:33c4de098a8d79e80dfefc92885099c6ce13d648@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Bolzano Airport → Augsburg Airport
@@ -1744,7 +1743,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -1763,7 +1762,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261012T220728Z
+DTSTAMP:20261012T224217Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
