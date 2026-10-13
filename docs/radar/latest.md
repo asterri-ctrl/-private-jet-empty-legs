@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-13 12:36 UTC · public web sources only_
+_Updated 2026-10-13 16:30 UTC · public web sources only_
 
 ## AI / DC
 
@@ -12,10 +12,12 @@ _Updated 2026-10-13 12:36 UTC · public web sources only_
 - [Growing the branches of Yggdrasil: how Midgard Infra is tackling Europe's AI capacity crunch - Capacity Media](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm9haElGSXZrRjhwVVBHWS13U2NUaVFnUXFYb196WkJLRnVwTFRKVGZMSHptdHFzVTlKeTB6VGRuaEU2dVV6bnpNdDNQeElTanhrb2pQT1BGTjY5ekhnLTZlSC1wNmJIbU1CYkphOHE4al8teml4ejRmWDJnd0xmOENyOGNkdXptMzV6bEpVTzZ0VDlnVWg4WURPSVFWMGJheVh0Ynk4Yy1jZEV0WEQxbEZsNlZfeHk0eXB0bU9NLS0?oc=5) · 2026-10-06 — Capacity Media
 - [VivoPower: The Norway Data Center Could Be Catalyst For Its AI Infrastructure Pivot (VIVO) - Seeking Alpha](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWJScUFIRU93Wi1KZjNveGY4YTBzZ1oxRFdJd0Nkd2IwbUdFcHk5RzFXdzZ3LS1uLVROcjJma3F4NnEyV3NmdmNwanlWM2xEaHBmbVdSaUJlQkI3Q29Td1ZaRE5fWXJYVzJsZXhUaENIVlZsbkxlR0NqR0F0MlVOU0phTV9adUZQRG5GR0VsWmtNNmRRRlFBWmdlVEhuS0JFekJvSnN5N1c2c1d3SHE2bG9zMGk1b2JzLWxJSGQtekJEM2NLY1E?oc=5) · 2026-10-05 — Seeking Alpha
 - [atNorth to build 75MW data center in Salo, Finland - Data Center Dynamics](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYm1EUXRZSnRINGlwLU42R3Bja0lqVWFjd1dlbHp4aFJpLVhzR2lxcTVPNng3QkpWVDVid2pFWVY5ZGhXRFZpcHFRcUsxVGhXbEQ3ZGswU3I2UWFVMUcyYjF4b2VneXNCa0VENWJzdXlyb2VLQlJKTWJCWk5oRi11cHZXYldtakF2SmFKNGN6UXpYd0JGU01mRQ?oc=5) · 2026-10-05 — Data Center Dynamics
+- [3 European Growth Stocks With Up To 35% Insider Ownership - Simply Wall Street](https://news.google.com/rss/articles/CBMijwJBVV95cUxPNGhOSnNBV19ZS0d6VnZBTWczTjdoVENWWXRocjNKWExkdmh3OHFTMkZaWG45MGFVaVRVaHlHMXlpZXNmOHZjTUhfLUdFWmVmTjlyZ3RXbE9jS2Y5QVI2VjlZZWxod0g0VmZod0pJNWJKRU5ybDlRSjFYUnUxRXBORUY2cnEwdnFFTWV4dGhhUUFDZHpuZG5Jc1JRVm9rb3dBR1hmckZkeV9MRnZKWkR0NVRvS1lja3BuQ2hZb19VcGR3Q2hxQVV0eFg5Ty1TT1o4N2lNVE40WEtOdTBZRGl6elpsUjZPTDJoenA2M2c1YkkxdkVmdTdpSkhFRGwwQ3o3RjR4Mkk0NjJ1am9IelA40gGUAkFVX3lxTE4weThHamYzdEU0UXFpYy1DWWEzcmhjdXdJSEFyYWxzZkUyVW5ONzlhV2txUzZBWEFkM19MNDU2aDFhNk5uOEs5M1FvdFhGdG44OTBZVHlibzhvWFZLdU9jdk5PS2tad19MMGt4emtpTE9yc3drYUh5SF8wN3dvSGtfSWt0Tkt2dGQ4bmJQc1NBa2tWNHE2YVZRRmJobGkwMDZNUDFyaVhmdkZOOS1XS2dSdmttT0VvdVJidGFJQzBLQTRDLWdDbWxEN3VjMEtFTzh3dnNrUkl6VXVjT2FlN0ZXUzFEbzZPb21zcjZnZ2loNlpnTnBhUXV2Mjc1UnRDaTh1X3doSWdxOXVKVkpKSVFvUUxJaQ?oc=5) · 2026-10-05 — Simply Wall Street
 
 ## Telecom
 
 - [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) · 2026-10-09 — TelecomLead
+- [OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVjU1RoTFJDbGJyTjhNYWl5NTlmZzh2T2xMWnFiZEFDVHdPdW4xYTFDWmFyQ05DTDVYbGxxRDEzSDBNbzN6Y1BYRS1mc05SZy1MSEdrMmlVMHNuaUVHWVRkU013ejVNMklEbnFhUDRZbUJUUnJHa2p2cFYwMW5TeXZjZjdENFdvZTdQY2F3bGRzVk91dEoxOFR6SVg2TWRZSGpWUWItOW1JU19VVEhMSnRQMW1tc1ZqZU1PczhWWQ?oc=5) · 2026-10-07 — IndexBox
 
 ## Regulation
 
