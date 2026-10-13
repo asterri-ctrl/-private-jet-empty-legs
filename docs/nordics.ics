@@ -8,14 +8,14 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:37031b09237625675620c58d49323ba7fcf93568@globeair.com
-DTSTAMP:20261013T084715Z
-DTSTART:20261014T125000Z
-DTEND:20261014T133700Z
+DTSTAMP:20261013T091031Z
+DTSTART:20261014T125600Z
+DTEND:20261014T133100Z
 SUMMARY:Biarritz → Toulouse
 LOCATION:Biarritz
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   BIQ → TLS\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 70%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 77%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -26,17 +26,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76164f5353b780594af88c5b6b4aac2e5079617c@globeair.com
-DTSTAMP:20261013T084715Z
-DTSTART:20261017T085400Z
-DTEND:20261017T110000Z
+DTSTAMP:20261013T091031Z
+DTSTART:20261017T085900Z
+DTEND:20261017T105400Z
 SUMMARY:Lugano → Biarritz
 LOCATION:Lugano
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   LUG → BIQ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 9%.\nBooking / source: https://
- www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or d
- isappear at short notice. Confirm with the operator/broker before making
-  connecting travel plans.
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
 URL:https://www.globeair.com/emptylegs/calendar
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
