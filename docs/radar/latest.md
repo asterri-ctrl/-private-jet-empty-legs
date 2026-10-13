@@ -1,9 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-13 04:30 UTC · public web sources only_
+_Updated 2026-10-13 08:32 UTC · public web sources only_
 
 ## AI / DC
 
+- [Midgard Infra extends Oslo–Stockholm fiber route to Finland - W.Media](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWdsTHhaZE12T2J5bVNPa3R3dFByUjZwS3RNUkJwR0ctTWw2S2JibzlGeF9mZHRQTzJnd1FyS25iYWVTR3NBZFNCaUpCejJMclV3QW9HX3BxQ25vbXRRM0hxVjQ5bXMzSkVlUVZyajA3Mmk2dzZLdjZDbzRZRDJwU0J3?oc=5) · 2026-10-13 — W.Media
 - [Midgard Infra to build Sweden-Finland subsea cable - Data Center Dynamics](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3E5cExGMWxEc244ZFBfbjM4aEM4eXdvOVJpN1lOLU9rOTZQcU15dXowVzAyT25HVTlDUGt6MVo1YlVYZ3VDTTFKWm5hYzl3V0dUbmQ1TlBHeEhzWEZ5elRWamh1RjhEcVlnTC1UNVZzWWtNdmNiUk13U0JGcVJ5U05KQ3dsLXNVdnJvX3VEOGJGYlpUZmZBU1B3?oc=5) · 2026-10-12 — Data Center Dynamics
 - [Advania recognised as a European leader in AI innovation - Mynewsdesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmFoRWpkVUhQU0FhMUtKYy13NnBEb2N6LXk1MXo3cHRYQXBwdXNMeEVkSDB4dGFzT1o0dk9lSnVqNG8wSjZaWUxOLV90R21oV1BqU1BKbW40d1FzdG1NN3k4aS1EMDFZUV9CNWw5Y1JSdXNfM05GWnZHM1lnMjZBeUR0bEJlbElXYlVZbHlDSVQySDFkWk4tRWFQRXo3d3Voc3NyQU9GNVIzSUlSc0NxVUlDaERfdC1FZmpB?oc=5) · 2026-10-08 — Mynewsdesk
 - [Midgard Infra extends Oslo-Stockholm fibre route to Finland - Telecompaper](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2hMc19hTFpHbEJEVmxLMUtnV1NteUNMQXNVUWNOM1lBelExNkFmdUNKek16WU9HaENHZ3NRYi1yZFUzcklqV2NTb3M1VkRzZnJLME5ZeHM4VHBXSDh4cDBmRGp4ekJ5N2xHczJYQlE1TVNFQnZib25HazB2U2RBTTBSZDZCTl9EQnhKWVBKcWgyQ05wc1JIX3RNRTlTSXZ2bFN1MA?oc=5) · 2026-10-08 — Telecompaper
@@ -11,7 +12,6 @@ _Updated 2026-10-13 04:30 UTC · public web sources only_
 - [Growing the branches of Yggdrasil: how Midgard Infra is tackling Europe's AI capacity crunch - Capacity Media](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcm9haElGSXZrRjhwVVBHWS13U2NUaVFnUXFYb196WkJLRnVwTFRKVGZMSHptdHFzVTlKeTB6VGRuaEU2dVV6bnpNdDNQeElTanhrb2pQT1BGTjY5ekhnLTZlSC1wNmJIbU1CYkphOHE4al8teml4ejRmWDJnd0xmOENyOGNkdXptMzV6bEpVTzZ0VDlnVWg4WURPSVFWMGJheVh0Ynk4Yy1jZEV0WEQxbEZsNlZfeHk0eXB0bU9NLS0?oc=5) · 2026-10-06 — Capacity Media
 - [VivoPower: The Norway Data Center Could Be Catalyst For Its AI Infrastructure Pivot (VIVO) - Seeking Alpha](https://news.google.com/rss/articles/CBMixgFBVV95cUxQRWJScUFIRU93Wi1KZjNveGY4YTBzZ1oxRFdJd0Nkd2IwbUdFcHk5RzFXdzZ3LS1uLVROcjJma3F4NnEyV3NmdmNwanlWM2xEaHBmbVdSaUJlQkI3Q29Td1ZaRE5fWXJYVzJsZXhUaENIVlZsbkxlR0NqR0F0MlVOU0phTV9adUZQRG5GR0VsWmtNNmRRRlFBWmdlVEhuS0JFekJvSnN5N1c2c1d3SHE2bG9zMGk1b2JzLWxJSGQtekJEM2NLY1E?oc=5) · 2026-10-05 — Seeking Alpha
 - [atNorth to build 75MW data center in Salo, Finland - Data Center Dynamics](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYm1EUXRZSnRINGlwLU42R3Bja0lqVWFjd1dlbHp4aFJpLVhzR2lxcTVPNng3QkpWVDVid2pFWVY5ZGhXRFZpcHFRcUsxVGhXbEQ3ZGswU3I2UWFVMUcyYjF4b2VneXNCa0VENWJzdXlyb2VLQlJKTWJCWk5oRi11cHZXYldtakF2SmFKNGN6UXpYd0JGU01mRQ?oc=5) · 2026-10-05 — Data Center Dynamics
-- [Helsinki’s Verda becomes Europe’s latest unicorn after raising €164.8 million to scale its full-stack AI cloud - EU-Startups](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQamo5WWhjMEpjdmRVQmJ4NHp5TGo0alc1MWFzODF0NnlYVXRBZThqT1ZqZXNZQ0RDaWNFdGtqNFZSRngwQk1sb01pOUlNNWxEOFNvRjBoZmhzckc2aUtyQVB5dExvZEt4dUpJeDhXc0pObW5vLTVrN3J5SUkxRTlnY3ZuX2NIdWg3WTdRWHNyUzRiQXhWcTRpXzJzc3hCVWdmcEVMV3V2U0JscktSd1BfY2l3SVNwMEdPOEdzYklTNk9aWTh5aU55a3ZhWFZ4VTRTcXRPQTlad19NNEtlZXc?oc=5) · 2026-09-22 — EU-Startups
 
 ## Telecom
 
