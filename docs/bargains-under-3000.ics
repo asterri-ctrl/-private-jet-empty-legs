@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:37031b09237625675620c58d49323ba7fcf93568@globeair.com
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART:20261014T125600Z
 DTEND:20261014T132900Z
 SUMMARY:Biarritz → Toulouse
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:72b54651d26dc797ce901652f643b4aff845c9a8@globeair.com
-DTSTAMP:20261014T090036Z
-DTSTART:20261014T132000Z
-DTEND:20261014T145100Z
+DTSTAMP:20261014T095844Z
+DTSTART:20261014T163000Z
+DTEND:20261014T180800Z
 SUMMARY:Cagliari → Venice
 LOCATION:Cagliari
 DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -42,7 +42,7 @@ DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC635N\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/72b546
  51\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 91 minutes\nDistance: 403 miles\n\nContact us 24/7\nWhatsApp: h
+ ht time: 98 minutes\nDistance: 403 miles\n\nContact us 24/7\nWhatsApp: h
  ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
  beair.com\nBooking / source: https://fly.globeair.com/el/72b54651\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:302551560d8a85cac973adec081e072784e86f34@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Saarbrucken → Zurich
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80131b70a0a1e65a3a05bbc3bdf1a41b538239ac@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Bologna → Buochs - Lucerne
@@ -90,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ebb5d0b11d795b495a5ec7432f7b7532c3f3d5a@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Bratislava → Lugano
@@ -108,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4dee75ff147cb6c9785fda46f29cca3baba14a99@globeair.com
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART:20261014T151100Z
 DTEND:20261014T155400Z
 SUMMARY:Saarbrucken → Zurich
@@ -131,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -149,8 +149,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:60d67843df94f5258e09d573f27b3ec82170f755@globeair.com
-DTSTAMP:20261014T090036Z
-DTSTART:20261015T034300Z
+DTSTAMP:20261014T095844Z
+DTSTART:20261015T034000Z
 DTEND:20261015T045400Z
 SUMMARY:London Luton → Nantes
 LOCATION:London Luton
@@ -160,7 +160,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC120D\nFBO: Signature Terminal 1\n\nBook now:\nhttps://fly.globeair
  .com/el/60d67843\n\nPlease note: All empty leg flights are subject to sc
  hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
- ir\nTotal flight time: 71 minutes\nDistance: 287 miles\n\nContact us 24/
+ ir\nTotal flight time: 74 minutes\nDistance: 287 miles\n\nContact us 24/
  7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cu
  stomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/6
  0d67843\nEmpty-leg schedules can change or disappear at short notice. Co
@@ -172,7 +172,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:863e98f1c3e9a2a6b0d19d8ec28d7a3e1937f391@globeair.com
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART:20261015T062400Z
 DTEND:20261015T075400Z
 SUMMARY:Olbia → Buochs - Lucerne
@@ -194,8 +194,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:389f813df568c73a591662923fbb84c443ee6511@globeair.com
+DTSTAMP:20261014T095844Z
+DTSTART:20261015T084500Z
+DTEND:20261015T100700Z
+SUMMARY:Sion → Lille
+LOCATION:Sion
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: SIR → LIL\nSource: GlobeAir\nOriginal price: €7\
+ ,250\nCurrent price: €1\,290 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC365N\nFBO: Alpine Jet Service\n\nBook now:\nhttps://fly.globeair.co
+ m/el/389f813d\n\nPlease note: All empty leg flights are subject to sched
+ ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
+ nTotal flight time: 82 minutes\nDistance: 310 miles\n\nContact us 24/7\n
+ WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
+ mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/389f
+ 813d\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/389f813d
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -213,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -232,7 +255,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -250,7 +273,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
@@ -268,7 +291,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -287,7 +310,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261014T090036Z
+DTSTAMP:20261014T095844Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
