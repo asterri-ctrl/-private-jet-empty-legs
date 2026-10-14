@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:72b54651d26dc797ce901652f643b4aff845c9a8@globeair.com
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART:20261014T163000Z
 DTEND:20261014T180800Z
 SUMMARY:Cagliari → Venice
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:302551560d8a85cac973adec081e072784e86f34@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Saarbrucken → Zurich
@@ -48,44 +48,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:80131b70a0a1e65a3a05bbc3bdf1a41b538239ac@emptylegs.local
-DTSTAMP:20261014T115954Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Bologna → Buochs - Lucerne
-LOCATION:Bologna
-DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LIPE → LSZC\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1ebb5d0b11d795b495a5ec7432f7b7532c3f3d5a@emptylegs.local
-DTSTAMP:20261014T115954Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:Bratislava → Lugano
-LOCATION:Bratislava
-DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LZIB → LSZA\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:4dee75ff147cb6c9785fda46f29cca3baba14a99@globeair.com
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART:20261014T151100Z
 DTEND:20261014T155400Z
 SUMMARY:Saarbrucken → Zurich
@@ -108,9 +72,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e7986e2d46f070e366ad23e7148fded9050145ba@globeair.com
-DTSTAMP:20261014T115954Z
-DTSTART:20261015T101600Z
-DTEND:20261015T105400Z
+DTSTAMP:20261014T123511Z
+DTSTART:20261015T094600Z
+DTEND:20261015T102400Z
 SUMMARY:Dortmund → Bremen
 LOCATION:Dortmund
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -131,8 +95,44 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e5167adebf26d8eb9b1d35359fa9843f0ae953c0@emptylegs.local
+DTSTAMP:20261014T123511Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Dortmund → Bremen
+LOCATION:Dortmund
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDLW → EDDW\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a7419b44c08fba16a5b39a784ad1917a7cffd510@emptylegs.local
+DTSTAMP:20261014T123511Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Dortmund Airport → Buochs Airport
+LOCATION:Dortmund Airport
+DESCRIPTION:Price: €1\,800\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDLW → LSZC\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -149,8 +149,44 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:e0d7069dc1d1cbc3109edc5d796c0a87b917d70f@emptylegs.local
+DTSTAMP:20261014T123511Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Olbia → Buochs - Lucerne
+LOCATION:Olbia
+DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIEO → LSZC\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:26c667d14edb90a060a46cd85788a24f5b4c41fb@emptylegs.local
+DTSTAMP:20261014T123511Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Sion Airport → Romilly Sur Seine Airport
+LOCATION:Sion Airport
+DESCRIPTION:Price: €1\,704\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LSGS → LFQR\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:60d67843df94f5258e09d573f27b3ec82170f755@globeair.com
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART:20261015T034000Z
 DTEND:20261015T045400Z
 SUMMARY:London Luton → Nantes
@@ -173,7 +209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a343b89fd9f53187df7fc562b7ba5af6a5b40dee@globeair.com
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART:20261015T111000Z
 DTEND:20261015T113900Z
 SUMMARY:Marseille → Nice
@@ -196,7 +232,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:863e98f1c3e9a2a6b0d19d8ec28d7a3e1937f391@globeair.com
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART:20261015T062100Z
 DTEND:20261015T075400Z
 SUMMARY:Olbia → Buochs - Lucerne
@@ -219,7 +255,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -237,7 +273,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -256,7 +292,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -273,26 +309,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
-DTSTAMP:20261014T115954Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
-LOCATION:Zurich
-DESCRIPTION:Price: €2\,158\nAircraft: Phenom 100\nCapacity: 7 passengers\
- nAirports: LSZH → LFSB\nSource: PrivJet\nPrice shown by PrivJet includes
-  its stated service fee. Confirm live availability before booking.\nBook
- ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
-  can change or disappear at short notice. Confirm with the operator/brok
- er before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -311,7 +329,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261014T115954Z
+DTSTAMP:20261014T123511Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
