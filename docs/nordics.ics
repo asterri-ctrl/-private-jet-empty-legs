@@ -8,14 +8,14 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:37031b09237625675620c58d49323ba7fcf93568@globeair.com
-DTSTAMP:20261013T234922Z
+DTSTAMP:20261014T001715Z
 DTSTART:20261014T125600Z
 DTEND:20261014T132900Z
 SUMMARY:Biarritz → Toulouse
 LOCATION:Biarritz
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BIQ → TLS\nSource: GlobeAir\nOriginal price: €6\
- ,450\nCurrent price: €1\,710 (–73%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,450\nCurrent price: €1\,410 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC724P\nFBO: B.A.S\n\nBook now:\nhttps://fly.globeair.com/el/37031b09
  \n\nPlease note: All empty leg flights are subject to schedule change!\n
  \nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:76164f5353b780594af88c5b6b4aac2e5079617c@globeair.com
-DTSTAMP:20261013T234922Z
+DTSTAMP:20261014T001715Z
 DTSTART:20261017T085900Z
 DTEND:20261017T105400Z
 SUMMARY:Lugano → Biarritz
