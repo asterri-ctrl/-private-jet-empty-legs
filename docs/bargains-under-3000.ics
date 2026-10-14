@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:37031b09237625675620c58d49323ba7fcf93568@globeair.com
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART:20261014T125600Z
 DTEND:20261014T132900Z
 SUMMARY:Biarritz → Toulouse
@@ -30,54 +30,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d0493ca67b9b72a5a859fbfc0224d0fa8be12ef4@globeair.com
-DTSTAMP:20261014T080026Z
-DTSTART:20261014T115500Z
-DTEND:20261014T123600Z
-SUMMARY:London Biggin Hill → Amsterdam
-LOCATION:London Biggin Hill
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BQH → AMS\nSource: GlobeAir\nOriginal price: €4\,90
- 0\nCurrent price: €990 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC9
- 67Z\nFBO: Jetex (former Signature)\n\nBook now:\nhttps://fly.globeair.co
- m/el/d0493ca6\n\nPlease note: All empty leg flights are subject to sched
- ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
- nTotal flight time: 41 minutes\nDistance: 185 miles\n\nContact us 24/7\n
- WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
- mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/d049
- 3ca6\nEmpty-leg schedules can change or disappear at short notice. Confi
- rm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/d0493ca6
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:54960d6a0f2c1e45716fef682c484b6be8167a20@globeair.com
-DTSTAMP:20261014T080026Z
-DTSTART:20261014T103600Z
-DTEND:20261014T115700Z
-SUMMARY:Bratislava → Lugano
-LOCATION:Bratislava
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BTS → LUG\nSource: GlobeAir\nOriginal price: €7\,05
- 0\nCurrent price: €990 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC3
- 68W\nFBO: Abs Jets\n\nBook now:\nhttps://fly.globeair.com/el/54960d6a\n\
- nPlease note: All empty leg flights are subject to schedule change!\n\nA
- ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
- me: 81 minutes\nDistance: 363 miles\n\nContact us 24/7\nWhatsApp: https:
- //wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair
- .com\nBooking / source: https://fly.globeair.com/el/54960d6a\nEmpty-leg 
- schedules can change or disappear at short notice. Confirm with the oper
- ator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/54960d6a
+UID:72b54651d26dc797ce901652f643b4aff845c9a8@globeair.com
+DTSTAMP:20261014T090036Z
+DTSTART:20261014T132000Z
+DTEND:20261014T145100Z
+SUMMARY:Cagliari → Venice
+LOCATION:Cagliari
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: CAG → VCE\nSource: GlobeAir\nOriginal price: €7\
+ ,800\nCurrent price: €1\,090 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC635N\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/72b546
+ 51\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 91 minutes\nDistance: 403 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/72b54651\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/72b54651
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:302551560d8a85cac973adec081e072784e86f34@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Saarbrucken → Zurich
@@ -95,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80131b70a0a1e65a3a05bbc3bdf1a41b538239ac@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Bologna → Buochs - Lucerne
@@ -113,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ebb5d0b11d795b495a5ec7432f7b7532c3f3d5a@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Bratislava → Lugano
@@ -130,31 +107,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ce7db4a1f3a652e9b765cdf52d03d9de361564d1@globeair.com
-DTSTAMP:20261014T080026Z
-DTSTART:20261014T164100Z
-DTEND:20261014T180200Z
-SUMMARY:Olbia → Venice
-LOCATION:Olbia
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: OLB → VCE\nSource: GlobeAir\nOriginal price: €6\
- ,350\nCurrent price: €1\,090 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC178X\nFBO: Eccelsa Aviation\n\nBook now:\nhttps://fly.globeair.com/
- el/ce7db4a1\n\nPlease note: All empty leg flights are subject to schedul
- e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
- otal flight time: 81 minutes\nDistance: 303 miles\n\nContact us 24/7\nWh
- atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
- rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/ce7db4
- a1\nEmpty-leg schedules can change or disappear at short notice. Confirm
-  with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/ce7db4a1
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:4dee75ff147cb6c9785fda46f29cca3baba14a99@globeair.com
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART:20261014T151100Z
 DTEND:20261014T155400Z
 SUMMARY:Saarbrucken → Zurich
@@ -177,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1038080d5c4038d2c490d3ae2c4329870cf9e66d@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Mengen-Hohentengen Airport → Lugano Airport
@@ -194,55 +148,54 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e8bb04fa8a19daa03b9d24d707344ef3d37b5d80@globeair.com
-DTSTAMP:20261014T080026Z
-DTSTART:20261015T041000Z
-DTEND:20261015T050800Z
-SUMMARY:Paris Le Bourget → Nantes
-LOCATION:Paris Le Bourget
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LBG → NTE\nSource: GlobeAir\nOriginal price: €8\
- ,200\nCurrent price: €1\,710 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC120D\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
- eair.com/el/e8bb04fa\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 58 minutes\nDistance: 195 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/e8bb04fa\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/e8bb04fa
+UID:60d67843df94f5258e09d573f27b3ec82170f755@globeair.com
+DTSTAMP:20261014T090036Z
+DTSTART:20261015T034300Z
+DTEND:20261015T045400Z
+SUMMARY:London Luton → Nantes
+LOCATION:London Luton
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LTN → NTE\nSource: GlobeAir\nOriginal price: €10
+ \,600\nCurrent price: €1\,290 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC120D\nFBO: Signature Terminal 1\n\nBook now:\nhttps://fly.globeair
+ .com/el/60d67843\n\nPlease note: All empty leg flights are subject to sc
+ hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
+ ir\nTotal flight time: 71 minutes\nDistance: 287 miles\n\nContact us 24/
+ 7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cu
+ stomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/6
+ 0d67843\nEmpty-leg schedules can change or disappear at short notice. Co
+ nfirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/60d67843
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:de82215bd9f0f4099bd84a2b9f84f86d72b1a9aa@globeair.com
-DTSTAMP:20261014T080026Z
-DTSTART:20261015T062000Z
+UID:863e98f1c3e9a2a6b0d19d8ec28d7a3e1937f391@globeair.com
+DTSTAMP:20261014T090036Z
+DTSTART:20261015T062400Z
 DTEND:20261015T075400Z
-SUMMARY:London Luton → Buochs - Lucerne
-LOCATION:London Luton
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LTN → BXO\nSource: GlobeAir\nOriginal price: €10
- \,450\nCurrent price: €1\,290 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC326C\nFBO: Signature Terminal 1\n\nBook now:\nhttps://fly.globeair
- .com/el/de82215b\n\nPlease note: All empty leg flights are subject to sc
- hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
- ir\nTotal flight time: 94 minutes\nDistance: 450 miles\n\nContact us 24/
- 7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cu
- stomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/d
- e82215b\nEmpty-leg schedules can change or disappear at short notice. Co
- nfirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/de82215b
+SUMMARY:Olbia → Buochs - Lucerne
+LOCATION:Olbia
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: OLB → BXO\nSource: GlobeAir\nOriginal price: €8\
+ ,250\nCurrent price: €1\,390 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC326C\nFBO: Eccelsa Aviation\n\nBook now:\nhttps://fly.globeair.com/
+ el/863e98f1\n\nPlease note: All empty leg flights are subject to schedul
+ e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
+ otal flight time: 90 minutes\nDistance: 368 miles\n\nContact us 24/7\nWh
+ atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
+ rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/863e98
+ f1\nEmpty-leg schedules can change or disappear at short notice. Confirm
+  with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/863e98f1
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -260,7 +213,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -279,7 +232,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -297,7 +250,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
@@ -315,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -334,7 +287,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261014T080026Z
+DTSTAMP:20261014T090036Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
