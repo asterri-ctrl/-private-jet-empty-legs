@@ -1,12 +1,11 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-15 16:40 UTC · public web sources only_
+_Updated 2026-10-15 20:37 UTC · public web sources only_
 
 ## AI / DC
 
 - [Learn Why The Bull Case For Telia Company Stock Could Change Following Job Cuts Plan - Simply Wall Street](https://news.google.com/rss/articles/CBMixwFBVV95cUxNdDdHSlNHTWxSS2RrWHp1NVIzcm1Ga0UzaEV1UnhVQk1kNklrY2g5ZVd3ekx6NGF1cmMzWFNMNWtTdjF5cmpuWGNEYUhvRGRpcHQxc05zYmRTQzF0dUNFWnJrUlpfUml2VHhSVkFJWi1vQk9TaVdON3lYb1p2SGgtTW9oUG1jd2pfU0ZQQnhRNUJNUUVpNUJEQjlFUXFmZWVDeUZxNzZBZWExbXN1VGZkSmdBeWVENWZLcEFGLTZST2tDSV9aQjNr0gHMAUFVX3lxTE1GclYtRjd0V3cyMk1XU1l3d0pPTEd6RThKdHpwZ1NNM0FRTHM1TWdRaHlkOXNvTVBtWUFvSUtzY0VOcGhDVTJtX2x5MjJzX1ZSd1ZSNlRMVFZWNFZfX3Zha3VXUDdyT0o1clR1aVhueXAyQV9nNG1qWXpzRkVDaDd2WG9fZFQxbzMtUmx4cm43MTN4VU9QWnNwYlVDUmpqOG0wZ0xUd3J6SHJvYzdYTi1UUTNoSTR1cUpzd0ExQ3BWZU5xaEV3cHQyUkJIdg?oc=5) · 2026-10-15 — Simply Wall Street
 - [atNorth plans €2bn data centre development in Salo, Finland - Data Centre Solutions](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2ZDbHRTVlRHMDdsSEwxZ19uYVFocmpDM2w2V0xYNUVlZWtQWGFNbkp1ZTRUWVlxUFZuOERDNnVNSlJPa0I4SFZZNHhKWk1DVFVtNFk5VC1pSS1GX09lT2xNZ3dtRW53MEFqN3FOUEhhTXNHQTM3RzRUb2Zyb1NialhwZ0luSTNlSHVKM05XWS1acjl1ZE1COEdWME5rM1MzVnc?oc=5) · 2026-10-14 — Data Centre Solutions
-- [Midgard Infra extends Oslo–Stockholm fiber route to Finland - W.Media](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWdsTHhaZE12T2J5bVNPa3R3dFByUjZwS3RNUkJwR0ctTWw2S2JibzlGeF9mZHRQTzJnd1FyS25iYWVTR3NBZFNCaUpCejJMclV3QW9HX3BxQ25vbXRRM0hxVjQ5bXMzSkVlUVZyajA3Mmk2dzZLdjZDbzRZRDJwU0J3?oc=5) · 2026-10-13 — W.Media
 - [Advania recognised as a European leader in AI innovation - Mynewsdesk](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmFoRWpkVUhQU0FhMUtKYy13NnBEb2N6LXk1MXo3cHRYQXBwdXNMeEVkSDB4dGFzT1o0dk9lSnVqNG8wSjZaWUxOLV90R21oV1BqU1BKbW40d1FzdG1NN3k4aS1EMDFZUV9CNWw5Y1JSdXNfM05GWnZHM1lnMjZBeUR0bEJlbElXYlVZbHlDSVQySDFkWk4tRWFQRXo3d3Voc3NyQU9GNVIzSUlSc0NxVUlDaERfdC1FZmpB?oc=5) · 2026-10-08 — Mynewsdesk
 - [Midgard Infra extends Oslo-Stockholm fibre route to Finland - Telecompaper](https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2hMc19hTFpHbEJEVmxLMUtnV1NteUNMQXNVUWNOM1lBelExNkFmdUNKek16WU9HaENHZ3NRYi1yZFUzcklqV2NTb3M1VkRzZnJLME5ZeHM4VHBXSDh4cDBmRGp4ekJ5N2xHczJYQlE1TVNFQnZib25HazB2U2RBTTBSZDZCTl9EQnhKWVBKcWgyQ05wc1JIX3RNRTlTSXZ2bFN1MA?oc=5) · 2026-10-08 — Telecompaper
 - [atNorth plans €2bn Finland data centre with pathway to 230MW - Techerati](https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1lBdHFxM0MtQW4zVHpjVUdjTzRjTzF1c2dUX2JYZGdJZG5FVW4xTjcxWW9INGlrc3g2dnlNaHlwb1lPdjRsQkxjOTB4SVhiZzY5eUFyQVRsNDVuUWdhZ1pSTDA1UVVpblFVYzZjclZjZTVSRFZhelI4dWZGWjZkUzhtSkc3YW5UQWRua2c4S3NkNGZQdkZTVXpFejg?oc=5) · 2026-10-06 — Techerati
