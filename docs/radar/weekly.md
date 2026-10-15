@@ -1,10 +1,9 @@
 # Weekly Nordic Infrastructure Brief
 
-_Seven days through 2026-10-14 · public sources only_
+_Seven days through 2026-10-15 · public sources only_
 
 ## What matters
 
-- **ROHL Gateway Fiber Moves Forward with Major Investment to Expand Its Dark Fiber Network, Supporting Data Center Growth Across Alberta, British Columbia and Saskatchewan - PR Newswire** — Connectivity demand / network. [PR Newswire](https://news.google.com/rss/articles/CBMixAJBVV95cUxQTE5BNXRJYVRlZjhUeXdnUFdJSGxiVkNwOFUyRHJBbzBBODQ1VThnekwxRUI3VWVZX1NLQ2VGNi1RZWZ0ZXVRUUtocVd2dVVlOGJUeldoejY0YVl4SFZzQkU1UWZHdmw1VmVtUHBHT0JBVHM0WDY1MVA1QUJvS0Y2ZTJjTHhLQnBkTE9TbzN3MVhrMjFtUE1lREZ0ZFo4MFF3Q3p3RWZ1UGJLdG5nclQweFFIU1dSTXcwQmtzeko2Ykp4OFltVjgzV2Q4ZDEtby1oc1pDRWgzTERLcFZ6eGlGUGlXUDBJMjJaaGNTdXBUZy1jQkRHSVNudmJ5OVUtcy0yWGdBYTZkaWo0azd3NDFJclAwSHlVYnNGczJySDJ3czg3RVRONThRWlVfaXVCQXZMYXZaUlBISEhhT0lOa2dpY0g4T04?oc=5)
 - **atNorth plans €2bn data centre development in Salo, Finland - Data Centre Solutions** — AI / datacentre demand. [Data Centre Solutions](https://news.google.com/rss/articles/CBMiogFBVV95cUxOX2ZDbHRTVlRHMDdsSEwxZ19uYVFocmpDM2w2V0xYNUVlZWtQWGFNbkp1ZTRUWVlxUFZuOERDNnVNSlJPa0I4SFZZNHhKWk1DVFVtNFk5VC1pSS1GX09lT2xNZ3dtRW53MEFqN3FOUEhhTXNHQTM3RzRUb2Zyb1NialhwZ0luSTNlSHVKM05XWS1acjl1ZE1COEdWME5rM1MzVnc?oc=5)
 - **Midgard Infra to build Sweden-Finland subsea cable - Data Center Dynamics** — Connectivity demand / network. [Data Center Dynamics](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3E5cExGMWxEc244ZFBfbjM4aEM4eXdvOVJpN1lOLU9rOTZQcU15dXowVzAyT25HVTlDUGt6MVo1YlVYZ3VDTTFKWm5hYzl3V0dUbmQ1TlBHeEhzWEZ5elRWamh1RjhEcVlnTC1UNVZzWWtNdmNiUk13U0JGcVJ5U05KQ3dsLXNVdnJvX3VEOGJGYlpUZmZBU1B3?oc=5)
 - **Midgard Infra extends Oslo–Stockholm fiber route to Finland - W.Media** — Nordic infrastructure signal. [W.Media](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWdsTHhaZE12T2J5bVNPa3R3dFByUjZwS3RNUkJwR0ctTWw2S2JibzlGeF9mZHRQTzJnd1FyS25iYWVTR3NBZFNCaUpCejJMclV3QW9HX3BxQ25vbXRRM0hxVjQ5bXMzSkVlUVZyajA3Mmk2dzZLdjZDbzRZRDJwU0J3?oc=5)
@@ -23,5 +22,4 @@ _Seven days through 2026-10-14 · public sources only_
 
 ### Telecom
 
-- [ROHL Gateway Fiber Moves Forward with Major Investment to Expand Its Dark Fiber Network, Supporting Data Center Growth Across Alberta, British Columbia and Saskatchewan - PR Newswire](https://news.google.com/rss/articles/CBMixAJBVV95cUxQTE5BNXRJYVRlZjhUeXdnUFdJSGxiVkNwOFUyRHJBbzBBODQ1VThnekwxRUI3VWVZX1NLQ2VGNi1RZWZ0ZXVRUUtocVd2dVVlOGJUeldoejY0YVl4SFZzQkU1UWZHdmw1VmVtUHBHT0JBVHM0WDY1MVA1QUJvS0Y2ZTJjTHhLQnBkTE9TbzN3MVhrMjFtUE1lREZ0ZFo4MFF3Q3p3RWZ1UGJLdG5nclQweFFIU1dSTXcwQmtzeko2Ykp4OFltVjgzV2Q4ZDEtby1oc1pDRWgzTERLcFZ6eGlGUGlXUDBJMjJaaGNTdXBUZy1jQkRHSVNudmJ5OVUtcy0yWGdBYTZkaWo0azd3NDFJclAwSHlVYnNGczJySDJ3czg3RVRONThRWlVfaXVCQXZMYXZaUlBISEhhT0lOa2dpY0g4T04?oc=5) — Connectivity demand / network
 - [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) — Nordic infrastructure signal
