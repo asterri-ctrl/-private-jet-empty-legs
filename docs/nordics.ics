@@ -8,8 +8,8 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:bb002326d2c2ef181f27874c986bb3760889c326@globeair.com
-DTSTAMP:20261016T115613Z
-DTSTART:20261017T103700Z
+DTSTAMP:20261016T122339Z
+DTSTART:20261017T103600Z
 DTEND:20261017T115000Z
 SUMMARY:Bilbao → Ibiza
 LOCATION:Bilbao
@@ -19,7 +19,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC897F\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/bb002
  326\n\nPlease note: All empty leg flights are subject to schedule change
  !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 73 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhatsApp: 
+ ght time: 74 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhatsApp: 
  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
  obeair.com\nBooking / source: https://fly.globeair.com/el/bb002326\nEmpt
  y-leg schedules can change or disappear at short notice. Confirm with th
@@ -31,8 +31,8 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1cde9974dafe976a61052041853e72786d70ce1@globeair.com
-DTSTAMP:20261016T115613Z
-DTSTART:20261017T093200Z
+DTSTAMP:20261016T122339Z
+DTSTART:20261017T095000Z
 DTEND:20261017T105400Z
 SUMMARY:Palma → Biarritz
 LOCATION:Palma
@@ -42,7 +42,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC600P\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/a1c
  de997\n\nPlease note: All empty leg flights are subject to schedule chan
  ge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal f
- light time: 82 minutes\nDistance: 303 miles\n\nContact us 24/7\nWhatsApp
+ light time: 64 minutes\nDistance: 303 miles\n\nContact us 24/7\nWhatsApp
  : https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@
  globeair.com\nBooking / source: https://fly.globeair.com/el/a1cde997\nEm
  pty-leg schedules can change or disappear at short notice. Confirm with 
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261016T115613Z
+DTSTAMP:20261016T122339Z
 DTSTART:20261018T103500Z
 DTEND:20261018T120500Z
 SUMMARY:Avignon → Bilbao
