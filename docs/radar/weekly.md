@@ -1,6 +1,6 @@
 # Weekly Nordic Infrastructure Brief
 
-_Seven days through 2026-10-15 · public sources only_
+_Seven days through 2026-10-16 · public sources only_
 
 ## What matters
 
