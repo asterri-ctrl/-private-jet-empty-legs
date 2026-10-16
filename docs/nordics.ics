@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:bb002326d2c2ef181f27874c986bb3760889c326@globeair.com
-DTSTAMP:20261016T225313Z
+DTSTAMP:20261016T231439Z
 DTSTART:20261017T105600Z
 DTEND:20261017T122400Z
 SUMMARY:Bilbao → Ibiza
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1cde9974dafe976a61052041853e72786d70ce1@globeair.com
-DTSTAMP:20261016T225313Z
+DTSTAMP:20261016T231439Z
 DTSTART:20261017T095000Z
 DTEND:20261017T105400Z
 SUMMARY:Palma → Biarritz
@@ -54,14 +54,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261016T225313Z
+DTSTAMP:20261016T231439Z
 DTSTART:20261018T103500Z
 DTEND:20261018T120500Z
 SUMMARY:Avignon → Bilbao
 LOCATION:Avignon
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   AVN → BIO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 35%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 45%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
