@@ -7,8 +7,31 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:637c670eb7f00a768db025fb7d564e947e936fa2@globeair.com
+DTSTAMP:20261016T112435Z
+DTSTART:20261016T133600Z
+DTEND:20261016T140900Z
+SUMMARY:Groningen → Amsterdam
+LOCATION:Groningen
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: GRQ → AMS\nSource: GlobeAir\nOriginal price: €6\,45
+ 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC1
+ 37Z\nFBO: Ground Ace\n\nBook now:\nhttps://fly.globeair.com/el/637c670e\
+ n\nPlease note: All empty leg flights are subject to schedule change!\n\
+ nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
+ time: 33 minutes\nDistance: 82 miles\n\nContact us 24/7\nWhatsApp: https
+ ://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeai
+ r.com\nBooking / source: https://fly.globeair.com/el/637c670e\nEmpty-leg
+  schedules can change or disappear at short notice. Confirm with the ope
+ rator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/637c670e
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:7f3bd7480d612a96e20ed08f29e4c51472a0e137@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Bolzano → Linz
@@ -26,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be13e67457fe707ca47af83d958cf3554d1534c1@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Venice → Badenbaden
@@ -44,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8e7f8abe72ce74e6ee75815a7751732fa4276901@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Lugano → Pisa
@@ -61,54 +84,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9be1fac5649fd1197133d88977a0bd79aa293c5c@globeair.com
-DTSTAMP:20261016T105824Z
-DTSTART:20261016T132000Z
-DTEND:20261016T140900Z
-SUMMARY:Lugano → Pisa
-LOCATION:Lugano
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LUG → PSA\nSource: GlobeAir\nOriginal price: €6\
- ,000\nCurrent price: €1\,090 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC655F\nFBO: Lugano Airport SA\n\nBook now:\nhttps://fly.globeair.com
- /el/9be1fac5\n\nPlease note: All empty leg flights are subject to schedu
- le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
- Total flight time: 49 minutes\nDistance: 152 miles\n\nContact us 24/7\nW
- hatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custom
- ercare@globeair.com\nBooking / source: https://fly.globeair.com/el/9be1f
- ac5\nEmpty-leg schedules can change or disappear at short notice. Confir
- m with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/9be1fac5
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:6ddc53921579b65c88ad4b43397b52ac0f60cd84@globeair.com
-DTSTAMP:20261016T105824Z
-DTSTART:20261016T132000Z
-DTEND:20261016T134300Z
-SUMMARY:Palma → Ibiza
-LOCATION:Palma
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: PMI → IBZ\nSource: GlobeAir\nOriginal price: €8\,65
- 0\nCurrent price: €990 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC8
- 97F\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/6ddc5392\
- n\nPlease note: All empty leg flights are subject to schedule change!\n\
- nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
- time: 23 minutes\nDistance: 75 miles\n\nContact us 24/7\nWhatsApp: https
- ://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeai
- r.com\nBooking / source: https://fly.globeair.com/el/6ddc5392\nEmpty-leg
-  schedules can change or disappear at short notice. Confirm with the ope
- rator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/6ddc5392
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8b35afefe5b9e141eec334d028eb80213942dd31@globeair.com
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART:20261017T071100Z
 DTEND:20261017T075400Z
 SUMMARY:Bremen → Leipzig
@@ -132,7 +109,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -150,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:062a350bd6929f0b1ffed8158c272d815ac0d845@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -168,7 +145,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d79441d06f8a09e0dea662d65b31aca68e1d220e@globeair.com
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART:20261017T091000Z
 DTEND:20261017T105400Z
 SUMMARY:Geneva → Biarritz
@@ -191,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9c888c1b59547477c90f642497b031f8a1ead4e1@globeair.com
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART:20261017T081300Z
 DTEND:20261017T085200Z
 SUMMARY:Linz → Munich
@@ -214,7 +191,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:94cec91f05cc27d0371efa6c11a77669c35c406e@globeair.com
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART:20261017T065500Z
 DTEND:20261017T072500Z
 SUMMARY:Venice → Bologna
@@ -237,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -256,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05a23abe324e642f3e4875021037f239536a8c0e@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -274,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -292,7 +269,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -311,7 +288,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986a8ef0763b09d1a61cea332569a5ccf7deab77@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Salzburg Airport → Mengen-Hohentengen Airport
@@ -329,7 +306,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261016T105824Z
+DTSTAMP:20261016T112435Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
