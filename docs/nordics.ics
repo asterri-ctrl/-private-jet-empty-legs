@@ -8,18 +8,23 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261017T095154Z
+DTSTAMP:20261017T101431Z
 DTSTART:20261018T103500Z
 DTEND:20261018T120500Z
 SUMMARY:Avignon → Bilbao
 LOCATION:Avignon
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  AVN → BIO\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 45%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: AVN → BIO\nSource: GlobeAir\nOriginal price: €8\
+ ,400\nCurrent price: €1\,710 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC444R\nFBO: Avignon Airport Cciv\n\nBook now:\nhttps://fly.globeair.
+ com/el/e14100bb\n\nPlease note: All empty leg flights are subject to sch
+ edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
+ r\nTotal flight time: 90 minutes\nDistance: 341 miles\n\nContact us 24/7
+ \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
+ tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/e1
+ 4100bb\nEmpty-leg schedules can change or disappear at short notice. Con
+ firm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e14100bb
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
