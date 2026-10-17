@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:80dc41fc7763df2a959df833342dd900e8b7e503@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Saarbrucken Airport → Salzburg Airport
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:062a350bd6929f0b1ffed8158c272d815ac0d845@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -44,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ebd10fd8a9c2dd23f38743eadf63b987874e6cdf@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T114500Z
 DTEND:20261018T115800Z
 SUMMARY:Amsterdam → Lelystad
@@ -67,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T105500Z
 DTEND:20261018T121200Z
 SUMMARY:Avignon → Biarritz
@@ -90,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ff6a185519d6f0065a6397e8ca027e7a3eaae5b8@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T070700Z
 DTEND:20261018T075500Z
 SUMMARY:Berlin Brandenburg → Hamburg
@@ -112,31 +112,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:ddfa7738c4f53941361409d78efb64781b059e13@globeair.com
-DTSTAMP:20261017T161405Z
+UID:a29f3ed82d378dc8e182693568ed5155e1088b9b@globeair.com
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T091000Z
-DTEND:20261018T100800Z
-SUMMARY:Rome → Treviso
+DTEND:20261018T102400Z
+SUMMARY:Rome → Nice
 LOCATION:Rome
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: CIA → TSF\nSource: GlobeAir\nOriginal price: €5\
- ,950\nCurrent price: €1\,390 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC625V\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/ddfa77
- 38\n\nPlease note: All empty leg flights are subject to schedule change!
+ 4 passengers\nAirports: CIA → NCE\nSource: GlobeAir\nOriginal price: €6\
+ ,700\nCurrent price: €1\,390 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC907J\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/a29f3e
+ d8\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 58 minutes\nDistance: 231 miles\n\nContact us 24/7\nWhatsApp: h
+ ht time: 74 minutes\nDistance: 262 miles\n\nContact us 24/7\nWhatsApp: h
  ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/ddfa7738\nEmpty
+ beair.com\nBooking / source: https://fly.globeair.com/el/a29f3ed8\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
   operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/ddfa7738
+URL:https://fly.globeair.com/el/a29f3ed8
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:07333bc68c3e101bf3ae836c13f94268fc59cbed@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Berlin Brandenburg → Hamburg
@@ -154,7 +154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -173,7 +173,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc99bafeb68749facc874061c6e95654bdd6b915@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Munich → Innsbruck
@@ -191,7 +191,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05a23abe324e642f3e4875021037f239536a8c0e@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -209,7 +209,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -227,7 +227,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:66da79107b490e9f332e35c5b3f09f67d418be42@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Zurich → Basel-Mulhouse (BSL/MLH)
@@ -245,7 +245,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0302ab134210b570e091f498c4079163c32b7aca@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T123000Z
 DTEND:20261018T125800Z
 SUMMARY:Munich → Innsbruck
@@ -268,7 +268,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1bdea35fcda9213d70fcf2c24be127b74d447a24@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T115100Z
 DTEND:20261018T131700Z
 SUMMARY:Lamezia → Olbia
@@ -290,8 +290,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f3e9b4a68b51dbd12d4896c787e2581b9a11aa4a@globeair.com
+DTSTAMP:20261017T165119Z
+DTSTART:20261018T133300Z
+DTEND:20261018T141400Z
+SUMMARY:Salzburg → Treviso
+LOCATION:Salzburg
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: SZG → TSF\nSource: GlobeAir\nOriginal price: €5\
+ ,950\nCurrent price: €1\,390 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC625V\nFBO: General Aviation Handling Service\n\nBook now:\nhttps://
+ fly.globeair.com/el/f3e9b4a6\n\nPlease note: All empty leg flights are s
+ ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
+ ed by GlobeAir\nTotal flight time: 41 minutes\nDistance: 132 miles\n\nCo
+ ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
+ 0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
+ air.com/el/f3e9b4a6\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://fly.globeair.com/el/f3e9b4a6
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1987f7e241741b75eb01184aaf4788741bb383b1@globeair.com
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART:20261018T081000Z
 DTEND:20261018T090600Z
 SUMMARY:Toulouse → Nice
@@ -314,7 +338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -332,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -351,7 +375,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261017T161405Z
+DTSTAMP:20261017T165119Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
