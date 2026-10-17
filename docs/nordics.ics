@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:bb002326d2c2ef181f27874c986bb3760889c326@globeair.com
-DTSTAMP:20261017T081454Z
-DTSTART:20261017T105600Z
-DTEND:20261017T122400Z
-SUMMARY:Bilbao → Ibiza
-LOCATION:Bilbao
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BIO → IBZ\nSource: GlobeAir\nOriginal price: €8\,70
- 0\nCurrent price: €990 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC8
- 97F\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/bb002326\n\
- nPlease note: All empty leg flights are subject to schedule change!\n\nA
- ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
- me: 88 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhatsApp: https:
- //wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair
- .com\nBooking / source: https://fly.globeair.com/el/bb002326\nEmpty-leg 
- schedules can change or disappear at short notice. Confirm with the oper
- ator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/bb002326
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261017T081454Z
+DTSTAMP:20261017T085246Z
 DTSTART:20261018T103500Z
 DTEND:20261018T120500Z
 SUMMARY:Avignon → Bilbao
