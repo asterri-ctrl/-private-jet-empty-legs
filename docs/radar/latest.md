@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-17 12:39 UTC · public web sources only_
+_Updated 2026-10-17 16:35 UTC · public web sources only_
 
 ## AI / DC
 
@@ -18,7 +18,6 @@ _Updated 2026-10-17 12:39 UTC · public web sources only_
 ## Telecom
 
 - [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) · 2026-10-09 — TelecomLead
-- [Opensignal Crowns the World’s Best 5G Networks - Medianet News Hub](https://news.google.com/rss/articles/CBMimAFBVV95cUxQYVZ6UjZ1ZFY1Mk5xbFdwN2FOcU1SZWpzUFhodERHY25FMHJERV8xMTY2bXlkMEdpNkx4NDgtakhUVTBydlVmZ0dfYlg0eU5LbnBZR09XWG5laUJVY3A3UFl6Rl9lbGUweGtEb29BamV4aG1FbVlSTHdFNHh1RUxENVpmb1ZhblNqUFNsLTJoVndQTC1XQ2RBXw?oc=5) · 2026-09-29 — Medianet News Hub
 
 ## Regulation
 
