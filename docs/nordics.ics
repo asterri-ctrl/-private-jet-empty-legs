@@ -8,22 +8,22 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:bb002326d2c2ef181f27874c986bb3760889c326@globeair.com
-DTSTAMP:20261016T234636Z
+DTSTAMP:20261017T001603Z
 DTSTART:20261017T105600Z
 DTEND:20261017T122400Z
 SUMMARY:Bilbao → Ibiza
 LOCATION:Bilbao
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BIO → IBZ\nSource: GlobeAir\nOriginal price: €8\
- ,700\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC897F\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/bb002
- 326\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 88 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhatsApp: 
- https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
- obeair.com\nBooking / source: https://fly.globeair.com/el/bb002326\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: BIO → IBZ\nSource: GlobeAir\nOriginal price: €8\,70
+ 0\nCurrent price: €990 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC8
+ 97F\nFBO: Avia VIP\n\nBook now:\nhttps://fly.globeair.com/el/bb002326\n\
+ nPlease note: All empty leg flights are subject to schedule change!\n\nA
+ ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
+ me: 88 minutes\nDistance: 328 miles\n\nContact us 24/7\nWhatsApp: https:
+ //wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair
+ .com\nBooking / source: https://fly.globeair.com/el/bb002326\nEmpty-leg 
+ schedules can change or disappear at short notice. Confirm with the oper
+ ator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/bb002326
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -31,22 +31,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a1cde9974dafe976a61052041853e72786d70ce1@globeair.com
-DTSTAMP:20261016T234636Z
+DTSTAMP:20261017T001603Z
 DTSTART:20261017T095000Z
 DTEND:20261017T105400Z
 SUMMARY:Palma → Biarritz
 LOCATION:Palma
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: PMI → BIQ\nSource: GlobeAir\nOriginal price: €9\
- ,750\nCurrent price: €1\,290 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC600P\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/a1c
- de997\n\nPlease note: All empty leg flights are subject to schedule chan
- ge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal f
- light time: 64 minutes\nDistance: 303 miles\n\nContact us 24/7\nWhatsApp
- : https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@
- globeair.com\nBooking / source: https://fly.globeair.com/el/a1cde997\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: PMI → BIQ\nSource: GlobeAir\nOriginal price: €9\,75
+ 0\nCurrent price: €990 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC6
+ 00P\nFBO: Mallorcair\n\nBook now:\nhttps://fly.globeair.com/el/a1cde997\
+ n\nPlease note: All empty leg flights are subject to schedule change!\n\
+ nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
+ time: 64 minutes\nDistance: 303 miles\n\nContact us 24/7\nWhatsApp: http
+ s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
+ ir.com\nBooking / source: https://fly.globeair.com/el/a1cde997\nEmpty-le
+ g schedules can change or disappear at short notice. Confirm with the op
+ erator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/a1cde997
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e14100bbe4a67492f1962844e6ad8e69d83472a6@globeair.com
-DTSTAMP:20261016T234636Z
+DTSTAMP:20261017T001603Z
 DTSTART:20261018T103500Z
 DTEND:20261018T120500Z
 SUMMARY:Avignon → Bilbao
