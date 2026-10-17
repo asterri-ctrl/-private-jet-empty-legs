@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T16:35:07.524368+00:00",
+  "updated_at": "2026-10-17T20:34:33.387744+00:00",
   "items": [
     {
       "category": "Nordic AI infrastructure",
@@ -20,7 +20,7 @@
       "published": "2026-10-16T16:59:25+00:00",
       "source": "Data Center Frontier",
       "summary": "DCF Global: The Nordics' AI Boom Meets the Power Test Data Center Frontier",
-      "score": 13,
+      "score": 12,
       "why": "AI / datacentre demand"
     },
     {
@@ -79,17 +79,6 @@
       "why": "Nordic infrastructure signal"
     },
     {
-      "category": "Datacentres",
-      "section": "AI / DC",
-      "title": "Midgard Infra extends Oslo-Stockholm fibre route to Finland - Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2hMc19hTFpHbEJEVmxLMUtnV1NteUNMQXNVUWNOM1lBelExNkFmdUNKek16WU9HaENHZ3NRYi1yZFUzcklqV2NTb3M1VkRzZnJLME5ZeHM4VHBXSDh4cDBmRGp4ekJ5N2xHczJYQlE1TVNFQnZib25HazB2U2RBTTBSZDZCTl9EQnhKWVBKcWgyQ05wc1JIX3RNRTlTSXZ2bFN1MA?oc=5",
-      "published": "2026-10-08T10:32:35+00:00",
-      "source": "Telecompaper",
-      "summary": "Midgard Infra extends Oslo-Stockholm fibre route to Finland Telecompaper",
-      "score": 0,
-      "why": "Nordic infrastructure signal"
-    },
-    {
       "category": "Nordic AI infrastructure",
       "section": "AI / DC",
       "title": "atNorth plans €2bn Finland data centre with pathway to 230MW - Techerati",
@@ -143,6 +132,17 @@
       "summary": "Apply AI Strategy Shaping Europe’s digital future",
       "score": 0,
       "why": "Nordic infrastructure signal"
+    },
+    {
+      "category": "Fibre and connectivity",
+      "section": "Telecom",
+      "title": "Eurofiber and Delft Networks deploy dark-fiber between Rotterdam and Delft for quantum - Data Center Dynamics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0tKUDdZVTFsOUxGb2t0dzRTQWdnRnVFVDBJSFhzeVVoRjhvRHprSHV1Q3VUbjUyaEp4Zm5rZklmN0tVYVNtMURRQVpSVlFabFAzSU1WSjFMUDdmemlidmgzUmYzNEpIQkNXcmNaSkJMYVI5X1FVd1Q2ck1OZkx1OTNPLXBrN1ZqUDFfMTF4ZlZQSHY5NHhBcmVoeWppYmhSR1prSHEtNzQ3UHlISG12aDlCV09yTHJZc0haWlJ4MFY5eTRPSVljU2xR?oc=5",
+      "published": "2026-09-30T07:00:00+00:00",
+      "source": "Data Center Dynamics",
+      "summary": "Eurofiber and Delft Networks deploy dark-fiber between Rotterdam and Delft for quantum Data Center Dynamics",
+      "score": 9,
+      "why": "Connectivity demand / network"
     }
   ]
 }
