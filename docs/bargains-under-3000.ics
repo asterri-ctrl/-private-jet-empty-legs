@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:6839e29111db686bf49ad14d6a64d34333d0020e@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -27,7 +27,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc99bafeb68749facc874061c6e95654bdd6b915@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Munich → Innsbruck
@@ -45,7 +45,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05a23abe324e642f3e4875021037f239536a8c0e@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -62,31 +62,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b16a876b0a9fefb11f293ea997de61f352ece297@globeair.com
-DTSTAMP:20261018T105059Z
-DTSTART:20261018T150500Z
-DTEND:20261018T171200Z
-SUMMARY:Badenbaden → Newquay
-LOCATION:Badenbaden
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: FKB → NQY\nSource: GlobeAir\nOriginal price: €13\,3
- 00\nCurrent price: €990 (–93%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 912H\nFBO: AVANGARD\n\nBook now:\nhttps://fly.globeair.com/el/b16a876b\n
- \nPlease note: All empty leg flights are subject to schedule change!\n\n
- Aircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight t
- ime: 127 minutes\nDistance: 517 miles\n\nContact us 24/7\nWhatsApp: http
- s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
- ir.com\nBooking / source: https://fly.globeair.com/el/b16a876b\nEmpty-le
- g schedules can change or disappear at short notice. Confirm with the op
- erator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/b16a876b
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:8dcf14a41f32e721591d439a6ab95ab83ce27448@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Salzburg → Treviso
@@ -104,7 +81,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3fb6b11b5f3fb5c4996fa87ec7b93ee5653bf1d9@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Lugano Airport → Mengen-Hohentengen Airport
@@ -122,7 +99,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c61d1b7773d8787aa0bff79bf5d3566921ceb0de@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261018T180600Z
 DTEND:20261018T192000Z
 SUMMARY:Prague → Treviso
@@ -145,7 +122,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:00a943e8f945546b039b9286473066b7f23c9caf@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261018T132800Z
 DTEND:20261018T142500Z
 SUMMARY:Salzburg → Bologna
@@ -169,7 +146,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a5e34ae9dc2d4beed6dd4cc5b8f13dd71a7e5204@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261018T174500Z
 DTEND:20261018T184600Z
 SUMMARY:Zurich → Nice
@@ -191,8 +168,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:caafd85f25abcbca01edd1b9c6ad02f3f720b976@globeair.com
+DTSTAMP:20261018T111404Z
+DTSTART:20261019T114400Z
+DTEND:20261019T122400Z
+SUMMARY:Amsterdam → Bremen
+LOCATION:Amsterdam
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: AMS → BRE\nSource: GlobeAir\nOriginal price: €6\
+ ,850\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC834Y\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/c
+ aafd85f\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 40 minutes\nDistance: 152 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/caafd85f\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/caafd85f
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:0aa82fa02ffaebfd70d86332148302ab55b6c731@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261019T080200Z
 DTEND:20261019T090500Z
 SUMMARY:Avignon → Olbia
@@ -215,7 +215,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80a95e9c1872f833fba0320d9148d1e6deec4028@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261019T094500Z
 DTEND:20261019T104600Z
 SUMMARY:Paris Le Bourget → Dortmund
@@ -239,7 +239,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:39e74becaf7c43cb19e68b68eef49e0a802403b2@globeair.com
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART:20261019T034000Z
 DTEND:20261019T040800Z
 SUMMARY:Venice → Bologna
@@ -261,8 +261,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:b1823dd667887b10106dc61e67cb99f6f6b54a65@globeair.com
+DTSTAMP:20261018T111404Z
+DTSTART:20261019T112300Z
+DTEND:20261019T122300Z
+SUMMARY:Vienna → Munich
+LOCATION:Vienna
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VIE → MUC\nSource: GlobeAir\nOriginal price: €5\
+ ,500\nCurrent price: €1\,290 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC682G\nFBO: Jet Aviation Vienna\n\nBook now:\nhttps://fly.globeair.c
+ om/el/b1823dd6\n\nPlease note: All empty leg flights are subject to sche
+ dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
+ \nTotal flight time: 60 minutes\nDistance: 191 miles\n\nContact us 24/7\
+ nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
+ omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/b18
+ 23dd6\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/b1823dd6
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -280,7 +303,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -298,7 +321,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -317,7 +340,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986a8ef0763b09d1a61cea332569a5ccf7deab77@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Salzburg Airport → Mengen-Hohentengen Airport
@@ -335,7 +358,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -354,7 +377,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4ffa2a2c5fbf9e282dce973604eef9f0735a6aa7@emptylegs.local
-DTSTAMP:20261018T105059Z
+DTSTAMP:20261018T111404Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
