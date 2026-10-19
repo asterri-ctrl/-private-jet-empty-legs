@@ -7,8 +7,31 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:3f0146d0b1d2ac020c25fe60db972857e0e0589a@globeair.com
+DTSTAMP:20261019T162746Z
+DTSTART:20261020T165000Z
+DTEND:20261020T174600Z
+SUMMARY:Amsterdam → London Biggin Hill
+LOCATION:Amsterdam
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: AMS → BQH\nSource: GlobeAir\nOriginal price: €5\
+ ,550\nCurrent price: €1\,290 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC018H\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/3
+ f0146d0\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 56 minutes\nDistance: 185 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/3f0146d0\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/3f0146d0
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:dfd09ab0131efd735aefc22fc056087e16540232@globeair.com
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART:20261020T090700Z
 DTEND:20261020T102700Z
 SUMMARY:Berlin Brandenburg → Badenbaden
@@ -31,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb47f3503aa7ce79a4230babf0d5e540d08f7e0a@globeair.com
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART:20261020T121600Z
 DTEND:20261020T133300Z
 SUMMARY:Dortmund → Deauville
@@ -55,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d05cb808794d7b0dd2cf2110ecabaa68bb531e0@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Berlin Brandenburg → Badenbaden
@@ -73,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea9be5201954814defc7c3bf0c89925d1fe57aea@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dortmund → London Biggin Hill
@@ -90,8 +113,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a836c6d2d656aa64a1ffff1a76ced6f48bb48017@globeair.com
+DTSTAMP:20261019T162746Z
+DTSTART:20261020T164000Z
+DTEND:20261020T173800Z
+SUMMARY:Frankfurt International → Linz
+LOCATION:Frankfurt International
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: FRA → LNZ\nSource: GlobeAir\nOriginal price: €7\
+ ,000\nCurrent price: €1\,290 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC599L\nFBO: Jet Aviation (handled by BACF in Frankfurt)\n\nBook now:
+ \nhttps://fly.globeair.com/el/a836c6d2\n\nPlease note: All empty leg fli
+ ghts are subject to schedule change!\n\nAircraft: Cessna Citation Mustan
+ g\, operated by GlobeAir\nTotal flight time: 58 minutes\nDistance: 245 m
+ iles\n\nContact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +4
+ 37221727400\nEmail: customercare@globeair.com\nBooking / source: https:/
+ /fly.globeair.com/el/a836c6d2\nEmpty-leg schedules can change or disappe
+ ar at short notice. Confirm with the operator/broker before making conne
+ cting travel plans.
+URL:https://fly.globeair.com/el/a836c6d2
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ac9063dfd237ded277d4b3aadc21aab8e9a72e9a@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Nice → Geneva
@@ -109,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1c500c2d0a19d3a14097061c143a9fed1141264c@globeair.com
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART:20261020T095800Z
 DTEND:20261020T115200Z
 SUMMARY:Linz → Karup
@@ -132,7 +179,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3808b287dda59c805f74486b1ff017ee641ea9@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Linz → Karup
@@ -150,7 +197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:61fadf3b2d9e7b1fbc61b19609f94744ee745ff6@globeair.com
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART:20261020T120600Z
 DTEND:20261020T124700Z
 SUMMARY:Nice → Geneva
@@ -173,7 +220,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ed2a5c77423ffab828744bd9d57ef73be82dc76b@globeair.com
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART:20261020T095500Z
 DTEND:20261020T104300Z
 SUMMARY:Venice → Rome
@@ -195,8 +242,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:dad6077aa4cbd8f0ec6ff244b2085d5f2d832e06@globeair.com
+DTSTAMP:20261019T162746Z
+DTSTART:20261020T163000Z
+DTEND:20261020T171900Z
+SUMMARY:Venice → Linz
+LOCATION:Venice
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VCE → LNZ\nSource: GlobeAir\nOriginal price: €5\
+ ,950\nCurrent price: €1\,390 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC420U\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/dad607
+ 7a\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 49 minutes\nDistance: 180 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/dad6077a\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/dad6077a
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -214,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -232,7 +302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -251,7 +321,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986a8ef0763b09d1a61cea332569a5ccf7deab77@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Salzburg Airport → Mengen-Hohentengen Airport
@@ -269,7 +339,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -288,7 +358,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7d0f878712e8bbbabcce2419e71acb106a29981f@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
@@ -306,7 +376,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261019T155821Z
+DTSTAMP:20261019T162746Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
