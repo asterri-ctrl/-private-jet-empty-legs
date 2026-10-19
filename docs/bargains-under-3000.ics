@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:caafd85f25abcbca01edd1b9c6ad02f3f720b976@globeair.com
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART:20261019T111500Z
 DTEND:20261019T115500Z
 SUMMARY:Amsterdam → Bremen
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6d3e6c93d3c53872a7783c007548f102e85df90c@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Amsterdam → Bremen
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:80a95e9c1872f833fba0320d9148d1e6deec4028@globeair.com
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART:20261019T094500Z
 DTEND:20261019T104600Z
 SUMMARY:Paris Le Bourget → Dortmund
@@ -73,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:35dd6de829d889f3f356f7266735895215eae503@globeair.com
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART:20261019T132000Z
 DTEND:20261019T132600Z
 SUMMARY:Paris Le Bourget → Melun
@@ -96,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:25f5e5520751d77faf120a34930ba96c8701027d@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Paris Le Bourget → Dortmund
@@ -114,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a60d0d3779f256f63e94bcead01083ecd84ede94@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Lugano → Linz
@@ -131,26 +131,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:31e155d182fec8a00b9b3727247213377646857e@emptylegs.local
-DTSTAMP:20261019T055827Z
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-SUMMARY:Zurich → London City
-LOCATION:Zurich
-DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LSZH → EGLC\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:9477d079f9b5df6d76fa65445447c5deeed6b9dd@globeair.com
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART:20261019T130500Z
 DTEND:20261019T140700Z
 SUMMARY:Lugano → Linz
@@ -173,7 +155,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:73427cc38a8f927593ba3f4e3e539ee4f51604aa@globeair.com
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART:20261019T150500Z
 DTEND:20261019T160000Z
 SUMMARY:Rimini → Naples
@@ -195,31 +177,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:98eb4cbe4583edbf2e156725f3ab5de8817463f4@globeair.com
-DTSTAMP:20261019T055827Z
-DTSTART:20261019T140500Z
-DTEND:20261019T160000Z
-SUMMARY:Zurich → London City
-LOCATION:Zurich
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: ZRH → LCY\nSource: GlobeAir\nOriginal price: €9\,30
- 0\nCurrent price: €990 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC1
- 25E\nFBO: Jet Aviation (South)\n\nBook now:\nhttps://fly.globeair.com/el
- /98eb4cbe\n\nPlease note: All empty leg flights are subject to schedule 
- change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTot
- al flight time: 115 minutes\nDistance: 410 miles\n\nContact us 24/7\nWha
- tsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customer
- care@globeair.com\nBooking / source: https://fly.globeair.com/el/98eb4cb
- e\nEmpty-leg schedules can change or disappear at short notice. Confirm 
- with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/98eb4cbe
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -237,7 +196,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -255,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -274,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986a8ef0763b09d1a61cea332569a5ccf7deab77@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Salzburg Airport → Mengen-Hohentengen Airport
@@ -292,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -310,14 +269,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7d0f878712e8bbbabcce2419e71acb106a29981f@emptylegs.local
-DTSTAMP:20261019T055827Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
-LOCATION:Salzburg Airport
+UID:34739de612460a640ec4b194894bf8a5d569836c@emptylegs.local
+DTSTAMP:20261019T063442Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Geneva Cointrin International Airport → Montpellier-Mediterranee 
+ Airport
+LOCATION:Geneva Cointrin International Airport
 DESCRIPTION:Price: €2\,400\nAircraft: HondaJet Elite\nCapacity: 4 passeng
- ers\nAirports: LOWS → LOWL\nSource: PrivJet\nPrice shown by PrivJet incl
+ ers\nAirports: LSGG → LFMT\nSource: PrivJet\nPrice shown by PrivJet incl
  udes its stated service fee. Confirm live availability before booking.\n
  Booking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sched
  ules can change or disappear at short notice. Confirm with the operator/
@@ -328,8 +288,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:c376bf7631196673434803c1686f8bc47bae0089@emptylegs.local
+DTSTAMP:20261019T063442Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
+LOCATION:Salzburg Airport
+DESCRIPTION:Price: €2\,400\nAircraft: Phenom 300\nCapacity: 7 passengers\
+ nAirports: LOWS → LOWL\nSource: PrivJet\nPrice shown by PrivJet includes
+  its stated service fee. Confirm live availability before booking.\nBook
+ ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
+  can change or disappear at short notice. Confirm with the operator/brok
+ er before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261019T055827Z
+DTSTAMP:20261019T063442Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
