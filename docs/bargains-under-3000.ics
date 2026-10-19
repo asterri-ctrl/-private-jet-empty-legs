@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:6d3e6c93d3c53872a7783c007548f102e85df90c@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Amsterdam → Bremen
@@ -25,31 +25,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:35dd6de829d889f3f356f7266735895215eae503@globeair.com
-DTSTAMP:20261019T105844Z
-DTSTART:20261019T132000Z
-DTEND:20261019T132600Z
-SUMMARY:Paris Le Bourget → Melun
-LOCATION:Paris Le Bourget
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LBG → LFPM\nSource: GlobeAir\nOriginal price: €6
- \,850\nCurrent price: €1\,410 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC773Z\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glo
- beair.com/el/35dd6de8\n\nPlease note: All empty leg flights are subject 
- to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
- lobeAir\nTotal flight time: 6 minutes\nDistance: 23 miles\n\nContact us 
- 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
-  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
- l/35dd6de8\nEmpty-leg schedules can change or disappear at short notice.
-  Confirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/35dd6de8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:25f5e5520751d77faf120a34930ba96c8701027d@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Paris Le Bourget → Dortmund
@@ -67,7 +44,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a60d0d3779f256f63e94bcead01083ecd84ede94@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Lugano → Linz
@@ -84,31 +61,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9477d079f9b5df6d76fa65445447c5deeed6b9dd@globeair.com
-DTSTAMP:20261019T105844Z
-DTSTART:20261019T130500Z
-DTEND:20261019T140700Z
-SUMMARY:Lugano → Linz
-LOCATION:Lugano
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LUG → LNZ\nSource: GlobeAir\nOriginal price: €6\,85
- 0\nCurrent price: €990 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC3
- 50R\nFBO: Lugano Airport SA\n\nBook now:\nhttps://fly.globeair.com/el/94
- 77d079\n\nPlease note: All empty leg flights are subject to schedule cha
- nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
- flight time: 62 minutes\nDistance: 253 miles\n\nContact us 24/7\nWhatsAp
- p: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare
- @globeair.com\nBooking / source: https://fly.globeair.com/el/9477d079\nE
- mpty-leg schedules can change or disappear at short notice. Confirm with
-  the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/9477d079
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:73427cc38a8f927593ba3f4e3e539ee4f51604aa@globeair.com
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART:20261019T150500Z
 DTEND:20261019T160000Z
 SUMMARY:Rimini → Naples
@@ -131,7 +85,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:dfd09ab0131efd735aefc22fc056087e16540232@globeair.com
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART:20261020T090700Z
 DTEND:20261020T102600Z
 SUMMARY:Berlin Brandenburg → Badenbaden
@@ -154,9 +108,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cc6d0d2d5f2bd970c081784fe46ed45ce4e1d50@globeair.com
-DTSTAMP:20261019T105844Z
-DTSTART:20261020T090500Z
-DTEND:20261020T095800Z
+DTSTAMP:20261019T112734Z
+DTSTART:20261020T091000Z
+DTEND:20261020T095300Z
 SUMMARY:Paris Le Bourget → London Biggin Hill
 LOCATION:Paris Le Bourget
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -165,7 +119,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC961B\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
  eair.com/el/6cc6d0d2\n\nPlease note: All empty leg flights are subject t
  o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 53 minutes\nDistance: 169 miles\n\nContact us
+ obeAir\nTotal flight time: 43 minutes\nDistance: 169 miles\n\nContact us
   24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
  : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
  el/6cc6d0d2\nEmpty-leg schedules can change or disappear at short notice
@@ -177,8 +131,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:78a6d8c66fbb233db1c23579962a867cd91bf366@globeair.com
+DTSTAMP:20261019T112734Z
+DTSTART:20261020T111100Z
+DTEND:20261020T121200Z
+SUMMARY:Lelystad → Paris Le Bourget
+LOCATION:Lelystad
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LEY → LBG\nSource: GlobeAir\nOriginal price: €5\
+ ,300\nCurrent price: €1\,290 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC431N\nFBO: Arpt Handling\n\nBook now:\nhttps://fly.globeair.com/el/
+ 78a6d8c6\n\nPlease note: All empty leg flights are subject to schedule c
+ hange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTota
+ l flight time: 61 minutes\nDistance: 240 miles\n\nContact us 24/7\nWhats
+ App: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customerca
+ re@globeair.com\nBooking / source: https://fly.globeair.com/el/78a6d8c6\
+ nEmpty-leg schedules can change or disappear at short notice. Confirm wi
+ th the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/78a6d8c6
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1c500c2d0a19d3a14097061c143a9fed1141264c@globeair.com
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART:20261020T095300Z
 DTEND:20261020T115300Z
 SUMMARY:Linz → Karup
@@ -201,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ed2a5c77423ffab828744bd9d57ef73be82dc76b@globeair.com
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART:20261020T095500Z
 DTEND:20261020T105300Z
 SUMMARY:Venice → Rome
@@ -224,7 +201,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -242,7 +219,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -260,7 +237,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -279,7 +256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:986a8ef0763b09d1a61cea332569a5ccf7deab77@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Salzburg Airport → Mengen-Hohentengen Airport
@@ -297,7 +274,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -316,7 +293,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34739de612460a640ec4b194894bf8a5d569836c@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Geneva Cointrin International Airport → Montpellier-Mediterranee 
@@ -335,7 +312,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -354,7 +331,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:004296b9d53e8b884856750f986f730929952d59@emptylegs.local
-DTSTAMP:20261019T105844Z
+DTSTAMP:20261019T112734Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
