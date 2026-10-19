@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T08:46:04.030516+00:00",
+  "updated_at": "2026-10-19T12:47:52.881839+00:00",
   "items": [
     {
       "category": "Nordic AI infrastructure",
@@ -75,8 +75,19 @@
       "published": "2026-10-16T10:27:18+00:00",
       "source": "Shaping Europe’s digital future",
       "summary": "Digital Talent EU Days 2026: people and skills at the centre of Europe's digital transformation Shaping Europe’s digital future",
-      "score": 5,
+      "score": 4,
       "why": "Policy / sovereignty"
+    },
+    {
+      "category": "Operators",
+      "section": "Telecom",
+      "title": "Eltel (OM:ELTEL) Stock Price - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA0RFllb0IxWDNfVl9vUGpCMjduT2NuRUJkaWN1Vms4ZGUzYUJuWGJkS2l3aHVjQ0xBUkZJanMzdjl1bkdjQzFLN0dWZW4?oc=5",
+      "published": "2026-10-14T19:14:02+00:00",
+      "source": "Simply Wall Street",
+      "summary": "Eltel (OM:ELTEL) Stock Price Simply Wall Street",
+      "score": 3,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Datacentres",
@@ -86,18 +97,7 @@
       "published": "2026-10-14T09:26:26+00:00",
       "source": "Data Centre Solutions",
       "summary": "atNorth plans €2bn data centre development in Salo, Finland Data Centre Solutions",
-      "score": 16,
-      "why": "AI / datacentre demand"
-    },
-    {
-      "category": "Nordic AI infrastructure",
-      "section": "AI / DC",
-      "title": "Scaleway plans GPU cluster deployments in Sweden and Copenhagen - BeBeez International",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEg2dDd4ODFMeWtnSklkNlRDRWsyTXh5QWtBVEpTZzVrQ2tUUTlUUm40eHAwRlV0aHptTXpFVjBJd2FBYkdKTWlXQk1Ja2hUTklvLVJ3aml0bHB3TVV4U0Y2RnZNZEZ6YzBtTW9LcVY5VzZKWUdwSGFUN3pyZzhkZXc1bFV2c2JKSDFXWDlOUnRSSl9HSTlZbQ?oc=5",
-      "published": "2026-10-13T16:11:05+00:00",
-      "source": "BeBeez International",
-      "summary": "Scaleway plans GPU cluster deployments in Sweden and Copenhagen BeBeez International",
-      "score": 8,
+      "score": 15,
       "why": "AI / datacentre demand"
     },
     {
@@ -143,6 +143,17 @@
       "summary": "Midgard Infra extends Oslo-Stockholm fibre route to Finland Telecompaper",
       "score": 0,
       "why": "Nordic infrastructure signal"
+    },
+    {
+      "category": "Fibre and connectivity",
+      "section": "Telecom",
+      "title": "OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVjU1RoTFJDbGJyTjhNYWl5NTlmZzh2T2xMWnFiZEFDVHdPdW4xYTFDWmFyQ05DTDVYbGxxRDEzSDBNbzN6Y1BYRS1mc05SZy1MSEdrMmlVMHNuaUVHWVRkU013ejVNMklEbnFhUDRZbUJUUnJHa2p2cFYwMW5TeXZjZjdENFdvZTdQY2F3bGRzVk91dEoxOFR6SVg2TWRZSGpWUWItOW1JU19VVEhMSnRQMW1tc1ZqZU1PczhWWQ?oc=5",
+      "published": "2026-10-07T16:11:25+00:00",
+      "source": "IndexBox",
+      "summary": "OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics IndexBox",
+      "score": 11,
+      "why": "Connectivity demand / network"
     },
     {
       "category": "Nordic AI infrastructure",
