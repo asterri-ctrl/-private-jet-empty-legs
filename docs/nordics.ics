@@ -8,12 +8,12 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:9a3808b287dda59c805f74486b1ff017ee641ea9@emptylegs.local
-DTSTAMP:20261020T055715Z
+DTSTAMP:20261020T062610Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Linz → Karup
 LOCATION:Linz
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LOWL → EKKA\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19a6c35be9662f21ab3c744cb122e28d603af783@globeair.com
-DTSTAMP:20261020T055715Z
+DTSTAMP:20261020T062610Z
 DTSTART:20261021T161100Z
 DTEND:20261021T165400Z
 SUMMARY:Nancy → Maastricht
