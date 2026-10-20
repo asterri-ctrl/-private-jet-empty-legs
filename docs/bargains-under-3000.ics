@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:1766a0dacbc46f8ec1e5a5bc9782743b9487b79d@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T114500Z
 DTEND:20261021T124100Z
 SUMMARY:Amsterdam → East Midlands
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e128a8ca59fdcfa3935b48a84f3d578f9aff906e@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T153300Z
-DTEND:20261021T155700Z
+DTEND:20261021T160800Z
 SUMMARY:Bologna → Rimini
 LOCATION:Bologna
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -42,7 +42,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC849P\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/e128a8
  ca\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 24 minutes\nDistance: 64 miles\n\nContact us 24/7\nWhatsApp: ht
+ ht time: 35 minutes\nDistance: 64 miles\n\nContact us 24/7\nWhatsApp: ht
  tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
  eair.com\nBooking / source: https://fly.globeair.com/el/e128a8ca\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2a60f4a0fa0f7912adb76d0a7b2e99c661fc70a@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T082000Z
 DTEND:20261021T095400Z
 SUMMARY:Cannes → Paris Le Bourget
@@ -77,9 +77,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb819e48f572682ab991a08fa3c47529f8ee55e7@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T105200Z
-DTEND:20261021T115300Z
+DTEND:20261021T115100Z
 SUMMARY:Dusseldorf → Paris Le Bourget
 LOCATION:Dusseldorf
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -88,7 +88,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC854P\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.glo
  beair.com/el/fb819e48\n\nPlease note: All empty leg flights are subject 
  to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
- lobeAir\nTotal flight time: 61 minutes\nDistance: 216 miles\n\nContact u
+ lobeAir\nTotal flight time: 59 minutes\nDistance: 216 miles\n\nContact u
  s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
  l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
  /el/fb819e48\nEmpty-leg schedules can change or disappear at short notic
@@ -101,7 +101,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2c4ac077236e4ac67bf798183acb02826ac1d811@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Dusseldorf → Paris Le Bourget
@@ -119,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:19a6c35be9662f21ab3c744cb122e28d603af783@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T071600Z
 DTEND:20261021T074300Z
 SUMMARY:Nancy → Maastricht
@@ -142,7 +142,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:005ca6feed9929e1988c92452c001fa09b452c2d@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T183300Z
 DTEND:20261021T192800Z
 SUMMARY:Florence → Venice
@@ -165,7 +165,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7928f7e1d7d622324181005cb3878d4f3f8d0e41@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T132400Z
 DTEND:20261021T144400Z
 SUMMARY:Girona → Madrid
@@ -188,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8ff2e6d5d6f37a3645fe748226826a53de70300@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T062500Z
 DTEND:20261021T065900Z
 SUMMARY:Milan Linate → Bolzano
@@ -211,7 +211,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1db6d94a445a7f92811bdebf84e86f0196ebac4@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T085300Z
 DTEND:20261021T102500Z
 SUMMARY:Linz → Rome
@@ -234,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:121eff8a27cdba93843a5becebe0bed22e21093b@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Linz → Rome
@@ -252,7 +252,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e241b5e85034943785eafd361649ef6345cefe0c@globeair.com
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART:20261021T135600Z
 DTEND:20261021T145800Z
 SUMMARY:Nice → Perpignan
@@ -275,7 +275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -293,7 +293,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:039053b343ef3871c39bc6d44aad0c9edf189d16@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Mengen-Hohentengen Airport → Gloucestershire Airport
@@ -311,7 +311,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -330,7 +330,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -349,7 +349,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34739de612460a640ec4b194894bf8a5d569836c@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Geneva Cointrin International Airport → Montpellier-Mediterranee 
@@ -367,27 +367,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261020T204628Z
-DTSTART;VALUE=DATE:20261111
-DTEND;VALUE=DATE:20261112
-SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
- rport
-LOCATION:Venezia / Tessera -  Marco Polo Airport
-DESCRIPTION:Price: €2\,400\nAircraft: Phenom 300\nCapacity: 7 passengers\
- nAirports: LIPZ → LSZR\nSource: PrivJet\nPrice shown by PrivJet includes
-  its stated service fee. Confirm live availability before booking.\nBook
- ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
-  can change or disappear at short notice. Confirm with the operator/brok
- er before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:283f17bdbdd887bfda860fc00935d3f2060926c3@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
@@ -404,26 +385,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261020T204628Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Zurich Airport → Stuttgart Airport
-LOCATION:Zurich Airport
-DESCRIPTION:Price: €2\,400\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: LSZH → EDDS\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261020T204628Z
+DTSTAMP:20261020T233440Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
