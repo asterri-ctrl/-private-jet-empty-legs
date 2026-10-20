@@ -8,9 +8,9 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:3f0146d0b1d2ac020c25fe60db972857e0e0589a@globeair.com
-DTSTAMP:20261020T095829Z
-DTSTART:20261020T171500Z
-DTEND:20261020T175500Z
+DTSTAMP:20261020T102357Z
+DTSTART:20261020T151500Z
+DTEND:20261020T155500Z
 SUMMARY:Amsterdam → London Biggin Hill
 LOCATION:Amsterdam
 DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
@@ -30,32 +30,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:fb47f3503aa7ce79a4230babf0d5e540d08f7e0a@globeair.com
-DTSTAMP:20261020T095829Z
-DTSTART:20261020T121600Z
-DTEND:20261020T133100Z
-SUMMARY:Dortmund → Deauville
-LOCATION:Dortmund
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: DTM → DOL\nSource: GlobeAir\nOriginal price: €7\,40
- 0\nCurrent price: €990 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC7
- 20L\nFBO: General Aviation Terminal (GAC)\n\nBook now:\nhttps://fly.glob
- eair.com/el/fb47f350\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 75 minutes\nDistance: 312 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/fb47f350\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/fb47f350
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:6d05cb808794d7b0dd2cf2110ecabaa68bb531e0@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Berlin Brandenburg → Badenbaden
@@ -73,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6a738bc5febd32f6a3d28266c6eeed817c4ab23d@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Frankfurt International → Linz
@@ -91,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea70e9f895cdfd8fcacb0fdad627ff4e09add9c6@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dortmund → Deauville
@@ -109,7 +85,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a836c6d2d656aa64a1ffff1a76ced6f48bb48017@globeair.com
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART:20261020T164000Z
 DTEND:20261020T173400Z
 SUMMARY:Frankfurt International → Linz
@@ -133,7 +109,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ac9063dfd237ded277d4b3aadc21aab8e9a72e9a@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Nice → Geneva
@@ -151,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a7712f025008bd32db1f7fa13b64f996fd9c4757@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Venice → Linz
@@ -169,7 +145,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9a3808b287dda59c805f74486b1ff017ee641ea9@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Linz → Karup
@@ -186,31 +162,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:61fadf3b2d9e7b1fbc61b19609f94744ee745ff6@globeair.com
-DTSTAMP:20261020T095829Z
-DTSTART:20261020T120600Z
-DTEND:20261020T124700Z
-SUMMARY:Nice → Geneva
-LOCATION:Nice
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NCE → GVA\nSource: GlobeAir\nOriginal price: €5\
- ,950\nCurrent price: €1\,410 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC824F\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
- air.com/el/61fadf3b\n\nPlease note: All empty leg flights are subject to
-  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 41 minutes\nDistance: 161 miles\n\nContact us 
- 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
-  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
- l/61fadf3b\nEmpty-leg schedules can change or disappear at short notice.
-  Confirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/61fadf3b
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dad6077aa4cbd8f0ec6ff244b2085d5f2d832e06@globeair.com
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART:20261020T164500Z
 DTEND:20261020T172800Z
 SUMMARY:Venice → Linz
@@ -233,7 +186,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b2a60f4a0fa0f7912adb76d0a7b2e99c661fc70a@globeair.com
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART:20261021T082000Z
 DTEND:20261021T095400Z
 SUMMARY:Cannes → Paris Le Bourget
@@ -255,8 +208,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fb819e48f572682ab991a08fa3c47529f8ee55e7@globeair.com
+DTSTAMP:20261020T102357Z
+DTSTART:20261021T105200Z
+DTEND:20261021T115300Z
+SUMMARY:Dusseldorf → Paris Le Bourget
+LOCATION:Dusseldorf
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: DUS → LBG\nSource: GlobeAir\nOriginal price: €5\
+ ,550\nCurrent price: €1\,290 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC854P\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.glo
+ beair.com/el/fb819e48\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 61 minutes\nDistance: 216 miles\n\nContact u
+ s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
+ l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
+ /el/fb819e48\nEmpty-leg schedules can change or disappear at short notic
+ e. Confirm with the operator/broker before making connecting travel plan
+ s.
+URL:https://fly.globeair.com/el/fb819e48
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:19a6c35be9662f21ab3c744cb122e28d603af783@globeair.com
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART:20261021T072600Z
 DTEND:20261021T080900Z
 SUMMARY:Nancy → Maastricht
@@ -279,7 +256,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e8ff2e6d5d6f37a3645fe748226826a53de70300@globeair.com
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART:20261021T062500Z
 DTEND:20261021T065900Z
 SUMMARY:Milan Linate → Bolzano
@@ -302,7 +279,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -320,7 +297,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -338,7 +315,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:039053b343ef3871c39bc6d44aad0c9edf189d16@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Mengen-Hohentengen Airport → Gloucestershire Airport
@@ -356,7 +333,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -375,7 +352,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -394,7 +371,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261020T095829Z
+DTSTAMP:20261020T102357Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
