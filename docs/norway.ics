@@ -6,27 +6,4 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Norway
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
-BEGIN:VEVENT
-UID:19a6c35be9662f21ab3c744cb122e28d603af783@globeair.com
-DTSTAMP:20261021T025231Z
-DTSTART:20261021T071600Z
-DTEND:20261021T074300Z
-SUMMARY:Nancy → Maastricht
-LOCATION:Nancy
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: ENC → MST\nSource: GlobeAir\nOriginal price: €6\
- ,000\nCurrent price: €1\,410 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC632P\nFBO: Grand Nancy Aeropole\n\nBook now:\nhttps://fly.globeair.
- com/el/19a6c35b\n\nPlease note: All empty leg flights are subject to sch
- edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
- r\nTotal flight time: 27 minutes\nDistance: 134 miles\n\nContact us 24/7
- \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
- tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/19
- a6c35b\nEmpty-leg schedules can change or disappear at short notice. Con
- firm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/19a6c35b
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
 END:VCALENDAR
