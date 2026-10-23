@@ -8,22 +8,22 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:519d514cb072710c6b92fd820954e80d726e1e66@globeair.com
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART:20261023T100000Z
 DTEND:20261023T105200Z
 SUMMARY:Amsterdam → Paris Le Bourget
 LOCATION:Amsterdam
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: AMS → LBG\nSource: GlobeAir\nOriginal price: €4\
- ,900\nCurrent price: €1\,290 (–74%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC748F\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/5
- 19d514c\n\nPlease note: All empty leg flights are subject to schedule ch
- ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
-  flight time: 52 minutes\nDistance: 219 miles\n\nContact us 24/7\nWhatsA
- pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
- e@globeair.com\nBooking / source: https://fly.globeair.com/el/519d514c\n
- Empty-leg schedules can change or disappear at short notice. Confirm wit
- h the operator/broker before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: AMS → LBG\nSource: GlobeAir\nOriginal price: €4\,90
+ 0\nCurrent price: €990 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC7
+ 48F\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/519d514
+ c\n\nPlease note: All empty leg flights are subject to schedule change!\
+ n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
+ t time: 52 minutes\nDistance: 219 miles\n\nContact us 24/7\nWhatsApp: ht
+ tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
+ eair.com\nBooking / source: https://fly.globeair.com/el/519d514c\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/519d514c
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -31,14 +31,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a42c8d045f66723104c1bea84e39153c5744e512@globeair.com
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART:20261023T070600Z
 DTEND:20261023T082200Z
 SUMMARY:Brindisi → Comiso
 LOCATION:Brindisi
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BDS → CIY\nSource: GlobeAir\nOriginal price: €8\
- ,100\nCurrent price: €1\,390 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,100\nCurrent price: €1\,090 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC436Y\nFBO: Sky Services\n\nBook now:\nhttps://fly.globeair.com/el/a
  42c8d04\n\nPlease note: All empty leg flights are subject to schedule ch
  ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
@@ -54,12 +54,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b6e15dc8ea9caf1bf925854c106bbdbca3c4fa3@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Frankfurt International → Cologne-Bonn
 LOCATION:Frankfurt International
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDF → EDDK\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:30ff56134f256a17a1c0e11fce67fac81599eafb@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Frankfurt Main International → Koln Bonn (Cologne)
@@ -90,12 +90,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b7f921f09fe5de55bcaaa94a537645455bbb256f@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Stuttgart → London Luton
 LOCATION:Stuttgart
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDS → EGGW\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -108,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d60c45e1b717d2b04f5135f18d9e1e8742e23469@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Stuttgart → Luton
@@ -126,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6cf2d4dd9d4d733a2a4ec12b06f4e7d3adf68f4f@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Friedrichshafen Airport → Salzburg Airport
@@ -144,7 +144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e99a7a4af388eb3679d6c83218739a3bdbb89f82@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Mengen-Hohentengen Airport → Salzburg Airport
@@ -162,23 +162,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5523418b9cc5e690c7ca9d5fc98d4e91f9a3e500@globeair.com
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART:20261023T101500Z
 DTEND:20261023T104100Z
 SUMMARY:Frankfurt International → Cologne-Bonn
 LOCATION:Frankfurt International
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: FRA → CGN\nSource: GlobeAir\nOriginal price: €6\
- ,800\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC586Y\nFBO: Jet Aviation (handled by BACF in Frankfurt)\n\nBook now:
- \nhttps://fly.globeair.com/el/5523418b\n\nPlease note: All empty leg fli
- ghts are subject to schedule change!\n\nAircraft: Cessna Citation Mustan
- g\, operated by GlobeAir\nTotal flight time: 26 minutes\nDistance: 74 mi
- les\n\nContact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43
- 7221727400\nEmail: customercare@globeair.com\nBooking / source: https://
- fly.globeair.com/el/5523418b\nEmpty-leg schedules can change or disappea
- r at short notice. Confirm with the operator/broker before making connec
- ting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: FRA → CGN\nSource: GlobeAir\nOriginal price: €6\,80
+ 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC5
+ 86Y\nFBO: Jet Aviation (handled by BACF in Frankfurt)\n\nBook now:\nhttp
+ s://fly.globeair.com/el/5523418b\n\nPlease note: All empty leg flights a
+ re subject to schedule change!\n\nAircraft: Cessna Citation Mustang\, op
+ erated by GlobeAir\nTotal flight time: 26 minutes\nDistance: 74 miles\n\
+ nContact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172
+ 7400\nEmail: customercare@globeair.com\nBooking / source: https://fly.gl
+ obeair.com/el/5523418b\nEmpty-leg schedules can change or disappear at s
+ hort notice. Confirm with the operator/broker before making connecting t
+ ravel plans.
 URL:https://fly.globeair.com/el/5523418b
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -186,14 +186,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:54284cb5a4c68447141fe85e7ae9be22d5726033@globeair.com
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART:20261023T111500Z
 DTEND:20261023T120100Z
 SUMMARY:Pisa → Figari
 LOCATION:Pisa
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: PSA → FSC\nSource: GlobeAir\nOriginal price: €5\
- ,600\nCurrent price: €1\,390 (–75%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,600\nCurrent price: €1\,090 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC139M\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/54284c
  b5\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
@@ -209,23 +209,23 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a72aa1e4e61755ec522330550931e41bcd6c6d61@globeair.com
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART:20261023T130600Z
 DTEND:20261023T145900Z
 SUMMARY:Stuttgart → London Luton
 LOCATION:Stuttgart
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: STR → LTN\nSource: GlobeAir\nOriginal price: €11
- \,200\nCurrent price: €1\,290 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC079B\nFBO: Kurz Aviation Service -Business Aviation Centre Stuttga
- rt GmbH\n\nBook now:\nhttps://fly.globeair.com/el/a72aa1e4\n\nPlease not
- e: All empty leg flights are subject to schedule change!\n\nAircraft: Ce
- ssna Citation Mustang\, operated by GlobeAir\nTotal flight time: 113 min
- utes\nDistance: 414 miles\n\nContact us 24/7\nWhatsApp: https://wa.me/43
- 7221727400\nPhone: +437221727400\nEmail: customercare@globeair.com\nBook
- ing / source: https://fly.globeair.com/el/a72aa1e4\nEmpty-leg schedules 
- can change or disappear at short notice. Confirm with the operator/broke
- r before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: STR → LTN\nSource: GlobeAir\nOriginal price: €11\,2
+ 00\nCurrent price: €990 (–91%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
+ 079B\nFBO: Kurz Aviation Service -Business Aviation Centre Stuttgart Gmb
+ H\n\nBook now:\nhttps://fly.globeair.com/el/a72aa1e4\n\nPlease note: All
+  empty leg flights are subject to schedule change!\n\nAircraft: Cessna C
+ itation Mustang\, operated by GlobeAir\nTotal flight time: 113 minutes\n
+ Distance: 414 miles\n\nContact us 24/7\nWhatsApp: https://wa.me/43722172
+ 7400\nPhone: +437221727400\nEmail: customercare@globeair.com\nBooking / 
+ source: https://fly.globeair.com/el/a72aa1e4\nEmpty-leg schedules can ch
+ ange or disappear at short notice. Confirm with the operator/broker befo
+ re making connecting travel plans.
 URL:https://fly.globeair.com/el/a72aa1e4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -233,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -252,7 +252,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -271,7 +271,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -289,7 +289,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261022T225437Z
+DTSTAMP:20261023T010803Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
