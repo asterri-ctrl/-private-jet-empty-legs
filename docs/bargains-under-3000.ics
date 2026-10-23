@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:97acb50d41a7d056e1c440f0f5f2a1375eae79d0@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T120800Z
 DTEND:20261024T124500Z
 SUMMARY:Bolzano → Bologna
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ed194f19b71d83ea2dbafcae2d8a9fbfb6c9f7f@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T154800Z
 DTEND:20261024T165700Z
 SUMMARY:Bolzano → Basel
@@ -53,49 +53,13 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8c3e3b7c6d90d9e15c5201994f9f1cfcfcca805b@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Antwerp → Berlin Brandenburg
-LOCATION:Antwerp
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EBAW → EDDB\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e23c3dbfd3ae8221d5f435e62f2d8ddb5fd8a035@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Antwerp → Berlin Brandenburg
-LOCATION:Antwerp
-DESCRIPTION:Price: €1\,704\nAircraft: Citation Mustang\nCapacity: 4 passe
- ngers\nAirports: EBAW → EDDB\nSource: PrivJet\nPrice shown by PrivJet in
- cludes its stated service fee. Confirm live availability before booking.
- \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
- edules can change or disappear at short notice. Confirm with the operato
- r/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:b43bb19ec1ba0c9786f8523b6616077688f1cc7a@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Leipzig → Berlin Brandenburg
-LOCATION:Leipzig
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+SUMMARY:Leipzig Halle Airport → Berlin Brandenburg Airport
+LOCATION:Leipzig Halle Airport
+DESCRIPTION:Price: €1\,800\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDP → EDDB\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -107,14 +71,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:101bef501c8466abc79a2da5595d4c562d57763d@emptylegs.local
-DTSTAMP:20261023T161534Z
+UID:b42b3cb50fcff9c530cdde15b684276d25392a08@emptylegs.local
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
-SUMMARY:Leipzig-Halle → Berlin Brandenburg
-LOCATION:Leipzig-Halle
+SUMMARY:Sylt/ Westerland → Berlin Brandenburg
+LOCATION:Sylt/ Westerland
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDXW → EDDB\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c3f2ddb8e1dc63abb6fa50a193cf16e663a4e1@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Sylt → Berlin Brandenburg
+LOCATION:Sylt
 DESCRIPTION:Price: €1\,704\nAircraft: Citation Mustang\nCapacity: 4 passe
- ngers\nAirports: EDDP → EDDB\nSource: PrivJet\nPrice shown by PrivJet in
+ ngers\nAirports: EDXW → EDDB\nSource: PrivJet\nPrice shown by PrivJet in
  cludes its stated service fee. Confirm live availability before booking.
  \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
  edules can change or disappear at short notice. Confirm with the operato
@@ -126,9 +108,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0737702ef7ffc391f6202115d2255e46b3cbab@globeair.com
-DTSTAMP:20261023T161534Z
-DTSTART:20261024T112600Z
-DTEND:20261024T122200Z
+DTSTAMP:20261023T200021Z
+DTSTART:20261024T112100Z
+DTEND:20261024T122800Z
 SUMMARY:Sylt/ Westerland → Berlin Brandenburg
 LOCATION:Sylt/ Westerland
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -137,7 +119,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC432T\nFBO: Sylt Air\n\nBook now:\nhttps://fly.globeair.com/el/cd073
  770\n\nPlease note: All empty leg flights are subject to schedule change
  !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 56 minutes\nDistance: 238 miles\n\nContact us 24/7\nWhatsApp: 
+ ght time: 67 minutes\nDistance: 238 miles\n\nContact us 24/7\nWhatsApp: 
  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
  obeair.com\nBooking / source: https://fly.globeair.com/el/cd073770\nEmpt
  y-leg schedules can change or disappear at short notice. Confirm with th
@@ -149,7 +131,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5f35fb81bb5cfcb9babf22e8087fbd93c4a0e9@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T121000Z
 DTEND:20261024T124700Z
 SUMMARY:Innsbruck → Zurich
@@ -172,7 +154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f12ca1097d26a24d3cbe3580ccb24ec88c49294@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T072500Z
 DTEND:20261024T082900Z
 SUMMARY:Milan Linate → Nice
@@ -194,44 +176,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2839bf9177003d6ec669ac575d0e667a94611cc0@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Treviso → Linz
-LOCATION:Treviso
-DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LIPH → LOWL\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:be771c2c3dc65a1da1d3eb5e11c46edf5f2d507f@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Treviso/S. Angelo/Antonio Canova → Blue Danube Linz
-LOCATION:Treviso/S. Angelo/Antonio Canova
-DESCRIPTION:Price: €1\,836\nAircraft: Citation Mustang\nCapacity: 4 passe
- ngers\nAirports: LIPH → LOWL\nSource: PrivJet\nPrice shown by PrivJet in
- cludes its stated service fee. Confirm live availability before booking.
- \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
- edules can change or disappear at short notice. Confirm with the operato
- r/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:e93ca224110ea125bf68503b507091bcffafc7dd@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Innsbruck → Zurich
@@ -248,8 +194,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9987bfc05d3258480c8f80ee0055a3281e3d1eac@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Innsbruck → Zurich
+LOCATION:Innsbruck
+DESCRIPTION:Price: €1\,704\nAircraft: Citation Mustang\nCapacity: 4 passe
+ ngers\nAirports: LOWI → LSZH\nSource: PrivJet\nPrice shown by PrivJet in
+ cludes its stated service fee. Confirm live availability before booking.
+ \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
+ edules can change or disappear at short notice. Confirm with the operato
+ r/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:b0dea21e9554abc07b0a8070f057442b92b19dc6@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T054000Z
 DTEND:20261024T054600Z
 SUMMARY:Marseille → Avignon
@@ -271,8 +235,64 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0743eaad73988f59c5f217ee4ff83ce0f30b625d@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Annecy Mont Blanc (Meythet) → Geneva International
+LOCATION:Annecy Mont Blanc (Meythet)
+DESCRIPTION:Price: €1\,994\nAircraft: King Air 260\nCapacity: 6 passenger
+ s\nAirports: LFLP → LSGG\nSource: PrivJet\nPrice shown by PrivJet includ
+ es its stated service fee. Confirm live availability before booking.\nBo
+ oking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedul
+ es can change or disappear at short notice. Confirm with the operator/br
+ oker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:580b1791bc3c93f4ec3f7b3a791dacebb7302a7e@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
+ rt
+LOCATION:Montelimar - Ancone Airport
+DESCRIPTION:Price: €1\,992\nAircraft: King Air 260\nCapacity: 6 passenger
+ s\nAirports: LFLQ → LSGG\nSource: PrivJet\nPrice shown by PrivJet includ
+ es its stated service fee. Confirm live availability before booking.\nBo
+ oking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedul
+ es can change or disappear at short notice. Confirm with the operator/br
+ oker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
+ ort
+LOCATION:Frankfurt am Main International Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300E\nCapacity: 7 passengers
+ \nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp

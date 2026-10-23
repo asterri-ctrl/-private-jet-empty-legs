@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:jetfly-17286@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T123500Z
 DTEND:20261024T134500Z
 SUMMARY:Milano → Payerne
@@ -26,7 +26,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f12ca1097d26a24d3cbe3580ccb24ec88c49294@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T072500Z
 DTEND:20261024T082900Z
 SUMMARY:Milan Linate → Nice
@@ -48,44 +48,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2839bf9177003d6ec669ac575d0e667a94611cc0@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Treviso → Linz
-LOCATION:Treviso
-DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LIPH → LOWL\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:be771c2c3dc65a1da1d3eb5e11c46edf5f2d507f@emptylegs.local
-DTSTAMP:20261023T161534Z
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-SUMMARY:Treviso/S. Angelo/Antonio Canova → Blue Danube Linz
-LOCATION:Treviso/S. Angelo/Antonio Canova
-DESCRIPTION:Price: €1\,836\nAircraft: Citation Mustang\nCapacity: 4 passe
- ngers\nAirports: LIPH → LOWL\nSource: PrivJet\nPrice shown by PrivJet in
- cludes its stated service fee. Confirm live availability before booking.
- \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
- edules can change or disappear at short notice. Confirm with the operato
- r/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-17091@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T141500Z
 DTEND:20261024T172500Z
 SUMMARY:Valletta → Salzburg
@@ -103,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e93ca224110ea125bf68503b507091bcffafc7dd@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Innsbruck → Zurich
@@ -120,8 +84,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9987bfc05d3258480c8f80ee0055a3281e3d1eac@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Innsbruck → Zurich
+LOCATION:Innsbruck
+DESCRIPTION:Price: €1\,704\nAircraft: Citation Mustang\nCapacity: 4 passe
+ ngers\nAirports: LOWI → LSZH\nSource: PrivJet\nPrice shown by PrivJet in
+ cludes its stated service fee. Confirm live availability before booking.
+ \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
+ edules can change or disappear at short notice. Confirm with the operato
+ r/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17090@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T063500Z
 DTEND:20261024T075500Z
 SUMMARY:Geneva → Bolzano
@@ -139,7 +121,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17161@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261024T080000Z
 DTEND:20261024T083500Z
 SUMMARY:Bern → Buochs
@@ -156,8 +138,45 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:0743eaad73988f59c5f217ee4ff83ce0f30b625d@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Annecy Mont Blanc (Meythet) → Geneva International
+LOCATION:Annecy Mont Blanc (Meythet)
+DESCRIPTION:Price: €1\,994\nAircraft: King Air 260\nCapacity: 6 passenger
+ s\nAirports: LFLP → LSGG\nSource: PrivJet\nPrice shown by PrivJet includ
+ es its stated service fee. Confirm live availability before booking.\nBo
+ oking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedul
+ es can change or disappear at short notice. Confirm with the operator/br
+ oker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:580b1791bc3c93f4ec3f7b3a791dacebb7302a7e@emptylegs.local
+DTSTAMP:20261023T200021Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
+ rt
+LOCATION:Montelimar - Ancone Airport
+DESCRIPTION:Price: €1\,992\nAircraft: King Air 260\nCapacity: 6 passenger
+ s\nAirports: LFLQ → LSGG\nSource: PrivJet\nPrice shown by PrivJet includ
+ es its stated service fee. Confirm live availability before booking.\nBo
+ oking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedul
+ es can change or disappear at short notice. Confirm with the operator/br
+ oker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17127@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261025T063500Z
 DTEND:20261025T085500Z
 SUMMARY:Geneva → Bratislava
@@ -175,7 +194,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17212@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261025T132000Z
 DTEND:20261025T142000Z
 SUMMARY:Lugano → Geneva
@@ -193,7 +212,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17224@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261026T133000Z
 DTEND:20261026T153000Z
 SUMMARY:Bournemouth → Geneva
@@ -211,7 +230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17160@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261026T122000Z
 DTEND:20261026T133000Z
 SUMMARY:Geneva → St. Gallen
@@ -229,7 +248,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17223@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261026T080000Z
 DTEND:20261026T102000Z
 SUMMARY:Lausanne → Bournemouth
@@ -247,14 +266,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f46d201c4edf60d40c9737e093a28132ccbd9de3@globeair.com
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261027T053900Z
 DTEND:20261027T065200Z
 SUMMARY:Rome → Milan Linate
 LOCATION:Rome
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   CIA → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 19%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 31%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -265,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17219@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261027T120000Z
 DTEND:20261027T134500Z
 SUMMARY:Rotterdam → Geneva
@@ -283,7 +302,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17187@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261027T120000Z
 DTEND:20261027T123500Z
 SUMMARY:Catania → Comiso
@@ -301,7 +320,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0a41c7e8d27499eaadeea31cfa1df49c9fbd443a@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Vienna International Airport → Gyor-Per International Airport
@@ -319,7 +338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17218@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261027T064000Z
 DTEND:20261027T075000Z
 SUMMARY:Geneva →  Saint-Tropez
@@ -337,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17186@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261027T184500Z
 DTEND:20261027T195500Z
 SUMMARY:St. Gallen → Geneva
@@ -355,7 +374,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17277@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261028T165000Z
 DTEND:20261028T180000Z
 SUMMARY: Saint-Tropez → Geneva
@@ -373,7 +392,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17221@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261028T143500Z
 DTEND:20261028T160000Z
 SUMMARY:Geneva → Paris
@@ -391,7 +410,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17276@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261028T131000Z
 DTEND:20261028T140000Z
 SUMMARY:Saanen → Milano
@@ -409,7 +428,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17255@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261029T140000Z
 DTEND:20261029T143500Z
 SUMMARY:Comiso → Catania
@@ -427,7 +446,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17284@emptylegs.local
-DTSTAMP:20261023T161534Z
+DTSTAMP:20261023T200021Z
 DTSTART:20261030T081000Z
 DTEND:20261030T103000Z
 SUMMARY:Geneva → Reading
