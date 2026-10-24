@@ -8,14 +8,14 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:97acb50d41a7d056e1c440f0f5f2a1375eae79d0@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T120800Z
 DTEND:20261024T124500Z
 SUMMARY:Bolzano → Bologna
 LOCATION:Bolzano
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BZO → BLQ\nSource: GlobeAir\nOriginal price: €5\
- ,900\nCurrent price: €1\,390 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,900\nCurrent price: €1\,090 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC553A\nFBO: Abd Airport Spa\n\nBook now:\nhttps://fly.globeair.com/e
  l/97acb50d\n\nPlease note: All empty leg flights are subject to schedule
   change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
@@ -31,14 +31,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6ed194f19b71d83ea2dbafcae2d8a9fbfb6c9f7f@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T154800Z
 DTEND:20261024T165700Z
 SUMMARY:Bolzano → Basel
 LOCATION:Bolzano
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: BZO → BSL\nSource: GlobeAir\nOriginal price: €5\
- ,900\nCurrent price: €1\,390 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,900\nCurrent price: €1\,090 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC630H\nFBO: Abd Airport Spa\n\nBook now:\nhttps://fly.globeair.com/e
  l/6ed194f1\n\nPlease note: All empty leg flights are subject to schedule
   change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
@@ -54,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b43bb19ec1ba0c9786f8523b6616077688f1cc7a@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Leipzig Halle Airport → Berlin Brandenburg Airport
@@ -72,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b42b3cb50fcff9c530cdde15b684276d25392a08@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Sylt/ Westerland → Berlin Brandenburg
@@ -90,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f6c3f2ddb8e1dc63abb6fa50a193cf16e663a4e1@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Sylt → Berlin Brandenburg
@@ -108,22 +108,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cd0737702ef7ffc391f6202115d2255e46b3cbab@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T112100Z
 DTEND:20261024T122800Z
 SUMMARY:Sylt/ Westerland → Berlin Brandenburg
 LOCATION:Sylt/ Westerland
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: GWT → BER\nSource: GlobeAir\nOriginal price: €8\
- ,500\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC432T\nFBO: Sylt Air\n\nBook now:\nhttps://fly.globeair.com/el/cd073
- 770\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 67 minutes\nDistance: 238 miles\n\nContact us 24/7\nWhatsApp: 
- https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
- obeair.com\nBooking / source: https://fly.globeair.com/el/cd073770\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: GWT → BER\nSource: GlobeAir\nOriginal price: €8\,50
+ 0\nCurrent price: €990 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC4
+ 32T\nFBO: Sylt Air\n\nBook now:\nhttps://fly.globeair.com/el/cd073770\n\
+ nPlease note: All empty leg flights are subject to schedule change!\n\nA
+ ircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight ti
+ me: 67 minutes\nDistance: 238 miles\n\nContact us 24/7\nWhatsApp: https:
+ //wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair
+ .com\nBooking / source: https://fly.globeair.com/el/cd073770\nEmpty-leg 
+ schedules can change or disappear at short notice. Confirm with the oper
+ ator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/cd073770
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -131,22 +131,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5c5f35fb81bb5cfcb9babf22e8087fbd93c4a0e9@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T121000Z
 DTEND:20261024T124700Z
 SUMMARY:Innsbruck → Zurich
 LOCATION:Innsbruck
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: INN → ZRH\nSource: GlobeAir\nOriginal price: €5\
- ,850\nCurrent price: €1\,290 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC715G\nFBO: Tiroler Flughafen\n\nBook now:\nhttps://fly.globeair.com
- /el/5c5f35fb\n\nPlease note: All empty leg flights are subject to schedu
- le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
- Total flight time: 37 minutes\nDistance: 114 miles\n\nContact us 24/7\nW
- hatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custom
- ercare@globeair.com\nBooking / source: https://fly.globeair.com/el/5c5f3
- 5fb\nEmpty-leg schedules can change or disappear at short notice. Confir
- m with the operator/broker before making connecting travel plans.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: INN → ZRH\nSource: GlobeAir\nOriginal price: €5\,85
+ 0\nCurrent price: €990 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC7
+ 15G\nFBO: Tiroler Flughafen\n\nBook now:\nhttps://fly.globeair.com/el/5c
+ 5f35fb\n\nPlease note: All empty leg flights are subject to schedule cha
+ nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
+ flight time: 37 minutes\nDistance: 114 miles\n\nContact us 24/7\nWhatsAp
+ p: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare
+ @globeair.com\nBooking / source: https://fly.globeair.com/el/5c5f35fb\nE
+ mpty-leg schedules can change or disappear at short notice. Confirm with
+  the operator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/5c5f35fb
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -154,14 +154,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:5f12ca1097d26a24d3cbe3580ccb24ec88c49294@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T072500Z
 DTEND:20261024T082900Z
 SUMMARY:Milan Linate → Nice
 LOCATION:Milan Linate
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LIN → NCE\nSource: GlobeAir\nOriginal price: €4\
- ,900\nCurrent price: €1\,390 (–72%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,900\nCurrent price: €1\,090 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC461S\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/5f12ca
  10\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
@@ -177,7 +177,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e93ca224110ea125bf68503b507091bcffafc7dd@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Innsbruck → Zurich
@@ -195,7 +195,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9987bfc05d3258480c8f80ee0055a3281e3d1eac@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:Innsbruck → Zurich
@@ -213,14 +213,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b0dea21e9554abc07b0a8070f057442b92b19dc6@globeair.com
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART:20261024T054000Z
 DTEND:20261024T054600Z
 SUMMARY:Marseille → Avignon
 LOCATION:Marseille
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: MRS → AVN\nSource: GlobeAir\nOriginal price: €6\
- ,000\nCurrent price: €1\,710 (–72%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,000\nCurrent price: €1\,410 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC774C\nFBO: AviaVIP Marseille\n\nBook now:\nhttps://fly.globeair.com
  /el/b0dea21e\n\nPlease note: All empty leg flights are subject to schedu
  le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
@@ -236,7 +236,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0743eaad73988f59c5f217ee4ff83ce0f30b625d@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Annecy Mont Blanc (Meythet) → Geneva International
@@ -253,19 +253,19 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:580b1791bc3c93f4ec3f7b3a791dacebb7302a7e@emptylegs.local
-DTSTAMP:20261023T231724Z
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
-SUMMARY:Montelimar - Ancone Airport → Geneva Cointrin International Airpo
- rt
-LOCATION:Montelimar - Ancone Airport
-DESCRIPTION:Price: €1\,992\nAircraft: King Air 260\nCapacity: 6 passenger
- s\nAirports: LFLQ → LSGG\nSource: PrivJet\nPrice shown by PrivJet includ
- es its stated service fee. Confirm live availability before booking.\nBo
- oking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedul
- es can change or disappear at short notice. Confirm with the operator/br
- oker before making connecting travel plans.
+UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
+DTSTAMP:20261024T014602Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
+ ort
+LOCATION:Frankfurt am Main International Airport
+DESCRIPTION:Price: €2\,040\nAircraft: Phenom 300E\nCapacity: 7 passengers
+ \nAirports: EDDF → EDTM\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
 URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -273,7 +273,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261023T231724Z
+DTSTAMP:20261024T014602Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
