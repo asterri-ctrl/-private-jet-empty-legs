@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:39:02.777076+00:00",
+  "updated_at": "2026-10-24T18:46:00.955007+00:00",
   "items": [
     {
       "category": "Fibre and connectivity",
@@ -9,8 +9,19 @@
       "published": "2026-10-23T14:22:46+00:00",
       "source": "Data Center Dynamics",
       "summary": "Google's fiber unit to snap up dark fiber leasing contract from Ting Fiber in Colorado Springs Data Center Dynamics",
-      "score": 27,
+      "score": 26,
       "why": "Policy / sovereignty"
+    },
+    {
+      "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
+      "title": "AI adoption by country: the 25 economies using AI most - qz.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWd1NUUVktYnRWenl4bktOUXBXRS1ucW51MnNJUDl1cVh5akw5c2d1LUowVEdvSHk3OHlHVFVaZVJETEpNMnZWM2VQS2RkWThqbTVpdg?oc=5",
+      "published": "2026-10-23T13:53:16+00:00",
+      "source": "qz.com",
+      "summary": "AI adoption by country: the 25 economies using AI most qz.com",
+      "score": 6,
+      "why": "Nordic infrastructure signal"
     },
     {
       "category": "Operators",
@@ -31,7 +42,7 @@
       "published": "2026-10-20T17:05:44+00:00",
       "source": "Data Centre Solutions",
       "summary": "Building Europe’s AI hub in the Nordics Data Centre Solutions",
-      "score": 10,
+      "score": 9,
       "why": "AI / datacentre demand"
     },
     {
@@ -110,6 +121,17 @@
       "summary": "Midgard Infra extends Oslo-Stockholm fibre route to Finland Telecompaper",
       "score": 0,
       "why": "Nordic infrastructure signal"
+    },
+    {
+      "category": "Fibre and connectivity",
+      "section": "Telecom",
+      "title": "OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVjU1RoTFJDbGJyTjhNYWl5NTlmZzh2T2xMWnFiZEFDVHdPdW4xYTFDWmFyQ05DTDVYbGxxRDEzSDBNbzN6Y1BYRS1mc05SZy1MSEdrMmlVMHNuaUVHWVRkU013ejVNMklEbnFhUDRZbUJUUnJHa2p2cFYwMW5TeXZjZjdENFdvZTdQY2F3bGRzVk91dEoxOFR6SVg2TWRZSGpWUWItOW1JU19VVEhMSnRQMW1tc1ZqZU1PczhWWQ?oc=5",
+      "published": "2026-10-07T16:11:25+00:00",
+      "source": "IndexBox",
+      "summary": "OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics IndexBox",
+      "score": 11,
+      "why": "Connectivity demand / network"
     },
     {
       "category": "Nordic AI infrastructure",
