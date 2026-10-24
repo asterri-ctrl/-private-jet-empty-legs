@@ -6,4 +6,22 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:777716ddad12eb261c3f1730ab54c7372bf9a0e9@emptylegs.local
+DTSTAMP:20261024T210146Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Biarritz → Olbia
+LOCATION:Biarritz
+DESCRIPTION:Aircraft: Citation M2\nCapacity: 5 passengers\nAirports: BIQ 
+ → OLB\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-1
+ 0-24 through 2026-10-25. Confirm exact timing and price before booking.\
+ nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=19
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
