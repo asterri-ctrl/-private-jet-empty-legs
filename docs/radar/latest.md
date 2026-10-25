@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-25 19:00 UTC · public web sources only_
+_Updated 2026-10-25 22:31 UTC · public web sources only_
 
 ## AI / DC
 
@@ -19,7 +19,10 @@ _Updated 2026-10-25 19:00 UTC · public web sources only_
 
 ## Telecom
 
+- [Google's fiber unit to snap up dark fiber leasing contract from Ting Fiber in Colorado Springs - Data Center Dynamics](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnZtTTVSVVJSTFg4dG9CdWl6S051RFVMajB2djdpZHd1dkU4VmZMZjZlMC1KSXFuVVctUEx0QTF3UEdMLWt5NE1wRDdXY2EwNmhEZ0dUdDVDWTRzb2xzUDQ1d2t3Q0dIb2VfdnZINUNwUjJHd2lubWVKNVllcWtuUHdGdE4zbEFkUWh4aTF3M2ZQVk1VVFlmNXVJbzZIMVpRWmJYVGZmQzI2NkJMMl96ZXh4cHV4eU9VZ3p0LVZweEl1U01QVjJpcmRzRDFRQ0tlY21r?oc=5) · 2026-10-23 — Data Center Dynamics
 - [Telecom news: Spectrum, Korda, GlobalConnect, SpaceX - TelecomLead](https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXZndFdGcDFPRmRDdVdZSGQyOTBpbzNXTTlnMTlfUXU0TzhnXzY0N2FKbk9XZTBmMzIyQkdfYnRKYlFXRmFvUTEtVlFYZ2ZmQUp5Wmhoa0N1Z2kzdjN1aEZpTVJqZkduNEVBU0Zyel9mVzBrMGpjUmV5SDRkR3ZFenczUjJLRzR2Z1I5Y9IBlAFBVV95cUxOTHlySm5EcFNMeW5PaHN4ajRoV25PSXMwb192NEthSTdsNGFSWnpUOGJFMUNOX2xONTBGSEs2TEcxZHpVWTBuUmVVOXdBc3AxTHZCWmt0LWhmRXpUUG1fdko2VktFM1loUTRxWmlFOXVRRUd2Tkt5azRaUTM1NGtWSEN3Mi00QnQwMGhFcHlXVkI4Vno5?oc=5) · 2026-10-22 — TelecomLead
+- [Telecom news: PPC FiberGrid, Midgard Infra, Vodafone Idea, SoftBank - TelecomLead](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeVltcXVuVjBBVEp0M1FodTVvX0hoT1E2eXRjNjROVGZvLWotYVJDQTJnVnVHckJZaF9IU0J3d2I2V0FMd2xLOUFGQkxLa29zbHByTENNdnN5UzhreWJYU2RnNGg1ZWE5SFhsUUdEN1J1cVp4Q2hBVGZSX3hFTDhnZ3hGSG03ZWltdFBHWEczY2djWGNJMFhycWpyajMycjVO0gGoAUFVX3lxTE5NMWlXY3RUR29vVVlzMXRRT0s4M3A0aXFmcVp2WHFfUkNqcmpMWElTTmU4bTZhY25MU08tbkVpcHh3NmNhakFzZGEwbU1Ld2hjdGN3OXluNDd6WE04RVdka0E0bW50akhBaVlaX2YzS1gzeWpjSFcxSHJhYUFOeXM1cExxQVV2RnFEY01GbTYtZnpMNm9NN0JyRjRILU9kaHRvYm9sa0hBcw?oc=5) · 2026-10-09 — TelecomLead
+- [OFN, iQ Networks Sign Dark Fibre Agreement for Iraq Transit Connectivity - News and Statistics - IndexBox](https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFVjU1RoTFJDbGJyTjhNYWl5NTlmZzh2T2xMWnFiZEFDVHdPdW4xYTFDWmFyQ05DTDVYbGxxRDEzSDBNbzN6Y1BYRS1mc05SZy1MSEdrMmlVMHNuaUVHWVRkU013ejVNMklEbnFhUDRZbUJUUnJHa2p2cFYwMW5TeXZjZjdENFdvZTdQY2F3bGRzVk91dEoxOFR6SVg2TWRZSGpWUWItOW1JU19VVEhMSnRQMW1tc1ZqZU1PczhWWQ?oc=5) · 2026-10-07 — IndexBox
 
 ## Regulation
 
