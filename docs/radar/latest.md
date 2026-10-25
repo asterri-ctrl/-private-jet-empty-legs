@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-25 04:35 UTC · public web sources only_
+_Updated 2026-10-25 13:09 UTC · public web sources only_
 
 ## AI / DC
 
@@ -26,4 +26,3 @@ _Updated 2026-10-25 04:35 UTC · public web sources only_
 ## Regulation
 
 - [Digital Talent EU Days 2026: people and skills at the centre of Europe's digital transformation - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEVaX19pUDgxck50ckw4TTN3V0JmdzBRcGhRWXNkWjh2bmlWZGhqZUNSS053NHREVzdKM3ZjN1pWcWZLbUgyYmtFSlRaeVB5VG5OZjNmRTNWZnliUnhfeWNXVGcyWlVoVW1GRDhwMXBISDd5N2lteHRqaDItZFdEam5qdW94SFBkdFRiaUJxOElMZDREOG5TTHpiU0NHekkzV2lfT25OOVdHMXo0OXZVWmQyMkFLTFFsZnVBX0tXVnRmYUFJbGs1dnJUUVE?oc=5) · 2026-10-16 — Shaping Europe’s digital future
-- [Apply AI Strategy - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMiakFVX3lxTFBRVHVoUjN6emZxOWVrMjcwbk9uYW5KVjZrTEcyX1lEYVJaMl83M1o0cjhaall2UlJDZFd4ZFJOWGRmOGd3QmE2SmRlbXVDRWJsNi1qd29IdEFONUh3bExOU2phSlhSekEwNXc?oc=5) · 2026-10-05 — Shaping Europe’s digital future
