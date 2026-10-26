@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:5a1675414deb0374bf6f0d0224ed8fbf202d622a@globeair.com
-DTSTAMP:20261026T152059Z
-DTSTART:20261026T201000Z
-DTEND:20261026T205000Z
-SUMMARY:Luxembourg → Paris Le Bourget
-LOCATION:Luxembourg
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LUX → LBG\nSource: GlobeAir\nOriginal price: €7\,05
- 0\nCurrent price: €990 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC2
- 63M\nFBO: LUXAIR\n\nBook now:\nhttps://fly.globeair.com/el/5a167541\n\nP
- lease note: All empty leg flights are subject to schedule change!\n\nAir
- craft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight time
- : 40 minutes\nDistance: 152 miles\n\nContact us 24/7\nWhatsApp: https://
- wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.c
- om\nBooking / source: https://fly.globeair.com/el/5a167541\nEmpty-leg sc
- hedules can change or disappear at short notice. Confirm with the operat
- or/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/5a167541
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:34c6f1a6912ca8e75b1856e47008ed12dd213e78@globeair.com
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART:20261027T144100Z
 DTEND:20261027T155400Z
 SUMMARY:Brussels → Birmingham
@@ -54,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f867d989f28a389e653ffd7f07745b34888e058@globeair.com
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART:20261027T120600Z
-DTEND:20261027T125000Z
+DTEND:20261027T125900Z
 SUMMARY:Beziers → Bordeaux
 LOCATION:Beziers
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -65,7 +42,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC943S\nFBO: Aéroport Béziers Cap d&#039\;Agde\n\nBook now:\nhttps://
  fly.globeair.com/el/2f867d98\n\nPlease note: All empty leg flights are s
  ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
- ed by GlobeAir\nTotal flight time: 44 minutes\nDistance: 197 miles\n\nCo
+ ed by GlobeAir\nTotal flight time: 53 minutes\nDistance: 197 miles\n\nCo
  ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
  0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
  air.com/el/2f867d98\nEmpty-leg schedules can change or disappear at shor
@@ -78,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fbb38c30d2ba04750153c74c7801a587f57d0f7c@globeair.com
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART:20261027T052500Z
 DTEND:20261027T061800Z
 SUMMARY:Geneva → Paris Roissy
@@ -101,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:90535be0a6c9fb72a207ac37d2ddc18c0f69a3d3@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Geneva → Paris Roissy
@@ -119,9 +96,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:05b7a86a4329a87c803441f4a0dd7495dbbcf7d8@globeair.com
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART:20261027T113600Z
-DTEND:20261027T123400Z
+DTEND:20261027T122900Z
 SUMMARY:Olbia → Nice
 LOCATION:Olbia
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -130,7 +107,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC453P\nFBO: Eccelsa Aviation\n\nBook now:\nhttps://fly.globeair.com/
  el/05b7a86a\n\nPlease note: All empty leg flights are subject to schedul
  e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
- otal flight time: 58 minutes\nDistance: 195 miles\n\nContact us 24/7\nWh
+ otal flight time: 53 minutes\nDistance: 195 miles\n\nContact us 24/7\nWh
  atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
  rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/05b7a8
  6a\nEmpty-leg schedules can change or disappear at short notice. Confirm
@@ -142,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -161,7 +138,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -180,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:34739de612460a640ec4b194894bf8a5d569836c@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Geneva Cointrin International Airport → Montpellier-Mediterranee 
@@ -199,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c376bf7631196673434803c1686f8bc47bae0089@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
@@ -217,7 +194,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -235,7 +212,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261026T152059Z
+DTSTAMP:20261026T203953Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
