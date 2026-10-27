@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:c5e94b5af63ea6f75e721468eb2eabc2cdd1ff12@globeair.com
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART:20261028T083100Z
 DTEND:20261028T092200Z
 SUMMARY:Albert → London Luton
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -50,7 +50,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb7e22e964670122d2d30a71f3d13cefa465c1aa@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Jersey → Siegen
@@ -68,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c9d7bda91decac0c3aff92fb8caadff970f0fc5@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Lelystad → Sylt/ Westerland
@@ -85,26 +85,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:02b4ffb1909e670030918c66ebf4eb835f3df25e@emptylegs.local
-DTSTAMP:20261027T160858Z
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-SUMMARY:Luxembourg → Linz
-LOCATION:Luxembourg
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: ELLX → LOWL\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a605db0aadca71abe42a2b43479335278d0eb0b5@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Katowice → Ingolstadt
@@ -122,9 +104,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce5d482156aa662d3fca4e78df55b49fab2eda29@globeair.com
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART:20261028T102000Z
-DTEND:20261028T114600Z
+DTEND:20261028T115600Z
 SUMMARY:Jersey → Siegen
 LOCATION:Jersey
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -133,7 +115,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC023Q\nFBO: Gama\n\nBook now:\nhttps://fly.globeair.com/el/ce5d4821\
  n\nPlease note: All empty leg flights are subject to schedule change!\n\
  nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
- time: 86 minutes\nDistance: 406 miles\n\nContact us 24/7\nWhatsApp: http
+ time: 96 minutes\nDistance: 406 miles\n\nContact us 24/7\nWhatsApp: http
  s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
  ir.com\nBooking / source: https://fly.globeair.com/el/ce5d4821\nEmpty-le
  g schedules can change or disappear at short notice. Confirm with the op
@@ -145,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afc804bb1ee980664ef190dd2246e72d50b21710@globeair.com
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART:20261028T090600Z
 DTEND:20261028T102200Z
 SUMMARY:Katowice → Ingolstadt
@@ -168,7 +150,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8c441151cc7ca9b42e33a9717a2f7c3eff8ee27@globeair.com
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART:20261028T101600Z
 DTEND:20261028T110500Z
 SUMMARY:Lelystad → Sylt/ Westerland
@@ -191,7 +173,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c22f7350be6d5a20bce01b195fe22eeb24ed511c@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Vienna → Frankfurt International
@@ -208,31 +190,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f4a508d6e80754c88aba0e7d660c1db230bda115@globeair.com
-DTSTAMP:20261027T160858Z
-DTSTART:20261028T134500Z
-DTEND:20261028T145600Z
-SUMMARY:Luxembourg → Linz
-LOCATION:Luxembourg
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LUX → LNZ\nSource: GlobeAir\nOriginal price: €6\
- ,500\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC907F\nFBO: LUXAIR\n\nBook now:\nhttps://fly.globeair.com/el/f4a508d
- 6\n\nPlease note: All empty leg flights are subject to schedule change!\
- n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fligh
- t time: 71 minutes\nDistance: 325 miles\n\nContact us 24/7\nWhatsApp: ht
- tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
- eair.com\nBooking / source: https://fly.globeair.com/el/f4a508d6\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/f4a508d6
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:11067e1cac194e657db554816e401fd9409ed7c0@globeair.com
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART:20261028T091800Z
 DTEND:20261028T103800Z
 SUMMARY:Vienna → Frankfurt International
@@ -255,7 +214,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -274,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -292,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261027T160858Z
+DTSTAMP:20261027T204959Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
