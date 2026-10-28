@@ -7,31 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:c5e94b5af63ea6f75e721468eb2eabc2cdd1ff12@globeair.com
-DTSTAMP:20261028T001151Z
-DTSTART:20261028T083100Z
-DTEND:20261028T092200Z
-SUMMARY:Albert → London Luton
-LOCATION:Albert
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BYF → LTN\nSource: GlobeAir\nOriginal price: €8\
- ,150\nCurrent price: €1\,410 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC026L\nFBO: RAAP\n\nBook now:\nhttps://fly.globeair.com/el/c5e94b5a\
- n\nPlease note: All empty leg flights are subject to schedule change!\n\
- nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
- time: 51 minutes\nDistance: 162 miles\n\nContact us 24/7\nWhatsApp: http
- s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
- ir.com\nBooking / source: https://fly.globeair.com/el/c5e94b5a\nEmpty-le
- g schedules can change or disappear at short notice. Confirm with the op
- erator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/c5e94b5a
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:cc7e5287689e5129efebe3e9d0cc5f78279ad0fa@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -50,12 +27,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fb7e22e964670122d2d30a71f3d13cefa465c1aa@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Jersey → Siegen
 LOCATION:Jersey
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EGJJ → EDGS\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -68,12 +45,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:6c9d7bda91decac0c3aff92fb8caadff970f0fc5@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Lelystad → Sylt/ Westerland
 LOCATION:Lelystad
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EHLE → EDXW\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -86,12 +63,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a605db0aadca71abe42a2b43479335278d0eb0b5@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Katowice → Ingolstadt
 LOCATION:Katowice
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EPKT → ETSI\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -104,7 +81,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ce5d482156aa662d3fca4e78df55b49fab2eda29@globeair.com
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART:20261028T102000Z
 DTEND:20261028T115600Z
 SUMMARY:Jersey → Siegen
@@ -127,7 +104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:afc804bb1ee980664ef190dd2246e72d50b21710@globeair.com
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART:20261028T090600Z
 DTEND:20261028T102200Z
 SUMMARY:Katowice → Ingolstadt
@@ -150,7 +127,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f8c441151cc7ca9b42e33a9717a2f7c3eff8ee27@globeair.com
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART:20261028T101600Z
 DTEND:20261028T110500Z
 SUMMARY:Lelystad → Sylt/ Westerland
@@ -173,12 +150,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c22f7350be6d5a20bce01b195fe22eeb24ed511c@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Vienna → Frankfurt International
 LOCATION:Vienna
-DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LOWW → EDDF\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -191,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:11067e1cac194e657db554816e401fd9409ed7c0@globeair.com
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART:20261028T091800Z
 DTEND:20261028T103800Z
 SUMMARY:Vienna → Frankfurt International
@@ -213,8 +190,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d203dd980a254ad11a64f92d9519b747f164239e@globeair.com
+DTSTAMP:20261028T055957Z
+DTSTART:20261029T054200Z
+DTEND:20261029T065000Z
+SUMMARY:Munster → Zurich
+LOCATION:Munster
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: FMO → ZRH\nSource: GlobeAir\nOriginal price: €8\
+ ,900\nCurrent price: €1\,290 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC688Y\nFBO: Gen Avn Terminal\n\nBook now:\nhttps://fly.globeair.com/
+ el/d203dd98\n\nPlease note: All empty leg flights are subject to schedul
+ e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
+ otal flight time: 68 minutes\nDistance: 282 miles\n\nContact us 24/7\nWh
+ atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
+ rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/d203dd
+ 98\nEmpty-leg schedules can change or disappear at short notice. Confirm
+  with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/d203dd98
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -233,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -251,7 +251,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261028T001151Z
+DTSTAMP:20261028T055957Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
