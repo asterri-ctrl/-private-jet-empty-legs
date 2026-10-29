@@ -7,122 +7,37 @@ X-WR-CALNAME:Private Jet Empty Legs
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:77d0a02b1d719831d46d763eac37143ed367cf75@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Barcelona → Zürich
+UID:a560fbdd84fce3279992d056f0224e711165be80@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261029T193000Z
+DTEND:20261029T211000Z
+SUMMARY:Barcelona → Bordeaux
 LOCATION:Barcelona
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BCN → ZRH\nSource: AlbaJet\nAvailability window published by AlbaJet: 2
- 026-10-29 through 2026-10-30. Confirm exact timing and price before book
- ing.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=20\n
- Empty-leg schedules can change or disappear at short notice. Confirm wit
- h the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=20
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: BCN → BOD\nSource: GlobeAir\nOriginal price: €6\,70
+ 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC4
+ 34X\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/a560fbdd\n\n
+ Please note: All empty leg flights are subject to schedule change!\n\nAi
+ rcraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight tim
+ e: 100 minutes\nDistance: 244 miles\n\nContact us 24/7\nWhatsApp: https:
+ //wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair
+ .com\nBooking / source: https://fly.globeair.com/el/a560fbdd\nEmpty-leg 
+ schedules can change or disappear at short notice. Confirm with the oper
+ ator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/a560fbdd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:57a5fe882cdf13c443a8ba80cdecd9f12b116e7e@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Biggin Hill → Nice
 LOCATION:Biggin Hill
 DESCRIPTION:Aircraft: Phenom 300\nCapacity: 8 passengers\nAirports: BQH →
   NCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
- -29 through 2026-10-29. Confirm exact timing and price before booking.\n
- Booking / source: https://www.albajet.com/empty-leg-flights?p=8\nEmpty-l
- eg schedules can change or disappear at short notice. Confirm with the o
- perator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:48683f6bab7a014bf74da67be4d8e866ddc39dca@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Biggin Hill → Nice
-LOCATION:Biggin Hill
-DESCRIPTION:Aircraft: Global 6000\nCapacity: 14 passengers\nAirports: BQH
-  → NCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-29. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=8\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7b186ca7f71a29c125cea28dd2e81493d4e19ef2@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Dortmund → Faro
-LOCATION:Dortmund
-DESCRIPTION:Aircraft: Citation CJ2+\nCapacity: 7 passengers\nAirports: DT
- M → FAO\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=16\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=16
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b0f2af2c7e3e578ab56a337f6e7ab1d42b6de45e@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Dublin → Genoa
-LOCATION:Dublin
-DESCRIPTION:Aircraft: Citation XLS\nCapacity: 7 passengers\nAirports: DUB
-  → GOA\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-29. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=8\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17427@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T120000Z
-DTEND:20261029T135500Z
-SUMMARY:Birmingham → Zweibrucken
-LOCATION:Birmingham
-DESCRIPTION:Aircraft: PC-12\nAirports: EGBB → EDRZ\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-BSL. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:649da4d87b7ed02e78897ceff97faa133577ff9d@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Farnborough → Malaga
-LOCATION:Farnborough
-DESCRIPTION:Aircraft: Phenom 300\nCapacity: 8 passengers\nAirports: FAB →
-  AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
  -29 through 2026-10-29. Confirm exact timing and price before booking.\n
  Booking / source: https://www.albajet.com/empty-leg-flights?p=9\nEmpty-l
  eg schedules can change or disappear at short notice. Confirm with the o
@@ -133,445 +48,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f1bd0b82b666fc9979fc52267b586ccdf90ca707@emptylegs.local
-DTSTAMP:20261029T084335Z
+UID:48683f6bab7a014bf74da67be4d8e866ddc39dca@emptylegs.local
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Karlsruhe/Baden-Baden → Larnaca
-LOCATION:Karlsruhe/Baden-Baden
-DESCRIPTION:Aircraft: Gulfstream G-650\nCapacity: 10 passengers\nAirports
- : FKB → LCA\nSource: AlbaJet\nAvailability window published by AlbaJet: 
- 2026-10-29 through 2026-10-30. Confirm exact timing and price before boo
- king.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\
- nEmpty-leg schedules can change or disappear at short notice. Confirm wi
- th the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:210fb99ed8eb0481ecd41203d97cf5edf44513b2@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Florence → Chisinau
-LOCATION:Florence
-DESCRIPTION:Aircraft: Phenom 300E\nCapacity: 9 passengers\nAirports: FLR 
- → RMO\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-1
- 0-29 through 2026-10-30. Confirm exact timing and price before booking.\
- nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nEmpty
+DTEND;VALUE=DATE:20261030
+SUMMARY:Biggin Hill → Nice
+LOCATION:Biggin Hill
+DESCRIPTION:Aircraft: Global 6000\nCapacity: 14 passengers\nAirports: BQH
+  → NCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
+ 10-29 through 2026-10-29. Confirm exact timing and price before booking.
+ \nBooking / source: https://www.albajet.com/empty-leg-flights?p=9\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
   operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
+URL:https://www.albajet.com/empty-leg-flights?p=9
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:132b42aa39f66854cb4abbe065cedea417435509@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Geneva → Blackbushe
-LOCATION:Geneva
-DESCRIPTION:Aircraft: Pilatus PC-12 PRO\nCapacity: 6 passengers\nAirports
- : GVA → BBS\nSource: AlbaJet\nAvailability window published by AlbaJet: 
- 2026-10-29 through 2026-10-30. Confirm exact timing and price before boo
- king.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\
- nEmpty-leg schedules can change or disappear at short notice. Confirm wi
- th the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f85e95ba4017aa8559f833315f503900d75fb624@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Geneva → Bucharest
-LOCATION:Geneva
-DESCRIPTION:Aircraft: Challenger 3500\nCapacity: 9 passengers\nAirports: 
- GVA → OTP\nSource: AlbaJet\nAvailability window published by AlbaJet: 20
- 26-10-29 through 2026-10-30. Confirm exact timing and price before booki
- ng.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nE
- mpty-leg schedules can change or disappear at short notice. Confirm with
-  the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a32d562d5c309f285b79c96ad913d44f49868792@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Geneva → Sofia
-LOCATION:Geneva
-DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 8 passengers\nAirports: GV
- A → SOF\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:b0be3466fd5ea7e736c9c69fe7bd9786e3ab2574@emptylegs.local
-DTSTAMP:20261029T084335Z
+UID:c72c6433a0790ef2b0c09b7e7c51690c7a953946@emptylegs.local
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Isle Of Man → Kerkira
-LOCATION:Isle Of Man
-DESCRIPTION:Aircraft: Phenom 300\nCapacity: 8 passengers\nAirports: IOM →
-  CFU\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
- -29 through 2026-10-29. Confirm exact timing and price before booking.\n
- Booking / source: https://www.albajet.com/empty-leg-flights?p=8\nEmpty-l
- eg schedules can change or disappear at short notice. Confirm with the o
- perator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2231dc7319ea39fec5c699778088df42bb77a6e9@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → Cologne Bonn
-LOCATION:Paris
-DESCRIPTION:Aircraft: Falcon 6X\nCapacity: 10 passengers\nAirports: LBG →
-  CGN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
- -29 through 2026-10-30. Confirm exact timing and price before booking.\n
- Booking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8efad5a732ccfcd27cb9bce9f367fa92ecb5bacf@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → Dijon
-LOCATION:Paris
-DESCRIPTION:Aircraft: Citation XLS\nCapacity: 9 passengers\nAirports: LBG
-  → DIJ\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-30. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:3277785478c10aae6d62f22dda16cf85b24befc6@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → Florence
-LOCATION:Paris
-DESCRIPTION:Aircraft: Citation XLS+\nCapacity: 8 passengers\nAirports: LB
- G → FLR\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:117f3a984f2cd5621594c95692178fa752d191f9@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → London
-LOCATION:Paris
-DESCRIPTION:Aircraft: Global 6500\nCapacity: 10 passengers\nAirports: LBG
-  → LTN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-30. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8c38e28a8b40824b6e0dcae371a02e326bd1813a@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → Palma De Mallorca
-LOCATION:Paris
-DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 8 passengers\nAirports: LB
- G → PMI\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:72c28e2c0f23c0050cbaf6ba74af58d49c7b38a7@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Paris → Sandefjord
-LOCATION:Paris
-DESCRIPTION:Aircraft: Falcon 2000LX\nCapacity: 10 passengers\nAirports: L
- BG → TRF\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
- 6-10-29 through 2026-10-30. Confirm exact timing and price before bookin
- g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1bf49adb9f222fa24ef75d485ee3cd772477de0c@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
- ript in order to use this website. (click here for more information) Ski
- p to content [email protected] +44 20 8089 6288 WhatsApp magnifying-glas
- s Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet b
- y category\, range and cabin globe Destinations Airports and routes we o
- ffer megaphone Empty legs Discounted one-way flights mail Contact Get in
-  touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chevr
- on-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Priv
- ate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated thr
- oughout the day Save up to 80% on charter flights Empty legs\, also know
- n as private jet repositioning flights\, are generated when an aircraft 
- has to fly to another airport without passengers. Want to learn more abo
- ut empty legs? Checkout our Frequently Asked Questions below. Empty legs
-  available in October 2026 Country Worldwide Algeria Angola Anguilla Ant
- igua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahra
- in Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Island
- s Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands 
- China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Dominic
- an Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea G
- uinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Italy
-  Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuani
- a Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegro
-  Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal Pu
- erto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sain
- t Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia S
- lovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzani
- a Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands U
- nited Arab Emirates United Kingdom United States U.S. Virgin Islands Vie
- tnam Zambia Airport Search Currently showing 161 - 170 of 671 empty legs
-  Previous page Page 17 of 68 Next page Route Available From Available To
-  Aircraft Details MGL Moenchengladbach → Kalamata
-LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
- cript in order to use this website. (click here for more information) Sk
- ip to content [email protected] +44 20 8089 6288 WhatsApp magnifying-gla
- ss Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet 
- by category\, range and cabin globe Destinations Airports and routes we 
- offer megaphone Empty legs Discounted one-way flights mail Contact Get i
- n touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chev
- ron-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Pri
- vate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated th
- roughout the day Save up to 80% on charter flights Empty legs\, also kno
- wn as private jet repositioning flights\, are generated when an aircraft
-  has to fly to another airport without passengers. Want to learn more ab
- out empty legs? Checkout our Frequently Asked Questions below. Empty leg
- s available in October 2026 Country Worldwide Algeria Angola Anguilla An
- tigua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahr
- ain Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Islan
- ds Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands
-  China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Domini
- can Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea 
- Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Ital
- y Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuan
- ia Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegr
- o Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal P
- uerto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sai
- nt Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia 
- Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzan
- ia Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States U.S. Virgin Islands Vi
- etnam Zambia Airport Search Currently showing 161 - 170 of 671 empty leg
- s Previous page Page 17 of 68 Next page Route Available From Available T
- o Aircraft Details MGL Moenchengladbach
-DESCRIPTION:Aircraft: Citation Excel\nCapacity: 8 passengers\nAirports: L
- EG → KLX\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
- 6-10-29 through 2026-10-30. Confirm exact timing and price before bookin
- g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:eae1ef7ca777edebaf0bdb3fb553fd8a69ebd563@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
- ript in order to use this website. (click here for more information) Ski
- p to content [email protected] +44 20 8089 6288 WhatsApp magnifying-glas
- s Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet b
- y category\, range and cabin globe Destinations Airports and routes we o
- ffer megaphone Empty legs Discounted one-way flights mail Contact Get in
-  touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chevr
- on-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Priv
- ate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated thr
- oughout the day Save up to 80% on charter flights Empty legs\, also know
- n as private jet repositioning flights\, are generated when an aircraft 
- has to fly to another airport without passengers. Want to learn more abo
- ut empty legs? Checkout our Frequently Asked Questions below. Empty legs
-  available in October 2026 Country Worldwide Algeria Angola Anguilla Ant
- igua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahra
- in Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Island
- s Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands 
- China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Dominic
- an Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea G
- uinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Italy
-  Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuani
- a Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegro
-  Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal Pu
- erto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sain
- t Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia S
- lovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzani
- a Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands U
- nited Arab Emirates United Kingdom United States U.S. Virgin Islands Vie
- tnam Zambia Airport Search Currently showing 191 - 200 of 671 empty legs
-  Previous page Page 20 of 68 Next page Route Available From Available To
-  Aircraft Details MAD Madrid → Nice
-LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
- cript in order to use this website. (click here for more information) Sk
- ip to content [email protected] +44 20 8089 6288 WhatsApp magnifying-gla
- ss Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet 
- by category\, range and cabin globe Destinations Airports and routes we 
- offer megaphone Empty legs Discounted one-way flights mail Contact Get i
- n touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chev
- ron-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Pri
- vate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated th
- roughout the day Save up to 80% on charter flights Empty legs\, also kno
- wn as private jet repositioning flights\, are generated when an aircraft
-  has to fly to another airport without passengers. Want to learn more ab
- out empty legs? Checkout our Frequently Asked Questions below. Empty leg
- s available in October 2026 Country Worldwide Algeria Angola Anguilla An
- tigua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahr
- ain Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Islan
- ds Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands
-  China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Domini
- can Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea 
- Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Ital
- y Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuan
- ia Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegr
- o Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal P
- uerto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sai
- nt Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia 
- Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzan
- ia Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States U.S. Virgin Islands Vi
- etnam Zambia Airport Search Currently showing 191 - 200 of 671 empty leg
- s Previous page Page 20 of 68 Next page Route Available From Available T
- o Aircraft Details MAD Madrid
-DESCRIPTION:Aircraft: Citation Latitude\nCapacity: 9 passengers\nAirports
- : LEG → NCE\nSource: AlbaJet\nAvailability window published by AlbaJet: 
- 2026-10-29 through 2026-10-30. Confirm exact timing and price before boo
- king.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=20\
- nEmpty-leg schedules can change or disappear at short notice. Confirm wi
- th the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=20
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d79d6ff05eb2eb79d3306924959f3c3625121b69@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
- ript in order to use this website. (click here for more information) Ski
- p to content [email protected] +44 20 8089 6288 WhatsApp magnifying-glas
- s Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet b
- y category\, range and cabin globe Destinations Airports and routes we o
- ffer megaphone Empty legs Discounted one-way flights mail Contact Get in
-  touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chevr
- on-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Priv
- ate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated thr
- oughout the day Save up to 80% on charter flights Empty legs\, also know
- n as private jet repositioning flights\, are generated when an aircraft 
- has to fly to another airport without passengers. Want to learn more abo
- ut empty legs? Checkout our Frequently Asked Questions below. Empty legs
-  available in October 2026 Country Worldwide Algeria Angola Anguilla Ant
- igua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahra
- in Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Island
- s Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands 
- China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Dominic
- an Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea G
- uinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Italy
-  Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuani
- a Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegro
-  Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal Pu
- erto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sain
- t Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia S
- lovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzani
- a Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands U
- nited Arab Emirates United Kingdom United States U.S. Virgin Islands Vie
- tnam Zambia Airport Search Currently showing 81 - 90 of 671 empty legs P
- revious page Page 9 of 68 Next page Route Available From Available To Ai
- rcraft Details BQH Biggin Hill → Sion
-LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
- cript in order to use this website. (click here for more information) Sk
- ip to content [email protected] +44 20 8089 6288 WhatsApp magnifying-gla
- ss Flight search Compare 5\,000+ jets worldwide aircraft Aircraft Fleet 
- by category\, range and cabin globe Destinations Airports and routes we 
- offer megaphone Empty legs Discounted one-way flights mail Contact Get i
- n touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chev
- ron-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Pri
- vate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated th
- roughout the day Save up to 80% on charter flights Empty legs\, also kno
- wn as private jet repositioning flights\, are generated when an aircraft
-  has to fly to another airport without passengers. Want to learn more ab
- out empty legs? Checkout our Frequently Asked Questions below. Empty leg
- s available in October 2026 Country Worldwide Algeria Angola Anguilla An
- tigua and Barbuda Argentina Armenia Aruba Australia Austria Bahamas Bahr
- ain Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Islan
- ds Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands
-  China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Domini
- can Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea 
- Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Ital
- y Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuan
- ia Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegr
- o Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal P
- uerto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sai
- nt Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia 
- Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzan
- ia Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States U.S. Virgin Islands Vi
- etnam Zambia Airport Search Currently showing 81 - 90 of 671 empty legs 
- Previous page Page 9 of 68 Next page Route Available From Available To A
- ircraft Details BQH Biggin Hill
-DESCRIPTION:Aircraft: Premier IA\nCapacity: 6 passengers\nAirports: LEG →
+SUMMARY:Biggin Hill → Sion
+LOCATION:Biggin Hill
+DESCRIPTION:Aircraft: Premier IA\nCapacity: 6 passengers\nAirports: BQH →
   SIR\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
  -29 through 2026-10-29. Confirm exact timing and price before booking.\n
  Booking / source: https://www.albajet.com/empty-leg-flights?p=9\nEmpty-l
@@ -583,10 +84,118 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:511a157b32545dcb950695364333459fd1a3c338@emptylegs.local
-DTSTAMP:20261029T084335Z
+UID:b0f2af2c7e3e578ab56a337f6e7ab1d42b6de45e@emptylegs.local
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261030
+SUMMARY:Dublin → Genoa
+LOCATION:Dublin
+DESCRIPTION:Aircraft: Citation XLS\nCapacity: 7 passengers\nAirports: DUB
+  → GOA\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
+ 10-29 through 2026-10-29. Confirm exact timing and price before booking.
+ \nBooking / source: https://www.albajet.com/empty-leg-flights?p=9\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=9
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:649da4d87b7ed02e78897ceff97faa133577ff9d@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Farnborough → Malaga
+LOCATION:Farnborough
+DESCRIPTION:Aircraft: Phenom 300\nCapacity: 8 passengers\nAirports: FAB →
+  AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
+ -29 through 2026-10-29. Confirm exact timing and price before booking.\n
+ Booking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=10
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:792c3c08944850420cf1f5cb8eb1ed9a0994b6fa@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Faro → Malaga
+LOCATION:Faro
+DESCRIPTION:Aircraft: Citation XLS+\nCapacity: 7 passengers\nAirports: FA
+ O → AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-29 through 2026-10-29. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=11\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=11
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e9915d778700e00ca5785f1f96f1799ce89d529b@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Inverness → Blackbushe
+LOCATION:Inverness
+DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 6 passengers\nAirports: IN
+ V → BBS\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-29 through 2026-10-29. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=10
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:b0be3466fd5ea7e736c9c69fe7bd9786e3ab2574@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Isle Of Man → Kerkira
+LOCATION:Isle Of Man
+DESCRIPTION:Aircraft: Phenom 300\nCapacity: 8 passengers\nAirports: IOM →
+  CFU\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
+ -29 through 2026-10-29. Confirm exact timing and price before booking.\n
+ Booking / source: https://www.albajet.com/empty-leg-flights?p=9\nEmpty-l
+ eg schedules can change or disappear at short notice. Confirm with the o
+ perator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=9
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c94a9dfc91b8be5db73beecda3a4fdf5e422ee@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Jersey → Farnborough
+LOCATION:Jersey
+DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 8 passengers\nAirports: JE
+ R → FAB\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-29 through 2026-10-29. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=10
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dbcabe71ead460d3b89b64e3e171f290bd21de15@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
 SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
  ript in order to use this website. (click here for more information) Ski
  p to content [email protected] +44 20 8089 6288 WhatsApp magnifying-glas
@@ -595,7 +204,7 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
  ffer megaphone Empty legs Discounted one-way flights mail Contact Get in
   touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chevr
  on-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Priv
- ate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated thr
+ ate Jet Empty Leg Flights 791 empty legs from 92 countries\, updated thr
  oughout the day Save up to 80% on charter flights Empty legs\, also know
  n as private jet repositioning flights\, are generated when an aircraft 
  has to fly to another airport without passengers. Want to learn more abo
@@ -605,19 +214,19 @@ SUMMARY:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javasc
  in Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Island
  s Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands 
  China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Dominic
- an Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea G
- uinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Italy
-  Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuani
- a Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegro
-  Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal Pu
- erto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sain
- t Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia S
- lovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzani
- a Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands U
- nited Arab Emirates United Kingdom United States U.S. Virgin Islands Vie
- tnam Zambia Airport Search Currently showing 171 - 180 of 671 empty legs
-  Previous page Page 18 of 68 Next page Route Available From Available To
-  Aircraft Details LBG Paris → Tenerife-South
+ an Republic Ecuador Egypt Fiji Finland France Germany Greece Guadeloupe 
+ Guinea Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Isra
+ el Italy Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya 
+ Lithuania Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Mo
+ ntenegro Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Por
+ tugal Puerto Rico Qatar Republic of the Congo Romania Saint Kitts and Ne
+ vis Saint Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Sl
+ ovakia Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan
+  Tanzania Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos I
+ slands United Arab Emirates United Kingdom United States U.S. Virgin Isl
+ ands Vietnam Zambia Airport Search Currently showing 101 - 110 of 791 em
+ pty legs Previous page Page 11 of 80 Next page Route Available From Avai
+ lable To Aircraft Details NCL Newcastle → Belfast
 LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  cript in order to use this website. (click here for more information) Sk
  ip to content [email protected] +44 20 8089 6288 WhatsApp magnifying-gla
@@ -626,7 +235,7 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  offer megaphone Empty legs Discounted one-way flights mail Contact Get i
  n touch with our team Talk to our team +44 20 8089 6288 WhatsApp EN chev
  ron-small-down Deutsch DE Italiano IT Español ES Empty Leg Flights › Pri
- vate Jet Empty Leg Flights 671 empty legs from 88 countries\, updated th
+ vate Jet Empty Leg Flights 791 empty legs from 92 countries\, updated th
  roughout the day Save up to 80% on charter flights Empty legs\, also kno
  wn as private jet repositioning flights\, are generated when an aircraft
   has to fly to another airport without passengers. Want to learn more ab
@@ -636,88 +245,51 @@ LOCATION:Flights | Updated Daily [Oct 2026] - AlbaJet Please enable Javas
  ain Barbados Belgium Bermuda Bhutan Botswana Brazil British Virgin Islan
  ds Bulgaria Burundi Cambodia Canada Caribbean Netherlands Cayman Islands
   China Colombia Comoros Costa Rica Croatia Cyprus Czechia Denmark Domini
- can Republic Ecuador Egypt Fiji France Germany Greece Guadeloupe Guinea 
- Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Israel Ital
- y Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya Lithuan
- ia Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova Montenegr
- o Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Portugal P
- uerto Rico Qatar Republic of the Congo Romania Saint Kitts and Nevis Sai
- nt Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten Slovakia 
- Slovenia South Africa South Korea Spain Sweden Switzerland Taiwan Tanzan
- ia Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos Islands 
- United Arab Emirates United Kingdom United States U.S. Virgin Islands Vi
- etnam Zambia Airport Search Currently showing 171 - 180 of 671 empty leg
- s Previous page Page 18 of 68 Next page Route Available From Available T
- o Aircraft Details LBG Paris
-DESCRIPTION:Aircraft: Falcon 900LX\nCapacity: 14 passengers\nAirports: LE
- G → TFS\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=18\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=18
+ can Republic Ecuador Egypt Fiji Finland France Germany Greece Guadeloupe
+  Guinea Guinea-Bissau Hong Kong Hungary India Indonesia Iraq Ireland Isr
+ ael Italy Japan Jordan Kazakhstan Kenya Kuwait Laos Latvia Lebanon Libya
+  Lithuania Luxembourg Malaysia Maldives Malta Mauritius Mexico Moldova M
+ ontenegro Morocco Nepal Netherlands Nigeria Norway Oman Panama Poland Po
+ rtugal Puerto Rico Qatar Republic of the Congo Romania Saint Kitts and N
+ evis Saint Lucia Saudi Arabia Serbia Seychelles Singapore Sint Maarten S
+ lovakia Slovenia South Africa South Korea Spain Sweden Switzerland Taiwa
+ n Tanzania Thailand Trinidad and Tobago Tunisia Turkey Turks and Caicos 
+ Islands United Arab Emirates United Kingdom United States U.S. Virgin Is
+ lands Vietnam Zambia Airport Search Currently showing 101 - 110 of 791 e
+ mpty legs Previous page Page 11 of 80 Next page Route Available From Ava
+ ilable To Aircraft Details NCL Newcastle
+DESCRIPTION:Aircraft: Learjet 45XR\nCapacity: 9 passengers\nAirports: LEG
+  → BFS\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
+ 10-29 through 2026-10-29. Confirm exact timing and price before booking.
+ \nBooking / source: https://www.albajet.com/empty-leg-flights?p=11\nEmpt
+ y-leg schedules can change or disappear at short notice. Confirm with th
+ e operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=11
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8f8a1dd0e6312e03d559664180e8c8cbfdc0e80b@emptylegs.local
-DTSTAMP:20261029T084335Z
+UID:25d28257a18c9d42289986d03bd621b5f2d678e9@emptylegs.local
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Montpellier-Mediterranee Airport → Geneva Cointrin International 
- Airport
-LOCATION:Montpellier-Mediterranee Airport
-DESCRIPTION:Price: €2\,280\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LFMT → LSGG\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+SUMMARY:London → Glasgow
+LOCATION:London
+DESCRIPTION:Aircraft: Citation X\nCapacity: 8 passengers\nAirports: LGW →
+  GLA\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
+ -29 through 2026-10-29. Confirm exact timing and price before booking.\n
+ Booking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
  operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17254@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T150000Z
-DTEND:20261029T162000Z
-SUMMARY:Paris → Lyon
-LOCATION:Paris
-DESCRIPTION:Aircraft: PC-12\nAirports: LFPB → LFLY\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RDS. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17255@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T140000Z
-DTEND:20261029T143500Z
-SUMMARY:Comiso → Catania
-LOCATION:Comiso
-DESCRIPTION:Aircraft: PC-12\nAirports: LICB → LICC\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-KBD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
+URL:https://www.albajet.com/empty-leg-flights?p=10
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9626c6c86762cd34f4af1b65e9e7856cfb31d7c5@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:Milan Linate → Linz
@@ -735,9 +307,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e0e14c68700726c61b95a1a9e20ec49b885883d5@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T201000Z
-DTEND:20261029T210600Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261029T194500Z
+DTEND:20261029T204100Z
 SUMMARY:Milan Linate → Linz
 LOCATION:Milan Linate
 DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -757,127 +329,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17372@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T121500Z
-DTEND:20261029T135000Z
-SUMMARY:Venezia → Geneva
-LOCATION:Venezia
-DESCRIPTION:Aircraft: PC-12\nAirports: LIPZ → LSGG\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-GVS. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0fba7031e2d5165df880526c45d8a0b4a5a4c31d@emptylegs.local
-DTSTAMP:20261029T084335Z
+UID:10e0ddb1db9651a2e704b30498b231b24599a0b4@emptylegs.local
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-SUMMARY:Ostrava → Berlin Brandenburg
-LOCATION:Ostrava
-DESCRIPTION:Price: €1\,188\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LKMT → EDDB\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:9c4be2701c077e6cec0e5997f42b2d3b4b78ca6d@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Moenchengladbach → Kalamata
-LOCATION:Moenchengladbach
-DESCRIPTION:Aircraft: Citation Excel\nCapacity: 8 passengers\nAirports: M
- GL → KLX\nSource: AlbaJet\nAvailability window published by AlbaJet: 202
- 6-10-29 through 2026-10-30. Confirm exact timing and price before bookin
- g.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:739fe8280bacdd9b4a9bae7fe9c07bfb36854e94@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T142500Z
-DTEND:20261029T153800Z
-SUMMARY:Montpellier → Ibiza
-LOCATION:Montpellier
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: MPL → IBZ\nSource: GlobeAir\nOriginal price: €7\
- ,400\nCurrent price: €1\,410 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC258Z\nFBO: AVIAPARTNER Montpellier SAS\n\nBook now:\nhttps://fly.gl
- obeair.com/el/739fe828\n\nPlease note: All empty leg flights are subject
-  to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by 
- GlobeAir\nTotal flight time: 73 minutes\nDistance: 305 miles\n\nContact 
- us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEma
- il: customercare@globeair.com\nBooking / source: https://fly.globeair.co
- m/el/739fe828\nEmpty-leg schedules can change or disappear at short noti
- ce. Confirm with the operator/broker before making connecting travel pla
- ns.
-URL:https://fly.globeair.com/el/739fe828
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:d5a110582c1af51cc9f27ac7a4a5f3e65c37c261@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T140000Z
-DTEND:20261029T145400Z
-SUMMARY:Milan Malpensa → Pisa
-LOCATION:Milan Malpensa
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: MXP → PSA\nSource: GlobeAir\nOriginal price: €5\
- ,700\nCurrent price: €1\,090 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC546Y\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/d5a110
- 58\n\nPlease note: All empty leg flights are subject to schedule change!
- \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 54 minutes\nDistance: 136 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/d5a11058\nEmpty
+SUMMARY:Durham Tees Valley → Biggin Hill
+LOCATION:Durham Tees Valley
+DESCRIPTION:Aircraft: Phenom 300E\nCapacity: 9 passengers\nAirports: MME 
+ → BQH\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-1
+ 0-29 through 2026-10-29. Confirm exact timing and price before booking.\
+ nBooking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
   operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/d5a11058
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:cf6988120cae5c85394089f2874fb861b370baca@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Nice → Malaga
-LOCATION:Nice
-DESCRIPTION:Aircraft: Citation XLS\nCapacity: 7 passengers\nAirports: NCE
-  → AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-30. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
+URL:https://www.albajet.com/empty-leg-flights?p=10
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:27653b84e0c6461b7cc4cdf731bb1c9aa9aab14e@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261029T200600Z
 DTEND:20261029T213400Z
 SUMMARY:Nice → Luxembourg
@@ -899,244 +370,96 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dfff117117fdb003c9dfe1619e5904062ed5a5db@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T152600Z
-DTEND:20261029T162500Z
-SUMMARY:Nice → Olbia
-LOCATION:Nice
-DESCRIPTION:Price: €1\,510\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: NCE → OLB\nSource: GlobeAir\nOriginal price: €7\
- ,500\nCurrent price: €1\,510 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC008M\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
- air.com/el/dfff1171\n\nPlease note: All empty leg flights are subject to
-  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
- beAir\nTotal flight time: 59 minutes\nDistance: 195 miles\n\nContact us 
- 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
-  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
- l/dfff1171\nEmpty-leg schedules can change or disappear at short notice.
-  Confirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/dfff1171
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:87f7730bf7472a0d8b40fd464b2be9ad9e56691e@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T130600Z
-DTEND:20261029T141200Z
-SUMMARY:Orleans → London Farnborough
-LOCATION:Orleans
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: ORE → FAB\nSource: GlobeAir\nOriginal price: €8\
- ,400\nCurrent price: €1\,410 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC812Y\nFBO: Smaedaol\n\nBook now:\nhttps://fly.globeair.com/el/87f77
- 30b\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 66 minutes\nDistance: 233 miles\n\nContact us 24/7\nWhatsApp: 
- https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
- obeair.com\nBooking / source: https://fly.globeair.com/el/87f7730b\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/87f7730b
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:8627b053d560c9293cc15293985ef5fb90b286fb@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261029T105600Z
-DTEND:20261029T120700Z
-SUMMARY:Ostrava → Berlin Brandenburg
-LOCATION:Ostrava
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: OSR → BER\nSource: GlobeAir\nOriginal price: €6\,10
- 0\nCurrent price: €990 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC0
- 18E\nFBO: Airport Ostrava\n\nBook now:\nhttps://fly.globeair.com/el/8627
- b053\n\nPlease note: All empty leg flights are subject to schedule chang
- e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
- ight time: 71 minutes\nDistance: 236 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/8627b053\nEmp
+UID:a9c365f9ab8d6b85e6f8f9341939e30c81bfb350@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Newquay → Jersey
+LOCATION:Newquay
+DESCRIPTION:Aircraft: Pilatus PC-24\nCapacity: 8 passengers\nAirports: NQ
+ Y → JER\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-29 through 2026-10-29. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=10\nEmp
  ty-leg schedules can change or disappear at short notice. Confirm with t
  he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/8627b053
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:bf46069363df734e1ce02d2a048ab1202b6af731@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Palma De Mallorca → Malaga
-LOCATION:Palma De Mallorca
-DESCRIPTION:Aircraft: Citation XLS+\nCapacity: 7 passengers\nAirports: PM
- I → AGP\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
- -10-29 through 2026-10-30. Confirm exact timing and price before booking
- .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:50fd6894e20662695df771d9fa1c967453ff241f@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Palma De Mallorca → Alicante
-LOCATION:Palma De Mallorca
-DESCRIPTION:Aircraft: Citation CJ3\nCapacity: 7 passengers\nAirports: PMI
-  → ALC\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-
- 10-29 through 2026-10-30. Confirm exact timing and price before booking.
- \nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:f44992386f626a4222029a55887659ec6038bf52@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Palma De Mallorca → Farnborough
-LOCATION:Palma De Mallorca
-DESCRIPTION:Aircraft: Challenger 850\nCapacity: 14 passengers\nAirports: 
- PMI → FAB\nSource: AlbaJet\nAvailability window published by AlbaJet: 20
- 26-10-29 through 2026-10-30. Confirm exact timing and price before booki
- ng.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=19\nE
- mpty-leg schedules can change or disappear at short notice. Confirm with
-  the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:519e61affe52a4630a24097a3eda9c2c171747d1@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Rijeka → Oberpfaffenhofen
-LOCATION:Rijeka
-DESCRIPTION:Aircraft: Pilatus PC-12 NGX\nCapacity: 6 passengers\nAirports
- : RJK → OBF\nSource: AlbaJet\nAvailability window published by AlbaJet: 
- 2026-10-29 through 2026-10-30. Confirm exact timing and price before boo
- king.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=17\
- nEmpty-leg schedules can change or disappear at short notice. Confirm wi
- th the operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=17
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:0dd7721fc673c60bb97612b1906c7fbeff970a48@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261031
-SUMMARY:Valencia → Avignon
-LOCATION:Valencia
-DESCRIPTION:Aircraft: Falcon 7X\nCapacity: 12 passengers\nAirports: VLC →
-  AVN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026-10
- -29 through 2026-10-30. Confirm exact timing and price before booking.\n
- Booking / source: https://www.albajet.com/empty-leg-flights?p=19\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.albajet.com/empty-leg-flights?p=19
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a560fbdd84fce3279992d056f0224e711165be80@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T064500Z
-DTEND:20261030T075500Z
-SUMMARY:Barcelona → Bordeaux
-LOCATION:Barcelona
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BCN → BOD\nSource: GlobeAir\nOriginal price: €6\
- ,700\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC434X\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/a560fb
- dd\n\nPlease note: All empty leg flights are subject to schedule change!
- \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 70 minutes\nDistance: 244 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/a560fbdd\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/a560fbdd
+URL:https://www.albajet.com/empty-leg-flights?p=10
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9ae930d4dc24f19596af2f186cc7759c4cfabc93@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261030T123500Z
-DTEND:20261030T135100Z
+DTEND:20261030T135400Z
 SUMMARY:London Biggin Hill → Badenbaden
 LOCATION:London Biggin Hill
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BQH → FKB\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 53%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BQH → FKB\nSource: GlobeAir\nOriginal price: €8\
+ ,400\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC496E\nFBO: Jetex (former Signature)\n\nBook now:\nhttps://fly.globe
+ air.com/el/9ae930d4\n\nPlease note: All empty leg flights are subject to
+  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
+ beAir\nTotal flight time: 79 minutes\nDistance: 345 miles\n\nContact us 
+ 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
+  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
+ l/9ae930d4\nEmpty-leg schedules can change or disappear at short notice.
+  Confirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/9ae930d4
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4a200fb20fda2e0d0d24df1b7dce5765ac4c105e@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261030T112600Z
 DTEND:20261030T125800Z
 SUMMARY:Dinard → Marseille
 LOCATION:Dinard
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  DNR → MRS\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 43%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: DNR → MRS\nSource: GlobeAir\nOriginal price: €8\
+ ,100\nCurrent price: €1\,710 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC405S\nFBO: CCI ST MALO\n\nBook now:\nhttps://fly.globeair.com/el/4a
+ 200fb2\n\nPlease note: All empty leg flights are subject to schedule cha
+ nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
+ flight time: 92 minutes\nDistance: 433 miles\n\nContact us 24/7\nWhatsAp
+ p: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare
+ @globeair.com\nBooking / source: https://fly.globeair.com/el/4a200fb2\nE
+ mpty-leg schedules can change or disappear at short notice. Confirm with
+  the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/4a200fb2
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ace3b48b8ad2add1494c73eda1bbe9fa101d88b1@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T142200Z
-DTEND:20261030T152300Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261030T135700Z
+DTEND:20261030T151600Z
 SUMMARY:Dusseldorf → Berlin Brandenburg
 LOCATION:Dusseldorf
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  DUS → BER\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 61%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: DUS → BER\nSource: GlobeAir\nOriginal price: €6\
+ ,800\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC638D\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.glo
+ beair.com/el/ace3b48b\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 79 minutes\nDistance: 259 miles\n\nContact u
+ s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
+ l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
+ /el/ace3b48b\nEmpty-leg schedules can change or disappear at short notic
+ e. Confirm with the operator/broker before making connecting travel plan
+ s.
+URL:https://fly.globeair.com/el/ace3b48b
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f338f9031c46193fe14adbd44044dc68d264b1e@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Munster → Amsterdam
@@ -1153,33 +476,46 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2aa61c542ec00b7791c64183bc5b905a16a45a42@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T075500Z
-DTEND:20261030T085000Z
-SUMMARY:Badenbaden → Charleroi
-LOCATION:Badenbaden
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: FKB → CRL\nSource: GlobeAir\nOriginal price: €6\
- ,450\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC584Y\nFBO: AVANGARD\n\nBook now:\nhttps://fly.globeair.com/el/2aa61
- c54\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 55 minutes\nDistance: 173 miles\n\nContact us 24/7\nWhatsApp: 
- https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
- obeair.com\nBooking / source: https://fly.globeair.com/el/2aa61c54\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/2aa61c54
+UID:8e6cd991dafc59bb4d4292a283e62965d2b252c4@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Karlsruhe Baden-Baden Airport → Brussels South Charleroi Airport
+LOCATION:Karlsruhe Baden-Baden Airport
+DESCRIPTION:Price: €1\,800\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDSB → EBCI\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e46c213065e6f26e95d1ca3b65b9e33c7a4f8247@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:London Biggin Hill → Badenbaden
+LOCATION:London Biggin Hill
+DESCRIPTION:Price: €1\,548\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EGKB → EDSB\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fad2f072b590ebc16f833e2384d493cfa8b5cb4e@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T070000Z
-DTEND:20261030T074100Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261030T110500Z
+DTEND:20261030T113700Z
 SUMMARY:Munster → Amsterdam
 LOCATION:Munster
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -1188,7 +524,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC137K\nFBO: Gen Avn Terminal\n\nBook now:\nhttps://fly.globeair.com/
  el/fad2f072\n\nPlease note: All empty leg flights are subject to schedul
  e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
- otal flight time: 41 minutes\nDistance: 107 miles\n\nContact us 24/7\nWh
+ otal flight time: 32 minutes\nDistance: 107 miles\n\nContact us 24/7\nWh
  atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
  rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/fad2f0
  72\nEmpty-leg schedules can change or disappear at short notice. Confirm
@@ -1200,7 +536,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17408@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261030T145500Z
 DTEND:20261030T160500Z
 SUMMARY:Bolzano → Geneva
@@ -1217,14 +553,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17284@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T081000Z
-DTEND:20261030T103000Z
-SUMMARY:Geneva → Reading
+UID:4e6da9452c301b832f610256d7dcab8e4fefe5f0@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Venice → Zurich
+LOCATION:Venice
+DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIPZ → LSZH\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-17428@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART:20261030T075500Z
+DTEND:20261030T084500Z
+SUMMARY:Geneva → Torino
 LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → EGLK\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-TWD. Confirm live 
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LIMF\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
  availability directly with Jetfly.\nBooking / source: https://empty-legs
  .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
@@ -1236,7 +590,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17407@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261030T054000Z
 DTEND:20261030T065000Z
 SUMMARY:Geneva → Bolzano
@@ -1253,14 +607,14 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17428@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T080000Z
-DTEND:20261030T084500Z
-SUMMARY:Lausanne → Torino
-LOCATION:Lausanne
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGL → LIMF\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-FUK. Confirm live 
+UID:jetfly-17284@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART:20261030T081000Z
+DTEND:20261030T103000Z
+SUMMARY:Saanen → Reading
+LOCATION:Saanen
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGK → EGLK\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-GEM. Confirm live 
  availability directly with Jetfly.\nBooking / source: https://empty-legs
  .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
@@ -1271,51 +625,38 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a7bb50f3289e45fb0cd981de452067b1137f5899@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T114000Z
-DTEND:20261030T130300Z
-SUMMARY:Palma → Madrid
-LOCATION:Palma
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  PMI → MAD\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 49%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:03786236ed1231f9422cc9d0d726a8d65b7ecdd4@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261030T121000Z
-DTEND:20261030T130900Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261030T124000Z
+DTEND:20261030T134100Z
 SUMMARY:Venice → Zurich
 LOCATION:Venice
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  VCE → ZRH\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 63%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: VCE → ZRH\nSource: GlobeAir\nOriginal price: €6\
+ ,500\nCurrent price: €1\,390 (–79%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC472S\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/037862
+ 36\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 61 minutes\nDistance: 196 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/03786236\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/03786236
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:55bdebbc1862a47e1fd2f5aa30a8f428cdd602b8@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261031T143600Z
-DTEND:20261031T151000Z
-SUMMARY:Barcelona → Palma
-LOCATION:Barcelona
+UID:ee2af1a27c871805bd7d4d67d7b50482f1298e0d@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261031T123000Z
+DTEND:20261031T131400Z
+SUMMARY:London Biggin Hill → Paris Le Bourget
+LOCATION:London Biggin Hill
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  BCN → PMI\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 60%.\nBooking / source: https:/
+  BQH → LBG\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 56%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1326,7 +667,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17370@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261031T075500Z
 DTEND:20261031T111500Z
 SUMMARY:Amsterdam → Roma
@@ -1343,10 +684,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c1f007859a8653249384dd0bc3468f5650789509@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261031T113000Z
-DTEND:20261031T125300Z
+UID:8f57b612bd0d98cb52b70c4de299b40ea0336475@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261031T114100Z
+DTEND:20261031T130400Z
 SUMMARY:Graz → Berlin Brandenburg
 LOCATION:Graz
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
@@ -1361,26 +702,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:dcb16be953de2ce1b8065c0b78d904fc2d2a3fc5@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261031T120800Z
-DTEND:20261031T125400Z
-SUMMARY:London City → Paris Le Bourget
-LOCATION:London City
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  LCY → LBG\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 55%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-17302@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261031T073000Z
 DTEND:20261031T091000Z
 SUMMARY:Brescia → Frankfurt
@@ -1398,7 +721,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4057c515089b16c80e74ef247f6c1579796ddcc3@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261031T155000Z
 DTEND:20261031T165700Z
 SUMMARY:London Luton → Munster
@@ -1415,15 +738,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b6a7e5c1c07770cef32aa300c96eb81fc08ea0cb@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261031T130000Z
-DTEND:20261031T142200Z
-SUMMARY:Valencia → Avignon
-LOCATION:Valencia
+UID:7ca2744960df50a9726c490bb00bc2dd970e8540@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261031T065000Z
+DTEND:20261031T075300Z
+SUMMARY:Turin → Munich
+LOCATION:Turin
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  VLC → AVN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 38%.\nBooking / source: https:/
+  TRN → MUC\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 47%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1433,15 +756,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:2606bcc50a02bd5772d037233970b03078f31320@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261101T130200Z
-DTEND:20261101T135500Z
-SUMMARY:Paris Roissy → Geneva
+UID:ff281d6b278abdfd9df8086f1f0f7e7846787b7d@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T141600Z
+DTEND:20261101T145400Z
+SUMMARY:Paris Roissy → Deauville
 LOCATION:Paris Roissy
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  CDG → GVA\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 37%.\nBooking / source: https:/
+  CDG → DOL\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 42%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1452,7 +775,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0d2d1a9fa929c99443a5b80c45bbed7c6ec6f1be@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261101T080300Z
 DTEND:20261101T085500Z
 SUMMARY:Rome → Bologna
@@ -1470,7 +793,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -1488,15 +811,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bc840ab1812dbfcfac10fc8f8ebb9db5975bec2b@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261101T114000Z
-DTEND:20261101T125400Z
-SUMMARY:East Midlands → Orleans
+UID:801fecc988aef61845aa49b4bfaa96dad15e3257@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T121400Z
+DTEND:20261101T135500Z
+SUMMARY:East Midlands → Geneva
 LOCATION:East Midlands
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  EMA → ORE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 30%.\nBooking / source: https:/
+  EMA → GVA\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 21%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1507,7 +830,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46997934d0b4f3d591bc9235babb1a4bdcdda0e9@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261101T161600Z
 DTEND:20261101T164900Z
 SUMMARY:Badenbaden → Augsburg
@@ -1524,33 +847,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f41ca3d75a5ac2eb903c733c856f948a0b6ec04d@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261101T161900Z
-DTEND:20261101T165700Z
-SUMMARY:Geneva → Milan Linate
-LOCATION:Geneva
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  GVA → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 42%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:4d32c49798bc15a79c8683cad77ddf2cd88ab1a0@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261101T123500Z
-DTEND:20261101T131300Z
-SUMMARY:Paris Le Bourget → Deauville
+UID:44dcbe4871bf1605893d0d0bcf532c9fb98934fa@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T122800Z
+DTEND:20261101T125400Z
+SUMMARY:Paris Le Bourget → Orleans
 LOCATION:Paris Le Bourget
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  LBG → DOL\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 42%.\nBooking / source: https:/
+  LBG → ORE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 45%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1561,13 +866,13 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17394@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261101T143000Z
-DTEND:20261101T152500Z
+DTEND:20261101T152000Z
 SUMMARY:Torino → Brescia
 LOCATION:Torino
 DESCRIPTION:Aircraft: PC-12\nAirports: LIMF → LIPO\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-FUK. Confirm live 
+ y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
  availability directly with Jetfly.\nBooking / source: https://empty-legs
  .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
@@ -1578,8 +883,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:f39d73fa9fbd0d01f6bfee8aba357350037265e2@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T142500Z
+DTEND:20261101T153700Z
+SUMMARY:Linz → Milan Linate
+LOCATION:Linz
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  LNZ → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 31%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17338@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261101T101200Z
 DTEND:20261101T131700Z
 SUMMARY:Salzburg → Valletta
@@ -1596,8 +919,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-17363@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T160000Z
+DTEND:20261101T165000Z
+SUMMARY:Geneva → Lugano
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-24\nAirports: LSGG → LSZA\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17337@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261101T094500Z
 DTEND:20261101T120000Z
 SUMMARY:Saanen → Woking
@@ -1614,15 +955,15 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:60057a374a4c563d3b0ec9af6c8e725c9c0f8b44@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T171800Z
-DTEND:20261102T183400Z
-SUMMARY:Augsburg → Bremen
-LOCATION:Augsburg
+UID:d293f504ce67a778a48ad77bae6b8855ff787183@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261101T073500Z
+DTEND:20261101T085700Z
+SUMMARY:Valencia → Avignon
+LOCATION:Valencia
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  AGB → BRE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 18%.\nBooking / source: https:/
+  VLC → AVN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 28%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -1632,14 +973,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e664011dbad0993729a1f00d965dc0ab247fc3cf@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T140100Z
-DTEND:20261102T152400Z
-SUMMARY:Angers → Nice
-LOCATION:Angers
+UID:4fe37fea6e9cd2b041ec3c4622cc4ab2fbda7405@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T173100Z
+DTEND:20261102T180600Z
+SUMMARY:Augsburg → Linz
+LOCATION:Augsburg
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  ANE → NCE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+  AGB → LNZ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 26%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:3c22de9c6d8ba47cfa80d20f47372ff4866aff48@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T140200Z
+DTEND:20261102T152400Z
+SUMMARY:Paris Roissy → Nice
+LOCATION:Paris Roissy
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  CDG → NCE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
  confirmed yet.\n\nCurrent probability is 17%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
@@ -1651,7 +1010,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17364@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261102T154500Z
 DTEND:20261102T181000Z
 SUMMARY:Tenerife → Malaga
@@ -1668,10 +1027,64 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:26f258a743b9eaf73e57d6a187a99138d03f753c@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T081600Z
+DTEND:20261102T092700Z
+SUMMARY:Geneva → Figari
+LOCATION:Geneva
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  GVA → FSC\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 19%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:9645c79d51ff4e4ac8a965bed85c7e80a533ac9f@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T133600Z
+DTEND:20261102T140200Z
+SUMMARY:Hamburg → Bremen
+LOCATION:Hamburg
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  HAM → BRE\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 27%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:48604306fb02c0290ee62fbc902b76394358bd1b@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T130700Z
+DTEND:20261102T145700Z
+SUMMARY:Paris Le Bourget → Figari
+LOCATION:Paris Le Bourget
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  LBG → FSC\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 11%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17365@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T063500Z
-DTEND:20261102T073000Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T065000Z
+DTEND:20261102T074500Z
 SUMMARY:Laval → Lorient
 LOCATION:Laval
 DESCRIPTION:Aircraft: PC-12\nAirports: LFOV → LFRH\nSource: Jetfly\nJetfl
@@ -1687,9 +1100,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17366@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T161500Z
-DTEND:20261102T171000Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T162000Z
+DTEND:20261102T171500Z
 SUMMARY:Lorient → Laval
 LOCATION:Lorient
 DESCRIPTION:Aircraft: PC-12\nAirports: LFRH → LFOV\nSource: Jetfly\nJetfl
@@ -1704,32 +1117,14 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17363@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T061000Z
-DTEND:20261102T070000Z
-SUMMARY:Geneva → Lugano
-LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-24\nAirports: LSGG → LSZA\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-17400@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261102T134500Z
 DTEND:20261102T150000Z
 SUMMARY:Lausanne →  Saint-Tropez
 LOCATION:Lausanne
 DESCRIPTION:Aircraft: PC-12\nAirports: LSGL → LFTZ\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
+ y/Fly7 published empty leg. Aircraft registration: OH-JJR. Confirm live 
  availability directly with Jetfly.\nBooking / source: https://empty-legs
  .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
  t notice. Confirm with the operator/broker before making connecting trav
@@ -1741,9 +1136,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d46c4fa8eb49ad91caa559d0cd66d27cf58c7b4d@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T112100Z
-DTEND:20261102T122700Z
+DTSTAMP:20261029T154649Z
+DTSTART:20261102T093000Z
+DTEND:20261102T103600Z
 SUMMARY:Lyon → Ajaccio
 LOCATION:Lyon
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
@@ -1759,7 +1154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4af6ee86ecddf13588aa3250def48f27e38aad10@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261102T081700Z
 DTEND:20261102T085400Z
 SUMMARY:Prague → Straubing
@@ -1776,26 +1171,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e1b3815864333248fbd5c7f9968bf3f580fa58a1@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261102T082900Z
-DTEND:20261102T092700Z
-SUMMARY:Turin → Figari
-LOCATION:Turin
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  TRN → FSC\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 22%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:e63e9d0c427dc368b0bc13fcb77d4f97a852a63c@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261102T100000Z
 DTEND:20261102T103700Z
 SUMMARY:Zurich → Milan Linate
@@ -1812,26 +1189,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1c2ce63c078c5f706f63c9803ed8e3ed8a0688b8@globeair.com
-DTSTAMP:20261029T084335Z
-DTSTART:20261103T065000Z
-DTEND:20261103T085300Z
-SUMMARY:Angers → Berlin Brandenburg
-LOCATION:Angers
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  ANE → BER\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 3%.\nBooking / source: https://
- www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or d
- isappear at short notice. Confirm with the operator/broker before making
-  connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:2a7541fed49435c10322f9efe30c5ba252d51805@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T152000Z
 DTEND:20261103T155700Z
 SUMMARY:Bologna → Bolzano
@@ -1849,7 +1208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17398@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T184500Z
 DTEND:20261103T201500Z
 SUMMARY:London → Bern
@@ -1867,7 +1226,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17397@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T124500Z
 DTEND:20261103T151000Z
 SUMMARY:Malaga → Payerne
@@ -1885,7 +1244,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17401@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T051500Z
 DTEND:20261103T061500Z
 SUMMARY:Clermont Ferrand → Beziers
@@ -1903,7 +1262,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17402@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T194500Z
 DTEND:20261103T204500Z
 SUMMARY:Beziers → Clermont Ferrand
@@ -1921,7 +1280,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a465dae9fae53d9766b41a7afc120dd1d271740f@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T112100Z
 DTEND:20261103T115000Z
 SUMMARY:Linz → Vienna
@@ -1939,7 +1298,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17399@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T061500Z
 DTEND:20261103T074500Z
 SUMMARY:Geneva → Florence
@@ -1957,7 +1316,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f0c7763f623c9fe03373416e8a0c9d3bb59d740@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T154800Z
 DTEND:20261103T170200Z
 SUMMARY:Nice → Barcelona
@@ -1975,7 +1334,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b5952ac800274991f78c28e2771e62038fc38368@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261103T135100Z
 DTEND:20261103T144400Z
 SUMMARY:Nice → Beziers
@@ -1992,8 +1351,62 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9e7b0663f17852b96a8a73bca06a16174b972c03@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261103T073100Z
+DTEND:20261103T085300Z
+SUMMARY:Zurich → Berlin Brandenburg
+LOCATION:Zurich
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  ZRH → BER\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 6%.\nBooking / source: https://
+ www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or d
+ isappear at short notice. Confirm with the operator/broker before making
+  connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:46bb20b35b7f4ef5fa0f5418ac15770faa4490e2@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261104T055200Z
+DTEND:20261104T065000Z
+SUMMARY:Charleroi → Zurich
+LOCATION:Charleroi
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  CRL → ZRH\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:85ca87813948c42c7add2695532a3826f76b5fd0@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261104T134300Z
+DTEND:20261104T141700Z
+SUMMARY:Merville → Paris Le Bourget
+LOCATION:Merville
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  HZB → LBG\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:571d4b227fcea2638ad654dc8850bcd7dd7e5631@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261104T134300Z
 DTEND:20261104T142400Z
 SUMMARY:Karlovy Vary → Brno
@@ -2011,7 +1424,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17429@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261104T210000Z
 DTEND:20261104T214500Z
 SUMMARY:Clermont Ferrand → Limoges
@@ -2029,7 +1442,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17430@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261104T074500Z
 DTEND:20261104T111000Z
 SUMMARY:Lausanne → Dundee
@@ -2046,8 +1459,44 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:080526d2dc2ce9c632c45b91fe6d0f00e7c5dedf@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261105T122300Z
+DTEND:20261105T132900Z
+SUMMARY:Angers → Brussels
+LOCATION:Angers
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  ANE → BRU\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0f7bfca195d632b0fcf9a2378e62a469dff235f5@globeair.com
+DTSTAMP:20261029T154649Z
+DTSTART:20261105T043600Z
+DTEND:20261105T064500Z
+SUMMARY:Bydgoszcz → Bologna
+LOCATION:Bydgoszcz
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  BZG → BLQ\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 10%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1dab1d602295f1ff0a0e34bb0141d6bc555162c0@globeair.com
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART:20261105T052300Z
 DTEND:20261105T055500Z
 SUMMARY:Dijon → Basel
@@ -2064,8 +1513,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7197ea8ad3ca6d7e4e6f340303b2ac98de5c7c4c@globeair.com
-DTSTAMP:20261029T084335Z
+UID:97b8d877eff4b147b0324d25da1b2804f00c462c@globeair.com
+DTSTAMP:20261029T154649Z
 DTSTART:20261105T073500Z
 DTEND:20261105T085400Z
 SUMMARY:Tivat → Rome
@@ -2082,13 +1531,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:8b9645b5727b9d9eb94f5010bf46a7ea40ad589d@emptylegs.local
+DTSTAMP:20261029T154649Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Wiener Neustadt East Airport → Sarmellek International Airport
+LOCATION:Wiener Neustadt East Airport
+DESCRIPTION:Price: $2\,273\nAircraft: Pilatus PC-12\nCapacity: 6 passenge
+ rs\nAirports: LOAN → LHSM\nSource: PrivJet\nPrice shown by PrivJet inclu
+ des its stated service fee. Confirm live availability before booking.\nB
+ ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
+ les can change or disappear at short notice. Confirm with the operator/b
+ roker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:11e0afcb8f95cbd321bc3a6a9cc94b8d93e1cdf2@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Friedrichshafen Airport → Lahr Airport
 LOCATION:Friedrichshafen Airport
-DESCRIPTION:Price: $1\,950\nAircraft: Phenom 300\nCapacity: 9 passengers\
+DESCRIPTION:Price: $1\,938\nAircraft: Phenom 300\nCapacity: 9 passengers\
  nAirports: EDNY → EDTL\nSource: PrivJet\nPrice shown by PrivJet includes
   its stated service fee. Confirm live availability before booking.\nBook
  ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
@@ -2100,26 +1567,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:004296b9d53e8b884856750f986f730929952d59@emptylegs.local
-DTSTAMP:20261029T084335Z
-DTSTART;VALUE=DATE:20261116
-DTEND;VALUE=DATE:20261117
-SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
-LOCATION:Salzburg Airport
-DESCRIPTION:Price: €2\,400\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: LOWS → LOWL\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -2137,7 +1586,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e304d0624f6cdeddc089f93d4cf3c698819bb92c@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Münster Osnabrück Airport → Kiel-Holtenau Airport
@@ -2155,7 +1604,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -2173,7 +1622,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:58009ebf87a4efb82bb73e504bd1753fb014929a@emptylegs.local
-DTSTAMP:20261029T084335Z
+DTSTAMP:20261029T154649Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Kiel-Holtenau Airport → Münster Osnabrück Airport
