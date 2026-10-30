@@ -7,8 +7,26 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
+UID:86d3e842c0e29c3d0d9084302dcf655e1584da78@emptylegs.local
+DTSTAMP:20261030T064151Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Farnborough → Milan
+LOCATION:Farnborough
+DESCRIPTION:Aircraft: Falcon 900LX\nCapacity: 14 passengers\nAirports: FA
+ B → LIN\nSource: AlbaJet\nAvailability window published by AlbaJet: 2026
+ -10-30 through 2026-10-30. Confirm exact timing and price before booking
+ .\nBooking / source: https://www.albajet.com/empty-leg-flights?p=13\nEmp
+ ty-leg schedules can change or disappear at short notice. Confirm with t
+ he operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=13
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17408@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261030T145500Z
 DTEND:20261030T160500Z
 SUMMARY:Bolzano → Geneva
@@ -26,12 +44,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4e6da9452c301b832f610256d7dcab8e4fefe5f0@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Venice → Zurich
 LOCATION:Venice
-DESCRIPTION:Price: €1\,668\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,308\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LIPZ → LSZH\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -43,62 +61,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17428@emptylegs.local
-DTSTAMP:20261030T003231Z
-DTSTART:20261030T075500Z
-DTEND:20261030T084500Z
-SUMMARY:Geneva → Torino
-LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LIMF\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17407@emptylegs.local
-DTSTAMP:20261030T003231Z
-DTSTART:20261030T054000Z
-DTEND:20261030T065000Z
-SUMMARY:Geneva → Bolzano
-LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LIPB\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-GVS. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17284@emptylegs.local
-DTSTAMP:20261030T003231Z
-DTSTART:20261030T081000Z
-DTEND:20261030T100000Z
-SUMMARY:Saanen → Reading
-LOCATION:Saanen
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGK → EGLK\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-GEM. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
+UID:6ed47d5066ac1680be2c2bb1e97c8b31a7ce7498@emptylegs.local
+DTSTAMP:20261030T064151Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:London → Saanen
+LOCATION:London
+DESCRIPTION:Aircraft: Pilatus PC-12 PRO\nCapacity: 8 passengers\nAirports
+ : LTN → LSGK\nSource: AlbaJet\nAvailability window published by AlbaJet:
+  2026-10-30 through 2026-10-30. Confirm exact timing and price before bo
+ oking.\nBooking / source: https://www.albajet.com/empty-leg-flights?p=14
+ \nEmpty-leg schedules can change or disappear at short notice. Confirm w
+ ith the operator/broker before making connecting travel plans.
+URL:https://www.albajet.com/empty-leg-flights?p=14
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17370@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261031T075500Z
 DTEND:20261031T111500Z
 SUMMARY:Amsterdam → Roma
@@ -116,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17302@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261031T073000Z
 DTEND:20261031T091000Z
 SUMMARY:Brescia → Frankfurt
@@ -134,7 +116,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17495@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261031T084500Z
 DTEND:20261031T110000Z
 SUMMARY:Lausanne → Gerrards Cross
@@ -152,7 +134,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17394@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T143000Z
 DTEND:20261101T152000Z
 SUMMARY:Torino → Brescia
@@ -170,14 +152,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:f39d73fa9fbd0d01f6bfee8aba357350037265e2@globeair.com
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T142500Z
 DTEND:20261101T153700Z
 SUMMARY:Linz → Milan Linate
 LOCATION:Linz
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   LNZ → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 31%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 43%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -188,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17338@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T101200Z
 DTEND:20261101T131700Z
 SUMMARY:Salzburg → Valletta
@@ -206,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17490@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T083000Z
 DTEND:20261101T100000Z
 SUMMARY:Geneva → Amsterdam
@@ -224,7 +206,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17337@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T094500Z
 DTEND:20261101T120000Z
 SUMMARY:Saanen → Woking
@@ -242,7 +224,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17363@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261101T143000Z
 DTEND:20261101T151000Z
 SUMMARY:Buochs → Lugano
@@ -260,7 +242,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17400@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261102T134500Z
 DTEND:20261102T150000Z
 SUMMARY:Lausanne →  Saint-Tropez
@@ -278,7 +260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e63e9d0c427dc368b0bc13fcb77d4f97a852a63c@globeair.com
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261102T100000Z
 DTEND:20261102T103700Z
 SUMMARY:Zurich → Milan Linate
@@ -296,7 +278,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17398@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261103T184500Z
 DTEND:20261103T201500Z
 SUMMARY:London → Bern
@@ -314,7 +296,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17397@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261103T124500Z
 DTEND:20261103T151000Z
 SUMMARY:Malaga → Payerne
@@ -332,7 +314,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17399@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261103T061500Z
 DTEND:20261103T074500Z
 SUMMARY:Geneva → Florence
@@ -350,7 +332,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17491@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261103T122500Z
 DTEND:20261103T133000Z
 SUMMARY:Geneva → Zurich
@@ -368,7 +350,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17430@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261104T074500Z
 DTEND:20261104T111000Z
 SUMMARY:Lausanne → Dundee
@@ -386,7 +368,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17496@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261106T122000Z
 DTEND:20261106T142000Z
 SUMMARY:Woking → Geneva
@@ -404,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9645b5727b9d9eb94f5010bf46a7ea40ad589d@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:Wiener Neustadt East Airport → Sarmellek International Airport
@@ -422,7 +404,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17494@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART:20261106T080000Z
 DTEND:20261106T102000Z
 SUMMARY:Geneva → Bournemouth
@@ -440,7 +422,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -458,7 +440,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261030T003231Z
+DTSTAMP:20261030T064151Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
