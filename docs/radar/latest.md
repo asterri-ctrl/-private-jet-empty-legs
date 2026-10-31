@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-10-31 14:29 UTC · public web sources only_
+_Updated 2026-10-31 19:56 UTC · public web sources only_
 
 ## AI / DC
 
@@ -10,7 +10,6 @@ _Updated 2026-10-31 14:29 UTC · public web sources only_
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
 - [3 Undervalued Stocks Trading Up To 47% Below Fair Value - Simply Wall Street](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRWI5MDZYSlA4S2phaXZWZnJwbzlYMFI4M0VRYmFxYWM0NkJLOFpTUVJqMWJwNU9zNkxyaHcwMWpnYTZjNGk0NmNjdUI5cnBFTjJ5c2hlT05HS29PVGRwUlNqbm8tdGlLb3RJd2lZYkZCQlBPOE9fNHVwQnppdzA1R25lVl9zak5GSEgyMm1ESHpjRm9NN1ZQVTYxT3NvSHdfRklrY0pMS0xVeXdkNWhXZmlaVkV5V3huSi01TXhfLUtnUVV3SGRPS3ItdmVhajRk0gHWAUFVX3lxTE5OUjBqdmxfbUxvQldFX0NjWDlsVWlUWnFFU2xFOGVTZlNsc2dqZGxvdXc5b2ZrbTJ5cE0tRTdjV0w1Q0ZSa0NHcFp0bjhnZ0NqN3NSZ0ZBNEJ6ZHdMUHVrOHhpNEQxcGxWRVpKczJhUlAwSm9xXzk2Umk2eExodXlZdTY5amJUSEk2Q1ZVNHBzRG9LTHRZNHRhYVdTQkNpdy1UaEJGZWF3QUpUZm9SbThWZm5DcjZRTHdqbFQ1WjZEV1dYNUZCOERxZUdlZ3BnYVBuWldaVnc?oc=5) · 2026-10-26 — Simply Wall Street
 - [DCF Global: The Nordics' AI Boom Meets the Power Test - Data Center Frontier](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlJtOXZjTEFZTFNsQnI5WVJXZnJmMTRYTmhkUDZYalNGbjdjNjRWeXY4NWlzQ09SeUZ2LWlCN1Q3YmtiZ3UtSldGYy1kVjBFVVNEMGItNXhIVHZ1TTBucEdtSHR4N0xSNWdjcnpDdnZETjdxa3VwbzlNQjhlaWxmUzNkLTB5VEszdnkxcmJPS1d3Ykk5YzZ1SE9yR050aTl5S1ZtaDVUVzVrVzJSNlV1eWxXWUdrYU5fcHc?oc=5) · 2026-10-16 — Data Center Frontier
-- [Midgard Infra extends Oslo–Stockholm fiber route to Finland - W.Media](https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWdsTHhaZE12T2J5bVNPa3R3dFByUjZwS3RNUkJwR0ctTWw2S2JibzlGeF9mZHRQTzJnd1FyS25iYWVTR3NBZFNCaUpCejJMclV3QW9HX3BxQ25vbXRRM0hxVjQ5bXMzSkVlUVZyajA3Mmk2dzZLdjZDbzRZRDJwU0J3?oc=5) · 2026-10-13 — W.Media
 - [Midgard Infra to build Sweden-Finland subsea cable - Data Center Dynamics](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3E5cExGMWxEc244ZFBfbjM4aEM4eXdvOVJpN1lOLU9rOTZQcU15dXowVzAyT25HVTlDUGt6MVo1YlVYZ3VDTTFKWm5hYzl3V0dUbmQ1TlBHeEhzWEZ5elRWamh1RjhEcVlnTC1UNVZzWWtNdmNiUk13U0JGcVJ5U05KQ3dsLXNVdnJvX3VEOGJGYlpUZmZBU1B3?oc=5) · 2026-10-12 — Data Center Dynamics
 
 ## Telecom
@@ -21,4 +20,5 @@ _Updated 2026-10-31 14:29 UTC · public web sources only_
 
 ## Regulation
 
+- [EU and Canada team up in supercomputing and quantum - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMilgFBVV95cUxQQWdpRTZpY2tMenMwb3ltOFIycHd0MC1nWEpZMjFuR3VpWnBoVlg5anhZdDBqLVBCOThuOVEweWFRaU01Rjh2NGtLalhzbFBaU0d4WV9paWpQZmZfWlRGSEhnZmJhRkpPeFRmYUlvSkZHcmV4N3hOUnQyQVNmWW1qc3NSdzkzdi1UR3N6emdISmpnY3hXQUE?oc=5) · 2026-10-31 — Shaping Europe’s digital future
 - [Digital Talent EU Days 2026: people and skills at the centre of Europe's digital transformation - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMizAFBVV95cUxNOEVaX19pUDgxck50ckw4TTN3V0JmdzBRcGhRWXNkWjh2bmlWZGhqZUNSS053NHREVzdKM3ZjN1pWcWZLbUgyYmtFSlRaeVB5VG5OZjNmRTNWZnliUnhfeWNXVGcyWlVoVW1GRDhwMXBISDd5N2lteHRqaDItZFdEam5qdW94SFBkdFRiaUJxOElMZDREOG5TTHpiU0NHekkzV2lfT25OOVdHMXo0OXZVWmQyMkFLTFFsZnVBX0tXVnRmYUFJbGs1dnJUUVE?oc=5) · 2026-10-16 — Shaping Europe’s digital future
