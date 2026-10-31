@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:722cd64506617b8e7909bb84f8ba28044d61c2a7@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
 SUMMARY:Rotterdam → Munster
@@ -26,9 +26,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ae9ee8adb2154568c8ad9b32f77ea15f15c6120f@globeair.com
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART:20261101T140100Z
-DTEND:20261101T143900Z
+DTEND:20261101T143700Z
 SUMMARY:Paris Roissy → Deauville
 LOCATION:Paris Roissy
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -37,7 +37,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC153F\nFBO: Jetex\n\nBook now:\nhttps://fly.globeair.com/el/ae9ee8ad
  \n\nPlease note: All empty leg flights are subject to schedule change!\n
  \nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight
-  time: 38 minutes\nDistance: 96 miles\n\nContact us 24/7\nWhatsApp: http
+  time: 36 minutes\nDistance: 96 miles\n\nContact us 24/7\nWhatsApp: http
  s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
  ir.com\nBooking / source: https://fly.globeair.com/el/ae9ee8ad\nEmpty-le
  g schedules can change or disappear at short notice. Confirm with the op
@@ -48,31 +48,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0d2d1a9fa929c99443a5b80c45bbed7c6ec6f1be@globeair.com
-DTSTAMP:20261031T142500Z
-DTSTART:20261101T080500Z
-DTEND:20261101T085700Z
-SUMMARY:Rome → Bologna
-LOCATION:Rome
-DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: CIA → BLQ\nSource: GlobeAir\nOriginal price: €6\
- ,300\nCurrent price: €1\,390 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC782S\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/0d2d1a
- 9f\n\nPlease note: All empty leg flights are subject to schedule change!
- \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 52 minutes\nDistance: 173 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/0d2d1a9f\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/0d2d1a9f
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -90,8 +67,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:46997934d0b4f3d591bc9235babb1a4bdcdda0e9@globeair.com
+DTSTAMP:20261031T184017Z
+DTSTART:20261101T162000Z
+DTEND:20261101T170200Z
+SUMMARY:Badenbaden → Augsburg
+LOCATION:Badenbaden
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: FKB → AGB\nSource: GlobeAir\nOriginal price: €6\
+ ,750\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC680M\nFBO: AVANGARD\n\nBook now:\nhttps://fly.globeair.com/el/46997
+ 934\n\nPlease note: All empty leg flights are subject to schedule change
+ !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
+ ght time: 42 minutes\nDistance: 115 miles\n\nContact us 24/7\nWhatsApp: 
+ https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
+ obeair.com\nBooking / source: https://fly.globeair.com/el/46997934\nEmpt
+ y-leg schedules can change or disappear at short notice. Confirm with th
+ e operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/46997934
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:eea79ac3db02120ef05c6aba57c02d7fb1803897@globeair.com
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART:20261101T132100Z
 DTEND:20261101T142100Z
 SUMMARY:Graz → Milan Linate
@@ -115,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44dcbe4871bf1605893d0d0bcf532c9fb98934fa@globeair.com
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART:20261101T123000Z
 DTEND:20261101T125300Z
 SUMMARY:Paris Le Bourget → Orleans
@@ -138,7 +138,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45a3c8059e89edaf3ebb6498c8861b14a95f23e6@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Graz → Milan Linate
@@ -156,7 +156,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:65ef2cb3e6586251c07d9c97f97cccf12b84e3ab@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Salzburg Airport → Graz Airport
@@ -174,7 +174,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -192,7 +192,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261031T142500Z
+DTSTAMP:20261031T184017Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
