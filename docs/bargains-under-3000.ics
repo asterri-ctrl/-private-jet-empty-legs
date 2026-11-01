@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:ae9ee8adb2154568c8ad9b32f77ea15f15c6120f@globeair.com
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART:20261101T140100Z
 DTEND:20261101T143700Z
 SUMMARY:Paris Roissy → Deauville
@@ -31,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4d67e80a1d1a56ba443efa4b737b0d1a76018b7a@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Frankfurt am Main International Airport → Mengen-Hohentengen Airp
@@ -50,7 +50,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1fcfb78b2d17b15c67f13d3472460a1b91ee50b6@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Badenbaden → Augsburg
@@ -68,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:46997934d0b4f3d591bc9235babb1a4bdcdda0e9@globeair.com
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART:20261101T162000Z
 DTEND:20261101T170200Z
 SUMMARY:Badenbaden → Augsburg
@@ -91,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:eea79ac3db02120ef05c6aba57c02d7fb1803897@globeair.com
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART:20261101T132100Z
 DTEND:20261101T142100Z
 SUMMARY:Graz → Milan Linate
@@ -115,7 +115,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:44dcbe4871bf1605893d0d0bcf532c9fb98934fa@globeair.com
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART:20261101T123000Z
 DTEND:20261101T125300Z
 SUMMARY:Paris Le Bourget → Orleans
@@ -138,7 +138,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:45a3c8059e89edaf3ebb6498c8861b14a95f23e6@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Graz → Milan Linate
@@ -155,14 +155,33 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e692a091b930c832aeb11df966ed8d8d51031155@emptylegs.local
-DTSTAMP:20261101T011956Z
+UID:6402db154ab80fa8c51ebd90d16304501ed01918@emptylegs.local
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Salzburg Airport → Graz Airport
 LOCATION:Salzburg Airport
+DESCRIPTION:Price: €2\,200\nAircraft: Citation M2\nCapacity: 6 passengers
+ \nAirports: LOWS → LOWG\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:34739de612460a640ec4b194894bf8a5d569836c@emptylegs.local
+DTSTAMP:20261101T074731Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Geneva Cointrin International Airport → Montpellier-Mediterranee 
+ Airport
+LOCATION:Geneva Cointrin International Airport
 DESCRIPTION:Price: €2\,200\nAircraft: HondaJet Elite\nCapacity: 4 passeng
- ers\nAirports: LOWS → LOWG\nSource: PrivJet\nPrice shown by PrivJet incl
+ ers\nAirports: LSGG → LFMT\nSource: PrivJet\nPrice shown by PrivJet incl
  udes its stated service fee. Confirm live availability before booking.\n
  Booking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sched
  ules can change or disappear at short notice. Confirm with the operator/
@@ -174,7 +193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -192,26 +211,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261101T011956Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Zurich Airport → Stuttgart Airport
-LOCATION:Zurich Airport
-DESCRIPTION:Price: €2\,200\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: LSZH → EDDS\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -229,7 +230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261101T011956Z
+DTSTAMP:20261101T074731Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
