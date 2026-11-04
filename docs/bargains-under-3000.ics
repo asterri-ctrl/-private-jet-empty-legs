@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:0b465a01fab0c4bf59c6fca7073ab8d17bd5626a@globeair.com
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART:20261105T113600Z
 DTEND:20261105T125800Z
 SUMMARY:Bydgoszcz → Linz
@@ -31,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8a568c01d3b69c4973997a924e976c22e5ed9b16@globeair.com
-DTSTAMP:20261104T180904Z
-DTSTART:20261105T104600Z
-DTEND:20261105T114000Z
+DTSTAMP:20261104T235045Z
+DTSTART:20261105T100100Z
+DTEND:20261105T105500Z
 SUMMARY:Beziers → Barcelona
 LOCATION:Beziers
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -55,7 +55,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:93b455ae4cf8981ac5955489dca4ad76484779cb@globeair.com
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART:20261105T074000Z
 DTEND:20261105T084500Z
 SUMMARY:Cologne-Bonn → Paris Le Bourget
@@ -78,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:e2c8fa59fdbb1e3990e34ee8bd80c413167d98ff@globeair.com
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART:20261105T122100Z
 DTEND:20261105T125100Z
 SUMMARY:Charleroi → Brussels
@@ -101,7 +101,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d0555bc4d79d4ec04e250001c35ca95782b623a9@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Cologne-Bonn → Paris Le Bourget
@@ -119,7 +119,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a59ba54b371dcd0d9507fc00176fc8eb5ee4a654@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Bydgoszcz → Linz
@@ -136,32 +136,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:0e7a70a3c3ac05aeceb231606c690a6cc97bc648@globeair.com
-DTSTAMP:20261104T180904Z
-DTSTART:20261105T162500Z
-DTEND:20261105T174100Z
-SUMMARY:Paris Le Bourget → Toulouse
-LOCATION:Paris Le Bourget
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LBG → TLS\nSource: GlobeAir\nOriginal price: €6\
- ,750\nCurrent price: €1\,710 (–75%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC509Q\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
- eair.com/el/0e7a70a3\n\nPlease note: All empty leg flights are subject t
- o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
- obeAir\nTotal flight time: 76 minutes\nDistance: 323 miles\n\nContact us
-  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
- : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
- el/0e7a70a3\nEmpty-leg schedules can change or disappear at short notice
- . Confirm with the operator/broker before making connecting travel plans
- .
-URL:https://fly.globeair.com/el/0e7a70a3
+UID:d375618e186bac3074f80078d6c7a83b976257d7@emptylegs.local
+DTSTAMP:20261104T235045Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Pisa → Zurich
+LOCATION:Pisa
+DESCRIPTION:Price: €1\,529\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIRP → LSZH\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c4b24068b448cc88c78c54d3bcb1e034bacec79b@globeair.com
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART:20261105T174000Z
 DTEND:20261105T184400Z
 SUMMARY:Pisa → Zurich
@@ -184,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -202,26 +196,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:250140928d76780dd3f4d32892a4b9b3f69c3b34@emptylegs.local
-DTSTAMP:20261104T180904Z
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
-LOCATION:Salzburg Airport
-DESCRIPTION:Price: €2\,310\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: LOWS → LOWL\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -239,7 +215,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -257,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261104T180904Z
+DTSTAMP:20261104T235045Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
