@@ -8,9 +8,9 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:1fcf30b83f0f66392b12784e0490810dd23460ab@globeair.com
-DTSTAMP:20261104T023139Z
-DTSTART:20261104T132200Z
-DTEND:20261104T143200Z
+DTSTAMP:20261104T101727Z
+DTSTART:20261104T130700Z
+DTEND:20261104T141700Z
 SUMMARY:Berlin Brandenburg → Brno
 LOCATION:Berlin Brandenburg
 DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
@@ -30,72 +30,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:67ac2f68d13604a99409e5d3467b699632ece2dd@globeair.com
-DTSTAMP:20261104T023139Z
-DTSTART:20261104T104500Z
-DTEND:20261104T130300Z
-SUMMARY:Cologne-Bonn → Nice
-LOCATION:Cologne-Bonn
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: CGN → NCE\nSource: GlobeAir\nOriginal price: €7\,75
- 0\nCurrent price: €990 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC0
- 77G\nFBO: B.A.C.C. (kurz Avn)\n\nBook now:\nhttps://fly.globeair.com/el/
- 67ac2f68\n\nPlease note: All empty leg flights are subject to schedule c
- hange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTota
- l flight time: 138 minutes\nDistance: 432 miles\n\nContact us 24/7\nWhat
- sApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customerc
- are@globeair.com\nBooking / source: https://fly.globeair.com/el/67ac2f68
- \nEmpty-leg schedules can change or disappear at short notice. Confirm w
- ith the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/67ac2f68
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:1d250e25b7e6c79b0cd2887f1f958ac121a7b860@globeair.com
-DTSTAMP:20261104T023139Z
-DTSTART:20261104T101600Z
-DTEND:20261104T110200Z
-SUMMARY:Dijon → Chateauroux
-LOCATION:Dijon
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: DIJ → CHR\nSource: GlobeAir\nOriginal price: €5\
- ,300\nCurrent price: €1\,410 (–73%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC270A\nFBO: EDEIS Aéroport Dijon\n\nBook now:\nhttps://fly.globeair.
- com/el/1d250e25\n\nPlease note: All empty leg flights are subject to sch
- edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
- r\nTotal flight time: 46 minutes\nDistance: 140 miles\n\nContact us 24/7
- \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
- tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/1d
- 250e25\nEmpty-leg schedules can change or disappear at short notice. Con
- firm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/1d250e25
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:183a63d0257bb4efad174137f713a0957bff5efc@emptylegs.local
-DTSTAMP:20261104T023139Z
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-SUMMARY:Brussels South Charleroi Airport → Zurich Airport
-LOCATION:Brussels South Charleroi Airport
-DESCRIPTION:Price: €1\,650\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EBCI → LSZH\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:78066e7feb797c396ade037b83c83d415f5167c8@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Berlin Brandenburg → Brno
@@ -113,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3290167251ee49d6c3a1c8d632b682723e78df2f@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Cologne-Bonn → Nice
@@ -131,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85ca87813948c42c7add2695532a3826f76b5fd0@globeair.com
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART:20261104T134600Z
 DTEND:20261104T143200Z
 SUMMARY:Merville → Paris Le Bourget
@@ -155,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:97b8d877eff4b147b0324d25da1b2804f00c462c@globeair.com
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART:20261104T140600Z
 DTEND:20261104T152500Z
 SUMMARY:Tivat → Rome
@@ -178,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:68fb296e87587049292f43fdee6b5f0029e02953@globeair.com
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART:20261104T143000Z
 DTEND:20261104T145900Z
 SUMMARY:Venice → Bologna
@@ -200,8 +136,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:93b455ae4cf8981ac5955489dca4ad76484779cb@globeair.com
+DTSTAMP:20261104T101727Z
+DTSTART:20261105T085000Z
+DTEND:20261105T095200Z
+SUMMARY:Cologne-Bonn → Paris Le Bourget
+LOCATION:Cologne-Bonn
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: CGN → LBG\nSource: GlobeAir\nOriginal price: €5\
+ ,700\nCurrent price: €1\,290 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC327Z\nFBO: B.A.C.C. (kurz Avn)\n\nBook now:\nhttps://fly.globeair.c
+ om/el/93b455ae\n\nPlease note: All empty leg flights are subject to sche
+ dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
+ \nTotal flight time: 62 minutes\nDistance: 214 miles\n\nContact us 24/7\
+ nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
+ omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/93b
+ 455ae\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/93b455ae
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:40ad0e9daf4438f73a69540ca1044e62f524767c@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
 SUMMARY:Annecy Mont Blanc (Meythet) → Geneva International
@@ -219,7 +178,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -238,7 +197,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -256,7 +215,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -274,7 +233,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261104T023139Z
+DTSTAMP:20261104T101727Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
