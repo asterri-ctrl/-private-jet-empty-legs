@@ -1,10 +1,12 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-05 12:15 UTC · public web sources only_
+_Updated 2026-11-05 21:57 UTC · public web sources only_
 
 ## AI / DC
 
+- [What Telia Holders Bought Into - Simply Wall St](https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1VxRGxKY2I5eGZyWEZMVVFRVUhLMTZMa0FJZkRLTXB0TkFKU29hbm5YTmk2QjRCdkNlMlExU3p1b0g2TUpWYVJhdFBNNWQ0VnNyQ0ZkTVVER2tEOEtIT29icjRmT0kwMmVudGduZ1pvVGlCMjhrLTVzLURuRUlBLVVvc3F0YWI4U3ZiYXl0V2tpdTVKdHVpY2w2RkI5VnfSAaQBQVVfeXFMTkppRU5faDl6S2JOSk93NUViUUpEZkpfUUxmZnNkNEp6eHZoZmJscXBoLTZPbjNnLWFKQmZqX2cwaXpGUHF1UWZudTAzX3pfOXVvYlFmZWZNRUFhTnZaM21ldF84bWZiWWJKcF9Rc2JVQ0tGQ29LX1V4RF91akFnRElmS1FHbnFMY2ctU1IyUVpFTnVFV2l0UTRnZ1FjSmZrNVQ0Qzk?oc=5) · 2026-11-05 — Simply Wall St
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
+- [AI adoption by country: the 25 economies using AI most - qz.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWd1NUUVktYnRWenl4bktOUXBXRS1ucW51MnNJUDl1cVh5akw5c2d1LUowVEdvSHk3OHlHVFVaZVJETEpNMnZWM2VQS2RkWThqbTVpdg?oc=5) · 2026-10-23 — qz.com
 - [‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFgwQ3lqMzYwalQyNGFPWFhNeTVKSTdZZWN3amdQd1VUZzNaRVlQUW1TTUY1bDFKX1M5Mm9ZMElxdjUyWktnSmlZUGloWlN5cnA2UjFickpwb20xU3dfa2IyQTVwZm5xT1ZWQmtYS0FEM184ZTBCU1MwTWhoUXRkcUc0ZEZoU3Nab1pGTlBkY2tIeFQxRnNJbFltZTRWZmRWbzlqelBwc096UQ?oc=5) · 2026-10-22 — The Guardian
 - [DCF Global: The Nordics' AI Boom Meets the Power Test - Data Center Frontier](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlJtOXZjTEFZTFNsQnI5WVJXZnJmMTRYTmhkUDZYalNGbjdjNjRWeXY4NWlzQ09SeUZ2LWlCN1Q3YmtiZ3UtSldGYy1kVjBFVVNEMGItNXhIVHZ1TTBucEdtSHR4N0xSNWdjcnpDdnZETjdxa3VwbzlNQjhlaWxmUzNkLTB5VEszdnkxcmJPS1d3Ykk5YzZ1SE9yR050aTl5S1ZtaDVUVzVrVzJSNlV1eWxXWUdrYU5fcHc?oc=5) · 2026-10-16 — Data Center Frontier
 
