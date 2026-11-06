@@ -7,74 +7,10 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:8b79567e59958ecf09a95c352661d5445f6d5acc@globeair.com
-DTSTAMP:20261106T081106Z
-DTSTART:20261106T131600Z
-DTEND:20261106T144300Z
-SUMMARY:Brno → Genoa
-LOCATION:Brno
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BRQ → GOA\nSource: GlobeAir\nOriginal price: €7\
- ,650\nCurrent price: €1\,090 (–86%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC781E\nFBO: AIRPORT BRNO LTD\n\nBook now:\nhttps://fly.globeair.com/
- el/8b79567e\n\nPlease note: All empty leg flights are subject to schedul
- e change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nT
- otal flight time: 87 minutes\nDistance: 430 miles\n\nContact us 24/7\nWh
- atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
- rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/8b7956
- 7e\nEmpty-leg schedules can change or disappear at short notice. Confirm
-  with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/8b79567e
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:567f71faabd7f3ef95d51dccdeb63cbadb0c5c82@globeair.com
-DTSTAMP:20261106T081106Z
-DTSTART:20261106T143300Z
-DTEND:20261106T163300Z
-SUMMARY:Linz → Figari
-LOCATION:Linz
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LNZ → FSC\nSource: GlobeAir\nOriginal price: €8\,15
- 0\nCurrent price: €990 (–88%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC3
- 59P\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com/el/567
- f71fa\n\nPlease note: All empty leg flights are subject to schedule chan
- ge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal f
- light time: 120 minutes\nDistance: 458 miles\n\nContact us 24/7\nWhatsAp
- p: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare
- @globeair.com\nBooking / source: https://fly.globeair.com/el/567f71fa\nE
- mpty-leg schedules can change or disappear at short notice. Confirm with
-  the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/567f71fa
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:da633f390c951b68056f972110aeab966b491694@emptylegs.local
-DTSTAMP:20261106T081106Z
-DTSTART;VALUE=DATE:20261106
-DTEND;VALUE=DATE:20261107
-SUMMARY:Linz → Figari
-LOCATION:Linz
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LOWL → LFKF\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:f2412adb55f4b63c6909aeb5d3e51c87016cddb6@globeair.com
-DTSTAMP:20261106T081106Z
+DTSTAMP:20261106T160547Z
 DTSTART:20261107T074500Z
-DTEND:20261107T085000Z
+DTEND:20261107T085200Z
 SUMMARY:Avignon → Zurich
 LOCATION:Avignon
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -83,7 +19,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC413Q\nFBO: Avignon Airport Cciv\n\nBook now:\nhttps://fly.globeair.
  com/el/f2412adb\n\nPlease note: All empty leg flights are subject to sch
  edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
- r\nTotal flight time: 65 minutes\nDistance: 262 miles\n\nContact us 24/7
+ r\nTotal flight time: 67 minutes\nDistance: 262 miles\n\nContact us 24/7
  \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
  tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/f2
  412adb\nEmpty-leg schedules can change or disappear at short notice. Con
@@ -94,31 +30,92 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cf45458712ca6c0a2287ba87983de7a59839c71d@globeair.com
-DTSTAMP:20261106T081106Z
-DTSTART:20261107T090100Z
-DTEND:20261107T095700Z
-SUMMARY:Sylt/ Westerland → Berlin Brandenburg
-LOCATION:Sylt/ Westerland
+UID:724ec36cf8cf1703721ea603e363c60a1d890ed4@globeair.com
+DTSTAMP:20261106T160547Z
+DTSTART:20261107T132700Z
+DTEND:20261107T141700Z
+SUMMARY:Dusseldorf → Leipzig
+LOCATION:Dusseldorf
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: GWT → BER\nSource: GlobeAir\nOriginal price: €8\
- ,550\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC182D\nFBO: Sylt Air\n\nBook now:\nhttps://fly.globeair.com/el/cf454
- 587\n\nPlease note: All empty leg flights are subject to schedule change
- !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
- ght time: 56 minutes\nDistance: 238 miles\n\nContact us 24/7\nWhatsApp: 
- https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
- obeair.com\nBooking / source: https://fly.globeair.com/el/cf454587\nEmpt
- y-leg schedules can change or disappear at short notice. Confirm with th
- e operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/cf454587
+ 4 passengers\nAirports: DUS → LEJ\nSource: GlobeAir\nOriginal price: €6\
+ ,400\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC707J\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.glo
+ beair.com/el/724ec36c\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 50 minutes\nDistance: 205 miles\n\nContact u
+ s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
+ l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
+ /el/724ec36c\nEmpty-leg schedules can change or disappear at short notic
+ e. Confirm with the operator/broker before making connecting travel plan
+ s.
+URL:https://fly.globeair.com/el/724ec36c
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:8fc8370c7d6abd5ddc05dabc7c497f3500c86d09@emptylegs.local
+DTSTAMP:20261106T160547Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Avignon → Zurich
+LOCATION:Avignon
+DESCRIPTION:Price: €1\,881\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFMV → LSZH\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:08a2a889d69f02996a79e8b17c340d6588e704d6@emptylegs.local
+DTSTAMP:20261106T160547Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:Gap - Tallard Airport → Zurich Airport
+LOCATION:Gap - Tallard Airport
+DESCRIPTION:Price: €2\,068\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFNA → LSZH\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:86a51e727a52dde3364c0ab3555de69dbaef8f22@globeair.com
+DTSTAMP:20261106T160547Z
+DTSTART:20261107T134600Z
+DTEND:20261107T153000Z
+SUMMARY:Lorient → Nice
+LOCATION:Lorient
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LRT → NCE\nSource: GlobeAir\nOriginal price: €8\
+ ,800\nCurrent price: €1\,710 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC484W\nFBO: Aéroport de Lorient Bretagne Sud\n\nBook now:\nhttps://f
+ ly.globeair.com/el/86a51e72\n\nPlease note: All empty leg flights are su
+ bject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operate
+ d by GlobeAir\nTotal flight time: 104 minutes\nDistance: 509 miles\n\nCo
+ ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
+ 0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
+ air.com/el/86a51e72\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://fly.globeair.com/el/86a51e72
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261106T081106Z
+DTSTAMP:20261106T160547Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -137,7 +134,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261106T081106Z
+DTSTAMP:20261106T160547Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -155,7 +152,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261106T081106Z
+DTSTAMP:20261106T160547Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -172,26 +169,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9eb7695b800e0759c52e1bd17c8d45e8ef438aa4@emptylegs.local
-DTSTAMP:20261106T081106Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Stuttgart Airport → Zurich Airport
-LOCATION:Stuttgart Airport
-DESCRIPTION:Price: €2\,310\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: EDDS → LSZH\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261106T081106Z
+DTSTAMP:20261106T160547Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
