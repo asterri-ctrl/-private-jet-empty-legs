@@ -1,17 +1,20 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-05 21:57 UTC · public web sources only_
+_Updated 2026-11-06 06:33 UTC · public web sources only_
 
 ## AI / DC
 
+- [We Think Sats' (OB:SATS) Robust Earnings Are Conservative - Simply Wall St](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVktLTRESmtSOG1HSFlqbThKOURMQXVxQUtQWkFiUHdEalRBNTl3NmZhd0VrMmZuTWM0UWpVY3c1cXlQWnNFbWQxWmxuUzI0LTdrZ2hLUUE2NEtfTEFJZzBFVElNWVFWVjhRV3FHTnZYbzFnU216Y19iOU5SWHFzbVd3SXZxaG1jYzItR0lPSnJpb1JGR08zSnF2RnZITUJ0MlRsR0VyZVYtekw2SE8xdmRpZFBDS1NKN3ZBUjMzRnVEeFZ1eVVV0gHMAUFVX3lxTE9ybWQ2YlFzeXV1SjhxVTJET0JMY2x2WTBTd1ZxczFIRzZUT2tUMGhwSkd4TXF6TlVoSl9VT21GTGFXNk5UZjE5X2FxMWxPWU43aWdlNW5vQzJxQkoxeG5ISmJHeWFuR1BwV3FSMHRoclFvczRpT2E2aE10WnRLUDhCTzBhN0ZfT3JieU1mSTE0eVZPUm9xMk1UdE9DQVUtek4wR3VPUGlleXQ4X1pCdkxpblE0VmpDVHNSd1JzdThiWnBheDdFWk5ORGtfOQ?oc=5) · 2026-11-06 — Simply Wall St
 - [What Telia Holders Bought Into - Simply Wall St](https://news.google.com/rss/articles/CBMinwFBVV95cUxNY1VxRGxKY2I5eGZyWEZMVVFRVUhLMTZMa0FJZkRLTXB0TkFKU29hbm5YTmk2QjRCdkNlMlExU3p1b0g2TUpWYVJhdFBNNWQ0VnNyQ0ZkTVVER2tEOEtIT29icjRmT0kwMmVudGduZ1pvVGlCMjhrLTVzLURuRUlBLVVvc3F0YWI4U3ZiYXl0V2tpdTVKdHVpY2w2RkI5VnfSAaQBQVVfeXFMTkppRU5faDl6S2JOSk93NUViUUpEZkpfUUxmZnNkNEp6eHZoZmJscXBoLTZPbjNnLWFKQmZqX2cwaXpGUHF1UWZudTAzX3pfOXVvYlFmZWZNRUFhTnZaM21ldF84bWZiWWJKcF9Rc2JVQ0tGQ29LX1V4RF91akFnRElmS1FHbnFMY2ctU1IyUVpFTnVFV2l0UTRnZ1FjSmZrNVQ0Qzk?oc=5) · 2026-11-05 — Simply Wall St
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
 - [AI adoption by country: the 25 economies using AI most - qz.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWd1NUUVktYnRWenl4bktOUXBXRS1ucW51MnNJUDl1cVh5akw5c2d1LUowVEdvSHk3OHlHVFVaZVJETEpNMnZWM2VQS2RkWThqbTVpdg?oc=5) · 2026-10-23 — qz.com
+- [Bravida Holding AB Earnings Call Signals Robust Upswing - TipRanks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE03RDl3dXhtcHR3WlRSdFhrM2FyUDE2b2FlX0ZKTGUwaVNDTWNIMThLWmZBSzhFdFBrY2kwQy1YLXhraktmY09NQW95aU1jUmZHN012UmNRem84dGgwRjJSMmNpRVVmUTZBNVN4TGQ3Vnk5Zno2MHowNHoxNzhkNGVTNERiUjUxOG5FMk11cEMxRzYwdEdhRzNPbnMtWHNXQUZFUDNvMUZFanM?oc=5) · 2026-10-23 — TipRanks
 - [‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFgwQ3lqMzYwalQyNGFPWFhNeTVKSTdZZWN3amdQd1VUZzNaRVlQUW1TTUY1bDFKX1M5Mm9ZMElxdjUyWktnSmlZUGloWlN5cnA2UjFickpwb20xU3dfa2IyQTVwZm5xT1ZWQmtYS0FEM184ZTBCU1MwTWhoUXRkcUc0ZEZoU3Nab1pGTlBkY2tIeFQxRnNJbFltZTRWZmRWbzlqelBwc096UQ?oc=5) · 2026-10-22 — The Guardian
 - [DCF Global: The Nordics' AI Boom Meets the Power Test - Data Center Frontier](https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlJtOXZjTEFZTFNsQnI5WVJXZnJmMTRYTmhkUDZYalNGbjdjNjRWeXY4NWlzQ09SeUZ2LWlCN1Q3YmtiZ3UtSldGYy1kVjBFVVNEMGItNXhIVHZ1TTBucEdtSHR4N0xSNWdjcnpDdnZETjdxa3VwbzlNQjhlaWxmUzNkLTB5VEszdnkxcmJPS1d3Ykk5YzZ1SE9yR050aTl5S1ZtaDVUVzVrVzJSNlV1eWxXWUdrYU5fcHc?oc=5) · 2026-10-16 — Data Center Frontier
 
 ## Telecom
 
+- [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
 - [Telenor Q3 2026: Profit Surges 225%, Revenue Falls 2.9% - TelecomLead](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0s2QTA1WEIxOEVINTlyNDJRcnhwcFhBRW80WUtISFAycmZsUWR0cWpNOXNVZkt4V3AtVkZ0ZDZlWlVPZXNELUEzc05PTjhYZkNzeHpiSUxxbWxnSjZhTkZIOUliVFd3a0k1TzJXVmN1bkJpSkNUNlUzTk5PdWhlNFFheG5Td3U2XzNfZXFR0gGWAUFVX3lxTE1IUzdYTnRMQmlnUzRqdnhUNkhQUGNzUFdxeDJsUU9URzkxMXJuMWhkeUhpaEplUGZwOHRFQS12d2hUbk9sbGVHTW5odU5qbTN4dUhPSWVwQ2JDODNiU1VFSEdCR1BYVnlncUVYdldidjFnOXg4dERIYllORTRkeDlJX1FhX1F2b0xqdlpNejNtVkpXVGRkUQ?oc=5) · 2026-10-28 — TelecomLead
 
 ## Regulation
