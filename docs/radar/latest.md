@@ -1,14 +1,14 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-06 15:53 UTC · public web sources only_
+_Updated 2026-11-06 21:28 UTC · public web sources only_
 
 ## AI / DC
 
 - [Real estate markets in the Nordics are showing investment resilience with rising cross-border appeal - Savills](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRkJqT3JLUXptVWNVNF8zcFpUOXpPR2RCTC1MZDB2eF9vVFJyQTk4X2w4V0hfQkQyUFhBNmxfcE82N3BETFFnQnB4WkVTRnNSOUJydzZ1SkM2Q3dOV3pfVmNPQmtENC02UGJBa2dFMnFzbW5DMTZvM3gzc1o5cFg4bVBXaWxJUTBEdHdaaU9hWDVOMk04ejNSalFsZTFLNDYzOV9aaFBOT0VmWktTYlJrTFNiSjZSM1ZPWnB0cFl3Rkt5S05RRV9lRE9NT2dCc1h6empGTkVCejZuTTkyVFBvcGdWaHlfQTF4UkVmaGF3SXBNZXJEQ1FzcThB?oc=5) · 2026-11-06 — Savills
 - [We Think Sats' (OB:SATS) Robust Earnings Are Conservative - Simply Wall St](https://news.google.com/rss/articles/CBMixwFBVV95cUxQYVktLTRESmtSOG1HSFlqbThKOURMQXVxQUtQWkFiUHdEalRBNTl3NmZhd0VrMmZuTWM0UWpVY3c1cXlQWnNFbWQxWmxuUzI0LTdrZ2hLUUE2NEtfTEFJZzBFVElNWVFWVjhRV3FHTnZYbzFnU216Y19iOU5SWHFzbVd3SXZxaG1jYzItR0lPSnJpb1JGR08zSnF2RnZITUJ0MlRsR0VyZVYtekw2SE8xdmRpZFBDS1NKN3ZBUjMzRnVEeFZ1eVVV0gHMAUFVX3lxTE9ybWQ2YlFzeXV1SjhxVTJET0JMY2x2WTBTd1ZxczFIRzZUT2tUMGhwSkd4TXF6TlVoSl9VT21GTGFXNk5UZjE5X2FxMWxPWU43aWdlNW5vQzJxQkoxeG5ISmJHeWFuR1BwV3FSMHRoclFvczRpT2E2aE10WnRLUDhCTzBhN0ZfT3JieU1mSTE0eVZPUm9xMk1UdE9DQVUtek4wR3VPUGlleXQ4X1pCdkxpblE0VmpDVHNSd1JzdThiWnBheDdFWk5ORGtfOQ?oc=5) · 2026-11-06 — Simply Wall St
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
+- [CoreWeave Expands Global AI Cloud and Network Backbone - CoreWeave](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDVCTmZsWVNvNWNXSjJVeFd0WVU4cWdleDBjT0FoYmNhU0FYSjhWTmZKR1NMd1hqcmRfVDl1cmtYczhaUnVtdDJDbEdTX0ZHcy1DcGdnbnU3Z2dkQjQwVDNSSkZtT25YWGt1TXVlRGxGTDlCUHlvcFVlZXJDUWhRN0h4OGR3OFo4UFp4dnJrSGNTR1lXVGgwOUxoamVpeHB2X2JSVHVCNTcwdTNiUkFLa3JpbDU1VHhpend1VDNGY2hta2FiME1vanA0SVA?oc=5) · 2026-10-27 — CoreWeave
 - [AI adoption by country: the 25 economies using AI most - qz.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWd1NUUVktYnRWenl4bktOUXBXRS1ucW51MnNJUDl1cVh5akw5c2d1LUowVEdvSHk3OHlHVFVaZVJETEpNMnZWM2VQS2RkWThqbTVpdg?oc=5) · 2026-10-23 — qz.com
-- [Bravida Holding AB Earnings Call Signals Robust Upswing - TipRanks](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUE03RDl3dXhtcHR3WlRSdFhrM2FyUDE2b2FlX0ZKTGUwaVNDTWNIMThLWmZBSzhFdFBrY2kwQy1YLXhraktmY09NQW95aU1jUmZHN012UmNRem84dGgwRjJSMmNpRVVmUTZBNVN4TGQ3Vnk5Zno2MHowNHoxNzhkNGVTNERiUjUxOG5FMk11cEMxRzYwdEdhRzNPbnMtWHNXQUZFUDNvMUZFanM?oc=5) · 2026-10-23 — TipRanks
 - [‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFgwQ3lqMzYwalQyNGFPWFhNeTVKSTdZZWN3amdQd1VUZzNaRVlQUW1TTUY1bDFKX1M5Mm9ZMElxdjUyWktnSmlZUGloWlN5cnA2UjFickpwb20xU3dfa2IyQTVwZm5xT1ZWQmtYS0FEM184ZTBCU1MwTWhoUXRkcUc0ZEZoU3Nab1pGTlBkY2tIeFQxRnNJbFltZTRWZmRWbzlqelBwc096UQ?oc=5) · 2026-10-22 — The Guardian
 
 ## Telecom
