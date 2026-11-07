@@ -1,10 +1,9 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-07 20:12 UTC · public web sources only_
+_Updated 2026-11-07 23:37 UTC · public web sources only_
 
 ## AI / DC
 
-- [Real estate markets in the Nordics are showing investment resilience with rising cross-border appeal - Savills](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRkJqT3JLUXptVWNVNF8zcFpUOXpPR2RCTC1MZDB2eF9vVFJyQTk4X2w4V0hfQkQyUFhBNmxfcE82N3BETFFnQnB4WkVTRnNSOUJydzZ1SkM2Q3dOV3pfVmNPQmtENC02UGJBa2dFMnFzbW5DMTZvM3gzc1o5cFg4bVBXaWxJUTBEdHdaaU9hWDVOMk04ejNSalFsZTFLNDYzOV9aaFBOT0VmWktTYlJrTFNiSjZSM1ZPWnB0cFl3Rkt5S05RRV9lRE9NT2dCc1h6empGTkVCejZuTTkyVFBvcGdWaHlfQTF4UkVmaGF3SXBNZXJEQ1FzcThB?oc=5) · 2026-11-06 — Savills
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
 - [CoreWeave Expands Global AI Cloud and Network Backbone - CoreWeave](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDVCTmZsWVNvNWNXSjJVeFd0WVU4cWdleDBjT0FoYmNhU0FYSjhWTmZKR1NMd1hqcmRfVDl1cmtYczhaUnVtdDJDbEdTX0ZHcy1DcGdnbnU3Z2dkQjQwVDNSSkZtT25YWGt1TXVlRGxGTDlCUHlvcFVlZXJDUWhRN0h4OGR3OFo4UFp4dnJrSGNTR1lXVGgwOUxoamVpeHB2X2JSVHVCNTcwdTNiUkFLa3JpbDU1VHhpend1VDNGY2hta2FiME1vanA0SVA?oc=5) · 2026-10-27 — CoreWeave
 - [‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre - The Guardian](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFgwQ3lqMzYwalQyNGFPWFhNeTVKSTdZZWN3amdQd1VUZzNaRVlQUW1TTUY1bDFKX1M5Mm9ZMElxdjUyWktnSmlZUGloWlN5cnA2UjFickpwb20xU3dfa2IyQTVwZm5xT1ZWQmtYS0FEM184ZTBCU1MwTWhoUXRkcUc0ZEZoU3Nab1pGTlBkY2tIeFQxRnNJbFltZTRWZmRWbzlqelBwc096UQ?oc=5) · 2026-10-22 — The Guardian
