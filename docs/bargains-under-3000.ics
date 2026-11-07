@@ -8,14 +8,14 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:f2412adb55f4b63c6909aeb5d3e51c87016cddb6@globeair.com
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART:20261107T074500Z
 DTEND:20261107T085200Z
 SUMMARY:Avignon → Zurich
 LOCATION:Avignon
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: AVN → ZRH\nSource: GlobeAir\nOriginal price: €7\
- ,350\nCurrent price: €1\,710 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,350\nCurrent price: €1\,410 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC413Q\nFBO: Avignon Airport Cciv\n\nBook now:\nhttps://fly.globeair.
  com/el/f2412adb\n\nPlease note: All empty leg flights are subject to sch
  edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
@@ -31,23 +31,22 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:724ec36cf8cf1703721ea603e363c60a1d890ed4@globeair.com
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART:20261107T132700Z
 DTEND:20261107T142000Z
 SUMMARY:Dusseldorf → Leipzig
 LOCATION:Dusseldorf
-DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: DUS → LEJ\nSource: GlobeAir\nOriginal price: €6\
- ,400\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC707J\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.glo
- beair.com/el/724ec36c\n\nPlease note: All empty leg flights are subject 
- to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
- lobeAir\nTotal flight time: 53 minutes\nDistance: 205 miles\n\nContact u
- s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
- l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
- /el/724ec36c\nEmpty-leg schedules can change or disappear at short notic
- e. Confirm with the operator/broker before making connecting travel plan
- s.
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: DUS → LEJ\nSource: GlobeAir\nOriginal price: €6\,40
+ 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC7
+ 07J\nFBO: Jet Aviation Services GmbH\n\nBook now:\nhttps://fly.globeair.
+ com/el/724ec36c\n\nPlease note: All empty leg flights are subject to sch
+ edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
+ r\nTotal flight time: 53 minutes\nDistance: 205 miles\n\nContact us 24/7
+ \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
+ tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/72
+ 4ec36c\nEmpty-leg schedules can change or disappear at short notice. Con
+ firm with the operator/broker before making connecting travel plans.
 URL:https://fly.globeair.com/el/724ec36c
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
@@ -55,12 +54,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3403f10e1e58d54877d30dc5f4f99e1c1025a9ba@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Dusseldorf → Leipzig
 LOCATION:Dusseldorf
-DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDL → EDDP\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -73,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9fbcda84a9d764531ad341d4a27dee275f173377@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Munich International Airport → Vaclav Havel Airport
@@ -91,12 +90,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8fc8370c7d6abd5ddc05dabc7c497f3500c86d09@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Avignon → Zurich
 LOCATION:Avignon
-DESCRIPTION:Price: €1\,881\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,551\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LFMV → LSZH\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -109,14 +108,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:86a51e727a52dde3364c0ab3555de69dbaef8f22@globeair.com
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART:20261107T134600Z
 DTEND:20261107T153000Z
 SUMMARY:Lorient → Nice
 LOCATION:Lorient
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LRT → NCE\nSource: GlobeAir\nOriginal price: €8\
- ,800\nCurrent price: €1\,710 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ ,800\nCurrent price: €1\,410 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
  : GAC484W\nFBO: Aéroport de Lorient Bretagne Sud\n\nBook now:\nhttps://f
  ly.globeair.com/el/86a51e72\n\nPlease note: All empty leg flights are su
  bject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operate
@@ -133,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -152,7 +151,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1330a559182384a618403d1aa40cd6c43512d16d@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lahr Airport → Innsbruck Airport
@@ -170,7 +169,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -188,7 +187,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -206,7 +205,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261106T214113Z
+DTSTAMP:20261107T012955Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
