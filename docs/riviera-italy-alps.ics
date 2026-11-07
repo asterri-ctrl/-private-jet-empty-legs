@@ -7,14 +7,37 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:8fc8370c7d6abd5ddc05dabc7c497f3500c86d09@emptylegs.local
-DTSTAMP:20261107T074123Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261108
-SUMMARY:Avignon-Caumont Airport → Zurich Airport
-LOCATION:Avignon-Caumont Airport
-DESCRIPTION:Price: €2\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LFMV → LSZH\nSource: PrivJet\nPrice shown by Pri
+UID:f76d970af008739dec3b21936adc5d027108bd58@globeair.com
+DTSTAMP:20261107T143542Z
+DTSTART:20261108T145500Z
+DTEND:20261108T155700Z
+SUMMARY:Milan Linate → Avignon
+LOCATION:Milan Linate
+DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LIN → AVN\nSource: GlobeAir\nOriginal price: €5\
+ ,400\nCurrent price: €1\,390 (–74%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC549X\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/f76d97
+ 0a\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 62 minutes\nDistance: 208 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/f76d970a\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/f76d970a
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:fe753879c784e50191910587f0b9ddc43957f950@emptylegs.local
+DTSTAMP:20261107T143542Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:Vienna → Bydgoszcz
+LOCATION:Vienna
+DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LOWW → EPBY\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -25,46 +48,10 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-17529@emptylegs.local
-DTSTAMP:20261107T074123Z
-DTSTART:20261107T154000Z
-DTEND:20261107T174500Z
-SUMMARY:Venezia → Clermont Ferrand
-LOCATION:Venezia
-DESCRIPTION:Aircraft: PC-12\nAirports: LIPV → LFLC\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-VAD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-17580@emptylegs.local
-DTSTAMP:20261107T074123Z
-DTSTART:20261107T120000Z
-DTEND:20261107T131000Z
-SUMMARY:Saint Moritz → Annemasse
-LOCATION:Saint Moritz
-DESCRIPTION:Aircraft: PC-12\nAirports: LSZS → LFLI\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-DPL. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-17632@emptylegs.local
-DTSTAMP:20261107T074123Z
-DTSTART:20261108T170000Z
-DTEND:20261108T192000Z
+DTSTAMP:20261107T143542Z
+DTSTART:20261108T162000Z
+DTEND:20261108T191500Z
 SUMMARY:Geneva → Manchester
 LOCATION:Geneva
 DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → EGCC\nSource: Jetfly\nJetfl
@@ -80,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17684@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261108T140000Z
 DTEND:20261108T150000Z
 SUMMARY:Geneva → Zurich
@@ -98,7 +85,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1ba8067eb21bf01774339519ae2f46eddec2b572@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Zurich Airport → Lahr Airport
@@ -115,8 +102,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:453c1a4633758286cbf871ee6ac5738777722e98@globeair.com
+DTSTAMP:20261107T143542Z
+DTSTART:20261109T125600Z
+DTEND:20261109T132200Z
+SUMMARY:Genoa → Milan Linate
+LOCATION:Genoa
+DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
+  GOA → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
+ confirmed yet.\n\nCurrent probability is 62%.\nBooking / source: https:/
+ /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
+ disappear at short notice. Confirm with the operator/broker before makin
+ g connecting travel plans.
+URL:https://www.globeair.com/emptylegs/calendar
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-17675@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261109T092000Z
 DTEND:20261109T120000Z
 SUMMARY:Geneva → Ibiza
@@ -134,7 +139,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17578@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261109T070000Z
 DTEND:20261109T085000Z
 SUMMARY:Geneva → Perugia
@@ -152,7 +157,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17604@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261110T113500Z
 DTEND:20261110T133000Z
 SUMMARY:Clermont Ferrand → Venezia
@@ -170,7 +175,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17683@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261110T080000Z
 DTEND:20261110T090000Z
 SUMMARY:Milano → Lausanne
@@ -188,7 +193,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17603@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261110T150000Z
 DTEND:20261110T154000Z
 SUMMARY:Bern → Geneva
@@ -206,7 +211,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17631@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261111T124500Z
 DTEND:20261111T142000Z
 SUMMARY:Lyon → Bologna
@@ -224,7 +229,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -243,7 +248,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1330a559182384a618403d1aa40cd6c43512d16d@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lahr Airport → Innsbruck Airport
@@ -261,7 +266,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-17690@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART:20261114T130000Z
 DTEND:20261114T140500Z
 SUMMARY:St. Gallen → Lausanne
@@ -278,8 +283,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d8ac1a93294871bd38e7c1eedf95cf6ffb391bcb@emptylegs.local
+DTSTAMP:20261107T143542Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
+LOCATION:Salzburg Airport
+DESCRIPTION:Price: $2\,285\nAircraft: Pilatus PC-12\nCapacity: 6 passenge
+ rs\nAirports: LOWS → LOWL\nSource: PrivJet\nPrice shown by PrivJet inclu
+ des its stated service fee. Confirm live availability before booking.\nB
+ ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
+ les can change or disappear at short notice. Confirm with the operator/b
+ roker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -297,7 +320,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -315,7 +338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -333,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea90ced883a9e8dc90be0ee9c63130e95880da29@emptylegs.local
-DTSTAMP:20261107T074123Z
+DTSTAMP:20261107T143542Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Geneva Cointrin International Airport → Lausanne-Blecherette Airf
@@ -341,6 +364,25 @@ SUMMARY:Geneva Cointrin International Airport → Lausanne-Blecherette Airf
 LOCATION:Geneva Cointrin International Airport
 DESCRIPTION:Price: $2\,200\nAircraft: Pilatus PC-12\nCapacity: 8 passenge
  rs\nAirports: LSGG → LSGL\nSource: PrivJet\nPrice shown by PrivJet inclu
+ des its stated service fee. Confirm live availability before booking.\nB
+ ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
+ les can change or disappear at short notice. Confirm with the operator/b
+ roker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:79e34280a99dcef428fc233c740c982fc0eebd57@emptylegs.local
+DTSTAMP:20261107T143542Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Lausanne-Blecherette Airfield → Geneva Cointrin International Air
+ port
+LOCATION:Lausanne-Blecherette Airfield
+DESCRIPTION:Price: $2\,310\nAircraft: Pilatus PC-12\nCapacity: 8 passenge
+ rs\nAirports: LSGL → LSGG\nSource: PrivJet\nPrice shown by PrivJet inclu
  des its stated service fee. Confirm live availability before booking.\nB
  ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
  les can change or disappear at short notice. Confirm with the operator/b
