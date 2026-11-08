@@ -7,28 +7,10 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:7d7e22ddfe83bf6723d819ede86b2ccd027984a5@emptylegs.local
-DTSTAMP:20261108T154216Z
-DTSTART;VALUE=DATE:20261108
-DTEND;VALUE=DATE:20261109
-SUMMARY:Altenrhein → Paris Le Bourget
-LOCATION:Altenrhein
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LSZR → LFPB\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:a21248ebc922bdc82aaca4629123e25b144609d1@globeair.com
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART:20261109T092000Z
-DTEND:20261109T104000Z
+DTEND:20261109T103700Z
 SUMMARY:Rome → Turin
 LOCATION:Rome
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -37,7 +19,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC748C\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/a21248
  eb\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 80 minutes\nDistance: 296 miles\n\nContact us 24/7\nWhatsApp: h
+ ht time: 77 minutes\nDistance: 296 miles\n\nContact us 24/7\nWhatsApp: h
  ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
  beair.com\nBooking / source: https://fly.globeair.com/el/a21248eb\nEmpty
  -leg schedules can change or disappear at short notice. Confirm with the
@@ -49,9 +31,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:466df3e39213ed8f9207ba6a817384e01ed983f5@globeair.com
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART:20261109T130600Z
-DTEND:20261109T150400Z
+DTEND:20261109T150700Z
 SUMMARY:Le Castellet → St Brieuc
 LOCATION:Le Castellet
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -60,7 +42,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC568V\nFBO: Airport Du Castellet\n\nBook now:\nhttps://fly.globeair
  .com/el/466df3e3\n\nPlease note: All empty leg flights are subject to sc
  hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
- ir\nTotal flight time: 118 minutes\nDistance: 480 miles\n\nContact us 24
+ ir\nTotal flight time: 121 minutes\nDistance: 480 miles\n\nContact us 24
  /7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: c
  ustomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/
  466df3e3\nEmpty-leg schedules can change or disappear at short notice. C
@@ -72,9 +54,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:453c1a4633758286cbf871ee6ac5738777722e98@globeair.com
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART:20261109T125300Z
-DTEND:20261109T132200Z
+DTEND:20261109T132400Z
 SUMMARY:Genoa → Milan Linate
 LOCATION:Genoa
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -83,7 +65,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC595V\nFBO: Ags Ops\n\nBook now:\nhttps://fly.globeair.com/el/453c1a
  46\n\nPlease note: All empty leg flights are subject to schedule change!
  \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 29 minutes\nDistance: 65 miles\n\nContact us 24/7\nWhatsApp: ht
+ ht time: 31 minutes\nDistance: 65 miles\n\nContact us 24/7\nWhatsApp: ht
  tps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glob
  eair.com\nBooking / source: https://fly.globeair.com/el/453c1a46\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -95,9 +77,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c8805bf75acf8cc1f91ba344afd12355710eb04@globeair.com
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART:20261109T123000Z
-DTEND:20261109T130700Z
+DTEND:20261109T130000Z
 SUMMARY:Klagenfurt → Vienna
 LOCATION:Klagenfurt
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -106,7 +88,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC733A\nFBO: General Aviation Terminal (GAC)\n\nBook now:\nhttps://fl
  y.globeair.com/el/7c8805bf\n\nPlease note: All empty leg flights are sub
  ject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated
-  by GlobeAir\nTotal flight time: 37 minutes\nDistance: 126 miles\n\nCont
+  by GlobeAir\nTotal flight time: 30 minutes\nDistance: 126 miles\n\nCont
  act us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\
  nEmail: customercare@globeair.com\nBooking / source: https://fly.globeai
  r.com/el/7c8805bf\nEmpty-leg schedules can change or disappear at short 
@@ -119,9 +101,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fee8c1c9ba446d329a2d87a6593bd15552b829c7@globeair.com
-DTSTAMP:20261108T154216Z
-DTSTART:20261109T055000Z
-DTEND:20261109T070400Z
+DTSTAMP:20261108T200521Z
+DTSTART:20261109T064000Z
+DTEND:20261109T075400Z
 SUMMARY:Paris Le Bourget → Agen
 LOCATION:Paris Le Bourget
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -143,7 +125,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fc2f6e50bdbb6bea89f977b127048221ec48af96@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Klagenfurt → Vienna
@@ -161,7 +143,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a9577df35a26f0cbe41ddd4147165c59ed2d0395@globeair.com
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART:20261109T103500Z
 DTEND:20261109T120800Z
 SUMMARY:Luxembourg → London/Oxford
@@ -184,7 +166,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -203,7 +185,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1330a559182384a618403d1aa40cd6c43512d16d@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lahr Airport → Innsbruck Airport
@@ -221,7 +203,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -239,7 +221,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -256,26 +238,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9eb7695b800e0759c52e1bd17c8d45e8ef438aa4@emptylegs.local
-DTSTAMP:20261108T154216Z
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-SUMMARY:Stuttgart Airport → Zurich Airport
-LOCATION:Stuttgart Airport
-DESCRIPTION:Price: €2\,310\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: EDDS → LSZH\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261108T154216Z
+DTSTAMP:20261108T200521Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
