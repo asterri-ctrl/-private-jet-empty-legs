@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:a21248ebc922bdc82aaca4629123e25b144609d1@globeair.com
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART:20261109T092000Z
 DTEND:20261109T103700Z
 SUMMARY:Rome → Turin
@@ -30,31 +30,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:466df3e39213ed8f9207ba6a817384e01ed983f5@globeair.com
-DTSTAMP:20261108T200521Z
-DTSTART:20261109T130600Z
-DTEND:20261109T150700Z
-SUMMARY:Le Castellet → St Brieuc
-LOCATION:Le Castellet
-DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: CTT → SBK\nSource: GlobeAir\nOriginal price: €11
- \,550\nCurrent price: €1\,710 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight
- #: GAC568V\nFBO: Airport Du Castellet\n\nBook now:\nhttps://fly.globeair
- .com/el/466df3e3\n\nPlease note: All empty leg flights are subject to sc
- hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
- ir\nTotal flight time: 121 minutes\nDistance: 480 miles\n\nContact us 24
- /7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: c
- ustomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/
- 466df3e3\nEmpty-leg schedules can change or disappear at short notice. C
- onfirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/466df3e3
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:453c1a4633758286cbf871ee6ac5738777722e98@globeair.com
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART:20261109T125300Z
 DTEND:20261109T132400Z
 SUMMARY:Genoa → Milan Linate
@@ -77,7 +54,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7c8805bf75acf8cc1f91ba344afd12355710eb04@globeair.com
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART:20261109T123000Z
 DTEND:20261109T130000Z
 SUMMARY:Klagenfurt → Vienna
@@ -101,7 +78,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fee8c1c9ba446d329a2d87a6593bd15552b829c7@globeair.com
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART:20261109T064000Z
 DTEND:20261109T075400Z
 SUMMARY:Paris Le Bourget → Agen
@@ -124,8 +101,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:a08720dfb22d52964677a194eac0b6d247b82922@globeair.com
+DTSTAMP:20261108T235126Z
+DTSTART:20261109T140500Z
+DTEND:20261109T145900Z
+SUMMARY:Paris Le Bourget → St Brieuc
+LOCATION:Paris Le Bourget
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LBG → SBK\nSource: GlobeAir\nOriginal price: €6\
+ ,300\nCurrent price: €1\,710 (–73%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC568V\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glob
+ eair.com/el/a08720df\n\nPlease note: All empty leg flights are subject t
+ o schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Gl
+ obeAir\nTotal flight time: 54 minutes\nDistance: 211 miles\n\nContact us
+  24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail
+ : customercare@globeair.com\nBooking / source: https://fly.globeair.com/
+ el/a08720df\nEmpty-leg schedules can change or disappear at short notice
+ . Confirm with the operator/broker before making connecting travel plans
+ .
+URL:https://fly.globeair.com/el/a08720df
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:fc2f6e50bdbb6bea89f977b127048221ec48af96@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Klagenfurt → Vienna
@@ -143,7 +144,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:a9577df35a26f0cbe41ddd4147165c59ed2d0395@globeair.com
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART:20261109T103500Z
 DTEND:20261109T120800Z
 SUMMARY:Luxembourg → London/Oxford
@@ -166,7 +167,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b819730b54c891e324bd8d2367e3c8a6b7fdb5f3@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Venezia / Tessera -  Marco Polo Airport → St Gallen Altenrhein Ai
@@ -185,7 +186,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1330a559182384a618403d1aa40cd6c43512d16d@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Lahr Airport → Innsbruck Airport
@@ -203,7 +204,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -221,7 +222,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -238,8 +239,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:9eb7695b800e0759c52e1bd17c8d45e8ef438aa4@emptylegs.local
+DTSTAMP:20261108T235126Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Stuttgart Airport → Zurich Airport
+LOCATION:Stuttgart Airport
+DESCRIPTION:Price: €2\,310\nAircraft: Citation M2\nCapacity: 6 passengers
+ \nAirports: EDDS → LSZH\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261108T200521Z
+DTSTAMP:20261108T235126Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
