@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-10 12:33 UTC · public web sources only_
+_Updated 2026-11-10 21:47 UTC · public web sources only_
 
 ## AI / DC
 
