@@ -6,4 +6,22 @@ PRODID:-//EmptyLegCalendar//EN
 X-WR-CALNAME:Empty Legs · Nordics
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
+BEGIN:VEVENT
+UID:jetfly-17818@emptylegs.local
+DTSTAMP:20261111T222506Z
+DTSTART:20261112T053000Z
+DTEND:20261112T094000Z
+SUMMARY:Stockholm → Bergamo
+LOCATION:Stockholm
+DESCRIPTION:Aircraft: PC-12\nAirports: ESKN → LIME\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-BSL. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR
