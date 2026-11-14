@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-14 17:57 UTC · public web sources only_
+_Updated 2026-11-14 23:52 UTC · public web sources only_
 
 ## AI / DC
 
@@ -13,7 +13,6 @@ _Updated 2026-11-14 17:57 UTC · public web sources only_
 
 ## Telecom
 
-- [Telia to Acquire Telavox Enterprise Customers for SEK 3.8 Billion, Adding 325,000 Users Across Nordic Markets - TelecomLead](https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaGhEVmw5X3Z5RGZtQ1pYQzdMd1BUdDFSaDVQbnRFNWtFcG1yU1U5YWhlTFgxS0JBbVdHaFI1WTZiQ1dLRGJrQjF1X0FsX1U3eXZDMjJCQUozSGFlcml2Z20zOXpmTnRRMG0tcVlWZTBBV1EwU29YV1BFa2NMcGZoUnhfZU0ycGFGRkp4aXNWSlBqUTJ2OVIxM0wyZ0lPVDM5WndlQlhtM1RZaGFoOWpwTkVUTzd4dExQa3YzZFNKa3NTUkl6SmIwZHZ0N21DZzRHUTNqc1cyUkd2N2NpdEViQXJvbmtHT1k1OHVR0gHzAUFVX3lxTE9FLXVkWUFaUVctbV9KNUJSVFhyMDNUb2pYMW9ydFk1aTVXUFBkRkpXU2RFWG02N0xOUU5qbUhZQ2ZSRWg3V1ZnUWEwMG1vWEpxOV8xOFVMZXpLYThOWnRiWjZRNldJR2t4U1BMb0R5NTJoZXp0Q2ZGa0VMTUZTRjZybUhBTzZ3ZjVwSUZXaTFLbWYzeTRBcXF2MXBzcEtFTUo5MEtKMzZMMnhyUHlmd2VDbWNJeEVBb1FtZERxZDRZYVZ4dnlXR0hqcWxJdjNLY2xCRjNtSFBReFJIakZ1c0NZZS1yd2NFU25WcGxuZU9ETFM4TQ?oc=5) · 2026-11-10 — TelecomLead
 - [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
 - [Telenor Q3 2026: Profit Surges 225%, Revenue Falls 2.9% - TelecomLead](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0s2QTA1WEIxOEVINTlyNDJRcnhwcFhBRW80WUtISFAycmZsUWR0cWpNOXNVZkt4V3AtVkZ0ZDZlWlVPZXNELUEzc05PTjhYZkNzeHpiSUxxbWxnSjZhTkZIOUliVFd3a0k1TzJXVmN1bkJpSkNUNlUzTk5PdWhlNFFheG5Td3U2XzNfZXFR0gGWAUFVX3lxTE1IUzdYTnRMQmlnUzRqdnhUNkhQUGNzUFdxeDJsUU9URzkxMXJuMWhkeUhpaEplUGZwOHRFQS12d2hUbk9sbGVHTW5odU5qbTN4dUhPSWVwQ2JDODNiU1VFSEdCR1BYVnlncUVYdldidjFnOXg4dERIYllORTRkeDlJX1FhX1F2b0xqdlpNejNtVkpXVGRkUQ?oc=5) · 2026-10-28 — TelecomLead
 
