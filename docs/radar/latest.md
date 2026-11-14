@@ -1,10 +1,9 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-14 11:25 UTC · public web sources only_
+_Updated 2026-11-14 17:57 UTC · public web sources only_
 
 ## AI / DC
 
-- [Should Stronger Q3 Earnings Require Action From Scandic Hotels Group (OM:SHOT) Investors? - Simply Wall St](https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQWhCUlRNbUdkZFBHdGVGUExGUW9LbG5FZEN0ejNSSmFtMXZndW5UeW1oY2g2OTE5Z3p2Rnc0cTVrdE8waDBHeDZJVXBaX0ZqZElQVHFuN3FZQW9yVWEwMlJZdVJ5MjR3ajh2OC1Tc0xzczVkOVFBQ1QzcmVEYTJZREFkc3lsYmpmSDZFNkVsNmExSnA1aXIzc3VBdjN5MHFoTjJRVC1POVB2bUZ5R3o1SkpodDNxUVJGdzRTdUhZTWRoMXc1WVJ2dm1ObXh6SlF2TXoza1VmVnhGcEpGX3p5ajM5NktVSjQ?oc=5) · 2026-11-14 — Simply Wall St
 - [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
 - [Nordics’ stability is attracting growing attention - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmpXV1pwZGsyNUhoeFBiWDUtTzlVS1lDdUhfYllCbHRnczBwRmVuMEZld1pjd0owNWtTYm5rM1VtZUVCY0loZzdaSVhuRkRYV0lnbjVyWE9MZ2pvcU1IQmJpMW95WHVNWGZCZDZzSG9lZEpaYXhHMXFMMXZSLUc2SGF3WVk?oc=5) · 2026-11-11 — Financial Times
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) · 2026-11-10 — ET Datacenters
