@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:4396bdc4346a6eb1289d3c3eb9b016fd9ae7eae7@globeair.com
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART:20261114T120600Z
 DTEND:20261114T125300Z
 SUMMARY:Perpignan → Cannes
@@ -31,8 +31,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:d9ada7f22327e95547112866961b5659ea4cbe68@globeair.com
+DTSTAMP:20261114T082933Z
+DTSTART:20261115T090800Z
+DTEND:20261115T102700Z
+SUMMARY:Geneva → Antwerp
+LOCATION:Geneva
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: GVA → ANR\nSource: GlobeAir\nOriginal price: €6\
+ ,450\nCurrent price: €1\,290 (–80%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC556M\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/d
+ 9ada7f2\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 79 minutes\nDistance: 304 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/d9ada7f2\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/d9ada7f2
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:250140928d76780dd3f4d32892a4b9b3f69c3b34@emptylegs.local
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
@@ -50,7 +73,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -68,7 +91,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -86,7 +109,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -103,8 +126,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:bd88ffd0a9ce70e2ff9d851a8eec7b47a511190f@emptylegs.local
+DTSTAMP:20261114T082933Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Wiener Neustadt East Airport → Salzburg Airport
+LOCATION:Wiener Neustadt East Airport
+DESCRIPTION:Price: €2\,475\nAircraft: Pilatus PC12 NGX\nCapacity: 6 passe
+ ngers\nAirports: LOAN → LOWS\nSource: PrivJet\nPrice shown by PrivJet in
+ cludes its stated service fee. Confirm live availability before booking.
+ \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
+ edules can change or disappear at short notice. Confirm with the operato
+ r/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261114T015552Z
+DTSTAMP:20261114T082933Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
