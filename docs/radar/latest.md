@@ -1,13 +1,14 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-13 19:36 UTC · public web sources only_
+_Updated 2026-11-14 00:52 UTC · public web sources only_
 
 ## AI / DC
 
 - [Nordics’ stability is attracting growing attention - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmpXV1pwZGsyNUhoeFBiWDUtTzlVS1lDdUhfYllCbHRnczBwRmVuMEZld1pjd0owNWtTYm5rM1VtZUVCY0loZzdaSVhuRkRYV0lnbjVyWE9MZ2pvcU1IQmJpMW95WHVNWGZCZDZzSG9lZEpaYXhHMXFMMXZSLUc2SGF3WVk?oc=5) · 2026-11-11 — Financial Times
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) · 2026-11-10 — ET Datacenters
+- [Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres - Investigate Europe](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhsU0h5LVZQWnEtX09jR0d3eWx3OXNZZjBEclJnWTFjeU8tODlTc1FNUGZTNTJJcno0SUJDNzZ6SmUzZ1RJZjZtanRySl9mOHFmb240dXFJalVXWVpFV1dUY3RLai0yU05KQmxybzRkZnQtczM3ZW9ENDVDNVNPN1VqbURieU1kcW5NdlROb2dDYWpIZ09rUF9JU0JzWUtwUWVWZ1M3cjhKZFZnLTU3VlRPaVBtMkt6WDFfQnY1c3llTG1PdU9ZbzczTUotTlpOZ242Q0F3?oc=5) · 2026-10-29 — Investigate Europe
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
-- [CoreWeave Expands Global AI Cloud and Network Backbone - CoreWeave](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDVCTmZsWVNvNWNXSjJVeFd0WVU4cWdleDBjT0FoYmNhU0FYSjhWTmZKR1NMd1hqcmRfVDl1cmtYczhaUnVtdDJDbEdTX0ZHcy1DcGdnbnU3Z2dkQjQwVDNSSkZtT25YWGt1TXVlRGxGTDlCUHlvcFVlZXJDUWhRN0h4OGR3OFo4UFp4dnJrSGNTR1lXVGgwOUxoamVpeHB2X2JSVHVCNTcwdTNiUkFLa3JpbDU1VHhpend1VDNGY2hta2FiME1vanA0SVA?oc=5) · 2026-10-27 — CoreWeave
+- [CoreWeave Expands Global AI Cloud Platform With New Capacity in Denmark and First Global AI Network Backbone - CoreWeave](https://news.google.com/rss/articles/CBMizAFBVV95cUxPRDVCTmZsWVNvNWNXSjJVeFd0WVU4cWdleDBjT0FoYmNhU0FYSjhWTmZKR1NMd1hqcmRfVDl1cmtYczhaUnVtdDJDbEdTX0ZHcy1DcGdnbnU3Z2dkQjQwVDNSSkZtT25YWGt1TXVlRGxGTDlCUHlvcFVlZXJDUWhRN0h4OGR3OFo4UFp4dnJrSGNTR1lXVGgwOUxoamVpeHB2X2JSVHVCNTcwdTNiUkFLa3JpbDU1VHhpend1VDNGY2hta2FiME1vanA0SVA?oc=5) · 2026-10-27 — CoreWeave
 
 ## Telecom
 
