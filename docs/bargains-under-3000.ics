@@ -7,34 +7,33 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:4396bdc4346a6eb1289d3c3eb9b016fd9ae7eae7@globeair.com
-DTSTAMP:20261114T082933Z
-DTSTART:20261114T120600Z
-DTEND:20261114T125300Z
-SUMMARY:Perpignan → Cannes
-LOCATION:Perpignan
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: PGF → CEQ\nSource: GlobeAir\nOriginal price: €7\
- ,400\nCurrent price: €1\,410 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC918S\nFBO: Aeroport Perpignan Sud de France\n\nBook now:\nhttps://f
- ly.globeair.com/el/4396bdc4\n\nPlease note: All empty leg flights are su
- bject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operate
- d by GlobeAir\nTotal flight time: 47 minutes\nDistance: 185 miles\n\nCon
- tact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400
- \nEmail: customercare@globeair.com\nBooking / source: https://fly.globea
- ir.com/el/4396bdc4\nEmpty-leg schedules can change or disappear at short
-  notice. Confirm with the operator/broker before making connecting trave
- l plans.
-URL:https://fly.globeair.com/el/4396bdc4
+UID:7a68dafd03030613b2646fc97c5164ac9ad7cffe@globeair.com
+DTSTAMP:20261114T151704Z
+DTSTART:20261115T154500Z
+DTEND:20261115T164800Z
+SUMMARY:Barcelona → Nice
+LOCATION:Barcelona
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BCN → NCE\nSource: GlobeAir\nOriginal price: €5\
+ ,750\nCurrent price: €1\,290 (–78%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC734F\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/7a68da
+ fd\n\nPlease note: All empty leg flights are subject to schedule change!
+ \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
+ ht time: 63 minutes\nDistance: 268 miles\n\nContact us 24/7\nWhatsApp: h
+ ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
+ beair.com\nBooking / source: https://fly.globeair.com/el/7a68dafd\nEmpty
+ -leg schedules can change or disappear at short notice. Confirm with the
+  operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/7a68dafd
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d9ada7f22327e95547112866961b5659ea4cbe68@globeair.com
-DTSTAMP:20261114T082933Z
-DTSTART:20261115T090800Z
-DTEND:20261115T102700Z
+DTSTAMP:20261114T151704Z
+DTSTART:20261115T090500Z
+DTEND:20261115T100700Z
 SUMMARY:Geneva → Antwerp
 LOCATION:Geneva
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -43,7 +42,7 @@ DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC556M\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/d
  9ada7f2\n\nPlease note: All empty leg flights are subject to schedule ch
  ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
-  flight time: 79 minutes\nDistance: 304 miles\n\nContact us 24/7\nWhatsA
+  flight time: 62 minutes\nDistance: 304 miles\n\nContact us 24/7\nWhatsA
  pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
  e@globeair.com\nBooking / source: https://fly.globeair.com/el/d9ada7f2\n
  Empty-leg schedules can change or disappear at short notice. Confirm wit
@@ -54,8 +53,32 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:61a37c79006e16fe77dad7473d12642f52500ce9@globeair.com
+DTSTAMP:20261114T151704Z
+DTSTART:20261115T152000Z
+DTEND:20261115T162200Z
+SUMMARY:Lyon → Luxembourg
+LOCATION:Lyon
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LYN → LUX\nSource: GlobeAir\nOriginal price: €6\
+ ,200\nCurrent price: €1\,710 (–72%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC361J\nFBO: Vinci Airport Executive Handling\n\nBook now:\nhttps://f
+ ly.globeair.com/el/61a37c79\n\nPlease note: All empty leg flights are su
+ bject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operate
+ d by GlobeAir\nTotal flight time: 62 minutes\nDistance: 239 miles\n\nCon
+ tact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400
+ \nEmail: customercare@globeair.com\nBooking / source: https://fly.globea
+ ir.com/el/61a37c79\nEmpty-leg schedules can change or disappear at short
+  notice. Confirm with the operator/broker before making connecting trave
+ l plans.
+URL:https://fly.globeair.com/el/61a37c79
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:250140928d76780dd3f4d32892a4b9b3f69c3b34@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Salzburg Airport → Linz-Hörsching Airport / Vogler Air Base
@@ -73,7 +96,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -91,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -109,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -127,7 +150,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd88ffd0a9ce70e2ff9d851a8eec7b47a511190f@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Wiener Neustadt East Airport → Salzburg Airport
@@ -145,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261114T082933Z
+DTSTAMP:20261114T151704Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
