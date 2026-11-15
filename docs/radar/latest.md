@@ -1,11 +1,9 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-14 23:52 UTC · public web sources only_
+_Updated 2026-11-15 06:20 UTC · public web sources only_
 
 ## AI / DC
 
-- [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
-- [Nordics’ stability is attracting growing attention - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNbmpXV1pwZGsyNUhoeFBiWDUtTzlVS1lDdUhfYllCbHRnczBwRmVuMEZld1pjd0owNWtTYm5rM1VtZUVCY0loZzdaSVhuRkRYV0lnbjVyWE9MZ2pvcU1IQmJpMW95WHVNWGZCZDZzSG9lZEpaYXhHMXFMMXZSLUc2SGF3WVk?oc=5) · 2026-11-11 — Financial Times
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) · 2026-11-10 — ET Datacenters
 - [Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres - Investigate Europe](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhsU0h5LVZQWnEtX09jR0d3eWx3OXNZZjBEclJnWTFjeU8tODlTc1FNUGZTNTJJcno0SUJDNzZ6SmUzZ1RJZjZtanRySl9mOHFmb240dXFJalVXWVpFV1dUY3RLai0yU05KQmxybzRkZnQtczM3ZW9ENDVDNVNPN1VqbURieU1kcW5NdlROb2dDYWpIZ09rUF9JU0JzWUtwUWVWZ1M3cjhKZFZnLTU3VlRPaVBtMkt6WDFfQnY1c3llTG1PdU9ZbzczTUotTlpOZ242Q0F3?oc=5) · 2026-10-29 — Investigate Europe
 - [CoreWeave Activates Denmark AI Capacity and Extends Global Network Backbone - Unite.AI](https://news.google.com/rss/articles/CBMingFBVV95cUxQaV9ldTRlNUxGS1NqTkpUNVBCalhrRHhRMy0ycTdnYU9tR0RzNlhXTzZZZ1RDRmw0d1VsWklKOWk3MXZpeWxlU0k0cXhUWFV4LVVhMmpFaW81dHVTZ0xWYnZ2RE52Rk82T1pCZGdqTzZHNmhXRDhLOTVlOWFOLVRqbEgzZnByWk9YVUJZZU53dkNZT0ZnSDJGaFpJMWotUQ?oc=5) · 2026-10-27 — Unite.AI
@@ -13,7 +11,6 @@ _Updated 2026-11-14 23:52 UTC · public web sources only_
 
 ## Telecom
 
-- [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
 - [Telenor Q3 2026: Profit Surges 225%, Revenue Falls 2.9% - TelecomLead](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0s2QTA1WEIxOEVINTlyNDJRcnhwcFhBRW80WUtISFAycmZsUWR0cWpNOXNVZkt4V3AtVkZ0ZDZlWlVPZXNELUEzc05PTjhYZkNzeHpiSUxxbWxnSjZhTkZIOUliVFd3a0k1TzJXVmN1bkJpSkNUNlUzTk5PdWhlNFFheG5Td3U2XzNfZXFR0gGWAUFVX3lxTE1IUzdYTnRMQmlnUzRqdnhUNkhQUGNzUFdxeDJsUU9URzkxMXJuMWhkeUhpaEplUGZwOHRFQS12d2hUbk9sbGVHTW5odU5qbTN4dUhPSWVwQ2JDODNiU1VFSEdCR1BYVnlncUVYdldidjFnOXg4dERIYllORTRkeDlJX1FhX1F2b0xqdlpNejNtVkpXVGRkUQ?oc=5) · 2026-10-28 — TelecomLead
 
 ## Regulation
