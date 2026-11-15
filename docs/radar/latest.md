@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-15 15:37 UTC · public web sources only_
+_Updated 2026-11-15 21:00 UTC · public web sources only_
 
 ## AI / DC
 
@@ -15,7 +15,6 @@ _Updated 2026-11-15 15:37 UTC · public web sources only_
 
 ## Telecom
 
-- [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
 - [Telenor Q3 2026: Profit Surges 225%, Revenue Falls 2.9% - TelecomLead](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0s2QTA1WEIxOEVINTlyNDJRcnhwcFhBRW80WUtISFAycmZsUWR0cWpNOXNVZkt4V3AtVkZ0ZDZlWlVPZXNELUEzc05PTjhYZkNzeHpiSUxxbWxnSjZhTkZIOUliVFd3a0k1TzJXVmN1bkJpSkNUNlUzTk5PdWhlNFFheG5Td3U2XzNfZXFR0gGWAUFVX3lxTE1IUzdYTnRMQmlnUzRqdnhUNkhQUGNzUFdxeDJsUU9URzkxMXJuMWhkeUhpaEplUGZwOHRFQS12d2hUbk9sbGVHTW5odU5qbTN4dUhPSWVwQ2JDODNiU1VFSEdCR1BYVnlncUVYdldidjFnOXg4dERIYllORTRkeDlJX1FhX1F2b0xqdlpNejNtVkpXVGRkUQ?oc=5) · 2026-10-28 — TelecomLead
 
 ## Regulation
