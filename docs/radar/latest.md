@@ -1,9 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-16 06:19 UTC · public web sources only_
+_Updated 2026-11-16 18:27 UTC · public web sources only_
 
 ## AI / DC
 
+- [Eniro Repurchases 29,700 Shares in November - TipRanks](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVgzbDlYWXA1Vnpvbm5rNGJpWnJ5TlQzTEQycldJTDhMU3Fudy0xVnRHMERCVDdiYi1Dcy13amlDdkt5cHJnYU1uMVFudC12ZGFuRnJ5MjdyRmxPQ3ZSZXlmdlRzY3pnZ3NfN2kwODBrOHl2SVNwRnQyUjIyeUVRZzFDRGMxd0dIY3pPMmlBc0ZwMndha2hGTF93?oc=5) · 2026-11-16 — TipRanks
 - [3 British Penny Stocks With Earnings Growth Up To 53% - Simply Wall St](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmtuZ3NFc0tYWm42aW43Ui1jYWVuYVpvcEVFS0FTb0RmSXI1aXJyWG1tTnZhN3NqV243cnBGUllhWDhhazNZSW55WHA1R0pUQW90NUQ2UWpSdVZoN1lWVENlM1V3d3hLZkNxRmRCZmc0RkE4dERvQW5PTGhTNFhNbFRtR2VSZ2FLcjQyVm1GWXZJRjVEQzVCZ3g5di0wSW1GWV9mVWtmd29OenFVem5odlNHZ2VmRUZIdTNlWnRsOWx4WGtDczFTdmJxcHFTa2Y5?oc=5) · 2026-11-14 — Simply Wall St
 - [Norway slams brakes on AI data center boom over grid fears - TechTarget](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NQZWlFaW80VlBlZ2N6RVZLQURiSHg4S2tOakxxMEl1Z0Q2bzNyZXRURUNvQTE4bnVZa09Qb3QzSHNIRTZaUi00bl9BVlpNU05zSTZITVlXaHAzMW1qbTM5VnZDcGRjVm11eUxjak9vVkpSRzc1QW1tNndjZ1FpamZEYU9fN0tqVnFNdHl3dVB6NDJ1YURsTHBPc0lZbDA?oc=5) · 2026-11-13 — TechTarget
 - [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
@@ -17,7 +18,6 @@ _Updated 2026-11-16 06:19 UTC · public web sources only_
 
 ## Regulation
 
-- [- Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMilAFBVV95cUxNWm84WXAwWkRaa1RvY1M1aWJVR2NVaElrSHdQbGVZdVQ1UkFXTEVwNjJfaFdZMi1QYWtIVGZ1dGlCUDVPNndMNDlZaWpFLUlmOUtyRmdQeGh6aTFrTjloYktkeDU3WHJyUnVqcnUxT1VhamJkN2oxWlF0YWgwQ2p2WkpjelpvYndienJSVUhMOC14Rm84?oc=5) · 2026-11-13 — Shaping Europe’s digital future
 - [The EU Open Source Strategy - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DdnV1LUc2SkZTYThheF9YcHNzU3pBRklUZDQ1ZHhFcWxLR2trQU1aaUJxRUQ4OTI1QmV3dnlfaGQ0NzVpbmV5bTU0MU55T2lXbmY4cHp3RmZ5YXlhR3NSZmF6QUF5UnN3cXYzeGJ3aFh0NHdPSEE5Vld3?oc=5) · 2026-11-06 — Shaping Europe’s digital future
 - [Chips Act 2.0 - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMibkFVX3lxTFBZY1JPNHdJMC03eGVlbGhzZXpPQ1YyS3doVDRCRmlMSDVnZjNZaXRoYWJydXdxQ2VNYU5IUWFJb2pGRVFWeVFEWDNTRHMwTE5sbDhxSjY1aDZGQUpvR0pDdFh5SVFrWS1iQXFKLXpR?oc=5) · 2026-11-06 — Shaping Europe’s digital future
 - [Strengthening Europe’s tech sovereignty - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdVNQUWJCZkxEaVZfMDhjU291bU8yLTVPQlNMMFdDanBnazA3V05zY1JOYmp4OU9OOXRjRV9saV9ZVE9fQVZ4X2RsMkVrXzVEOTg1T0tJSmlGRllTdHZjajZpbTB6bzkxR3dyQ0REUThmajFCdXg4eA?oc=5) · 2026-11-05 — Shaping Europe’s digital future
