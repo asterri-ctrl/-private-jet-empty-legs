@@ -1,20 +1,15 @@
 # Weekly Nordic Infrastructure Brief
 
-_Seven days through 2026-11-16 · public sources only_
+_Seven days through 2026-11-17 · public sources only_
 
 ## What matters
 
-- **Norway slams brakes on AI data center boom over grid fears - TechTarget** — AI / datacentre demand. [TechTarget](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NQZWlFaW80VlBlZ2N6RVZLQURiSHg4S2tOakxxMEl1Z0Q2bzNyZXRURUNvQTE4bnVZa09Qb3QzSHNIRTZaUi00bl9BVlpNU05zSTZITVlXaHAzMW1qbTM5VnZDcGRjVm11eUxjak9vVkpSRzc1QW1tNndjZ1FpamZEYU9fN0tqVnFNdHl3dVB6NDJ1YURsTHBPc0lZbDA?oc=5)
-- **Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io** — AI / datacentre demand. [Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5)
 - **Eniro Repurchases 29,700 Shares in November - TipRanks** — Nordic infrastructure signal. [TipRanks](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVgzbDlYWXA1Vnpvbm5rNGJpWnJ5TlQzTEQycldJTDhMU3Fudy0xVnRHMERCVDdiYi1Dcy13amlDdkt5cHJnYU1uMVFudC12ZGFuRnJ5MjdyRmxPQ3ZSZXlmdlRzY3pnZ3NfN2kwODBrOHl2SVNwRnQyUjIyeUVRZzFDRGMxd0dIY3pPMmlBc0ZwMndha2hGTF93?oc=5)
 - **Norway pauses data centre grid access, plans licensing - ET Datacenters** — AI / datacentre demand. [ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5)
-- **3 British Penny Stocks With Earnings Growth Up To 53% - Simply Wall St** — Nordic infrastructure signal. [Simply Wall St](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmtuZ3NFc0tYWm42aW43Ui1jYWVuYVpvcEVFS0FTb0RmSXI1aXJyWG1tTnZhN3NqV243cnBGUllhWDhhazNZSW55WHA1R0pUQW90NUQ2UWpSdVZoN1lWVENlM1V3d3hLZkNxRmRCZmc0RkE4dERvQW5PTGhTNFhNbFRtR2VSZ2FLcjQyVm1GWXZJRjVEQzVCZ3g5di0wSW1GWV9mVWtmd29OenFVem5odlNHZ2VmRUZIdTNlWnRsOWx4WGtDczFTdmJxcHFTa2Y5?oc=5)
 
 ## By theme
 
 ### AI / DC
 
-- [Norway slams brakes on AI data center boom over grid fears - TechTarget](https://news.google.com/rss/articles/CBMinwFBVV95cUxQY2NQZWlFaW80VlBlZ2N6RVZLQURiSHg4S2tOakxxMEl1Z0Q2bzNyZXRURUNvQTE4bnVZa09Qb3QzSHNIRTZaUi00bl9BVlpNU05zSTZITVlXaHAzMW1qbTM5VnZDcGRjVm11eUxjak9vVkpSRzc1QW1tNndjZ1FpamZEYU9fN0tqVnFNdHl3dVB6NDJ1YURsTHBPc0lZbDA?oc=5) — AI / datacentre demand
-- [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) — AI / datacentre demand
 - [Eniro Repurchases 29,700 Shares in November - TipRanks](https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVgzbDlYWXA1Vnpvbm5rNGJpWnJ5TlQzTEQycldJTDhMU3Fudy0xVnRHMERCVDdiYi1Dcy13amlDdkt5cHJnYU1uMVFudC12ZGFuRnJ5MjdyRmxPQ3ZSZXlmdlRzY3pnZ3NfN2kwODBrOHl2SVNwRnQyUjIyeUVRZzFDRGMxd0dIY3pPMmlBc0ZwMndha2hGTF93?oc=5) — Nordic infrastructure signal
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) — AI / datacentre demand
