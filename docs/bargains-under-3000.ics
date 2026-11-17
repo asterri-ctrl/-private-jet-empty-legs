@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:33eac1c9531bb6a2c479f73a6872dc8a6048e04e@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:Pisa → Linz
@@ -25,31 +25,78 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:59a54af298f652e423afdfc1ab99445213faadb2@globeair.com
-DTSTAMP:20261117T032114Z
-DTSTART:20261117T114000Z
-DTEND:20261117T124200Z
-SUMMARY:Pisa → Linz
-LOCATION:Pisa
-DESCRIPTION:Price: €1\,090\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: PSA → LNZ\nSource: GlobeAir\nOriginal price: €6\
- ,500\nCurrent price: €1\,090 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC199B\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/59a54a
- f2\n\nPlease note: All empty leg flights are subject to schedule change!
- \n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flig
- ht time: 62 minutes\nDistance: 315 miles\n\nContact us 24/7\nWhatsApp: h
- ttps://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@glo
- beair.com\nBooking / source: https://fly.globeair.com/el/59a54af2\nEmpty
- -leg schedules can change or disappear at short notice. Confirm with the
-  operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/59a54af2
+UID:f54f0824adca1365a08558d0eb2ae0af9418746a@globeair.com
+DTSTAMP:20261117T121410Z
+DTSTART:20261117T153000Z
+DTEND:20261117T161600Z
+SUMMARY:Luxembourg → Zurich
+LOCATION:Luxembourg
+DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
+ assengers\nAirports: LUX → ZRH\nSource: GlobeAir\nOriginal price: €6\,15
+ 0\nCurrent price: €990 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC5
+ 26G\nFBO: LUXAIR\n\nBook now:\nhttps://fly.globeair.com/el/f54f0824\n\nP
+ lease note: All empty leg flights are subject to schedule change!\n\nAir
+ craft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight time
+ : 46 minutes\nDistance: 159 miles\n\nContact us 24/7\nWhatsApp: https://
+ wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.c
+ om\nBooking / source: https://fly.globeair.com/el/f54f0824\nEmpty-leg sc
+ hedules can change or disappear at short notice. Confirm with the operat
+ or/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/f54f0824
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:f41576f2d91025452eb0003855e15b2bdaa50607@globeair.com
+DTSTAMP:20261117T121410Z
+DTSTART:20261118T104600Z
+DTEND:20261118T115400Z
+SUMMARY:Albert → St Brieuc
+LOCATION:Albert
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BYF → SBK\nSource: GlobeAir\nOriginal price: €7\
+ ,250\nCurrent price: €1\,710 (–76%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC786M\nFBO: RAAP\n\nBook now:\nhttps://fly.globeair.com/el/f41576f2\
+ n\nPlease note: All empty leg flights are subject to schedule change!\n\
+ nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight 
+ time: 68 minutes\nDistance: 234 miles\n\nContact us 24/7\nWhatsApp: http
+ s://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globea
+ ir.com\nBooking / source: https://fly.globeair.com/el/f41576f2\nEmpty-le
+ g schedules can change or disappear at short notice. Confirm with the op
+ erator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/f41576f2
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6d15598da58436f0171f2f60685846064636ce11@globeair.com
+DTSTAMP:20261117T121410Z
+DTSTART:20261118T095500Z
+DTEND:20261118T105800Z
+SUMMARY:Paris Le Bourget → Cranfield
+LOCATION:Paris Le Bourget
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LBG → EGTC\nSource: GlobeAir\nOriginal price: €7
+ \,300\nCurrent price: €1\,710 (–77%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC604H\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glo
+ beair.com/el/6d15598d\n\nPlease note: All empty leg flights are subject 
+ to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
+ lobeAir\nTotal flight time: 63 minutes\nDistance: 219 miles\n\nContact u
+ s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
+ l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
+ /el/6d15598d\nEmpty-leg schedules can change or disappear at short notic
+ e. Confirm with the operator/broker before making connecting travel plan
+ s.
+URL:https://fly.globeair.com/el/6d15598d
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1499e16f4d34116289b7c24f9377fa1c2ffb6f0a@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Zurich Airport → Stuttgart Airport
@@ -67,7 +114,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:d50de2858b6df0c2bcd2847850c82244fd4c411d@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Oberpfaffenhofen Airport → Salzburg Airport
@@ -85,7 +132,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9eb7695b800e0759c52e1bd17c8d45e8ef438aa4@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Stuttgart Airport → Zurich Airport
@@ -103,7 +150,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -121,7 +168,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261117T032114Z
+DTSTAMP:20261117T121410Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
