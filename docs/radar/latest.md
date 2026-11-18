@@ -1,11 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-18 07:19 UTC · public web sources only_
+_Updated 2026-11-18 17:12 UTC · public web sources only_
 
 ## AI / DC
 
 - [What makes the North Sea attractive to telecoms companies? - Capacity Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhwdDI2YWFwOGI1VmNTb3BBcWFBTWFFQVdxd3JNWEFrNmR1cUFkZG0yQi1ndlptcGoybEVzQ09wRE12SFdwVFZ4ZGhUZ19IRWdVdlNSSDFYSFUtSzhuVzhBakxDM1RPTTRuY0Ewa2pjVlpOdm9LZlFjTEYwQVZrenBnd0F3VHBBV1F1Qk84OW5DMmpr?oc=5) · 2026-11-17 — Capacity Media
-- [3 British Penny Stocks With Earnings Growth Up To 53% - Simply Wall St](https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTmtuZ3NFc0tYWm42aW43Ui1jYWVuYVpvcEVFS0FTb0RmSXI1aXJyWG1tTnZhN3NqV243cnBGUllhWDhhazNZSW55WHA1R0pUQW90NUQ2UWpSdVZoN1lWVENlM1V3d3hLZkNxRmRCZmc0RkE4dERvQW5PTGhTNFhNbFRtR2VSZ2FLcjQyVm1GWXZJRjVEQzVCZ3g5di0wSW1GWV9mVWtmd29OenFVem5odlNHZ2VmRUZIdTNlWnRsOWx4WGtDczFTdmJxcHFTa2Y5?oc=5) · 2026-11-14 — Simply Wall St
 - [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) · 2026-11-10 — ET Datacenters
 - [Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres - Investigate Europe](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhsU0h5LVZQWnEtX09jR0d3eWx3OXNZZjBEclJnWTFjeU8tODlTc1FNUGZTNTJJcno0SUJDNzZ6SmUzZ1RJZjZtanRySl9mOHFmb240dXFJalVXWVpFV1dUY3RLai0yU05KQmxybzRkZnQtczM3ZW9ENDVDNVNPN1VqbURieU1kcW5NdlROb2dDYWpIZ09rUF9JU0JzWUtwUWVWZ1M3cjhKZFZnLTU3VlRPaVBtMkt6WDFfQnY1c3llTG1PdU9ZbzczTUotTlpOZ242Q0F3?oc=5) · 2026-10-29 — Investigate Europe
