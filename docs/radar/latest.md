@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-17 23:28 UTC · public web sources only_
+_Updated 2026-11-18 07:19 UTC · public web sources only_
 
 ## AI / DC
 
@@ -13,7 +13,6 @@ _Updated 2026-11-17 23:28 UTC · public web sources only_
 ## Telecom
 
 - [Nokia, Telia spread AI Gigafactory bet across Nordic-Baltic region - Telco Titans](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeU41NXlCWmo5bFlFVGpyb0lUVzhhb25oM09sNzlfWmNkOUh3UUVPVDNLWGFMbWoyLTFtRUpRVWZhd3BSeklTa0Z3dkJHU1dmXzVjM1l1WF9KM0poTjNsZFZyZ3hCZG4ycVNQZzVuaER0WkdiY3hGZ0loQy1LX3dyckhJcWVjNzJZZGVKZEE3NVpHTWZwWkN1MXRZUVB0Qk5HbXk0WHJtb0Q4YXdfb3E5YWUyTnA3SVVuekE?oc=5) · 2026-11-17 — Telco Titans
-- [Telenor Q3 2026: Profit Surges 225%, Revenue Falls 2.9% - TelecomLead](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0s2QTA1WEIxOEVINTlyNDJRcnhwcFhBRW80WUtISFAycmZsUWR0cWpNOXNVZkt4V3AtVkZ0ZDZlWlVPZXNELUEzc05PTjhYZkNzeHpiSUxxbWxnSjZhTkZIOUliVFd3a0k1TzJXVmN1bkJpSkNUNlUzTk5PdWhlNFFheG5Td3U2XzNfZXFR0gGWAUFVX3lxTE1IUzdYTnRMQmlnUzRqdnhUNkhQUGNzUFdxeDJsUU9URzkxMXJuMWhkeUhpaEplUGZwOHRFQS12d2hUbk9sbGVHTW5odU5qbTN4dUhPSWVwQ2JDODNiU1VFSEdCR1BYVnlncUVYdldidjFnOXg4dERIYllORTRkeDlJX1FhX1F2b0xqdlpNejNtVkpXVGRkUQ?oc=5) · 2026-10-28 — TelecomLead
 
 ## Regulation
 
