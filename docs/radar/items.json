@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-11-19T01:51:14.039871+00:00",
+  "updated_at": "2026-11-19T12:57:09.576622+00:00",
   "items": [
+    {
+      "category": "Nordic AI infrastructure",
+      "section": "AI / DC",
+      "title": "PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI - The Detroit News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFFoZGFTUDZlbFpkNHY1V2kyb2dGY3kxbHI4T3B4RGtlVk5Ka3V1bzgxWVdPUkRrZmhhazR6UzN6SEhYV0tMMjZ0a2p5QkJkQktXUHhYcThlckl5WUpRVnZTaVl0UjU0a210blJkMHhJNmVJajFvT3M2YzdpZWdkSk14d0dTZ3NTLVNxX3hJLVJOTTRpdDdqc1JoNEMxZVlZNjJEQm9JajRNUXJfU2NPb3FycXQyZ1k5M1B6c2Q3SEt6eldYNkxjSU1qTQ?oc=5",
+      "published": "2026-11-19T11:37:04+00:00",
+      "source": "The Detroit News",
+      "summary": "PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI The Detroit News",
+      "score": 7,
+      "why": "Capacity / investment signal"
+    },
     {
       "category": "Datacentres",
       "section": "AI / DC",
@@ -20,19 +31,19 @@
       "published": "2026-11-17T10:23:47+00:00",
       "source": "Telco Titans",
       "summary": "Nokia, Telia spread AI Gigafactory bet across Nordic-Baltic region Telco Titans",
-      "score": 20,
+      "score": 19,
       "why": "Policy / sovereignty"
     },
     {
-      "category": "Nordic AI infrastructure",
+      "category": "GPU cloud and neocloud",
       "section": "AI / DC",
-      "title": "Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5",
-      "published": "2026-11-11T08:18:25+00:00",
-      "source": "Securities.io",
-      "summary": "Armada and Johnson Controls Begin Dublin AI Data Center Production Securities.io",
-      "score": 6,
-      "why": "AI / datacentre demand"
+      "title": "Telia Agrees to Acquire Telavox’s Nordic Enterprise Customer Base - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRZdExFemZGbTBhNTBmaXJ1YnpWYVBpVlhMdllxRUhlS0c5MmVTajFEaGttR3RzMWVtUmVSdlU4SERSZUQ1RDhNZ2FodVZHaDRFNUx6WWNlWG9fc1I4UEFuVlhCbTB4b2EzSnVZcHMyWmtsRTJ4akFKN3daaEtZSFAxZ016T185UTVMSzVETE03M1EwLVdxXzM5c05pbzd2T2p5T0FMdU5Cd2hpVGMzRHBDS3JES3M?oc=5",
+      "published": "2026-11-12T10:59:11+00:00",
+      "source": "TipRanks",
+      "summary": "Telia Agrees to Acquire Telavox’s Nordic Enterprise Customer Base TipRanks",
+      "score": 13,
+      "why": "Market structure / M&A"
     },
     {
       "category": "Datacentres",
@@ -110,17 +121,6 @@
       "summary": "EU and Canada team up in supercomputing and quantum Shaping Europe’s digital future",
       "score": 0,
       "why": "Policy / sovereignty"
-    },
-    {
-      "category": "Nordic AI infrastructure",
-      "section": "AI / DC",
-      "title": "Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres - Investigate Europe",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhsU0h5LVZQWnEtX09jR0d3eWx3OXNZZjBEclJnWTFjeU8tODlTc1FNUGZTNTJJcno0SUJDNzZ6SmUzZ1RJZjZtanRySl9mOHFmb240dXFJalVXWVpFV1dUY3RLai0yU05KQmxybzRkZnQtczM3ZW9ENDVDNVNPN1VqbURieU1kcW5NdlROb2dDYWpIZ09rUF9JU0JzWUtwUWVWZ1M3cjhKZFZnLTU3VlRPaVBtMkt6WDFfQnY1c3llTG1PdU9ZbzczTUotTlpOZ242Q0F3?oc=5",
-      "published": "2026-10-29T07:00:00+00:00",
-      "source": "Investigate Europe",
-      "summary": "Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres Investigate Europe",
-      "score": 6,
-      "why": "AI / datacentre demand"
     }
   ]
 }

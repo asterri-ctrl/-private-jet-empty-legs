@@ -1,13 +1,13 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-19 01:51 UTC · public web sources only_
+_Updated 2026-11-19 12:57 UTC · public web sources only_
 
 ## AI / DC
 
+- [PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI - The Detroit News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFFoZGFTUDZlbFpkNHY1V2kyb2dGY3kxbHI4T3B4RGtlVk5Ka3V1bzgxWVdPUkRrZmhhazR6UzN6SEhYV0tMMjZ0a2p5QkJkQktXUHhYcThlckl5WUpRVnZTaVl0UjU0a210blJkMHhJNmVJajFvT3M2YzdpZWdkSk14d0dTZ3NTLVNxX3hJLVJOTTRpdDdqc1JoNEMxZVlZNjJEQm9JajRNUXJfU2NPb3FycXQyZ1k5M1B6c2Q3SEt6eldYNkxjSU1qTQ?oc=5) · 2026-11-19 — The Detroit News
 - [What makes the North Sea attractive to telecoms companies? - Capacity Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhwdDI2YWFwOGI1VmNTb3BBcWFBTWFFQVdxd3JNWEFrNmR1cUFkZG0yQi1ndlptcGoybEVzQ09wRE12SFdwVFZ4ZGhUZ19IRWdVdlNSSDFYSFUtSzhuVzhBakxDM1RPTTRuY0Ewa2pjVlpOdm9LZlFjTEYwQVZrenBnd0F3VHBBV1F1Qk84OW5DMmpr?oc=5) · 2026-11-17 — Capacity Media
-- [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
+- [Telia Agrees to Acquire Telavox’s Nordic Enterprise Customer Base - TipRanks](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRZdExFemZGbTBhNTBmaXJ1YnpWYVBpVlhMdllxRUhlS0c5MmVTajFEaGttR3RzMWVtUmVSdlU4SERSZUQ1RDhNZ2FodVZHaDRFNUx6WWNlWG9fc1I4UEFuVlhCbTB4b2EzSnVZcHMyWmtsRTJ4akFKN3daaEtZSFAxZ016T185UTVMSzVETE03M1EwLVdxXzM5c05pbzd2T2p5T0FMdU5Cd2hpVGMzRHBDS3JES3M?oc=5) · 2026-11-12 — TipRanks
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSzM0ZjQ4WkVBV2FKai1mSXhLM1NhOThHdmJmQjgwbndEZzgyTENkNTlzZ2NkTWRncFJvYVBkcFJrWTQ2ZG9qSk5zb1F2RTNCRlZUQUcxM3l2Q1g1a1VjcGlZRTFlLTc3OGppeTh3RDBoU0t4cFJXWWRzZjZMNlpXdjVPS3dId01DdWJ6c3FoTGdoWUN2eWxGamh5bVpYb3NKNk56TEswNy1ibzA4RU0zakp3QXo1SlZxTjlhZmlRUjZsV3pHVlJyOWNmZVB1XzlB0gHUAUFVX3lxTE0zM19wWG43SGVsVV9YZDVzUzN6NlQxcFNYQTNNSTdyVXVPeUt3YUtCaHVKcmxzLW1LM1ItNk5Kd2lHVks3cFYzbXRuSE1LLUVVZU9iNlV4SlhHT0NuUUhlUEN2aWU3UHpJd2pjNXZ0XzlweGxlTk8tV1FQc19CdnlfSDhTNHVCLXlYbjNvdG1IY244NzZQem9OUEJ3d0E0RXRUdV9xNXJPNHA1Smg1TThOUDF6SWNrSHg4MDREUDlCUnBobU4xUDR2UVhGY1ZlenFXQzJ1?oc=5) · 2026-11-10 — ET Datacenters
-- [Electrocutions, ‘mental terror’ and withheld wages: the exploited workers building Europe’s data centres - Investigate Europe](https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNnhsU0h5LVZQWnEtX09jR0d3eWx3OXNZZjBEclJnWTFjeU8tODlTc1FNUGZTNTJJcno0SUJDNzZ6SmUzZ1RJZjZtanRySl9mOHFmb240dXFJalVXWVpFV1dUY3RLai0yU05KQmxybzRkZnQtczM3ZW9ENDVDNVNPN1VqbURieU1kcW5NdlROb2dDYWpIZ09rUF9JU0JzWUtwUWVWZ1M3cjhKZFZnLTU3VlRPaVBtMkt6WDFfQnY1c3llTG1PdU9ZbzczTUotTlpOZ242Q0F3?oc=5) · 2026-10-29 — Investigate Europe
 
 ## Telecom
 
