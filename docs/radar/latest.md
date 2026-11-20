@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-20 07:06 UTC · public web sources only_
+_Updated 2026-11-20 16:55 UTC · public web sources only_
 
 ## AI / DC
 
@@ -18,6 +18,5 @@ _Updated 2026-11-20 07:06 UTC · public web sources only_
 
 - [The EU Open Source Strategy - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMiekFVX3lxTE5DdnV1LUc2SkZTYThheF9YcHNzU3pBRklUZDQ1ZHhFcWxLR2trQU1aaUJxRUQ4OTI1QmV3dnlfaGQ0NzVpbmV5bTU0MU55T2lXbmY4cHp3RmZ5YXlhR3NSZmF6QUF5UnN3cXYzeGJ3aFh0NHdPSEE5Vld3?oc=5) · 2026-11-06 — Shaping Europe’s digital future
 - [Chips Act 2.0 - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMibkFVX3lxTFBZY1JPNHdJMC03eGVlbGhzZXpPQ1YyS3doVDRCRmlMSDVnZjNZaXRoYWJydXdxQ2VNYU5IUWFJb2pGRVFWeVFEWDNTRHMwTE5sbDhxSjY1aDZGQUpvR0pDdFh5SVFrWS1iQXFKLXpR?oc=5) · 2026-11-06 — Shaping Europe’s digital future
-- [Strengthening Europe’s tech sovereignty - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMieEFVX3lxTFBmdVNQUWJCZkxEaVZfMDhjU291bU8yLTVPQlNMMFdDanBnazA3V05zY1JOYmp4OU9OOXRjRV9saV9ZVE9fQVZ4X2RsMkVrXzVEOTg1T0tJSmlGRllTdHZjajZpbTB6bzkxR3dyQ0REUThmajFCdXg4eA?oc=5) · 2026-11-05 — Shaping Europe’s digital future
 - [Commission launches Education and Skills package to tackle declining basic skills, rapid digital change and teacher shortages - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMWh4TE5na3k5OUxsNUg0cWtXbFdZWEpBbVFrb3dRTTlmaS1XTWVjTlpCVmJUaEJxdVNscFhoekJnQkw2LVZ1UTJGNmVnWDFEeWVhN09oNHpIbkVOcmdGdm5ieWpWaW9NNHpVMnZtNVZpUEl6c1RkcG5vaTJ5MG1WeDVsNzdiVDBUN0J6cEFzVmdrM1YtLXF0Z19mc1RraC1xNU4xc09iUHB0U0txWVU1Qm5Tc2xrX043ZzVxOTlJdHpOai01UHJ2MnhvV3dON1RUSVN5ZHk3MzJYcTEzWUE?oc=5) · 2026-11-05 — Shaping Europe’s digital future
 - [Cloud and AI Development Act - Shaping Europe’s digital future](https://news.google.com/rss/articles/CBMihAFBVV95cUxQN1lHSHd0SV9ZYTE0MDA4OVZKcmhIZkVwemhVZXFIMzJONjlaZzY4R2tHaElVN2lMSnUwSlN4d1lhODNnWlE5RzNBUlhLaEhxVTJuNzhkeTRDeU5fNFNKOGNBckQzYjVpNHNxUndmYnNxZnZrZmc3ZndwV0RqUVNieWJHcFU?oc=5) · 2026-11-05 — Shaping Europe’s digital future
