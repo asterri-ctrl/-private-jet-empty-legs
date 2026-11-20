@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:a6eb52cd6ede187ca6c270599fd8a7981fb9a3f8@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T105600Z
 DTEND:20261120T115900Z
 SUMMARY:Dresden → Hamburg
@@ -31,12 +31,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7f8de8a2e0630d1cd96dfc4f720698432234d7a0@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Dresden → Hamburg
 LOCATION:Dresden
-DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: EDDC → EDDH\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -49,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ada2d6276bee6f3871f317e149d28fa71b9fb073@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Lahr Airport → Zurich Airport
@@ -67,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:99e36c93035f65cf0319103e9903e8a6951b697f@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T161500Z
 DTEND:20261120T174900Z
 SUMMARY:Geneva → Jersey
@@ -90,12 +90,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:c1fcb468953ee194c595d15dff5af9fb2891bfe8@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Milan Linate → Zurich
 LOCATION:Milan Linate
-DESCRIPTION:Price: €1\,529\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,199\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LIML → LSZH\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -108,7 +108,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:be5f38fdf227ce04b8576487b05b5664f4695644@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T160000Z
 DTEND:20261120T163900Z
 SUMMARY:Milan Linate → Zurich
@@ -131,12 +131,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:669185f95972d64554ac35ce830508eb1ccb351d@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Vienna → London Biggin Hill
 LOCATION:Vienna
-DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LOWW → EGKB\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -149,7 +149,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3591b0e7d5bea20e91b93c0bd3c4678335364064@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Geneva Cointrin International Airport → Sunset Strip 0GA6 · Jerse
@@ -170,12 +170,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:b850eb7f18c2c2a73b00d61a1c9cb6b55a8f4475@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Geneva → Jersey
 LOCATION:Geneva
-DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
  4 passengers\nAirports: LSGG → EGJJ\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
@@ -188,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:9033f620dd91980d80bfc333e90eb0ef6cc46c23@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T124600Z
 DTEND:20261120T131500Z
 SUMMARY:Nice → Marseille
@@ -211,7 +211,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:12b30c520f61daccca2c2de626e4b7af454b0a2c@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T150000Z
 DTEND:20261120T172300Z
 SUMMARY:Rimini → Paris Le Bourget
@@ -234,7 +234,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8adafe1403c6cf63d6958c117872eb0213e2c7b2@globeair.com
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART:20261120T104000Z
 DTEND:20261120T120600Z
 SUMMARY:Venice → Olbia
@@ -256,31 +256,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e13af4e3f2c3ab4f91631065c468b5fd627c79be@globeair.com
-DTSTAMP:20261120T004610Z
-DTSTART:20261120T134300Z
-DTEND:20261120T162400Z
-SUMMARY:Vienna → London Biggin Hill
-LOCATION:Vienna
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: VIE → BQH\nSource: GlobeAir\nOriginal price: €11\,5
- 00\nCurrent price: €990 (–91%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 898L\nFBO: Jet Aviation Vienna\n\nBook now:\nhttps://fly.globeair.com/el
- /e13af4e3\n\nPlease note: All empty leg flights are subject to schedule 
- change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTot
- al flight time: 161 minutes\nDistance: 668 miles\n\nContact us 24/7\nWha
- tsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customer
- care@globeair.com\nBooking / source: https://fly.globeair.com/el/e13af4e
- 3\nEmpty-leg schedules can change or disappear at short notice. Confirm 
- with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/e13af4e3
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -298,7 +275,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261120T004610Z
+DTSTAMP:20261120T075752Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
