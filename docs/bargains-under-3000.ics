@@ -8,7 +8,7 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:cef8379c85d6e78557462f6936f3fb873636132e@globeair.com
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART:20261122T153700Z
 DTEND:20261122T162700Z
 SUMMARY:Berlin → Hamburg
@@ -30,8 +30,44 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:515b64619b4eef468f2cfa7b33aaed23fd9ccf88@emptylegs.local
+DTSTAMP:20261121T234033Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Berlin → Hamburg
+LOCATION:Berlin
+DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDDB → EDDH\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:c1c9638cdb7437b2ad2cb979c7a245cd503143f7@emptylegs.local
+DTSTAMP:20261121T234033Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Sylt/ Westerland → Lelystad
+LOCATION:Sylt/ Westerland
+DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDXW → EHLE\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:e5c63efd90d0a3a6360b1e8265628df3485c569c@globeair.com
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART:20261122T140100Z
 DTEND:20261122T144500Z
 SUMMARY:Sylt/ Westerland → Lelystad
@@ -54,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:ea0274cf6d8a98cc4c7473fca451b7d80b59336d@emptylegs.local
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Toulouse → Geneva
@@ -71,26 +107,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:bd88ffd0a9ce70e2ff9d851a8eec7b47a511190f@emptylegs.local
-DTSTAMP:20261121T184742Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Wiener Neustadt East Airport → Salzburg Airport
-LOCATION:Wiener Neustadt East Airport
-DESCRIPTION:Price: €2\,475\nAircraft: Pilatus PC12 NGX\nCapacity: 6 passe
- ngers\nAirports: LOAN → LOWS\nSource: PrivJet\nPrice shown by PrivJet in
- cludes its stated service fee. Confirm live availability before booking.
- \nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg sch
- edules can change or disappear at short notice. Confirm with the operato
- r/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:43d79c0dde919010beb1d8601247b5c3cdf3a6eb@emptylegs.local
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Vienna → Venice
@@ -108,7 +126,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:85561c2c00929899adeca02c4ae5ab0df71b0de0@globeair.com
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART:20261122T104000Z
 DTEND:20261122T114000Z
 SUMMARY:Toulouse → Geneva
@@ -131,7 +149,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3671fccdeed265cb05ef334e1160789b2adfda@globeair.com
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART:20261122T094300Z
 DTEND:20261122T105500Z
 SUMMARY:Vienna → Venice
@@ -154,7 +172,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
@@ -172,7 +190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -190,7 +208,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261121T184742Z
+DTSTAMP:20261121T234033Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
