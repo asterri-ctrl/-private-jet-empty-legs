@@ -1,11 +1,10 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-21 01:27 UTC · public web sources only_
+_Updated 2026-11-21 12:34 UTC · public web sources only_
 
 ## AI / DC
 
 - [PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI - The Detroit News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFFoZGFTUDZlbFpkNHY1V2kyb2dGY3kxbHI4T3B4RGtlVk5Ka3V1bzgxWVdPUkRrZmhhazR6UzN6SEhYV0tMMjZ0a2p5QkJkQktXUHhYcThlckl5WUpRVnZTaVl0UjU0a210blJkMHhJNmVJajFvT3M2YzdpZWdkSk14d0dTZ3NTLVNxX3hJLVJOTTRpdDdqc1JoNEMxZVlZNjJEQm9JajRNUXJfU2NPb3FycXQyZ1k5M1B6c2Q3SEt6eldYNkxjSU1qTQ?oc=5) · 2026-11-19 — The Detroit News
-- [What makes the North Sea attractive to telecoms companies? - Capacity Media](https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhwdDI2YWFwOGI1VmNTb3BBcWFBTWFFQVdxd3JNWEFrNmR1cUFkZG0yQi1ndlptcGoybEVzQ09wRE12SFdwVFZ4ZGhUZ19IRWdVdlNSSDFYSFUtSzhuVzhBakxDM1RPTTRuY0Ewa2pjVlpOdm9LZlFjTEYwQVZrenBnd0F3VHBBV1F1Qk84OW5DMmpr?oc=5) · 2026-11-17 — Capacity Media
 - [Telia Agrees to Acquire Telavox’s Nordic Enterprise Customer Base - TipRanks](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRZdExFemZGbTBhNTBmaXJ1YnpWYVBpVlhMdllxRUhlS0c5MmVTajFEaGttR3RzMWVtUmVSdlU4SERSZUQ1RDhNZ2FodVZHaDRFNUx6WWNlWG9fc1I4UEFuVlhCbTB4b2EzSnVZcHMyWmtsRTJ4akFKN3daaEtZSFAxZ016T185UTVMSzVETE03M1EwLVdxXzM5c05pbzd2T2p5T0FMdU5Cd2hpVGMzRHBDS3JES3M?oc=5) · 2026-11-12 — TipRanks
 - [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlhSTFVaYUpuR29wUjVjdmJqLW1NOXVhZ0VzQml1SEJWQ052OERwYmw2LVU3UE9FS19YdVlFeWVfRGFXWmJYTVAxLUc5TmVSa1ljRXhJMmR2dVhuSkMxUGw1elN1S01uMGZiYXp6c2lFb2hzdHc2VDBWQWZsSzctVDdvZG1fSlJsQl9yT0l4UnRjM1VKV3JSZnZNRENEWXZPQ05pNVhmLWl2RFVlUXE1OGNFQUR4eWpNWTNqX0xKUEFZRXVoaDgyTXZnWVAxUk3SAdQBQVVfeXFMTTMzX3BYbjdIZWxVX1hkNXNTM3o2VDFwU1hBM01JN3JVdU95S3dhS0JodUpybHMtbUszUi02Tkp3aUdWSzdwVjNtdG5ITUstRVVlT2I2VXhKWEdPQ25RSGVQQ3ZpZTdQekl3amM1dnRfOXB4bGVOTy1XUVBzX0J2eV9IOFM0dUIteVhuM290bUhjbjg3NlB6b05QQnd3QTRFdFR1X3E1ck80cDVKaDVNOE5QMXpJY2tIeDgwNERQOUJScGhtTjFQNHZRWEZjVmV6cVdDMnU?oc=5) · 2026-11-10 — ET Datacenters
