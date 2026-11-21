@@ -7,14 +7,60 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:5c2d397945ccf486dbaa5abd9384af7e772eaac2@emptylegs.local
-DTSTAMP:20261121T115811Z
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-SUMMARY:Linz → Munich
-LOCATION:Linz
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LOWL → EDDM\nSource: PrivJet\nPrice shown by Pri
+UID:cef8379c85d6e78557462f6936f3fb873636132e@globeair.com
+DTSTAMP:20261121T184742Z
+DTSTART:20261122T153700Z
+DTEND:20261122T162700Z
+SUMMARY:Berlin → Hamburg
+LOCATION:Berlin
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BER → HAM\nSource: GlobeAir\nOriginal price: €6\
+ ,700\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC553Q\nFBO: Execujet Europe\n\nBook now:\nhttps://fly.globeair.com/e
+ l/cef8379c\n\nPlease note: All empty leg flights are subject to schedule
+  change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
+ tal flight time: 50 minutes\nDistance: 148 miles\n\nContact us 24/7\nWha
+ tsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customer
+ care@globeair.com\nBooking / source: https://fly.globeair.com/el/cef8379
+ c\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/cef8379c
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e5c63efd90d0a3a6360b1e8265628df3485c569c@globeair.com
+DTSTAMP:20261121T184742Z
+DTSTART:20261122T140100Z
+DTEND:20261122T144500Z
+SUMMARY:Sylt/ Westerland → Lelystad
+LOCATION:Sylt/ Westerland
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: GWT → LEY\nSource: GlobeAir\nOriginal price: €7\
+ ,850\nCurrent price: €1\,290 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC478A\nFBO: Sylt Air\n\nBook now:\nhttps://fly.globeair.com/el/e5c63
+ efd\n\nPlease note: All empty leg flights are subject to schedule change
+ !\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fli
+ ght time: 44 minutes\nDistance: 178 miles\n\nContact us 24/7\nWhatsApp: 
+ https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@gl
+ obeair.com\nBooking / source: https://fly.globeair.com/el/e5c63efd\nEmpt
+ y-leg schedules can change or disappear at short notice. Confirm with th
+ e operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e5c63efd
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:ea0274cf6d8a98cc4c7473fca451b7d80b59336d@emptylegs.local
+DTSTAMP:20261121T184742Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Toulouse → Geneva
+LOCATION:Toulouse
+DESCRIPTION:Price: €1\,881\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFBO → LSGG\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -26,7 +72,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:bd88ffd0a9ce70e2ff9d851a8eec7b47a511190f@emptylegs.local
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Wiener Neustadt East Airport → Salzburg Airport
@@ -43,8 +89,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:43d79c0dde919010beb1d8601247b5c3cdf3a6eb@emptylegs.local
+DTSTAMP:20261121T184742Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Vienna → Venice
+LOCATION:Vienna
+DESCRIPTION:Price: €1\,529\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LOWW → LIPZ\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:85561c2c00929899adeca02c4ae5ab0df71b0de0@globeair.com
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART:20261122T104000Z
 DTEND:20261122T114000Z
 SUMMARY:Toulouse → Geneva
@@ -67,9 +131,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4f3671fccdeed265cb05ef334e1160789b2adfda@globeair.com
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART:20261122T094300Z
-DTEND:20261122T105200Z
+DTEND:20261122T105500Z
 SUMMARY:Vienna → Venice
 LOCATION:Vienna
 DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -78,7 +142,7 @@ DESCRIPTION:Price: €1\,390\nAircraft: Cessna Citation Mustang\nCapacity:
  : GAC985V\nFBO: Jet Aviation Vienna\n\nBook now:\nhttps://fly.globeair.c
  om/el/4f3671fc\n\nPlease note: All empty leg flights are subject to sche
  dule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir
- \nTotal flight time: 69 minutes\nDistance: 233 miles\n\nContact us 24/7\
+ \nTotal flight time: 72 minutes\nDistance: 233 miles\n\nContact us 24/7\
  nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
  omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/4f3
  671fc\nEmpty-leg schedules can change or disappear at short notice. Conf
@@ -90,7 +154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
@@ -108,7 +172,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -126,7 +190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261121T115811Z
+DTSTAMP:20261121T184742Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
