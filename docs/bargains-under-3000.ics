@@ -7,85 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:cef8379c85d6e78557462f6936f3fb873636132e@globeair.com
-DTSTAMP:20261122T125910Z
-DTSTART:20261122T153700Z
-DTEND:20261122T162700Z
-SUMMARY:Berlin → Hamburg
-LOCATION:Berlin
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BER → HAM\nSource: GlobeAir\nOriginal price: €6\,70
- 0\nCurrent price: €990 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC5
- 53Q\nFBO: Execujet Europe\n\nBook now:\nhttps://fly.globeair.com/el/cef8
- 379c\n\nPlease note: All empty leg flights are subject to schedule chang
- e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
- ight time: 50 minutes\nDistance: 148 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/cef8379c\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/cef8379c
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:515b64619b4eef468f2cfa7b33aaed23fd9ccf88@emptylegs.local
-DTSTAMP:20261122T125910Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Berlin → Hamburg
-LOCATION:Berlin
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EDDB → EDDH\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:c1c9638cdb7437b2ad2cb979c7a245cd503143f7@emptylegs.local
-DTSTAMP:20261122T125910Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Sylt/ Westerland → Lelystad
-LOCATION:Sylt/ Westerland
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EDXW → EHLE\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:ea0274cf6d8a98cc4c7473fca451b7d80b59336d@emptylegs.local
-DTSTAMP:20261122T125910Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Toulouse → Geneva
-LOCATION:Toulouse
-DESCRIPTION:Price: €1\,551\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LFBO → LSGG\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:bd88ffd0a9ce70e2ff9d851a8eec7b47a511190f@emptylegs.local
-DTSTAMP:20261122T125910Z
+DTSTAMP:20261122T201300Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Wiener Neustadt East Airport → Salzburg Airport
@@ -102,14 +25,37 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:43d79c0dde919010beb1d8601247b5c3cdf3a6eb@emptylegs.local
-DTSTAMP:20261122T125910Z
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-SUMMARY:Vienna → Venice
-LOCATION:Vienna
-DESCRIPTION:Price: €1\,199\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LOWW → LIPZ\nSource: PrivJet\nPrice shown by Pri
+UID:ce74a6498edcf8ec1e591b941b2107a682eb2ac3@globeair.com
+DTSTAMP:20261122T201300Z
+DTSTART:20261123T185500Z
+DTEND:20261123T193700Z
+SUMMARY:Amsterdam → London Biggin Hill
+LOCATION:Amsterdam
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: AMS → BQH\nSource: GlobeAir\nOriginal price: €6\
+ ,750\nCurrent price: €1\,290 (–81%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC356P\nFBO: Jet Aviation\n\nBook now:\nhttps://fly.globeair.com/el/c
+ e74a649\n\nPlease note: All empty leg flights are subject to schedule ch
+ ange!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal
+  flight time: 42 minutes\nDistance: 185 miles\n\nContact us 24/7\nWhatsA
+ pp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercar
+ e@globeair.com\nBooking / source: https://fly.globeair.com/el/ce74a649\n
+ Empty-leg schedules can change or disappear at short notice. Confirm wit
+ h the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/ce74a649
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:75303681ff32e2cf4bc6c8113ebcfd273babc657@emptylegs.local
+DTSTAMP:20261122T201300Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:Lodz → Weeze
+LOCATION:Lodz
+DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EPLL → EDLV\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -121,9 +67,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:07424a0ee388189d1342548f1eb1e3b195275b1e@globeair.com
-DTSTAMP:20261122T125910Z
+DTSTAMP:20261122T201300Z
 DTSTART:20261123T103000Z
-DTEND:20261123T115400Z
+DTEND:20261123T113000Z
 SUMMARY:Paris Le Bourget → Brest
 LOCATION:Paris Le Bourget
 DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
@@ -132,7 +78,7 @@ DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity:
  #: GAC352S\nFBO: JetAviation (ex Astonsky)\n\nBook now:\nhttps://fly.glo
  beair.com/el/07424a0e\n\nPlease note: All empty leg flights are subject 
  to schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by G
- lobeAir\nTotal flight time: 84 minutes\nDistance: 273 miles\n\nContact u
+ lobeAir\nTotal flight time: 60 minutes\nDistance: 273 miles\n\nContact u
  s 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmai
  l: customercare@globeair.com\nBooking / source: https://fly.globeair.com
  /el/07424a0e\nEmpty-leg schedules can change or disappear at short notic
@@ -144,31 +90,54 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:cdd7260944714b1049cef840ca2eb72f3fe4a443@globeair.com
-DTSTAMP:20261122T125910Z
-DTSTART:20261123T130500Z
-DTEND:20261123T141900Z
-SUMMARY:Zurich → Brussels
-LOCATION:Zurich
+UID:96f38e80ac7f9389e93c6f48c211ea933c59f3df@globeair.com
+DTSTAMP:20261122T201300Z
+DTSTART:20261123T152600Z
+DTEND:20261123T171900Z
+SUMMARY:Lodz → Weeze
+LOCATION:Lodz
 DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: ZRH → BRU\nSource: GlobeAir\nOriginal price: €8\
- ,450\nCurrent price: €1\,290 (–85%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC957F\nFBO: Jet Aviation (South)\n\nBook now:\nhttps://fly.globeair.
- com/el/cdd72609\n\nPlease note: All empty leg flights are subject to sch
- edule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAi
- r\nTotal flight time: 74 minutes\nDistance: 261 miles\n\nContact us 24/7
- \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
- tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/cd
- d72609\nEmpty-leg schedules can change or disappear at short notice. Con
- firm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/cdd72609
+ 4 passengers\nAirports: LCJ → NRN\nSource: GlobeAir\nOriginal price: €10
+ \,050\nCurrent price: €1\,290 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC558Y\nFBO: Excel Handling\n\nBook now:\nhttps://fly.globeair.com/e
+ l/96f38e80\n\nPlease note: All empty leg flights are subject to schedule
+  change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
+ tal flight time: 113 minutes\nDistance: 492 miles\n\nContact us 24/7\nWh
+ atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
+ rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/96f38e
+ 80\nEmpty-leg schedules can change or disappear at short notice. Confirm
+  with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/96f38e80
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:6c1ff30b077d0e0ba76d2299beb214b0b6c15c79@globeair.com
+DTSTAMP:20261122T201300Z
+DTSTART:20261123T111200Z
+DTEND:20261123T125400Z
+SUMMARY:Marseille → Deauville
+LOCATION:Marseille
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: MRS → DOL\nSource: GlobeAir\nOriginal price: €16
+ \,350\nCurrent price: €1\,710 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC416A\nFBO: AviaVIP Marseille\n\nBook now:\nhttps://fly.globeair.co
+ m/el/6c1ff30b\n\nPlease note: All empty leg flights are subject to sched
+ ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
+ nTotal flight time: 102 minutes\nDistance: 412 miles\n\nContact us 24/7\
+ nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cust
+ omercare@globeair.com\nBooking / source: https://fly.globeair.com/el/6c1
+ ff30b\nEmpty-leg schedules can change or disappear at short notice. Conf
+ irm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/6c1ff30b
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
-DTSTAMP:20261122T125910Z
+DTSTAMP:20261122T201300Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
@@ -186,7 +155,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261122T125910Z
+DTSTAMP:20261122T201300Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -204,7 +173,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261122T125910Z
+DTSTAMP:20261122T201300Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
