@@ -1,6 +1,6 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-22 16:13 UTC · public web sources only_
+_Updated 2026-11-22 21:45 UTC · public web sources only_
 
 ## AI / DC
 
@@ -10,7 +10,9 @@ _Updated 2026-11-22 16:13 UTC · public web sources only_
 ## Telecom
 
 - [Nokia, Telia spread AI Gigafactory bet across Nordic-Baltic region - Telco Titans](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeU41NXlCWmo5bFlFVGpyb0lUVzhhb25oM09sNzlfWmNkOUh3UUVPVDNLWGFMbWoyLTFtRUpRVWZhd3BSeklTa0Z3dkJHU1dmXzVjM1l1WF9KM0poTjNsZFZyZ3hCZG4ycVNQZzVuaER0WkdiY3hGZ0loQy1LX3dyckhJcWVjNzJZZGVKZEE3NVpHTWZwWkN1MXRZUVB0Qk5HbXk0WHJtb0Q4YXdfb3E5YWUyTnA3SVVuekE?oc=5) · 2026-11-17 — Telco Titans
+- [Telia to acquire Nordic MVNO Telavox's customer base for $381m - Data Center Dynamics](https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0FKUGlROVJwenl4bDBRRXREV3BkLWZCdVJlV3RMdm9JUXI0Z0d2bmV4T1FFdHBBdTBMcXliRWg1dUNCeG53ckswTHk5TmhmSk5KTjlSeFlfRnlXbFQzLV96T1VyVElxNVJ3eVpITHhrRV9lMnF3UW5UcWxyY2lkdFRBOVRPd1dtQzdMN3NlME9VcWM?oc=5) · 2026-11-12 — Data Center Dynamics
 - [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
+- [MastIT acquires MW Field Services ops in Sweden, Denmark and Norway - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3Vzd0dWS3MtNHlBT0RJYk9seWNsdUFaQnVFdC1xX2FhaW1KUXpVbnFNSWRsWDBiX0xZSW5CSHRnSXFoZ09zYWRmanlWZ3JCdmJ3MURCU2lTZUE2ZDY3cmN2T1BNbVc5V3pHRVBxMWdHRndJd0FqTHNHSVJ3UTkzNkM3cVY5ODBmeTlvLTNKT0ZsdmI2U0Z4UVd4WVNPaVRpY1hnNDBwN2RSRnZMZ1E?oc=5) · 2026-11-03 — Telecompaper
 
 ## Regulation
 
