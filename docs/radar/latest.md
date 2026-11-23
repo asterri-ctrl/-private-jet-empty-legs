@@ -1,18 +1,17 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-22 21:45 UTC · public web sources only_
+_Updated 2026-11-23 07:27 UTC · public web sources only_
 
 ## AI / DC
 
 - [Telia Agrees to Acquire Telavox’s Nordic Enterprise Customer Base - TipRanks](https://news.google.com/rss/articles/CBMitwFBVV95cUxQdlRZdExFemZGbTBhNTBmaXJ1YnpWYVBpVlhMdllxRUhlS0c5MmVTajFEaGttR3RzMWVtUmVSdlU4SERSZUQ1RDhNZ2FodVZHaDRFNUx6WWNlWG9fc1I4UEFuVlhCbTB4b2EzSnVZcHMyWmtsRTJ4akFKN3daaEtZSFAxZ016T185UTVMSzVETE03M1EwLVdxXzM5c05pbzd2T2p5T0FMdU5Cd2hpVGMzRHBDS3JES3M?oc=5) · 2026-11-12 — TipRanks
+- [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlhSTFVaYUpuR29wUjVjdmJqLW1NOXVhZ0VzQml1SEJWQ052OERwYmw2LVU3UE9FS19YdVlFeWVfRGFXWmJYTVAxLUc5TmVSa1ljRXhJMmR2dVhuSkMxUGw1elN1S01uMGZiYXp6c2lFb2hzdHc2VDBWQWZsSzctVDdvZG1fSlJsQl9yT0l4UnRjM1VKV3JSZnZNRENEWXZPQ05pNVhmLWl2RFVlUXE1OGNFQUR4eWpNWTNqX0xKUEFZRXVoaDgyTXZnWVAxUk3SAdQBQVVfeXFMTTMzX3BYbjdIZWxVX1hkNXNTM3o2VDFwU1hBM01JN3JVdU95S3dhS0JodUpybHMtbUszUi02Tkp3aUdWSzdwVjNtdG5ITUstRVVlT2I2VXhKWEdPQ25RSGVQQ3ZpZTdQekl3amM1dnRfOXB4bGVOTy1XUVBzX0J2eV9IOFM0dUIteVhuM290bUhjbjg3NlB6b05QQnd3QTRFdFR1X3E1ck80cDVKaDVNOE5QMXpJY2tIeDgwNERQOUJScGhtTjFQNHZRWEZjVmV6cVdDMnU?oc=5) · 2026-11-10 — ET Datacenters
 
 ## Telecom
 
 - [Nokia, Telia spread AI Gigafactory bet across Nordic-Baltic region - Telco Titans](https://news.google.com/rss/articles/CBMiugFBVV95cUxQeU41NXlCWmo5bFlFVGpyb0lUVzhhb25oM09sNzlfWmNkOUh3UUVPVDNLWGFMbWoyLTFtRUpRVWZhd3BSeklTa0Z3dkJHU1dmXzVjM1l1WF9KM0poTjNsZFZyZ3hCZG4ycVNQZzVuaER0WkdiY3hGZ0loQy1LX3dyckhJcWVjNzJZZGVKZEE3NVpHTWZwWkN1MXRZUVB0Qk5HbXk0WHJtb0Q4YXdfb3E5YWUyTnA3SVVuekE?oc=5) · 2026-11-17 — Telco Titans
-- [Telia to acquire Nordic MVNO Telavox's customer base for $381m - Data Center Dynamics](https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0FKUGlROVJwenl4bDBRRXREV3BkLWZCdVJlV3RMdm9JUXI0Z0d2bmV4T1FFdHBBdTBMcXliRWg1dUNCeG53ckswTHk5TmhmSk5KTjlSeFlfRnlXbFQzLV96T1VyVElxNVJ3eVpITHhrRV9lMnF3UW5UcWxyY2lkdFRBOVRPd1dtQzdMN3NlME9VcWM?oc=5) · 2026-11-12 — Data Center Dynamics
 - [Telenor Report Highlights Cybersecurity and Cross-Border Emergency Preparedness - The Fast Mode](https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb195dmVPWVZOdGpDOUZNSS1IVUFUX0dOQXkwdXpfdVk5NU1zbkhlZzMwTEotTFlqWkR0MUZ2THd2Q0ZGZnZ2dHJkTjlvM0U4XzNKYXhVRE5JTmdtSU5OS3VrNjZFRXdaOE1VMW5hakdZTE5yZU02aC1JQmt5QXdJS2JaQjhPaWZNQXFYMktteUppbzhRTmFnNmU5VjBOS3YyeDVmMXpTUWFxZG1wQllYMWhzUGI3TlM3Uk91bjY4d0tRYWdVWHkyYk1nSnVfRDk1elpNQ2Y4T1dNVkpT?oc=5) · 2026-11-05 — The Fast Mode
-- [MastIT acquires MW Field Services ops in Sweden, Denmark and Norway - Telecompaper](https://news.google.com/rss/articles/CBMirgFBVV95cUxNa3Vzd0dWS3MtNHlBT0RJYk9seWNsdUFaQnVFdC1xX2FhaW1KUXpVbnFNSWRsWDBiX0xZSW5CSHRnSXFoZ09zYWRmanlWZ3JCdmJ3MURCU2lTZUE2ZDY3cmN2T1BNbVc5V3pHRVBxMWdHRndJd0FqTHNHSVJ3UTkzNkM3cVY5ODBmeTlvLTNKT0ZsdmI2U0Z4UVd4WVNPaVRpY1hnNDBwN2RSRnZMZ1E?oc=5) · 2026-11-03 — Telecompaper
 
 ## Regulation
 
