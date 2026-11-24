@@ -7,14 +7,83 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:553d4d7aa5981a7e7a3c1502f0a9343420b5f3ce@emptylegs.local
-DTSTAMP:20261124T054212Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Hamburg → Sylt/ Westerland
-LOCATION:Hamburg
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: EDDH → EDXW\nSource: PrivJet\nPrice shown by Pri
+UID:2da6982f306e420f59cc2cc0c2a8d7da86db44e6@globeair.com
+DTSTAMP:20261124T164959Z
+DTSTART:20261125T105700Z
+DTEND:20261125T114300Z
+SUMMARY:Berlin → Bremen
+LOCATION:Berlin
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BER → BRE\nSource: GlobeAir\nOriginal price: €7\
+ ,400\nCurrent price: €1\,290 (–83%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC556K\nFBO: Execujet Europe\n\nBook now:\nhttps://fly.globeair.com/e
+ l/2da6982f\n\nPlease note: All empty leg flights are subject to schedule
+  change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
+ tal flight time: 46 minutes\nDistance: 176 miles\n\nContact us 24/7\nWha
+ tsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customer
+ care@globeair.com\nBooking / source: https://fly.globeair.com/el/2da6982
+ f\nEmpty-leg schedules can change or disappear at short notice. Confirm 
+ with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/2da6982f
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:e973624d24ea5fca34b775aa3c9fb95a9b85dd7b@globeair.com
+DTSTAMP:20261124T164959Z
+DTSTART:20261125T121500Z
+DTEND:20261125T125900Z
+SUMMARY:London Biggin Hill → Paris Le Bourget
+LOCATION:London Biggin Hill
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BQH → LBG\nSource: GlobeAir\nOriginal price: €8\
+ ,300\nCurrent price: €1\,290 (–84%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC872N\nFBO: Jetex (former Signature)\n\nBook now:\nhttps://fly.globe
+ air.com/el/e973624d\n\nPlease note: All empty leg flights are subject to
+  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
+ beAir\nTotal flight time: 44 minutes\nDistance: 169 miles\n\nContact us 
+ 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
+  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
+ l/e973624d\nEmpty-leg schedules can change or disappear at short notice.
+  Confirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e973624d
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:0ca13e27e357db2592f28f1c361f838e925309c3@globeair.com
+DTSTAMP:20261124T164959Z
+DTSTART:20261125T102700Z
+DTEND:20261125T115200Z
+SUMMARY:Basel → Nice
+LOCATION:Basel
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: BSL → NCE\nSource: GlobeAir\nOriginal price: €13
+ \,150\nCurrent price: €1\,710 (–87%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC386V\nFBO: Air Service Basel\n\nBook now:\nhttps://fly.globeair.co
+ m/el/0ca13e27\n\nPlease note: All empty leg flights are subject to sched
+ ule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\
+ nTotal flight time: 85 minutes\nDistance: 236 miles\n\nContact us 24/7\n
+ WhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custo
+ mercare@globeair.com\nBooking / source: https://fly.globeair.com/el/0ca1
+ 3e27\nEmpty-leg schedules can change or disappear at short notice. Confi
+ rm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/0ca13e27
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:63e223866beadf9ce1e2b21a65d0c2a5da18f356@emptylegs.local
+DTSTAMP:20261124T164959Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Berlin → Bremen
+LOCATION:Berlin
+DESCRIPTION:Price: €1\,419\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: EDDB → EDDW\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -25,60 +94,14 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:5e3f6c5209d1a0f0c460d9a8a278e4c4e7143cdd@globeair.com
-DTSTAMP:20261124T054212Z
-DTSTART:20261124T094100Z
-DTEND:20261124T101000Z
-SUMMARY:Hamburg → Sylt/ Westerland
-LOCATION:Hamburg
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: HAM → GWT\nSource: GlobeAir\nOriginal price: €24\,6
- 00\nCurrent price: €990 (–96%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 346L\nFBO: Executive Handling Hamburg\n\nBook now:\nhttps://fly.globeair
- .com/el/5e3f6c52\n\nPlease note: All empty leg flights are subject to sc
- hedule change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeA
- ir\nTotal flight time: 29 minutes\nDistance: 96 miles\n\nContact us 24/7
- \nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: cus
- tomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/5e
- 3f6c52\nEmpty-leg schedules can change or disappear at short notice. Con
- firm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/5e3f6c52
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:770e8c5eb79caa204e5046549344c9d69327063f@globeair.com
-DTSTAMP:20261124T054212Z
-DTSTART:20261124T185800Z
-DTEND:20261124T191600Z
-SUMMARY:Linz → Salzburg
-LOCATION:Linz
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LNZ → SZG\nSource: GlobeAir\nOriginal price: €12\,3
- 50\nCurrent price: €990 (–92%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 086E\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com/el/77
- 0e8c5e\n\nPlease note: All empty leg flights are subject to schedule cha
- nge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal 
- flight time: 18 minutes\nDistance: 54 miles\n\nContact us 24/7\nWhatsApp
- : https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@
- globeair.com\nBooking / source: https://fly.globeair.com/el/770e8c5e\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/770e8c5e
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:e6f61e7242e7e748fed8425b494a9d7f637745cf@emptylegs.local
-DTSTAMP:20261124T054212Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Linz → Salzburg
-LOCATION:Linz
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LOWL → LOWS\nSource: PrivJet\nPrice shown by Pri
+UID:2db6958e3e48a93bcd57380c8788aa562ee82f8a@emptylegs.local
+DTSTAMP:20261124T164959Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Basel → Badenbaden
+LOCATION:Basel
+DESCRIPTION:Price: €1\,881\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFSB → EDSB\nSource: PrivJet\nPrice shown by Pri
  vJet includes its stated service fee. Confirm live availability before b
  ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
  leg schedules can change or disappear at short notice. Confirm with the 
@@ -89,16 +112,55 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:7ea92b64ee797de0045c6d22eac3a3a5be5f5bc5@emptylegs.local
-DTSTAMP:20261124T054212Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Zurich Airport → Sunset Strip 0GA6 · Jersey Cessna Citation Musta
- ng · 4 passengers Total price €1\,562 incl. 10% service fee Price subjec
- t to operator confirmation Fri\, November 27 Mengen-Hohentengen Airport
-LOCATION:Zurich Airport
+UID:e991b160b83fba9768a1dde99a3c0ee7442db618@globeair.com
+DTSTAMP:20261124T164959Z
+DTSTART:20261125T095300Z
+DTEND:20261125T105400Z
+SUMMARY:Linz → Badenbaden
+LOCATION:Linz
+DESCRIPTION:Price: €1\,290\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LNZ → FKB\nSource: GlobeAir\nOriginal price: €13
+ \,150\nCurrent price: €1\,290 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight
+ #: GAC904C\nFBO: Airport Ops (ga)\n\nBook now:\nhttps://fly.globeair.com
+ /el/e991b160\n\nPlease note: All empty leg flights are subject to schedu
+ le change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\n
+ Total flight time: 61 minutes\nDistance: 245 miles\n\nContact us 24/7\nW
+ hatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custom
+ ercare@globeair.com\nBooking / source: https://fly.globeair.com/el/e991b
+ 160\nEmpty-leg schedules can change or disappear at short notice. Confir
+ m with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/e991b160
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:38ba94ddd3bc04be8831dc23bf7d665b6ec5a46d@emptylegs.local
+DTSTAMP:20261124T164959Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:Geneva International → Milan Linate
+LOCATION:Geneva International
+DESCRIPTION:Price: €2\,390\nAircraft: Citation M2\nCapacity: 6 passengers
+ \nAirports: LSGG → LIML\nSource: PrivJet\nPrice shown by PrivJet include
+ s its stated service fee. Confirm live availability before booking.\nBoo
+ king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
+ s can change or disappear at short notice. Confirm with the operator/bro
+ ker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:2ee5793fee442e40d92d9f60bd01ebc9ef3d1cd0@emptylegs.local
+DTSTAMP:20261124T164959Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Mengen-Hohentengen Airport → Innsbruck Airport
+LOCATION:Mengen-Hohentengen Airport
 DESCRIPTION:Price: €1\,650\nAircraft: Phenom 300\nCapacity: 8 passengers\
- nAirports: LSZH → EDTM\nSource: PrivJet\nPrice shown by PrivJet includes
+ nAirports: EDTM → LOWI\nSource: PrivJet\nPrice shown by PrivJet includes
   its stated service fee. Confirm live availability before booking.\nBook
  ing / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedules
   can change or disappear at short notice. Confirm with the operator/brok
@@ -109,95 +171,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:8f9fe1504b109f15cba9f3b76abba850209d2c8f@emptylegs.local
-DTSTAMP:20261124T054212Z
-DTSTART;VALUE=DATE:20261124
-DTEND;VALUE=DATE:20261125
-SUMMARY:Zurich → Jersey
-LOCATION:Zurich
-DESCRIPTION:Price: €1\,089\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: LSZH → EGJJ\nSource: PrivJet\nPrice shown by Pri
- vJet includes its stated service fee. Confirm live availability before b
- ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
- leg schedules can change or disappear at short notice. Confirm with the 
- operator/broker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:7d9aa7c80f346fc05e6b9ad54bfb2890f77170e1@globeair.com
-DTSTAMP:20261124T054212Z
-DTSTART:20261124T131000Z
-DTEND:20261124T141300Z
-SUMMARY:London Luton → Paris Le Bourget
-LOCATION:London Luton
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: LTN → LBG\nSource: GlobeAir\nOriginal price: €16\,0
- 00\nCurrent price: €990 (–94%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 872N\nFBO: Signature Terminal 1\n\nBook now:\nhttps://fly.globeair.com/e
- l/7d9aa7c8\n\nPlease note: All empty leg flights are subject to schedule
-  change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
- tal flight time: 63 minutes\nDistance: 204 miles\n\nContact us 24/7\nWha
- tsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: customer
- care@globeair.com\nBooking / source: https://fly.globeair.com/el/7d9aa7c
- 8\nEmpty-leg schedules can change or disappear at short notice. Confirm 
- with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/7d9aa7c8
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:2a141715a36e400aac5f930a57707a71a6b22702@globeair.com
-DTSTAMP:20261124T054212Z
-DTSTART:20261124T120000Z
-DTEND:20261124T132500Z
-SUMMARY:Valencia → Nice
-LOCATION:Valencia
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: VLC → NCE\nSource: GlobeAir\nOriginal price: €9\,85
- 0\nCurrent price: €990 (–90%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC4
- 03A\nFBO: AviaVIP\n\nBook now:\nhttps://fly.globeair.com/el/2a141715\n\n
- Please note: All empty leg flights are subject to schedule change!\n\nAi
- rcraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal flight tim
- e: 85 minutes\nDistance: 426 miles\n\nContact us 24/7\nWhatsApp: https:/
- /wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@globeair.
- com\nBooking / source: https://fly.globeair.com/el/2a141715\nEmpty-leg s
- chedules can change or disappear at short notice. Confirm with the opera
- tor/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/2a141715
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:03a62fb18ce1bfb57646cada3cb079f63e635304@globeair.com
-DTSTAMP:20261124T054212Z
-DTSTART:20261124T091500Z
-DTEND:20261124T110100Z
-SUMMARY:Zurich → Jersey
-LOCATION:Zurich
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: ZRH → JER\nSource: GlobeAir\nOriginal price: €18\,3
- 00\nCurrent price: €990 (–95%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 418X\nFBO: Jet Aviation (South)\n\nBook now:\nhttps://fly.globeair.com/e
- l/03a62fb1\n\nPlease note: All empty leg flights are subject to schedule
-  change!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTo
- tal flight time: 106 minutes\nDistance: 441 miles\n\nContact us 24/7\nWh
- atsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: custome
- rcare@globeair.com\nBooking / source: https://fly.globeair.com/el/03a62f
- b1\nEmpty-leg schedules can change or disappear at short notice. Confirm
-  with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/03a62fb1
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261124T054212Z
+DTSTAMP:20261124T164959Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -215,7 +190,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261124T054212Z
+DTSTAMP:20261124T164959Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
