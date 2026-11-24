@@ -1,17 +1,6 @@
 {
-  "updated_at": "2026-11-24T04:43:59.502440+00:00",
+  "updated_at": "2026-11-24T19:29:03.128425+00:00",
   "items": [
-    {
-      "category": "Nordic AI infrastructure",
-      "section": "AI / DC",
-      "title": "PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI - The Detroit News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFFoZGFTUDZlbFpkNHY1V2kyb2dGY3kxbHI4T3B4RGtlVk5Ka3V1bzgxWVdPUkRrZmhhazR6UzN6SEhYV0tMMjZ0a2p5QkJkQktXUHhYcThlckl5WUpRVnZTaVl0UjU0a210blJkMHhJNmVJajFvT3M2YzdpZWdkSk14d0dTZ3NTLVNxX3hJLVJOTTRpdDdqc1JoNEMxZVlZNjJEQm9JajRNUXJfU2NPb3FycXQyZ1k5M1B6c2Q3SEt6eldYNkxjSU1qTQ?oc=5",
-      "published": "2026-11-19T11:37:04+00:00",
-      "source": "The Detroit News",
-      "summary": "PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI The Detroit News",
-      "score": 3,
-      "why": "Capacity / investment signal"
-    },
     {
       "category": "Operators",
       "section": "Telecom",
@@ -20,8 +9,19 @@
       "published": "2026-11-19T08:45:22+00:00",
       "source": "Telecompaper",
       "summary": "Telia Cygate and Evroc tie up to offer Government Cloud service in Sweden Telecompaper",
-      "score": 9,
+      "score": 8,
       "why": "Nordic infrastructure signal"
+    },
+    {
+      "category": "Datacentres",
+      "section": "AI / DC",
+      "title": "What makes the North Sea attractive to telecoms companies? - Capacity Media",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNEhwdDI2YWFwOGI1VmNTb3BBcWFBTWFFQVdxd3JNWEFrNmR1cUFkZG0yQi1ndlptcGoybEVzQ09wRE12SFdwVFZ4ZGhUZ19IRWdVdlNSSDFYSFUtSzhuVzhBakxDM1RPTTRuY0Ewa2pjVlpOdm9LZlFjTEYwQVZrenBnd0F3VHBBV1F1Qk84OW5DMmpr?oc=5",
+      "published": "2026-11-17T16:49:28+00:00",
+      "source": "Capacity Media",
+      "summary": "What makes the North Sea attractive to telecoms companies? Capacity Media",
+      "score": 0,
+      "why": "Policy / sovereignty"
     },
     {
       "category": "Operators",
@@ -31,7 +31,7 @@
       "published": "2026-11-17T10:23:47+00:00",
       "source": "Telco Titans",
       "summary": "Nokia, Telia spread AI Gigafactory bet across Nordic-Baltic region Telco Titans",
-      "score": 15,
+      "score": 14,
       "why": "Policy / sovereignty"
     },
     {
@@ -79,13 +79,13 @@
       "why": "Market structure / M&A"
     },
     {
-      "category": "Nordic AI infrastructure",
+      "category": "Datacentres",
       "section": "AI / DC",
-      "title": "Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5",
-      "published": "2026-11-11T08:00:00+00:00",
-      "source": "Securities.io",
-      "summary": "Armada and Johnson Controls Begin Dublin AI Data Center Production Securities.io",
+      "title": "US Senate advances bill to fast-track data center permits - ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPem1IOGZhVHRuaUIxbUFzSzhlcXZIandIZUlmVlI2QjI1aTRrXzFlQ2RoZmxDc0EzX1Z6WndsYTZfTFRmSEhLSERraWtKaERrN0ZQQ3VDU0VRQ2RQVGxrNk5pdWE0NFEzM2s4dHNZUUdKV1MwNHE5VDlGQWtoQjZxM2JCZzNHT09FTEZOODh1dE5DczFWdHE0X1g2U2NaMjUxYzNDbjJyS2J5OW1odHR2V2szckFPWWlGdzE5OFFJZkN4ekdoOUR2QTNpVEIzVENCa0Z2ctIB2gFBVV95cUxNZ2FQLVVOVWpyRTg3Q1JINjNhLTc5d01DOXNkdTZxYkJiYzJzcnNzaElEZTF1VXRNdXpFNTdnbDZjZGJIS3doMGJ3eWlDX2ozYmNVSVV2ZjMwbXNyaXJTUUMyLVNfVmxEUnJWT3NudmpZeDUzaTJqZ3VENW5abXE2cEZLeTZiXzVWYVlvbElXSkJEV1pmakg2aHJVNFZtUnZ5VkRVU2JGOENzT1FWZnFGa2ZpTmg4b0dISGtkdUUwVl9hZmZPMTQzSldFWk5VZnBXS1BrQVV6ZTNGZw?oc=5",
+      "published": "2026-11-11T03:29:45+00:00",
+      "source": "ET Datacenters",
+      "summary": "US Senate advances bill to fast-track data center permits ET Datacenters",
       "score": 6,
       "why": "AI / datacentre demand"
     },
@@ -112,7 +112,7 @@
       "why": "Nordic infrastructure signal"
     },
     {
-      "category": "Nordic AI infrastructure",
+      "category": "Datacentres",
       "section": "AI / DC",
       "title": "Spotlight: Nordics Investment Outlook – 2026 - Savills",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oRmVXNk1JSnFZTExvdXpjRHc4YVp2bEpucmVQcFMzdzJVSzBEaGZ6bW1ZY2Jtd1BrOWlPY0lkbE1lZUNVaGtNQmR2aHZkbVp2SDNicmlwYWpIWlVHd3lsM043U0loNUpfcGlJ?oc=5",
