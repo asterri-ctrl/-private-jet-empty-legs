@@ -1,11 +1,13 @@
 # Nordic AI / Datacentre / Connectivity Radar
 
-_Updated 2026-11-23 20:07 UTC · public web sources only_
+_Updated 2026-11-24 04:43 UTC · public web sources only_
 
 ## AI / DC
 
+- [PubConcierge, Largest IPv4 Leasing Provider, Expands to 28 New Markets for AI - The Detroit News](https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFFoZGFTUDZlbFpkNHY1V2kyb2dGY3kxbHI4T3B4RGtlVk5Ka3V1bzgxWVdPUkRrZmhhazR6UzN6SEhYV0tMMjZ0a2p5QkJkQktXUHhYcThlckl5WUpRVnZTaVl0UjU0a210blJkMHhJNmVJajFvT3M2YzdpZWdkSk14d0dTZ3NTLVNxX3hJLVJOTTRpdDdqc1JoNEMxZVlZNjJEQm9JajRNUXJfU2NPb3FycXQyZ1k5M1B6c2Q3SEt6eldYNkxjSU1qTQ?oc=5) · 2026-11-19 — The Detroit News
 - [Armada and Johnson Controls Begin Dublin AI Data Center Production - Securities.io](https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHYtMlVMQkQ4ejFITHlEeC1weTNVajVxVGtnUm9yWVRJQjE3ZWh4RUtwQnhybE9qa01wQ1ZocXZxQmJnQ29lRjR1QjZGVzhPOHhJWFRkSFNXSS1rLUdROWY3Rk02d3pyMjg0YlVIc1BtQ2Y4T1plY19xaWJxa0FiSzBrem5lV21sRTdlQ3FxdVhvX0wzX1BURQ?oc=5) · 2026-11-11 — Securities.io
 - [Norway pauses data centre grid access, plans licensing - ET Datacenters](https://news.google.com/rss/articles/CBMizwFBVV95cUxQYlhSTFVaYUpuR29wUjVjdmJqLW1NOXVhZ0VzQml1SEJWQ052OERwYmw2LVU3UE9FS19YdVlFeWVfRGFXWmJYTVAxLUc5TmVSa1ljRXhJMmR2dVhuSkMxUGw1elN1S01uMGZiYXp6c2lFb2hzdHc2VDBWQWZsSzctVDdvZG1fSlJsQl9yT0l4UnRjM1VKV3JSZnZNRENEWXZPQ05pNVhmLWl2RFVlUXE1OGNFQUR4eWpNWTNqX0xKUEFZRXVoaDgyTXZnWVAxUk3SAdQBQVVfeXFMTTMzX3BYbjdIZWxVX1hkNXNTM3o2VDFwU1hBM01JN3JVdU95S3dhS0JodUpybHMtbUszUi02Tkp3aUdWSzdwVjNtdG5ITUstRVVlT2I2VXhKWEdPQ25RSGVQQ3ZpZTdQekl3amM1dnRfOXB4bGVOTy1XUVBzX0J2eV9IOFM0dUIteVhuM290bUhjbjg3NlB6b05QQnd3QTRFdFR1X3E1ck80cDVKaDVNOE5QMXpJY2tIeDgwNERQOUJScGhtTjFQNHZRWEZjVmV6cVdDMnU?oc=5) · 2026-11-10 — ET Datacenters
+- [Spotlight: Nordics Investment Outlook – 2026 - Savills](https://news.google.com/rss/articles/CBMia0FVX3lxTE1oRmVXNk1JSnFZTExvdXpjRHc4YVp2bEpucmVQcFMzdzJVSzBEaGZ6bW1ZY2Jtd1BrOWlPY0lkbE1lZUNVaGtNQmR2aHZkbVp2SDNicmlwYWpIWlVHd3lsM043U0loNUpfcGlJ?oc=5) · 2026-11-06 — Savills
 
 ## Telecom
 
