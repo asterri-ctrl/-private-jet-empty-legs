@@ -7,44 +7,8 @@ X-WR-CALNAME:Empty Legs · Riviera / Italy / Alps
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:jetfly-18081@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261125T123000Z
-DTEND:20261125T140000Z
-SUMMARY:London → Geneva
-LOCATION:London
-DESCRIPTION:Aircraft: PC-24\nAirports: EGLC → LSGG\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: LX-ZAP. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-18013@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261125T074500Z
-DTEND:20261125T090500Z
-SUMMARY:Bologna → Cannes
-LOCATION:Bologna
-DESCRIPTION:Aircraft: PC-12\nAirports: LIPE → LFMD\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-YEA. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-18207@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261125T140000Z
 DTEND:20261125T150000Z
 SUMMARY:Wr. Neustadt → Salzburg
@@ -61,26 +25,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-18006@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261125T105000Z
-DTEND:20261125T121000Z
-SUMMARY:Innsbruck → Lausanne
-LOCATION:Innsbruck
-DESCRIPTION:Aircraft: PC-12\nAirports: LOWI → LSGL\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-FUK. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:36e7b9a0c3bdf388c23ea49383ea409e5048dbb0@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Linz → Badenbaden
@@ -97,98 +43,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:38ba94ddd3bc04be8831dc23bf7d665b6ec5a46d@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Geneva International → Milan Linate
-LOCATION:Geneva International
-DESCRIPTION:Price: €2\,390\nAircraft: Citation M2\nCapacity: 6 passengers
- \nAirports: LSGG → LIML\nSource: PrivJet\nPrice shown by PrivJet include
- s its stated service fee. Confirm live availability before booking.\nBoo
- king / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedule
- s can change or disappear at short notice. Confirm with the operator/bro
- ker before making connecting travel plans.
-URL:https://www.privjet.net/en/empty-legs
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-18161@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261125T090000Z
-DTEND:20261125T102500Z
-SUMMARY:Geneva → Innsbruck
-LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LOWI\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-FUK. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-18008@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261125T130000Z
-DTEND:20261125T153000Z
-SUMMARY:Bern → Pamplona
-LOCATION:Bern
-DESCRIPTION:Aircraft: PC-12\nAirports: LSZB → LEPP\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-18210@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261126T164500Z
-DTEND:20261126T174000Z
-SUMMARY:Avignon → Geneva
-LOCATION:Avignon
-DESCRIPTION:Aircraft: PC-12\nAirports: LFMV → LSGG\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:jetfly-18209@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261126T053500Z
-DTEND:20261126T063000Z
-SUMMARY:Geneva → Avignon
-LOCATION:Geneva
-DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → LFMV\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:jetfly-18047@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261126T134500Z
 DTEND:20261126T145500Z
 SUMMARY:Geneva → Paris
@@ -206,7 +62,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18053@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261126T130000Z
 DTEND:20261126T142500Z
 SUMMARY:Lausanne → Paris
@@ -224,7 +80,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18075@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261127T080500Z
 DTEND:20261127T090000Z
 SUMMARY:Nice → Geneva
@@ -242,7 +98,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18136@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261127T083000Z
 DTEND:20261127T105000Z
 SUMMARY:Geneva → Woking
@@ -260,14 +116,14 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:06c2d47fd8f8fdbacbade0e60a12a243164a278b@globeair.com
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261127T135700Z
 DTEND:20261127T143700Z
 SUMMARY:Nice → Milan Linate
 LOCATION:Nice
 DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
   NCE → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 41%.\nBooking / source: https:/
+ confirmed yet.\n\nCurrent probability is 58%.\nBooking / source: https:/
  /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
  disappear at short notice. Confirm with the operator/broker before makin
  g connecting travel plans.
@@ -278,7 +134,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18101@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
 SUMMARY:Farnborough → Geneva
@@ -296,7 +152,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18099@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261128T093000Z
 DTEND:20261128T112500Z
 SUMMARY:Salzburg → Hamburg
@@ -314,7 +170,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18100@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261128T083000Z
 DTEND:20261128T094000Z
 SUMMARY:Geneva → St. Gallen
@@ -332,7 +188,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18098@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261128T120000Z
 DTEND:20261128T130000Z
 SUMMARY:Lausanne → Milano
@@ -349,8 +205,44 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-18133@emptylegs.local
+DTSTAMP:20261125T100351Z
+DTSTART:20261128T125000Z
+DTEND:20261128T140000Z
+SUMMARY:Sion → Innsbruck
+LOCATION:Sion
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGS → LOWI\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-BNZ. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:jetfly-18203@emptylegs.local
+DTSTAMP:20261125T100351Z
+DTSTART:20261128T130000Z
+DTEND:20261128T133500Z
+SUMMARY:Payerne → Saanen
+LOCATION:Payerne
+DESCRIPTION:Aircraft: PC-12\nAirports: LSMP → LSGK\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-TUA. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-18184@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261128T105000Z
 DTEND:20261128T134500Z
 SUMMARY:Buochs → Darlington
@@ -368,7 +260,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18162@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261129T113000Z
 DTEND:20261129T125000Z
 SUMMARY:Innsbruck → Lausanne
@@ -386,7 +278,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18131@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261129T081500Z
 DTEND:20261129T090500Z
 SUMMARY:Geneva → Buochs
@@ -404,7 +296,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18132@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261129T090000Z
 DTEND:20261129T101500Z
 SUMMARY:Lausanne → Innsbruck
@@ -421,26 +313,8 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:jetfly-18203@emptylegs.local
-DTSTAMP:20261125T011332Z
-DTSTART:20261129T115500Z
-DTEND:20261129T123000Z
-SUMMARY:Payerne → Saanen
-LOCATION:Payerne
-DESCRIPTION:Aircraft: PC-12\nAirports: LSMP → LSGK\nSource: Jetfly\nJetfl
- y/Fly7 published empty leg. Aircraft registration: OH-TUA. Confirm live 
- availability directly with Jetfly.\nBooking / source: https://empty-legs
- .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
- t notice. Confirm with the operator/broker before making connecting trav
- el plans.
-URL:https://empty-legs.jetfly.com/watched
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:74b97efedea27adf6f1c7f9e31790ed7469123b6@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 SUMMARY:Zurich Airport → Innsbruck Airport
@@ -458,7 +332,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18134@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261129T133000Z
 DTEND:20261129T144000Z
 SUMMARY:St. Gallen → Geneva
@@ -476,7 +350,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f3bb47b913e67d36fb73e4d6857c9f6477509aa@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Munich International Airport → St Gallen Altenrhein Airport
@@ -494,7 +368,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18160@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART:20261130T070000Z
 DTEND:20261130T090000Z
 SUMMARY:Lausanne → Wr. Neustadt
@@ -512,7 +386,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
@@ -530,7 +404,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:40a3f914590d3f2d7f8015bdf271e5386bb3284a@emptylegs.local
-DTSTAMP:20261125T011332Z
+DTSTAMP:20261125T100351Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Salzburg Airport → Munich Airport
