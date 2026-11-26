@@ -7,77 +7,8 @@ X-WR-CALNAME:Empty Legs · Europe ≤ €3k
 X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
-UID:26c978cb678fafe698cff79e2dd6963009502582@globeair.com
-DTSTAMP:20261126T025734Z
-DTSTART:20261126T122700Z
-DTEND:20261126T135100Z
-SUMMARY:Berlin → Antwerp
-LOCATION:Berlin
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BER → ANR\nSource: GlobeAir\nOriginal price: €9\,30
- 0\nCurrent price: €990 (–89%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC5
- 14Z\nFBO: Execujet Europe\n\nBook now:\nhttps://fly.globeair.com/el/26c9
- 78cb\n\nPlease note: All empty leg flights are subject to schedule chang
- e!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal fl
- ight time: 84 minutes\nDistance: 343 miles\n\nContact us 24/7\nWhatsApp:
-  https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@g
- lobeair.com\nBooking / source: https://fly.globeair.com/el/26c978cb\nEmp
- ty-leg schedules can change or disappear at short notice. Confirm with t
- he operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/26c978cb
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:a76f6024d36c98f5508291c3d5c922a7c08319df@globeair.com
-DTSTAMP:20261126T025734Z
-DTSTART:20261126T125700Z
-DTEND:20261126T142100Z
-SUMMARY:Berlin → Munich
-LOCATION:Berlin
-DESCRIPTION:Price: €990\nAircraft: Cessna Citation Mustang\nCapacity: 4 p
- assengers\nAirports: BER → MUC\nSource: GlobeAir\nOriginal price: €10\,9
- 50\nCurrent price: €990 (–91%)\n(whole jet\, max. 4 pax)\n\nFlight#: GAC
- 950A\nFBO: Execujet Europe\n\nBook now:\nhttps://fly.globeair.com/el/a76
- f6024\n\nPlease note: All empty leg flights are subject to schedule chan
- ge!\n\nAircraft: Cessna Citation Mustang\, operated by GlobeAir\nTotal f
- light time: 84 minutes\nDistance: 250 miles\n\nContact us 24/7\nWhatsApp
- : https://wa.me/437221727400\nPhone: +437221727400\nEmail: customercare@
- globeair.com\nBooking / source: https://fly.globeair.com/el/a76f6024\nEm
- pty-leg schedules can change or disappear at short notice. Confirm with 
- the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/a76f6024
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:62cf25ef7d32479d0070c133ff3d2a103248362f@globeair.com
-DTSTAMP:20261126T025734Z
-DTSTART:20261126T101600Z
-DTEND:20261126T112600Z
-SUMMARY:Brest → Paris Le Bourget
-LOCATION:Brest
-DESCRIPTION:Price: €1\,410\nAircraft: Cessna Citation Mustang\nCapacity: 
- 4 passengers\nAirports: BES → LBG\nSource: GlobeAir\nOriginal price: €7\
- ,900\nCurrent price: €1\,410 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
- : GAC439J\nFBO: Airport Brest Handling\n\nBook now:\nhttps://fly.globeai
- r.com/el/62cf25ef\n\nPlease note: All empty leg flights are subject to s
- chedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Globe
- Air\nTotal flight time: 70 minutes\nDistance: 273 miles\n\nContact us 24
- /7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail: c
- ustomercare@globeair.com\nBooking / source: https://fly.globeair.com/el/
- 62cf25ef\nEmpty-leg schedules can change or disappear at short notice. C
- onfirm with the operator/broker before making connecting travel plans.
-URL:https://fly.globeair.com/el/62cf25ef
-TRANSP:TRANSPARENT
-X-MICROSOFT-CDO-BUSYSTATUS:FREE
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:dee2e5521130a02f5cbc699be44ed8fdf9a2bf48@globeair.com
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART:20261126T172600Z
 DTEND:20261126T181000Z
 SUMMARY:Brussels → Paris Le Bourget
@@ -100,7 +31,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:8f5466389cf1d13d866c41b5dab2da355f0b97ec@emptylegs.local
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Berlin → Antwerp
@@ -118,7 +49,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2735d47e53e5c7244d071718dcda6337bebd8898@emptylegs.local
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Berlin → Munich
@@ -136,7 +67,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:0510cc6983cf7d10bc93cd5d7c6beedbe9c84d86@globeair.com
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART:20261126T153600Z
 DTEND:20261126T154600Z
 SUMMARY:Nice → Cannes
@@ -159,7 +90,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:08db9e5719a3e18cee6b85db2e426d21daae6172@globeair.com
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART:20261126T173100Z
 DTEND:20261126T174200Z
 SUMMARY:Rotterdam → Amsterdam
@@ -181,8 +112,31 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:da3819168a9d01e2252aecf772a1d3fff7cc1ec6@globeair.com
+DTSTAMP:20261126T115701Z
+DTSTART:20261127T113600Z
+DTEND:20261127T125300Z
+SUMMARY:Nice → Augsburg
+LOCATION:Nice
+DESCRIPTION:Price: €1\,710\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: NCE → AGB\nSource: GlobeAir\nOriginal price: €9\
+ ,300\nCurrent price: €1\,710 (–82%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC817Y\nFBO: Signature Flight Support\n\nBook now:\nhttps://fly.globe
+ air.com/el/da381916\n\nPlease note: All empty leg flights are subject to
+  schedule change!\n\nAircraft: Cessna Citation Mustang\, operated by Glo
+ beAir\nTotal flight time: 77 minutes\nDistance: 324 miles\n\nContact us 
+ 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +437221727400\nEmail:
+  customercare@globeair.com\nBooking / source: https://fly.globeair.com/e
+ l/da381916\nEmpty-leg schedules can change or disappear at short notice.
+  Confirm with the operator/broker before making connecting travel plans.
+URL:https://fly.globeair.com/el/da381916
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:3bb016b730ebf9bd1bc4f4c6e7da0dce93585f3f@emptylegs.local
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:Mengen-Hohentengen Airport → Nuremberg Airport
@@ -200,7 +154,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261126T025734Z
+DTSTAMP:20261126T115701Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
