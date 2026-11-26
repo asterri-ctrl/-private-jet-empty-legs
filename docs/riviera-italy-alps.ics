@@ -8,25 +8,49 @@ X-PUBLISHED-TTL:PT30M
 REFRESH-INTERVAL;VALUE=DURATION:PT30M
 BEGIN:VEVENT
 UID:4f06e181449c71703a0dbd2a8fc025dca59b0109@globeair.com
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261127T165100Z
 DTEND:20261127T175100Z
 SUMMARY:Clermont-Ferrand → Milan Linate
 LOCATION:Clermont-Ferrand
-DESCRIPTION:Aircraft: Citation Mustang\nCapacity: 4 passengers\nAirports:
-  CFE → LIN\nSource: GlobeAir\nPlease note: This empty leg flight is not 
- confirmed yet.\n\nCurrent probability is 62%.\nBooking / source: https:/
- /www.globeair.com/emptylegs/calendar\nEmpty-leg schedules can change or 
- disappear at short notice. Confirm with the operator/broker before makin
- g connecting travel plans.
-URL:https://www.globeair.com/emptylegs/calendar
+DESCRIPTION:Price: €1\,810\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: CFE → LIN\nSource: GlobeAir\nOriginal price: €6\
+ ,150\nCurrent price: €1\,810 (–71%)\n(whole jet\, max. 4 pax)\n\nFlight#
+ : GAC691L\nFBO: VINCI AIRPORTS EXECUTIVE HANDLING\n\nBook now:\nhttps://
+ fly.globeair.com/el/4f06e181\n\nPlease note: All empty leg flights are s
+ ubject to schedule change!\n\nAircraft: Cessna Citation Mustang\, operat
+ ed by GlobeAir\nTotal flight time: 60 minutes\nDistance: 257 miles\n\nCo
+ ntact us 24/7\nWhatsApp: https://wa.me/437221727400\nPhone: +43722172740
+ 0\nEmail: customercare@globeair.com\nBooking / source: https://fly.globe
+ air.com/el/4f06e181\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://fly.globeair.com/el/4f06e181
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:854e67c0027bd23e5c21148c3a24a8e692acfcf1@emptylegs.local
+DTSTAMP:20261126T205623Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Nice → Augsburg
+LOCATION:Nice
+DESCRIPTION:Price: €1\,881\nAircraft: Cessna Citation Mustang\nCapacity: 
+ 4 passengers\nAirports: LFMN → EDMA\nSource: PrivJet\nPrice shown by Pri
+ vJet includes its stated service fee. Confirm live availability before b
+ ooking.\nBooking / source: https://www.privjet.net/en/empty-legs\nEmpty-
+ leg schedules can change or disappear at short notice. Confirm with the 
+ operator/broker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
 TRANSP:TRANSPARENT
 X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18136@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261127T083000Z
 DTEND:20261127T105000Z
 SUMMARY:Geneva → Woking
@@ -44,7 +68,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18047@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261127T134500Z
 DTEND:20261127T145500Z
 SUMMARY:Geneva → Paris
@@ -62,7 +86,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18101@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T183000Z
 DTEND:20261128T203000Z
 SUMMARY:Farnborough → Geneva
@@ -80,7 +104,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18075@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T080500Z
 DTEND:20261128T090000Z
 SUMMARY:Nice → Geneva
@@ -98,7 +122,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18099@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T093000Z
 DTEND:20261128T112500Z
 SUMMARY:Salzburg → Hamburg
@@ -116,7 +140,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18100@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T083000Z
 DTEND:20261128T094000Z
 SUMMARY:Geneva → St. Gallen
@@ -134,7 +158,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18098@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T120000Z
 DTEND:20261128T130000Z
 SUMMARY:Lausanne → Milano
@@ -152,7 +176,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18133@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T125000Z
 DTEND:20261128T140000Z
 SUMMARY:Sion → Innsbruck
@@ -170,7 +194,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18203@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261128T130000Z
 DTEND:20261128T133500Z
 SUMMARY:Payerne → Saanen
@@ -188,9 +212,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18184@emptylegs.local
-DTSTAMP:20261126T115701Z
-DTSTART:20261128T105000Z
-DTEND:20261128T134500Z
+DTSTAMP:20261126T205623Z
+DTSTART:20261128T103000Z
+DTEND:20261128T132500Z
 SUMMARY:Buochs → Darlington
 LOCATION:Buochs
 DESCRIPTION:Aircraft: PC-12\nAirports: LSZC → EGNV\nSource: Jetfly\nJetfl
@@ -206,7 +230,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18162@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261129T113000Z
 DTEND:20261129T125000Z
 SUMMARY:Innsbruck → Lausanne
@@ -223,8 +247,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-18236@emptylegs.local
+DTSTAMP:20261126T205623Z
+DTSTART:20261129T080000Z
+DTEND:20261129T091500Z
+SUMMARY:Geneva → Zweibrucken
+LOCATION:Geneva
+DESCRIPTION:Aircraft: PC-12\nAirports: LSGG → EDRZ\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-18131@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261129T081500Z
 DTEND:20261129T090500Z
 SUMMARY:Geneva → Buochs
@@ -242,7 +284,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18132@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261129T090000Z
 DTEND:20261129T101500Z
 SUMMARY:Lausanne → Innsbruck
@@ -259,8 +301,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:74b97efedea27adf6f1c7f9e31790ed7469123b6@emptylegs.local
+DTSTAMP:20261126T205623Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:Zurich Airport → Innsbruck Airport
+LOCATION:Zurich Airport
+DESCRIPTION:Price: $2\,200\nAircraft: Pilatus PC-12\nCapacity: 8 passenge
+ rs\nAirports: LSZH → LOWI\nSource: PrivJet\nPrice shown by PrivJet inclu
+ des its stated service fee. Confirm live availability before booking.\nB
+ ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
+ les can change or disappear at short notice. Confirm with the operator/b
+ roker before making connecting travel plans.
+URL:https://www.privjet.net/en/empty-legs
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-18134@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261129T133000Z
 DTEND:20261129T144000Z
 SUMMARY:St. Gallen → Geneva
@@ -278,7 +338,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:1f3bb47b913e67d36fb73e4d6857c9f6477509aa@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Munich International Airport → St Gallen Altenrhein Airport
@@ -296,7 +356,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18160@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261130T070000Z
 DTEND:20261130T090000Z
 SUMMARY:Lausanne → Wr. Neustadt
@@ -314,12 +374,12 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:7903e299a604714a4e1f327de1759588ea20054c@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Lugano Airport → Milan Malpensa International Airport
 LOCATION:Lugano Airport
-DESCRIPTION:Price: $2\,530\nAircraft: Pilatus PC-12\nCapacity: 8 passenge
+DESCRIPTION:Price: $2\,420\nAircraft: Pilatus PC-12\nCapacity: 8 passenge
  rs\nAirports: LSZA → LIMC\nSource: PrivJet\nPrice shown by PrivJet inclu
  des its stated service fee. Confirm live availability before booking.\nB
  ooking / source: https://www.privjet.net/en/empty-legs\nEmpty-leg schedu
@@ -332,7 +392,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:jetfly-18213@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261202T160000Z
 DTEND:20261202T171000Z
 SUMMARY:Aubigny sur Nère → Geneva
@@ -349,8 +409,26 @@ X-MICROSOFT-CDO-BUSYSTATUS:FREE
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:jetfly-18237@emptylegs.local
+DTSTAMP:20261126T205623Z
+DTSTART:20261203T130000Z
+DTEND:20261203T141500Z
+SUMMARY:Zweibrucken → Geneva
+LOCATION:Zweibrucken
+DESCRIPTION:Aircraft: PC-12\nAirports: EDRZ → LSGG\nSource: Jetfly\nJetfl
+ y/Fly7 published empty leg. Aircraft registration: OH-RJD. Confirm live 
+ availability directly with Jetfly.\nBooking / source: https://empty-legs
+ .jetfly.com/watched\nEmpty-leg schedules can change or disappear at shor
+ t notice. Confirm with the operator/broker before making connecting trav
+ el plans.
+URL:https://empty-legs.jetfly.com/watched
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:jetfly-18232@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART:20261203T132500Z
 DTEND:20261203T143500Z
 SUMMARY:Paris → Lausanne
@@ -368,7 +446,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:2f5e8aa9e04b9e8fdb3d03cc6d9f86d79b44c8b4@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 SUMMARY:Sion Airport → Mengen-Hohentengen Airport
@@ -386,7 +464,7 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:4dd53f8eb7f177caf3a6485844c2c92a9ffb3051@emptylegs.local
-DTSTAMP:20261126T115701Z
+DTSTAMP:20261126T205623Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 SUMMARY:Salzburg Airport → Munich Airport
